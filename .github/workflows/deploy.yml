@@ -74,7 +74,7 @@ jobs:
             echo "🚀 Running scraper..."
             python main.py
             
-            ENDSSH
+ENDSSH
 
           echo "🧹 Cleaning up SSH key..."
           rm private_key.pem
