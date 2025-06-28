@@ -3,31 +3,26 @@ name: Deploy and Run Scraper on EC2
 on:
   push:
     branches: [main]
-  workflow_dispatch:  # Allow manual run from GitHub UI
+  workflow_dispatch:
 
 jobs:
   deploy-and-run:
-    name: Deploy Scraper to EC2 and Execute
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout code
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Set up Python (for optional local testing/linting)
-      - name: Set Up Python 3.x
+      - name: Set Up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # Step 3: Install local dependencies (optional)
-      - name: Install Dependencies (Locally)
+      - name: Install Local Dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Step 4: Deploy to EC2 and execute scraper
       - name: Deploy and Run on EC2
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -42,13 +37,13 @@ jobs:
           rsync -avz --exclude '.git' -e "ssh -i private_key.pem -o StrictHostKeyChecking=no" ./ $EC2_USER@$EC2_HOST:/home/$EC2_USER/rto-scraper
 
           echo "🚀 Connecting to EC2 and running script..."
-          ssh -i private_key.pem -o StrictHostKeyChecking=no $EC2_USER@$EC2_HOST << EOF
+          ssh -i private_key.pem -o StrictHostKeyChecking=no $EC2_USER@$EC2_HOST 'bash -s' << 'ENDSSH'
             set -e
 
             echo "📁 Navigating to project directory..."
-            cd /home/$EC2_USER/rto-scraper
+            cd /home/$USER/rto-scraper
 
-            echo "🧹 Removing broken Dart repo if exists (to prevent apt errors)..."
+            echo "🧹 Removing broken Dart repo if exists..."
             sudo rm /etc/apt/sources.list.d/dart_stable.list || true
 
             echo "🛠 Updating packages and installing python3-venv..."
@@ -70,7 +65,7 @@ jobs:
             python main.py
 
             echo "✅ Scraper script finished."
-EOF
+          ENDSSH
 
           echo "🧹 Cleaning up SSH key..."
           rm private_key.pem
