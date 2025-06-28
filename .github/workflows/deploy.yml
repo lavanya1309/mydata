@@ -3,7 +3,7 @@ name: Deploy and Run Scraper on EC2
 on:
   push:
     branches: [main]
-  workflow_dispatch:  # Manual trigger option from GitHub UI
+  workflow_dispatch:  # Allow manual run from GitHub UI
 
 jobs:
   deploy-and-run:
@@ -11,19 +11,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout code
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Step 2: Set up Python (for optional local testing/linting)
       - name: Set Up Python 3.x
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
+      # Step 3: Install local dependencies (optional)
       - name: Install Dependencies (Locally)
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Step 4: Deploy to EC2 and execute scraper
       - name: Deploy and Run on EC2
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -37,14 +41,17 @@ jobs:
           echo "📤 Syncing project to EC2..."
           rsync -avz --exclude '.git' -e "ssh -i private_key.pem -o StrictHostKeyChecking=no" ./ $EC2_USER@$EC2_HOST:/home/$EC2_USER/rto-scraper
 
-          echo "🚀 Running scraper on EC2..."
+          echo "🚀 Connecting to EC2 and running script..."
           ssh -i private_key.pem -o StrictHostKeyChecking=no $EC2_USER@$EC2_HOST << EOF
             set -e
 
             echo "📁 Navigating to project directory..."
             cd /home/$EC2_USER/rto-scraper
 
-            echo "🛠 Installing python3-venv package..."
+            echo "🧹 Removing broken Dart repo if exists (to prevent apt errors)..."
+            sudo rm /etc/apt/sources.list.d/dart_stable.list || true
+
+            echo "🛠 Updating packages and installing python3-venv..."
             sudo apt-get update
             sudo apt-get install -y python3-venv
 
@@ -52,7 +59,7 @@ jobs:
             python3 -m venv venv
             source venv/bin/activate
 
-            echo "⬆️ Installing Python packages..."
+            echo "⬆️ Installing Python requirements..."
             pip install --upgrade pip
             pip install -r requirements.txt
 
@@ -62,8 +69,8 @@ jobs:
             echo "📄 Running scraper script..."
             python main.py
 
-            echo "✅ Script execution complete."
-          EOF
+            echo "✅ Scraper script finished."
+EOF
 
           echo "🧹 Cleaning up SSH key..."
           rm private_key.pem
