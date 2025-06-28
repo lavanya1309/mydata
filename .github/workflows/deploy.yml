@@ -36,11 +36,11 @@ jobs:
           rsync -avz --exclude '.git' -e "ssh -i private_key.pem -o StrictHostKeyChecking=no" ./ $EC2_USER@$EC2_HOST:/home/$EC2_USER/rto-scraper
 
           echo "🚀 Running script on EC2..."
-          ssh -i private_key.pem -o StrictHostKeyChecking=no $EC2_USER@$EC2_HOST 'bash -s' << 'ENDSSH'
+          ssh -i private_key.pem -o StrictHostKeyChecking=no $EC2_USER@$EC2_HOST 'bash -s' <<EOF
             set -e
 
             echo "📁 Navigating to project directory..."
-            cd /home/$USER/rto-scraper
+            cd /home/$EC2_USER/rto-scraper
 
             echo "🧹 Removing Dart repo if exists..."
             sudo rm -f /etc/apt/sources.list.d/dart_stable.list || true
@@ -77,7 +77,7 @@ jobs:
 
             echo "🚴 Running scraper script..."
             python main.py
-ENDSSH
+EOF
 
           echo "🧹 Cleaning up SSH key..."
           rm private_key.pem
