@@ -1,0 +1,46 @@
+[2025-06-13 11:04:55] Loading page
+[2025-06-13 11:04:58] Page loaded
+[2025-06-13 11:04:58] 
+=== Starting RTO-wise processing ===
+[2025-06-13 11:04:58] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 11:04:58] 
+Processing state: Karnataka(68), Year: 2024
+[2025-06-13 11:04:58] 
+=== Starting RTO-wise processing for Karnataka(68), 2024 ===
+
+[2025-06-13 11:04:58] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-13 11:04:59] Clicked Y-axis dropdown using method 1
+[2025-06-13 11:05:00] Clicked Maker option using method 1
+[2025-06-13 11:05:01] Clicked X-axis dropdown using method 1
+[2025-06-13 11:05:02] Clicked Month Wise option using method 1
+[2025-06-13 11:05:03] Axis setup completed
+[2025-06-13 11:05:03] Selecting State: Karnataka(68)
+[2025-06-13 11:05:03] Clicked state dropdown label using method 1
+[2025-06-13 11:05:04] Clicked state option: Karnataka(68) using method 1
+[2025-06-13 11:05:05] Successfully selected state: Karnataka(68)
+[2025-06-13 11:05:05] Selecting Year: 2024
+[2025-06-13 11:05:06] Clicked year dropdown using method 1
+[2025-06-13 11:05:07] Clicked year option: 2024 using method 1
+[2025-06-13 11:05:07] Successfully selected year: 2024
+[2025-06-13 11:05:07] Getting list of all RTOs for the selected state
+[2025-06-13 11:05:07] Clicked RTO dropdown label using method 1
+[2025-06-13 11:05:08] Found 68 RTOs for the state
+[2025-06-13 11:05:08] 
+Processing RTO 1/68: ATHANI ARTO - KA71( 03-AUG-2020 ) (Attempt 1/2)
+[2025-06-13 11:05:08] Selecting RTO: ATHANI ARTO - KA71( 03-AUG-2020 )
+[2025-06-13 11:05:09] Clicked RTO dropdown using method 1
+[2025-06-13 11:05:10] Clicked RTO option: ATHANI ARTO - KA71( 03-AUG-2020 ) using method 1
+[2025-06-13 11:05:10] Successfully selected RTO: ATHANI ARTO - KA71( 03-AUG-2020 )
+[2025-06-13 11:05:10] Applying left panel filters
+[2025-06-13 11:05:10] Clicked right refresh button using method 1
+[2025-06-13 11:05:15] Opening left panel if needed
+[2025-06-13 11:05:15] Clicked left panel toggler using method 1
+[2025-06-13 11:05:15] Expanded left panel
+[2025-06-13 11:05:17] Selecting vehicle categories and fuel types
+[2025-06-13 11:05:17] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 11:05:18] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 11:05:19] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 11:05:19] Clicked checkbox fuel:7 using method 2
+[2025-06-13 11:05:20] Clicked checkbox fuel:21 using method 2
+[2025-06-13 11:05:20] Vehicle categories and fuel types selected
+[2025-06-13 11:05:21] Clicking left refresh button

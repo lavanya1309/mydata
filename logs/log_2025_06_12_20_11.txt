@@ -1,0 +1,117 @@
+[2025-06-12 20:11:59] Loading page
+[2025-06-12 20:12:02] Page loaded
+[2025-06-12 20:12:02] 
+=== Starting RTO-wise processing ===
+[2025-06-12 20:12:02] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 20:12:02] 
+Processing state: UT of DNH and DD(3), Year: 2022
+[2025-06-12 20:12:02] 
+=== Starting RTO-wise processing for UT of DNH and DD(3), 2022 ===
+
+[2025-06-12 20:12:02] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-12 20:12:02] Clicked Y-axis dropdown using method 1
+[2025-06-12 20:12:03] Clicked Maker option using method 1
+[2025-06-12 20:12:05] Clicked X-axis dropdown using method 1
+[2025-06-12 20:12:06] Clicked Month Wise option using method 1
+[2025-06-12 20:12:07] Axis setup completed
+[2025-06-12 20:12:07] Selecting State: UT of DNH and DD(3)
+[2025-06-12 20:12:07] Clicked state dropdown label using method 1
+[2025-06-12 20:12:08] Clicked state option: UT of DNH and DD(3) using method 1
+[2025-06-12 20:12:09] Successfully selected state: UT of DNH and DD(3)
+[2025-06-12 20:12:09] Selecting Year: 2022
+[2025-06-12 20:12:09] Clicked year dropdown using method 1
+[2025-06-12 20:12:10] Clicked year option: 2022 using method 1
+[2025-06-12 20:12:10] Successfully selected year: 2022
+[2025-06-12 20:12:10] Getting list of all RTOs for the selected state
+[2025-06-12 20:12:11] Clicked RTO dropdown label using method 1
+[2025-06-12 20:12:12] Found 3 RTOs for the state
+[2025-06-12 20:12:12] 
+Processing RTO 1/3: DAMAN - DD3( 14-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 20:12:12] Selecting RTO: DAMAN - DD3( 14-DEC-2017 )
+[2025-06-12 20:12:12] Clicked RTO dropdown using method 1
+[2025-06-12 20:12:13] Clicked RTO option: DAMAN - DD3( 14-DEC-2017 ) using method 1
+[2025-06-12 20:12:13] Successfully selected RTO: DAMAN - DD3( 14-DEC-2017 )
+[2025-06-12 20:12:13] Applying left panel filters
+[2025-06-12 20:12:14] Clicked right refresh button using method 1
+[2025-06-12 20:12:18] Opening left panel if needed
+[2025-06-12 20:12:18] Clicked left panel toggler using method 1
+[2025-06-12 20:12:18] Expanded left panel
+[2025-06-12 20:12:20] Selecting vehicle categories and fuel types
+[2025-06-12 20:12:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 20:12:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 20:12:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 20:12:22] Clicked checkbox fuel:7 using method 2
+[2025-06-12 20:12:23] Clicked checkbox fuel:21 using method 2
+[2025-06-12 20:12:23] Vehicle categories and fuel types selected
+[2025-06-12 20:12:24] Clicking left refresh button
+[2025-06-12 20:12:24] Clicked left refresh button using method 1
+[2025-06-12 20:12:24] Left refresh button clicked
+[2025-06-12 20:12:29] Left panel collapsed successfully.
+[2025-06-12 20:12:29] Downloading Excel file for UT of DNH and DD(3), DAMAN - DD3( 14-DEC-2017 ), 2022
+[2025-06-12 20:12:29] Clicked Excel download button using method 1
+[2025-06-12 20:12:29] Clicked Excel download button
+[2025-06-12 20:12:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 20:12:33] Inside_wait_for_download_and_rename for UT_of_DNH_and_DD
+[2025-06-12 20:13:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\UT of DNH and DD(3)\DAMAN - DD3( 14-DEC-2017 ).xlsx
+[2025-06-12 20:13:33] Successfully processed RTO: DAMAN - DD3( 14-DEC-2017 )
+[2025-06-12 20:13:33] 
+Processing RTO 2/3: DIU - DD2( 14-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 20:13:33] Selecting RTO: DIU - DD2( 14-DEC-2017 )
+[2025-06-12 20:13:34] Clicked RTO dropdown using method 1
+[2025-06-12 20:13:35] Clicked RTO option: DIU - DD2( 14-DEC-2017 ) using method 1
+[2025-06-12 20:13:35] Successfully selected RTO: DIU - DD2( 14-DEC-2017 )
+[2025-06-12 20:13:35] Applying left panel filters
+[2025-06-12 20:13:35] Clicked right refresh button using method 1
+[2025-06-12 20:13:40] Opening left panel if needed
+[2025-06-12 20:13:40] Clicked left panel toggler using method 1
+[2025-06-12 20:13:40] Expanded left panel
+[2025-06-12 20:13:41] Selecting vehicle categories and fuel types
+[2025-06-12 20:13:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 20:13:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 20:13:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 20:13:44] Clicked checkbox fuel:7 using method 2
+[2025-06-12 20:13:45] Clicked checkbox fuel:21 using method 2
+[2025-06-12 20:13:45] Vehicle categories and fuel types selected
+[2025-06-12 20:13:46] Clicking left refresh button
+[2025-06-12 20:13:46] Clicked left refresh button using method 1
+[2025-06-12 20:13:46] Left refresh button clicked
+[2025-06-12 20:13:51] Left panel collapsed successfully.
+[2025-06-12 20:13:51] Downloading Excel file for UT of DNH and DD(3), DIU - DD2( 14-DEC-2017 ), 2022
+[2025-06-12 20:13:52] Clicked Excel download button using method 1
+[2025-06-12 20:13:52] Clicked Excel download button
+[2025-06-12 20:13:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 20:13:55] Inside_wait_for_download_and_rename for UT_of_DNH_and_DD
+[2025-06-12 20:14:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\UT of DNH and DD(3)\DIU - DD2( 14-DEC-2017 ).xlsx
+[2025-06-12 20:14:55] Successfully processed RTO: DIU - DD2( 14-DEC-2017 )
+[2025-06-12 20:14:55] 
+Processing RTO 3/3: SILVASSA - DD1( 20-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 20:14:55] Selecting RTO: SILVASSA - DD1( 20-DEC-2017 )
+[2025-06-12 20:14:55] Clicked RTO dropdown using method 1
+[2025-06-12 20:14:57] Clicked RTO option: SILVASSA - DD1( 20-DEC-2017 ) using method 1
+[2025-06-12 20:14:57] Successfully selected RTO: SILVASSA - DD1( 20-DEC-2017 )
+[2025-06-12 20:14:57] Applying left panel filters
+[2025-06-12 20:14:57] Clicked right refresh button using method 1
+[2025-06-12 20:15:02] Opening left panel if needed
+[2025-06-12 20:15:02] Clicked left panel toggler using method 1
+[2025-06-12 20:15:02] Expanded left panel
+[2025-06-12 20:15:03] Selecting vehicle categories and fuel types
+[2025-06-12 20:15:04] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 20:15:04] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 20:15:05] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 20:15:06] Clicked checkbox fuel:7 using method 2
+[2025-06-12 20:15:06] Clicked checkbox fuel:21 using method 2
+[2025-06-12 20:15:07] Vehicle categories and fuel types selected
+[2025-06-12 20:15:08] Clicking left refresh button
+[2025-06-12 20:15:08] Clicked left refresh button using method 1
+[2025-06-12 20:15:08] Left refresh button clicked
+[2025-06-12 20:15:13] Left panel collapsed successfully.
+[2025-06-12 20:15:13] Downloading Excel file for UT of DNH and DD(3), SILVASSA - DD1( 20-DEC-2017 ), 2022
+[2025-06-12 20:15:14] Clicked Excel download button using method 1
+[2025-06-12 20:15:14] Clicked Excel download button
+[2025-06-12 20:15:17] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 20:15:17] Inside_wait_for_download_and_rename for UT_of_DNH_and_DD
+[2025-06-12 20:16:17] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\UT of DNH and DD(3)\SILVASSA - DD1( 20-DEC-2017 ).xlsx
+[2025-06-12 20:16:17] Successfully processed RTO: SILVASSA - DD1( 20-DEC-2017 )
+[2025-06-12 20:16:17] 
+=== Processing completed for UT of DNH and DD(3) ===
+

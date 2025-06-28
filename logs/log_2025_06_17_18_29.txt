@@ -1,0 +1,54 @@
+[2025-06-17 18:29:32] Loading page
+[2025-06-17 18:29:34] Page loaded
+[2025-06-17 18:29:34] 
+=== Starting RTO-wise processing ===
+[2025-06-17 18:29:34] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-17 18:29:34] 
+Processing state: Bihar(48), Year: 2022
+[2025-06-17 18:29:34] 
+=== Starting RTO-wise processing for Bihar(48), 2022 ===
+
+[2025-06-17 18:29:34] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 18:29:34] Clicked Y-axis dropdown using method 1
+[2025-06-17 18:29:35] Clicked Maker option using method 1
+[2025-06-17 18:29:36] Clicked X-axis dropdown using method 1
+[2025-06-17 18:29:37] Clicked Month Wise option using method 1
+[2025-06-17 18:29:38] Axis setup completed
+[2025-06-17 18:29:38] Selecting State: Bihar(48)
+[2025-06-17 18:29:38] Clicked state dropdown label using method 1
+[2025-06-17 18:29:39] Clicked state option: Bihar(48) using method 1
+[2025-06-17 18:29:40] Successfully selected state: Bihar(48)
+[2025-06-17 18:29:40] Selecting Year: 2022
+[2025-06-17 18:29:40] Clicked year dropdown using method 1
+[2025-06-17 18:29:41] Clicked year option: 2022 using method 1
+[2025-06-17 18:29:41] Successfully selected year: 2022
+[2025-06-17 18:29:41] Getting list of all RTOs for the selected state
+[2025-06-17 18:29:42] Clicked RTO dropdown label using method 1
+[2025-06-17 18:29:43] Found 49 RTOs for the state
+[2025-06-17 18:29:43] 
+Processing RTO 1/49: ARARIA - BR38( 30-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 18:29:43] Selecting RTO: ARARIA - BR38( 30-JAN-2018 )
+[2025-06-17 18:29:43] Clicked RTO dropdown using method 1
+[2025-06-17 18:29:44] Clicked RTO option: ARARIA - BR38( 30-JAN-2018 ) using method 1
+[2025-06-17 18:29:45] Successfully selected RTO: ARARIA - BR38( 30-JAN-2018 )
+[2025-06-17 18:29:45] Applying left panel filters
+[2025-06-17 18:29:45] Clicked right refresh button using method 1
+[2025-06-17 18:29:50] Opening left panel if needed
+[2025-06-17 18:29:50] Clicked left panel toggler using method 1
+[2025-06-17 18:29:50] Expanded left panel
+[2025-06-17 18:29:51] Selecting vehicle categories and fuel types
+[2025-06-17 18:29:52] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 18:29:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 18:29:53] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 18:29:54] Clicked checkbox fuel:7 using method 2
+[2025-06-17 18:29:55] Clicked checkbox fuel:21 using method 2
+[2025-06-17 18:29:55] Vehicle categories and fuel types selected
+[2025-06-17 18:29:56] Clicking left refresh button
+[2025-06-17 18:29:56] Clicked left refresh button using method 1
+[2025-06-17 18:29:56] Left refresh button clicked
+[2025-06-17 18:30:01] Left panel collapsed successfully.
+[2025-06-17 18:30:01] Downloading Excel file for Bihar(48), ARARIA - BR38( 30-JAN-2018 ), 2022
+[2025-06-17 18:30:02] Clicked Excel download button using method 1
+[2025-06-17 18:30:02] Clicked Excel download button
+[2025-06-17 18:30:06] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-17 18:30:06] Inside_wait_for_download_and_rename for Bihar

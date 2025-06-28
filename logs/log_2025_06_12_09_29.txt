@@ -1,0 +1,212 @@
+[2025-06-12 09:29:28] Loading page
+[2025-06-12 09:29:30] Page loaded
+[2025-06-12 09:29:30] 
+=== Starting RTO-wise processing ===
+[2025-06-12 09:29:30] 
+Processing state: Tamil Nadu(148), Year: 2024
+[2025-06-12 09:29:30] 
+=== Starting RTO-wise processing for Tamil Nadu(148), 2024 ===
+[2025-06-12 09:29:30] Checking for Badgateway (503) error
+[2025-06-12 09:29:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-12 09:29:30] Clicked Y-axis dropdown using method 1
+[2025-06-12 09:29:31] Clicked Maker option using method 1
+[2025-06-12 09:29:32] Clicked X-axis dropdown using method 1
+[2025-06-12 09:29:34] Clicked Month Wise option using method 1
+[2025-06-12 09:29:35] Axis setup completed
+[2025-06-12 09:29:35] Checking for Badgateway (503) error
+[2025-06-12 09:29:35] Selecting State: Tamil Nadu(148)
+[2025-06-12 09:29:35] Clicked state dropdown label using method 1
+[2025-06-12 09:29:36] Clicked state option: Tamil Nadu(148) using method 1
+[2025-06-12 09:29:36] Successfully selected state: Tamil Nadu(148)
+[2025-06-12 09:29:36] Checking for Badgateway (503) error
+[2025-06-12 09:29:37] Selecting Year: 2024
+[2025-06-12 09:29:37] Clicked year dropdown using method 1
+[2025-06-12 09:29:38] Clicked year option: 2024 using method 1
+[2025-06-12 09:29:38] Successfully selected year: 2024
+[2025-06-12 09:29:38] Checking for Badgateway (503) error
+[2025-06-12 09:29:38] Getting list of all RTOs for the selected state
+[2025-06-12 09:29:39] Clicked RTO dropdown label using method 1
+[2025-06-12 09:29:40] Found 148 RTOs for the state
+[2025-06-12 09:29:40] 
+Processing RTO: ALANGUDI UO - TN641( 04-JUN-2018 ) (Attempt 1)
+[2025-06-12 09:29:40] Checking for Badgateway (503) error
+[2025-06-12 09:29:40] Selecting RTO: ALANGUDI UO - TN641( 04-JUN-2018 )
+[2025-06-12 09:29:41] Clicked RTO dropdown using method 1
+[2025-06-12 09:29:42] Clicked RTO option: ALANGUDI UO - TN641( 04-JUN-2018 ) using method 1
+[2025-06-12 09:29:42] Successfully selected RTO: ALANGUDI UO - TN641( 04-JUN-2018 )
+[2025-06-12 09:29:42] Checking for Badgateway (503) error
+[2025-06-12 09:29:42] Applying left panel filters
+[2025-06-12 09:29:42] Clicked right refresh button using method 1
+[2025-06-12 09:29:47] Opening left panel if needed
+[2025-06-12 09:29:47] Clicked left panel toggler using method 1
+[2025-06-12 09:29:47] Expanded left panel
+[2025-06-12 09:29:48] Selecting vehicle categories and fuel types
+[2025-06-12 09:29:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:29:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:29:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:29:51] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:29:52] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:29:52] Vehicle categories and fuel types selected
+[2025-06-12 09:29:53] Clicking left refresh button
+[2025-06-12 09:29:54] Clicked left refresh button using method 1
+[2025-06-12 09:29:54] Left refresh button clicked
+[2025-06-12 09:29:59] Left panel collapsed successfully.
+[2025-06-12 09:29:59] Checking for Badgateway (503) error
+[2025-06-12 09:29:59] Downloading Excel file for Tamil Nadu(148), ALANGUDI UO - TN641( 04-JUN-2018 ), 2024
+[2025-06-12 09:30:00] Clicked Excel download button using method 1
+[2025-06-12 09:30:00] Clicked Excel download button
+[2025-06-12 09:30:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 09:30:03] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:31:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ALANGUDI UO - TN641( 04-JUN-2018 ).xlsx
+[2025-06-12 09:31:03] Successfully processed RTO: ALANGUDI UO - TN641( 04-JUN-2018 )
+[2025-06-12 09:31:06] 
+Processing RTO: ALANGULAM UO - TN644( 05-MAR-2024 ) (Attempt 1)
+[2025-06-12 09:31:06] Checking for Badgateway (503) error
+[2025-06-12 09:31:06] Selecting RTO: ALANGULAM UO - TN644( 05-MAR-2024 )
+[2025-06-12 09:31:07] Clicked RTO dropdown using method 1
+[2025-06-12 09:31:08] Clicked RTO option: ALANGULAM UO - TN644( 05-MAR-2024 ) using method 1
+[2025-06-12 09:31:08] Successfully selected RTO: ALANGULAM UO - TN644( 05-MAR-2024 )
+[2025-06-12 09:31:08] Checking for Badgateway (503) error
+[2025-06-12 09:31:08] Applying left panel filters
+[2025-06-12 09:31:09] Clicked right refresh button using method 1
+[2025-06-12 09:31:13] Opening left panel if needed
+[2025-06-12 09:31:14] Clicked left panel toggler using method 1
+[2025-06-12 09:31:14] Expanded left panel
+[2025-06-12 09:31:15] Selecting vehicle categories and fuel types
+[2025-06-12 09:31:16] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:31:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:31:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:31:18] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:31:19] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:31:19] Vehicle categories and fuel types selected
+[2025-06-12 09:31:20] Clicking left refresh button
+[2025-06-12 09:31:21] Clicked left refresh button using method 1
+[2025-06-12 09:31:21] Left refresh button clicked
+[2025-06-12 09:31:25] Left panel collapsed successfully.
+[2025-06-12 09:31:25] Checking for Badgateway (503) error
+[2025-06-12 09:31:25] Downloading Excel file for Tamil Nadu(148), ALANGULAM UO - TN644( 05-MAR-2024 ), 2024
+[2025-06-12 09:31:26] Clicked Excel download button using method 1
+[2025-06-12 09:31:26] Clicked Excel download button
+[2025-06-12 09:31:30] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 09:31:30] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:32:30] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ALANGULAM UO - TN644( 05-MAR-2024 ).xlsx
+[2025-06-12 09:32:30] Successfully processed RTO: ALANGULAM UO - TN644( 05-MAR-2024 )
+[2025-06-12 09:32:32] 
+Processing RTO: AMBASAMUTHIRAM UO - TN611( 28-AUG-2018 ) (Attempt 1)
+[2025-06-12 09:32:32] Checking for Badgateway (503) error
+[2025-06-12 09:32:33] Selecting RTO: AMBASAMUTHIRAM UO - TN611( 28-AUG-2018 )
+[2025-06-12 09:32:33] Clicked RTO dropdown using method 1
+[2025-06-12 09:32:34] Clicked RTO option: AMBASAMUTHIRAM UO - TN611( 28-AUG-2018 ) using method 1
+[2025-06-12 09:32:34] Successfully selected RTO: AMBASAMUTHIRAM UO - TN611( 28-AUG-2018 )
+[2025-06-12 09:32:34] Checking for Badgateway (503) error
+[2025-06-12 09:32:34] Applying left panel filters
+[2025-06-12 09:32:35] Clicked right refresh button using method 1
+[2025-06-12 09:32:40] Opening left panel if needed
+[2025-06-12 09:32:40] Clicked left panel toggler using method 1
+[2025-06-12 09:32:40] Expanded left panel
+[2025-06-12 09:32:41] Selecting vehicle categories and fuel types
+[2025-06-12 09:32:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:32:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:32:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:32:44] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:32:45] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:32:45] Vehicle categories and fuel types selected
+[2025-06-12 09:32:46] Clicking left refresh button
+[2025-06-12 09:32:46] Clicked left refresh button using method 1
+[2025-06-12 09:32:46] Left refresh button clicked
+[2025-06-12 09:32:51] Left panel collapsed successfully.
+[2025-06-12 09:32:51] Checking for Badgateway (503) error
+[2025-06-12 09:32:51] Downloading Excel file for Tamil Nadu(148), AMBASAMUTHIRAM UO - TN611( 28-AUG-2018 ), 2024
+[2025-06-12 09:32:52] Clicked Excel download button using method 1
+[2025-06-12 09:32:52] Clicked Excel download button
+[2025-06-12 09:32:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 09:32:55] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:33:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\AMBASAMUTHIRAM UO - TN611( 28-AUG-2018 ).xlsx
+[2025-06-12 09:33:55] Successfully processed RTO: AMBASAMUTHIRAM UO - TN611( 28-AUG-2018 )
+[2025-06-12 09:33:58] 
+Processing RTO: AMBATTUR RTO - TN612( 07-JUN-2018 ) (Attempt 1)
+[2025-06-12 09:33:58] Checking for Badgateway (503) error
+[2025-06-12 09:33:58] Selecting RTO: AMBATTUR RTO - TN612( 07-JUN-2018 )
+[2025-06-12 09:33:59] Clicked RTO dropdown using method 1
+[2025-06-12 09:34:00] Clicked RTO option: AMBATTUR RTO - TN612( 07-JUN-2018 ) using method 1
+[2025-06-12 09:34:00] Successfully selected RTO: AMBATTUR RTO - TN612( 07-JUN-2018 )
+[2025-06-12 09:34:00] Checking for Badgateway (503) error
+[2025-06-12 09:34:00] Applying left panel filters
+[2025-06-12 09:34:00] Clicked right refresh button using method 1
+[2025-06-12 09:34:05] Opening left panel if needed
+[2025-06-12 09:34:06] Clicked left panel toggler using method 1
+[2025-06-12 09:34:06] Expanded left panel
+[2025-06-12 09:34:07] Selecting vehicle categories and fuel types
+[2025-06-12 09:34:08] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:34:09] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:34:09] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:34:10] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:34:11] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:34:11] Vehicle categories and fuel types selected
+[2025-06-12 09:34:12] Clicking left refresh button
+[2025-06-12 09:34:12] Clicked left refresh button using method 1
+[2025-06-12 09:34:12] Left refresh button clicked
+[2025-06-12 09:34:17] Left panel collapsed successfully.
+[2025-06-12 09:34:17] Checking for Badgateway (503) error
+[2025-06-12 09:34:17] Downloading Excel file for Tamil Nadu(148), AMBATTUR RTO - TN612( 07-JUN-2018 ), 2024
+[2025-06-12 09:34:17] Clicked Excel download button using method 1
+[2025-06-12 09:34:17] Clicked Excel download button
+[2025-06-12 09:34:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 09:34:21] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:35:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\AMBATTUR RTO - TN612( 07-JUN-2018 ).xlsx
+[2025-06-12 09:35:21] Successfully processed RTO: AMBATTUR RTO - TN612( 07-JUN-2018 )
+[2025-06-12 09:35:25] 
+Processing RTO: AMBUR UO - TN628( 11-JUL-2018 ) (Attempt 1)
+[2025-06-12 09:35:25] Checking for Badgateway (503) error
+[2025-06-12 09:35:25] Selecting RTO: AMBUR UO - TN628( 11-JUL-2018 )
+[2025-06-12 09:35:25] Clicked RTO dropdown using method 1
+[2025-06-12 09:35:26] Clicked RTO option: AMBUR UO - TN628( 11-JUL-2018 ) using method 1
+[2025-06-12 09:35:26] Successfully selected RTO: AMBUR UO - TN628( 11-JUL-2018 )
+[2025-06-12 09:35:26] Checking for Badgateway (503) error
+[2025-06-12 09:35:26] Applying left panel filters
+[2025-06-12 09:35:27] Clicked right refresh button using method 1
+[2025-06-12 09:35:31] Opening left panel if needed
+[2025-06-12 09:35:31] Clicked left panel toggler using method 1
+[2025-06-12 09:35:31] Expanded left panel
+[2025-06-12 09:35:33] Selecting vehicle categories and fuel types
+[2025-06-12 09:35:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:35:34] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:35:35] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:35:36] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:35:37] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:35:37] Vehicle categories and fuel types selected
+[2025-06-12 09:35:38] Clicking left refresh button
+[2025-06-12 09:35:38] Clicked left refresh button using method 1
+[2025-06-12 09:35:38] Left refresh button clicked
+[2025-06-12 09:35:43] Left panel collapsed successfully.
+[2025-06-12 09:35:43] Checking for Badgateway (503) error
+[2025-06-12 09:35:43] Downloading Excel file for Tamil Nadu(148), AMBUR UO - TN628( 11-JUL-2018 ), 2024
+[2025-06-12 09:35:44] Clicked Excel download button using method 1
+[2025-06-12 09:35:44] Clicked Excel download button
+[2025-06-12 09:35:47] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 09:35:47] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:36:47] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\AMBUR UO - TN628( 11-JUL-2018 ).xlsx
+[2025-06-12 09:36:47] Successfully processed RTO: AMBUR UO - TN628( 11-JUL-2018 )
+[2025-06-12 09:36:52] 
+Processing RTO: ARAKKONAM UO - TN609( 06-JUL-2018 ) (Attempt 1)
+[2025-06-12 09:36:52] Checking for Badgateway (503) error
+[2025-06-12 09:36:52] Selecting RTO: ARAKKONAM UO - TN609( 06-JUL-2018 )
+[2025-06-12 09:36:53] Clicked RTO dropdown using method 1
+[2025-06-12 09:36:54] Clicked RTO option: ARAKKONAM UO - TN609( 06-JUL-2018 ) using method 1
+[2025-06-12 09:36:54] Successfully selected RTO: ARAKKONAM UO - TN609( 06-JUL-2018 )
+[2025-06-12 09:36:54] Checking for Badgateway (503) error
+[2025-06-12 09:36:54] Applying left panel filters
+[2025-06-12 09:36:54] Clicked right refresh button using method 1
+[2025-06-12 09:36:59] Opening left panel if needed
+[2025-06-12 09:36:59] Clicked left panel toggler using method 1
+[2025-06-12 09:36:59] Expanded left panel
+[2025-06-12 09:37:01] Selecting vehicle categories and fuel types
+[2025-06-12 09:37:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:37:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:37:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:37:05] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:37:07] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:37:07] Vehicle categories and fuel types selected
+[2025-06-12 09:37:08] Clicking left refresh button
+[2025-06-12 09:37:08] Clicked left refresh button using method 1
+[2025-06-12 09:37:08] Left refresh button clicked

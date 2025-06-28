@@ -1,0 +1,2523 @@
+[2025-06-11 08:32:28] Loading page
+[2025-06-11 08:32:30] Page loaded
+[2025-06-11 08:32:30] 
+=== Starting RTO-wise processing ===
+[2025-06-11 08:32:30] 
+Processing state: Madhya Pradesh(53), Year: 2022
+[2025-06-11 08:32:30] 
+=== Starting RTO-wise processing for Madhya Pradesh(53), 2022 ===
+[2025-06-11 08:32:30] Checking for Badgateway (503) error
+[2025-06-11 08:32:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 08:32:30] Clicked Y-axis dropdown using method 1
+[2025-06-11 08:32:31] Clicked Maker option using method 1
+[2025-06-11 08:32:33] Clicked X-axis dropdown using method 1
+[2025-06-11 08:32:34] Clicked Month Wise option using method 1
+[2025-06-11 08:32:35] Axis setup completed
+[2025-06-11 08:32:35] Checking for Badgateway (503) error
+[2025-06-11 08:32:35] Selecting State: Madhya Pradesh(53)
+[2025-06-11 08:32:35] Clicked state dropdown label using method 1
+[2025-06-11 08:32:36] Clicked state option: Madhya Pradesh(53) using method 1
+[2025-06-11 08:32:37] Successfully selected state: Madhya Pradesh(53)
+[2025-06-11 08:32:37] Checking for Badgateway (503) error
+[2025-06-11 08:32:37] Selecting Year: 2022
+[2025-06-11 08:32:37] Clicked year dropdown using method 1
+[2025-06-11 08:32:39] Clicked year option: 2022 using method 1
+[2025-06-11 08:32:39] Successfully selected year: 2022
+[2025-06-11 08:32:39] Checking for Badgateway (503) error
+[2025-06-11 08:32:39] Getting list of all RTOs for the selected state
+[2025-06-11 08:32:39] Clicked RTO dropdown label using method 1
+[2025-06-11 08:32:40] Found 53 RTOs for the state
+[2025-06-11 08:32:40] 
+Processing RTO: AGAR MALWA RTO - MP70( 25-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:32:40] Checking for Badgateway (503) error
+[2025-06-11 08:32:40] Selecting RTO: AGAR MALWA RTO - MP70( 25-JUL-2022 )
+[2025-06-11 08:32:41] Clicked RTO dropdown using method 1
+[2025-06-11 08:32:42] Clicked RTO option: AGAR MALWA RTO - MP70( 25-JUL-2022 ) using method 1
+[2025-06-11 08:32:42] Successfully selected RTO: AGAR MALWA RTO - MP70( 25-JUL-2022 )
+[2025-06-11 08:32:42] Checking for Badgateway (503) error
+[2025-06-11 08:32:42] Applying left panel filters
+[2025-06-11 08:32:43] Clicked right refresh button using method 1
+[2025-06-11 08:32:47] Opening left panel if needed
+[2025-06-11 08:32:47] Clicked left panel toggler using method 1
+[2025-06-11 08:32:47] Expanded left panel
+[2025-06-11 08:32:48] Selecting vehicle categories and fuel types
+[2025-06-11 08:32:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:32:49] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:32:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:32:51] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:32:52] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:32:52] Vehicle categories and fuel types selected
+[2025-06-11 08:32:53] Clicking left refresh button
+[2025-06-11 08:32:53] Clicked left refresh button using method 1
+[2025-06-11 08:32:53] Left refresh button clicked
+[2025-06-11 08:32:58] Left panel collapsed successfully.
+[2025-06-11 08:32:58] Checking for Badgateway (503) error
+[2025-06-11 08:32:58] Downloading Excel file for Madhya Pradesh(53), AGAR MALWA RTO - MP70( 25-JUL-2022 ), 2022
+[2025-06-11 08:32:58] Clicked Excel download button using method 1
+[2025-06-11 08:32:58] Clicked Excel download button
+[2025-06-11 08:33:02] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:33:02] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:34:02] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\AGAR MALWA RTO - MP70( 25-JUL-2022 ).xlsx
+[2025-06-11 08:34:02] Successfully processed RTO: AGAR MALWA RTO - MP70( 25-JUL-2022 )
+[2025-06-11 08:34:05] 
+Processing RTO: ALIRAJPUR DTO - MP69( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:34:05] Checking for Badgateway (503) error
+[2025-06-11 08:34:05] Selecting RTO: ALIRAJPUR DTO - MP69( 23-JUL-2022 )
+[2025-06-11 08:34:05] Clicked RTO dropdown using method 1
+[2025-06-11 08:34:06] Clicked RTO option: ALIRAJPUR DTO - MP69( 23-JUL-2022 ) using method 1
+[2025-06-11 08:34:06] Successfully selected RTO: ALIRAJPUR DTO - MP69( 23-JUL-2022 )
+[2025-06-11 08:34:06] Checking for Badgateway (503) error
+[2025-06-11 08:34:06] Applying left panel filters
+[2025-06-11 08:34:07] Clicked right refresh button using method 1
+[2025-06-11 08:34:11] Opening left panel if needed
+[2025-06-11 08:34:11] Clicked left panel toggler using method 1
+[2025-06-11 08:34:11] Expanded left panel
+[2025-06-11 08:34:13] Selecting vehicle categories and fuel types
+[2025-06-11 08:34:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:34:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:34:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:34:15] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:34:16] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:34:16] Vehicle categories and fuel types selected
+[2025-06-11 08:34:17] Clicking left refresh button
+[2025-06-11 08:34:17] Clicked left refresh button using method 1
+[2025-06-11 08:34:17] Left refresh button clicked
+[2025-06-11 08:34:22] Left panel collapsed successfully.
+[2025-06-11 08:34:22] Checking for Badgateway (503) error
+[2025-06-11 08:34:22] Downloading Excel file for Madhya Pradesh(53), ALIRAJPUR DTO - MP69( 23-JUL-2022 ), 2022
+[2025-06-11 08:34:22] Clicked Excel download button using method 1
+[2025-06-11 08:34:23] Clicked Excel download button
+[2025-06-11 08:34:26] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:34:26] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:35:26] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\ALIRAJPUR DTO - MP69( 23-JUL-2022 ).xlsx
+[2025-06-11 08:35:26] Successfully processed RTO: ALIRAJPUR DTO - MP69( 23-JUL-2022 )
+[2025-06-11 08:35:29] 
+Processing RTO: ANUPPUR DTO - MP65( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:35:29] Checking for Badgateway (503) error
+[2025-06-11 08:35:29] Selecting RTO: ANUPPUR DTO - MP65( 23-JUL-2022 )
+[2025-06-11 08:35:29] Clicked RTO dropdown using method 1
+[2025-06-11 08:35:30] Clicked RTO option: ANUPPUR DTO - MP65( 23-JUL-2022 ) using method 1
+[2025-06-11 08:35:30] Successfully selected RTO: ANUPPUR DTO - MP65( 23-JUL-2022 )
+[2025-06-11 08:35:30] Checking for Badgateway (503) error
+[2025-06-11 08:35:30] Applying left panel filters
+[2025-06-11 08:35:31] Clicked right refresh button using method 1
+[2025-06-11 08:35:35] Opening left panel if needed
+[2025-06-11 08:35:35] Clicked left panel toggler using method 1
+[2025-06-11 08:35:35] Expanded left panel
+[2025-06-11 08:35:37] Selecting vehicle categories and fuel types
+[2025-06-11 08:35:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:35:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:35:38] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:35:39] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:35:40] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:35:40] Vehicle categories and fuel types selected
+[2025-06-11 08:35:41] Clicking left refresh button
+[2025-06-11 08:35:41] Clicked left refresh button using method 1
+[2025-06-11 08:35:41] Left refresh button clicked
+[2025-06-11 08:35:46] Left panel collapsed successfully.
+[2025-06-11 08:35:46] Checking for Badgateway (503) error
+[2025-06-11 08:35:46] Downloading Excel file for Madhya Pradesh(53), ANUPPUR DTO - MP65( 23-JUL-2022 ), 2022
+[2025-06-11 08:35:46] Clicked Excel download button using method 1
+[2025-06-11 08:35:46] Clicked Excel download button
+[2025-06-11 08:35:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:35:49] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:36:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\ANUPPUR DTO - MP65( 23-JUL-2022 ).xlsx
+[2025-06-11 08:36:49] Successfully processed RTO: ANUPPUR DTO - MP65( 23-JUL-2022 )
+[2025-06-11 08:36:54] 
+Processing RTO: ASHOKNAGAR DTO - MP67( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:36:54] Checking for Badgateway (503) error
+[2025-06-11 08:36:54] Selecting RTO: ASHOKNAGAR DTO - MP67( 23-JUL-2022 )
+[2025-06-11 08:36:54] Clicked RTO dropdown using method 1
+[2025-06-11 08:36:55] Clicked RTO option: ASHOKNAGAR DTO - MP67( 23-JUL-2022 ) using method 1
+[2025-06-11 08:36:55] Successfully selected RTO: ASHOKNAGAR DTO - MP67( 23-JUL-2022 )
+[2025-06-11 08:36:55] Checking for Badgateway (503) error
+[2025-06-11 08:36:55] Applying left panel filters
+[2025-06-11 08:36:56] Clicked right refresh button using method 1
+[2025-06-11 08:37:00] Opening left panel if needed
+[2025-06-11 08:37:00] Clicked left panel toggler using method 1
+[2025-06-11 08:37:00] Expanded left panel
+[2025-06-11 08:37:02] Selecting vehicle categories and fuel types
+[2025-06-11 08:37:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:37:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:37:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:37:05] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:37:05] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:37:06] Vehicle categories and fuel types selected
+[2025-06-11 08:37:06] Clicking left refresh button
+[2025-06-11 08:37:07] Clicked left refresh button using method 1
+[2025-06-11 08:37:07] Left refresh button clicked
+[2025-06-11 08:37:12] Left panel collapsed successfully.
+[2025-06-11 08:37:12] Checking for Badgateway (503) error
+[2025-06-11 08:37:12] Downloading Excel file for Madhya Pradesh(53), ASHOKNAGAR DTO - MP67( 23-JUL-2022 ), 2022
+[2025-06-11 08:37:13] Clicked Excel download button using method 1
+[2025-06-11 08:37:13] Clicked Excel download button
+[2025-06-11 08:37:16] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:37:16] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:38:16] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\ASHOKNAGAR DTO - MP67( 23-JUL-2022 ).xlsx
+[2025-06-11 08:38:16] Successfully processed RTO: ASHOKNAGAR DTO - MP67( 23-JUL-2022 )
+[2025-06-11 08:38:21] 
+Processing RTO: BADWANI DTO - MP46( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:38:21] Checking for Badgateway (503) error
+[2025-06-11 08:38:21] Selecting RTO: BADWANI DTO - MP46( 23-JUL-2022 )
+[2025-06-11 08:38:21] Clicked RTO dropdown using method 1
+[2025-06-11 08:38:22] Clicked RTO option: BADWANI DTO - MP46( 23-JUL-2022 ) using method 1
+[2025-06-11 08:38:22] Successfully selected RTO: BADWANI DTO - MP46( 23-JUL-2022 )
+[2025-06-11 08:38:22] Checking for Badgateway (503) error
+[2025-06-11 08:38:22] Applying left panel filters
+[2025-06-11 08:38:22] Clicked right refresh button using method 1
+[2025-06-11 08:38:27] Opening left panel if needed
+[2025-06-11 08:38:27] Clicked left panel toggler using method 1
+[2025-06-11 08:38:27] Expanded left panel
+[2025-06-11 08:38:29] Selecting vehicle categories and fuel types
+[2025-06-11 08:38:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:38:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:38:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:38:31] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:38:32] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:38:33] Vehicle categories and fuel types selected
+[2025-06-11 08:38:33] Clicking left refresh button
+[2025-06-11 08:38:34] Clicked left refresh button using method 1
+[2025-06-11 08:38:34] Left refresh button clicked
+[2025-06-11 08:38:39] Left panel collapsed successfully.
+[2025-06-11 08:38:39] Checking for Badgateway (503) error
+[2025-06-11 08:38:39] Downloading Excel file for Madhya Pradesh(53), BADWANI DTO - MP46( 23-JUL-2022 ), 2022
+[2025-06-11 08:38:39] Clicked Excel download button using method 1
+[2025-06-11 08:38:39] Clicked Excel download button
+[2025-06-11 08:38:43] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:38:43] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:39:43] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\BADWANI DTO - MP46( 23-JUL-2022 ).xlsx
+[2025-06-11 08:39:43] Successfully processed RTO: BADWANI DTO - MP46( 23-JUL-2022 )
+[2025-06-11 08:39:46] 
+Processing RTO: BALAGHAT DTO - MP50( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:39:46] Checking for Badgateway (503) error
+[2025-06-11 08:39:46] Selecting RTO: BALAGHAT DTO - MP50( 23-JUL-2022 )
+[2025-06-11 08:39:46] Clicked RTO dropdown using method 1
+[2025-06-11 08:39:48] Clicked RTO option: BALAGHAT DTO - MP50( 23-JUL-2022 ) using method 1
+[2025-06-11 08:39:48] Successfully selected RTO: BALAGHAT DTO - MP50( 23-JUL-2022 )
+[2025-06-11 08:39:48] Checking for Badgateway (503) error
+[2025-06-11 08:39:48] Applying left panel filters
+[2025-06-11 08:39:48] Clicked right refresh button using method 1
+[2025-06-11 08:39:53] Opening left panel if needed
+[2025-06-11 08:39:53] Clicked left panel toggler using method 1
+[2025-06-11 08:39:53] Expanded left panel
+[2025-06-11 08:39:54] Selecting vehicle categories and fuel types
+[2025-06-11 08:39:55] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:39:55] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:39:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:39:57] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:39:58] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:39:58] Vehicle categories and fuel types selected
+[2025-06-11 08:39:59] Clicking left refresh button
+[2025-06-11 08:39:59] Clicked left refresh button using method 1
+[2025-06-11 08:39:59] Left refresh button clicked
+[2025-06-11 08:40:03] Left panel collapsed successfully.
+[2025-06-11 08:40:03] Checking for Badgateway (503) error
+[2025-06-11 08:40:03] Downloading Excel file for Madhya Pradesh(53), BALAGHAT DTO - MP50( 23-JUL-2022 ), 2022
+[2025-06-11 08:40:04] Clicked Excel download button using method 1
+[2025-06-11 08:40:04] Clicked Excel download button
+[2025-06-11 08:40:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:40:07] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:41:07] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\BALAGHAT DTO - MP50( 23-JUL-2022 ).xlsx
+[2025-06-11 08:41:07] Successfully processed RTO: BALAGHAT DTO - MP50( 23-JUL-2022 )
+[2025-06-11 08:41:10] 
+Processing RTO: BETUL DTO - MP48( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:41:10] Checking for Badgateway (503) error
+[2025-06-11 08:41:10] Selecting RTO: BETUL DTO - MP48( 23-JUL-2022 )
+[2025-06-11 08:41:11] Clicked RTO dropdown using method 1
+[2025-06-11 08:41:12] Clicked RTO option: BETUL DTO - MP48( 23-JUL-2022 ) using method 1
+[2025-06-11 08:41:12] Successfully selected RTO: BETUL DTO - MP48( 23-JUL-2022 )
+[2025-06-11 08:41:12] Checking for Badgateway (503) error
+[2025-06-11 08:41:12] Applying left panel filters
+[2025-06-11 08:41:12] Clicked right refresh button using method 1
+[2025-06-11 08:41:17] Opening left panel if needed
+[2025-06-11 08:41:17] Clicked left panel toggler using method 1
+[2025-06-11 08:41:17] Expanded left panel
+[2025-06-11 08:41:19] Selecting vehicle categories and fuel types
+[2025-06-11 08:41:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:41:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:41:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:41:21] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:41:22] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:41:22] Vehicle categories and fuel types selected
+[2025-06-11 08:41:23] Clicking left refresh button
+[2025-06-11 08:41:24] Clicked left refresh button using method 1
+[2025-06-11 08:41:24] Left refresh button clicked
+[2025-06-11 08:41:29] Left panel collapsed successfully.
+[2025-06-11 08:41:29] Checking for Badgateway (503) error
+[2025-06-11 08:41:29] Downloading Excel file for Madhya Pradesh(53), BETUL DTO - MP48( 23-JUL-2022 ), 2022
+[2025-06-11 08:41:29] Clicked Excel download button using method 1
+[2025-06-11 08:41:29] Clicked Excel download button
+[2025-06-11 08:41:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:41:33] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:42:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\BETUL DTO - MP48( 23-JUL-2022 ).xlsx
+[2025-06-11 08:42:33] Successfully processed RTO: BETUL DTO - MP48( 23-JUL-2022 )
+[2025-06-11 08:42:36] 
+Processing RTO: BHIND DTO - MP30( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:42:36] Checking for Badgateway (503) error
+[2025-06-11 08:42:36] Selecting RTO: BHIND DTO - MP30( 23-JUL-2022 )
+[2025-06-11 08:42:36] Clicked RTO dropdown using method 1
+[2025-06-11 08:42:37] Clicked RTO option: BHIND DTO - MP30( 23-JUL-2022 ) using method 1
+[2025-06-11 08:42:37] Successfully selected RTO: BHIND DTO - MP30( 23-JUL-2022 )
+[2025-06-11 08:42:37] Checking for Badgateway (503) error
+[2025-06-11 08:42:37] Applying left panel filters
+[2025-06-11 08:42:38] Clicked right refresh button using method 1
+[2025-06-11 08:42:42] Opening left panel if needed
+[2025-06-11 08:42:42] Clicked left panel toggler using method 1
+[2025-06-11 08:42:42] Expanded left panel
+[2025-06-11 08:42:44] Selecting vehicle categories and fuel types
+[2025-06-11 08:42:44] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:42:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:42:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:42:47] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:42:48] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:42:48] Vehicle categories and fuel types selected
+[2025-06-11 08:42:49] Clicking left refresh button
+[2025-06-11 08:42:49] Clicked left refresh button using method 1
+[2025-06-11 08:42:49] Left refresh button clicked
+[2025-06-11 08:42:54] Left panel collapsed successfully.
+[2025-06-11 08:42:54] Checking for Badgateway (503) error
+[2025-06-11 08:42:54] Downloading Excel file for Madhya Pradesh(53), BHIND DTO - MP30( 23-JUL-2022 ), 2022
+[2025-06-11 08:42:55] Clicked Excel download button using method 1
+[2025-06-11 08:42:55] Clicked Excel download button
+[2025-06-11 08:42:59] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:42:59] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:43:59] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\BHIND DTO - MP30( 23-JUL-2022 ).xlsx
+[2025-06-11 08:43:59] Successfully processed RTO: BHIND DTO - MP30( 23-JUL-2022 )
+[2025-06-11 08:44:01] 
+Processing RTO: BHOPAL RTO - MP4( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:44:01] Checking for Badgateway (503) error
+[2025-06-11 08:44:02] Selecting RTO: BHOPAL RTO - MP4( 23-JUL-2022 )
+[2025-06-11 08:44:02] Clicked RTO dropdown using method 1
+[2025-06-11 08:44:03] Clicked RTO option: BHOPAL RTO - MP4( 23-JUL-2022 ) using method 1
+[2025-06-11 08:44:03] Successfully selected RTO: BHOPAL RTO - MP4( 23-JUL-2022 )
+[2025-06-11 08:44:03] Checking for Badgateway (503) error
+[2025-06-11 08:44:03] Applying left panel filters
+[2025-06-11 08:44:03] Clicked right refresh button using method 1
+[2025-06-11 08:44:08] Opening left panel if needed
+[2025-06-11 08:44:08] Clicked left panel toggler using method 1
+[2025-06-11 08:44:08] Expanded left panel
+[2025-06-11 08:44:09] Selecting vehicle categories and fuel types
+[2025-06-11 08:44:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:44:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:44:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:44:12] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:44:13] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:44:13] Vehicle categories and fuel types selected
+[2025-06-11 08:44:14] Clicking left refresh button
+[2025-06-11 08:44:14] Clicked left refresh button using method 1
+[2025-06-11 08:44:14] Left refresh button clicked
+[2025-06-11 08:44:19] Left panel collapsed successfully.
+[2025-06-11 08:44:19] Checking for Badgateway (503) error
+[2025-06-11 08:44:19] Downloading Excel file for Madhya Pradesh(53), BHOPAL RTO - MP4( 23-JUL-2022 ), 2022
+[2025-06-11 08:44:19] Clicked Excel download button using method 1
+[2025-06-11 08:44:19] Clicked Excel download button
+[2025-06-11 08:44:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:44:23] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:45:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\BHOPAL RTO - MP4( 23-JUL-2022 ).xlsx
+[2025-06-11 08:45:23] Successfully processed RTO: BHOPAL RTO - MP4( 23-JUL-2022 )
+[2025-06-11 08:45:27] 
+Processing RTO: BURHANPUR DTO - MP68( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:45:27] Checking for Badgateway (503) error
+[2025-06-11 08:45:27] Selecting RTO: BURHANPUR DTO - MP68( 23-JUL-2022 )
+[2025-06-11 08:45:27] Clicked RTO dropdown using method 1
+[2025-06-11 08:45:28] Clicked RTO option: BURHANPUR DTO - MP68( 23-JUL-2022 ) using method 1
+[2025-06-11 08:45:28] Successfully selected RTO: BURHANPUR DTO - MP68( 23-JUL-2022 )
+[2025-06-11 08:45:28] Checking for Badgateway (503) error
+[2025-06-11 08:45:28] Applying left panel filters
+[2025-06-11 08:45:29] Clicked right refresh button using method 1
+[2025-06-11 08:45:33] Opening left panel if needed
+[2025-06-11 08:45:33] Clicked left panel toggler using method 1
+[2025-06-11 08:45:33] Expanded left panel
+[2025-06-11 08:45:35] Selecting vehicle categories and fuel types
+[2025-06-11 08:45:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:45:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:45:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:45:38] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:45:38] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:45:39] Vehicle categories and fuel types selected
+[2025-06-11 08:45:39] Clicking left refresh button
+[2025-06-11 08:45:40] Clicked left refresh button using method 1
+[2025-06-11 08:45:40] Left refresh button clicked
+[2025-06-11 08:45:45] Left panel collapsed successfully.
+[2025-06-11 08:45:45] Checking for Badgateway (503) error
+[2025-06-11 08:45:45] Downloading Excel file for Madhya Pradesh(53), BURHANPUR DTO - MP68( 23-JUL-2022 ), 2022
+[2025-06-11 08:45:46] Clicked Excel download button using method 1
+[2025-06-11 08:45:46] Clicked Excel download button
+[2025-06-11 08:45:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:45:49] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:46:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\BURHANPUR DTO - MP68( 23-JUL-2022 ).xlsx
+[2025-06-11 08:46:49] Successfully processed RTO: BURHANPUR DTO - MP68( 23-JUL-2022 )
+[2025-06-11 08:46:53] 
+Processing RTO: CHATTARPUR ARTO - MP16( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:46:53] Checking for Badgateway (503) error
+[2025-06-11 08:46:53] Selecting RTO: CHATTARPUR ARTO - MP16( 23-JUL-2022 )
+[2025-06-11 08:46:54] Clicked RTO dropdown using method 1
+[2025-06-11 08:46:54] Clicked RTO option: CHATTARPUR ARTO - MP16( 23-JUL-2022 ) using method 1
+[2025-06-11 08:46:54] Successfully selected RTO: CHATTARPUR ARTO - MP16( 23-JUL-2022 )
+[2025-06-11 08:46:54] Checking for Badgateway (503) error
+[2025-06-11 08:46:54] Applying left panel filters
+[2025-06-11 08:46:55] Clicked right refresh button using method 1
+[2025-06-11 08:46:59] Opening left panel if needed
+[2025-06-11 08:46:59] Clicked left panel toggler using method 1
+[2025-06-11 08:46:59] Expanded left panel
+[2025-06-11 08:47:01] Selecting vehicle categories and fuel types
+[2025-06-11 08:47:01] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:47:02] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:47:03] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:47:03] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:47:04] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:47:05] Vehicle categories and fuel types selected
+[2025-06-11 08:47:05] Clicking left refresh button
+[2025-06-11 08:47:05] Clicked left refresh button using method 1
+[2025-06-11 08:47:05] Left refresh button clicked
+[2025-06-11 08:47:11] Left panel collapsed successfully.
+[2025-06-11 08:47:11] Checking for Badgateway (503) error
+[2025-06-11 08:47:11] Downloading Excel file for Madhya Pradesh(53), CHATTARPUR ARTO - MP16( 23-JUL-2022 ), 2022
+[2025-06-11 08:47:11] Clicked Excel download button using method 1
+[2025-06-11 08:47:11] Clicked Excel download button
+[2025-06-11 08:47:14] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:47:14] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:48:14] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\CHATTARPUR ARTO - MP16( 23-JUL-2022 ).xlsx
+[2025-06-11 08:48:14] Successfully processed RTO: CHATTARPUR ARTO - MP16( 23-JUL-2022 )
+[2025-06-11 08:48:19] 
+Processing RTO: CHHINDWARA ARTO - MP28( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:48:19] Checking for Badgateway (503) error
+[2025-06-11 08:48:19] Selecting RTO: CHHINDWARA ARTO - MP28( 23-JUL-2022 )
+[2025-06-11 08:48:19] Clicked RTO dropdown using method 1
+[2025-06-11 08:48:20] Clicked RTO option: CHHINDWARA ARTO - MP28( 23-JUL-2022 ) using method 1
+[2025-06-11 08:48:20] Successfully selected RTO: CHHINDWARA ARTO - MP28( 23-JUL-2022 )
+[2025-06-11 08:48:20] Checking for Badgateway (503) error
+[2025-06-11 08:48:20] Applying left panel filters
+[2025-06-11 08:48:21] Clicked right refresh button using method 1
+[2025-06-11 08:48:25] Opening left panel if needed
+[2025-06-11 08:48:25] Clicked left panel toggler using method 1
+[2025-06-11 08:48:25] Expanded left panel
+[2025-06-11 08:48:27] Selecting vehicle categories and fuel types
+[2025-06-11 08:48:27] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:48:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:48:29] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:48:29] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:48:30] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:48:31] Vehicle categories and fuel types selected
+[2025-06-11 08:48:31] Clicking left refresh button
+[2025-06-11 08:48:32] Clicked left refresh button using method 1
+[2025-06-11 08:48:32] Left refresh button clicked
+[2025-06-11 08:48:36] Left panel collapsed successfully.
+[2025-06-11 08:48:36] Checking for Badgateway (503) error
+[2025-06-11 08:48:36] Downloading Excel file for Madhya Pradesh(53), CHHINDWARA ARTO - MP28( 23-JUL-2022 ), 2022
+[2025-06-11 08:48:37] Clicked Excel download button using method 1
+[2025-06-11 08:48:37] Clicked Excel download button
+[2025-06-11 08:48:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:48:41] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:49:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\CHHINDWARA ARTO - MP28( 23-JUL-2022 ).xlsx
+[2025-06-11 08:49:41] Successfully processed RTO: CHHINDWARA ARTO - MP28( 23-JUL-2022 )
+[2025-06-11 08:49:45] 
+Processing RTO: DAMOH DTO - MP34( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:49:45] Checking for Badgateway (503) error
+[2025-06-11 08:49:45] Selecting RTO: DAMOH DTO - MP34( 23-JUL-2022 )
+[2025-06-11 08:49:45] Clicked RTO dropdown using method 1
+[2025-06-11 08:49:46] Clicked RTO option: DAMOH DTO - MP34( 23-JUL-2022 ) using method 1
+[2025-06-11 08:49:46] Successfully selected RTO: DAMOH DTO - MP34( 23-JUL-2022 )
+[2025-06-11 08:49:46] Checking for Badgateway (503) error
+[2025-06-11 08:49:46] Applying left panel filters
+[2025-06-11 08:49:47] Clicked right refresh button using method 1
+[2025-06-11 08:49:51] Opening left panel if needed
+[2025-06-11 08:49:51] Clicked left panel toggler using method 1
+[2025-06-11 08:49:51] Expanded left panel
+[2025-06-11 08:49:53] Selecting vehicle categories and fuel types
+[2025-06-11 08:49:53] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:49:53] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:49:54] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:49:55] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:49:56] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:49:56] Vehicle categories and fuel types selected
+[2025-06-11 08:49:57] Clicking left refresh button
+[2025-06-11 08:49:57] Clicked left refresh button using method 1
+[2025-06-11 08:49:57] Left refresh button clicked
+[2025-06-11 08:50:02] Left panel collapsed successfully.
+[2025-06-11 08:50:02] Checking for Badgateway (503) error
+[2025-06-11 08:50:02] Downloading Excel file for Madhya Pradesh(53), DAMOH DTO - MP34( 23-JUL-2022 ), 2022
+[2025-06-11 08:50:03] Clicked Excel download button using method 1
+[2025-06-11 08:50:03] Clicked Excel download button
+[2025-06-11 08:50:06] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:50:06] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:51:06] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\DAMOH DTO - MP34( 23-JUL-2022 ).xlsx
+[2025-06-11 08:51:06] Successfully processed RTO: DAMOH DTO - MP34( 23-JUL-2022 )
+[2025-06-11 08:51:10] 
+Processing RTO: DATIA DTO - MP32( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:51:10] Checking for Badgateway (503) error
+[2025-06-11 08:51:10] Selecting RTO: DATIA DTO - MP32( 23-JUL-2022 )
+[2025-06-11 08:51:11] Clicked RTO dropdown using method 1
+[2025-06-11 08:51:12] Clicked RTO option: DATIA DTO - MP32( 23-JUL-2022 ) using method 1
+[2025-06-11 08:51:12] Successfully selected RTO: DATIA DTO - MP32( 23-JUL-2022 )
+[2025-06-11 08:51:12] Checking for Badgateway (503) error
+[2025-06-11 08:51:12] Applying left panel filters
+[2025-06-11 08:51:12] Clicked right refresh button using method 1
+[2025-06-11 08:51:16] Opening left panel if needed
+[2025-06-11 08:51:17] Clicked left panel toggler using method 1
+[2025-06-11 08:51:17] Expanded left panel
+[2025-06-11 08:51:18] Selecting vehicle categories and fuel types
+[2025-06-11 08:51:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:51:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:51:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:51:21] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:51:22] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:51:22] Vehicle categories and fuel types selected
+[2025-06-11 08:51:23] Clicking left refresh button
+[2025-06-11 08:51:23] Clicked left refresh button using method 1
+[2025-06-11 08:51:23] Left refresh button clicked
+[2025-06-11 08:51:27] Left panel collapsed successfully.
+[2025-06-11 08:51:27] Checking for Badgateway (503) error
+[2025-06-11 08:51:27] Downloading Excel file for Madhya Pradesh(53), DATIA DTO - MP32( 23-JUL-2022 ), 2022
+[2025-06-11 08:51:28] Clicked Excel download button using method 1
+[2025-06-11 08:51:28] Clicked Excel download button
+[2025-06-11 08:51:31] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:51:31] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:52:31] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\DATIA DTO - MP32( 23-JUL-2022 ).xlsx
+[2025-06-11 08:52:31] Successfully processed RTO: DATIA DTO - MP32( 23-JUL-2022 )
+[2025-06-11 08:52:35] 
+Processing RTO: DEWAS DTO - MP41( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:52:35] Checking for Badgateway (503) error
+[2025-06-11 08:52:35] Selecting RTO: DEWAS DTO - MP41( 23-JUL-2022 )
+[2025-06-11 08:52:36] Clicked RTO dropdown using method 1
+[2025-06-11 08:52:37] Clicked RTO option: DEWAS DTO - MP41( 23-JUL-2022 ) using method 1
+[2025-06-11 08:52:37] Successfully selected RTO: DEWAS DTO - MP41( 23-JUL-2022 )
+[2025-06-11 08:52:37] Checking for Badgateway (503) error
+[2025-06-11 08:52:37] Applying left panel filters
+[2025-06-11 08:52:38] Clicked right refresh button using method 1
+[2025-06-11 08:52:42] Opening left panel if needed
+[2025-06-11 08:52:42] Clicked left panel toggler using method 1
+[2025-06-11 08:52:42] Expanded left panel
+[2025-06-11 08:52:44] Selecting vehicle categories and fuel types
+[2025-06-11 08:52:44] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:52:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:52:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:52:47] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:52:48] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:52:48] Vehicle categories and fuel types selected
+[2025-06-11 08:52:49] Clicking left refresh button
+[2025-06-11 08:52:49] Clicked left refresh button using method 1
+[2025-06-11 08:52:49] Left refresh button clicked
+[2025-06-11 08:52:54] Left panel collapsed successfully.
+[2025-06-11 08:52:54] Checking for Badgateway (503) error
+[2025-06-11 08:52:54] Downloading Excel file for Madhya Pradesh(53), DEWAS DTO - MP41( 23-JUL-2022 ), 2022
+[2025-06-11 08:52:54] Clicked Excel download button using method 1
+[2025-06-11 08:52:54] Clicked Excel download button
+[2025-06-11 08:52:58] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:52:58] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:53:58] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\DEWAS DTO - MP41( 23-JUL-2022 ).xlsx
+[2025-06-11 08:53:58] Successfully processed RTO: DEWAS DTO - MP41( 23-JUL-2022 )
+[2025-06-11 08:54:02] 
+Processing RTO: DHAR ARTO - MP11( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:54:02] Checking for Badgateway (503) error
+[2025-06-11 08:54:02] Selecting RTO: DHAR ARTO - MP11( 23-JUL-2022 )
+[2025-06-11 08:54:03] Clicked RTO dropdown using method 1
+[2025-06-11 08:54:04] Clicked RTO option: DHAR ARTO - MP11( 23-JUL-2022 ) using method 1
+[2025-06-11 08:54:04] Successfully selected RTO: DHAR ARTO - MP11( 23-JUL-2022 )
+[2025-06-11 08:54:04] Checking for Badgateway (503) error
+[2025-06-11 08:54:04] Applying left panel filters
+[2025-06-11 08:54:04] Clicked right refresh button using method 1
+[2025-06-11 08:54:09] Opening left panel if needed
+[2025-06-11 08:54:09] Clicked left panel toggler using method 1
+[2025-06-11 08:54:09] Expanded left panel
+[2025-06-11 08:54:10] Selecting vehicle categories and fuel types
+[2025-06-11 08:54:11] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:54:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:54:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:54:13] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:54:14] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:54:14] Vehicle categories and fuel types selected
+[2025-06-11 08:54:15] Clicking left refresh button
+[2025-06-11 08:54:15] Clicked left refresh button using method 1
+[2025-06-11 08:54:15] Left refresh button clicked
+[2025-06-11 08:54:20] Left panel collapsed successfully.
+[2025-06-11 08:54:20] Checking for Badgateway (503) error
+[2025-06-11 08:54:20] Downloading Excel file for Madhya Pradesh(53), DHAR ARTO - MP11( 23-JUL-2022 ), 2022
+[2025-06-11 08:54:21] Clicked Excel download button using method 1
+[2025-06-11 08:54:21] Clicked Excel download button
+[2025-06-11 08:54:24] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:54:24] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:55:24] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\DHAR ARTO - MP11( 23-JUL-2022 ).xlsx
+[2025-06-11 08:55:24] Successfully processed RTO: DHAR ARTO - MP11( 23-JUL-2022 )
+[2025-06-11 08:55:27] 
+Processing RTO: DINDORI DTO - MP52( 26-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:55:27] Checking for Badgateway (503) error
+[2025-06-11 08:55:27] Selecting RTO: DINDORI DTO - MP52( 26-JUL-2022 )
+[2025-06-11 08:55:27] Clicked RTO dropdown using method 1
+[2025-06-11 08:55:28] Clicked RTO option: DINDORI DTO - MP52( 26-JUL-2022 ) using method 1
+[2025-06-11 08:55:28] Successfully selected RTO: DINDORI DTO - MP52( 26-JUL-2022 )
+[2025-06-11 08:55:28] Checking for Badgateway (503) error
+[2025-06-11 08:55:28] Applying left panel filters
+[2025-06-11 08:55:29] Clicked right refresh button using method 1
+[2025-06-11 08:55:33] Opening left panel if needed
+[2025-06-11 08:55:34] Clicked left panel toggler using method 1
+[2025-06-11 08:55:34] Expanded left panel
+[2025-06-11 08:55:35] Selecting vehicle categories and fuel types
+[2025-06-11 08:55:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:55:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:55:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:55:38] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:55:38] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:55:39] Vehicle categories and fuel types selected
+[2025-06-11 08:55:39] Clicking left refresh button
+[2025-06-11 08:55:40] Clicked left refresh button using method 1
+[2025-06-11 08:55:40] Left refresh button clicked
+[2025-06-11 08:55:44] Left panel collapsed successfully.
+[2025-06-11 08:55:44] Checking for Badgateway (503) error
+[2025-06-11 08:55:44] Downloading Excel file for Madhya Pradesh(53), DINDORI DTO - MP52( 26-JUL-2022 ), 2022
+[2025-06-11 08:55:45] Clicked Excel download button using method 1
+[2025-06-11 08:55:45] Clicked Excel download button
+[2025-06-11 08:55:48] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:55:48] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:56:48] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\DINDORI DTO - MP52( 26-JUL-2022 ).xlsx
+[2025-06-11 08:56:48] Successfully processed RTO: DINDORI DTO - MP52( 26-JUL-2022 )
+[2025-06-11 08:56:51] 
+Processing RTO: GUNA DTO - MP8( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:56:51] Checking for Badgateway (503) error
+[2025-06-11 08:56:51] Selecting RTO: GUNA DTO - MP8( 23-JUL-2022 )
+[2025-06-11 08:56:51] Clicked RTO dropdown using method 1
+[2025-06-11 08:56:52] Clicked RTO option: GUNA DTO - MP8( 23-JUL-2022 ) using method 1
+[2025-06-11 08:56:52] Successfully selected RTO: GUNA DTO - MP8( 23-JUL-2022 )
+[2025-06-11 08:56:52] Checking for Badgateway (503) error
+[2025-06-11 08:56:52] Applying left panel filters
+[2025-06-11 08:56:53] Clicked right refresh button using method 1
+[2025-06-11 08:56:57] Opening left panel if needed
+[2025-06-11 08:56:57] Clicked left panel toggler using method 1
+[2025-06-11 08:56:57] Expanded left panel
+[2025-06-11 08:56:59] Selecting vehicle categories and fuel types
+[2025-06-11 08:56:59] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:57:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:57:01] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:57:02] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:57:03] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:57:03] Vehicle categories and fuel types selected
+[2025-06-11 08:57:04] Clicking left refresh button
+[2025-06-11 08:57:04] Clicked left refresh button using method 1
+[2025-06-11 08:57:04] Left refresh button clicked
+[2025-06-11 08:57:09] Left panel collapsed successfully.
+[2025-06-11 08:57:09] Checking for Badgateway (503) error
+[2025-06-11 08:57:09] Downloading Excel file for Madhya Pradesh(53), GUNA DTO - MP8( 23-JUL-2022 ), 2022
+[2025-06-11 08:57:10] Clicked Excel download button using method 1
+[2025-06-11 08:57:10] Clicked Excel download button
+[2025-06-11 08:57:13] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:57:13] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:58:13] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\GUNA DTO - MP8( 23-JUL-2022 ).xlsx
+[2025-06-11 08:58:13] Successfully processed RTO: GUNA DTO - MP8( 23-JUL-2022 )
+[2025-06-11 08:58:16] 
+Processing RTO: GWALIOR RTO - MP7( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:58:16] Checking for Badgateway (503) error
+[2025-06-11 08:58:16] Selecting RTO: GWALIOR RTO - MP7( 23-JUL-2022 )
+[2025-06-11 08:58:17] Clicked RTO dropdown using method 1
+[2025-06-11 08:58:18] Clicked RTO option: GWALIOR RTO - MP7( 23-JUL-2022 ) using method 1
+[2025-06-11 08:58:18] Successfully selected RTO: GWALIOR RTO - MP7( 23-JUL-2022 )
+[2025-06-11 08:58:18] Checking for Badgateway (503) error
+[2025-06-11 08:58:18] Applying left panel filters
+[2025-06-11 08:58:18] Clicked right refresh button using method 1
+[2025-06-11 08:58:22] Opening left panel if needed
+[2025-06-11 08:58:22] Clicked left panel toggler using method 1
+[2025-06-11 08:58:22] Expanded left panel
+[2025-06-11 08:58:24] Selecting vehicle categories and fuel types
+[2025-06-11 08:58:24] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:58:25] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:58:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:58:26] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:58:27] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:58:27] Vehicle categories and fuel types selected
+[2025-06-11 08:58:28] Clicking left refresh button
+[2025-06-11 08:58:28] Clicked left refresh button using method 1
+[2025-06-11 08:58:28] Left refresh button clicked
+[2025-06-11 08:58:33] Left panel collapsed successfully.
+[2025-06-11 08:58:33] Checking for Badgateway (503) error
+[2025-06-11 08:58:33] Downloading Excel file for Madhya Pradesh(53), GWALIOR RTO - MP7( 23-JUL-2022 ), 2022
+[2025-06-11 08:58:34] Clicked Excel download button using method 1
+[2025-06-11 08:58:34] Clicked Excel download button
+[2025-06-11 08:58:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 08:58:37] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 08:59:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\GWALIOR RTO - MP7( 23-JUL-2022 ).xlsx
+[2025-06-11 08:59:37] Successfully processed RTO: GWALIOR RTO - MP7( 23-JUL-2022 )
+[2025-06-11 08:59:40] 
+Processing RTO: HARDA DTO - MP47( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 08:59:40] Checking for Badgateway (503) error
+[2025-06-11 08:59:40] Selecting RTO: HARDA DTO - MP47( 23-JUL-2022 )
+[2025-06-11 08:59:40] Clicked RTO dropdown using method 1
+[2025-06-11 08:59:41] Clicked RTO option: HARDA DTO - MP47( 23-JUL-2022 ) using method 1
+[2025-06-11 08:59:41] Successfully selected RTO: HARDA DTO - MP47( 23-JUL-2022 )
+[2025-06-11 08:59:41] Checking for Badgateway (503) error
+[2025-06-11 08:59:41] Applying left panel filters
+[2025-06-11 08:59:42] Clicked right refresh button using method 1
+[2025-06-11 08:59:46] Opening left panel if needed
+[2025-06-11 08:59:46] Clicked left panel toggler using method 1
+[2025-06-11 08:59:46] Expanded left panel
+[2025-06-11 08:59:48] Selecting vehicle categories and fuel types
+[2025-06-11 08:59:48] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 08:59:49] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 08:59:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 08:59:51] Clicked checkbox fuel:7 using method 2
+[2025-06-11 08:59:52] Clicked checkbox fuel:21 using method 2
+[2025-06-11 08:59:53] Vehicle categories and fuel types selected
+[2025-06-11 08:59:53] Clicking left refresh button
+[2025-06-11 08:59:54] Clicked left refresh button using method 1
+[2025-06-11 08:59:54] Left refresh button clicked
+[2025-06-11 08:59:58] Left panel collapsed successfully.
+[2025-06-11 08:59:58] Checking for Badgateway (503) error
+[2025-06-11 08:59:58] Downloading Excel file for Madhya Pradesh(53), HARDA DTO - MP47( 23-JUL-2022 ), 2022
+[2025-06-11 08:59:59] Clicked Excel download button using method 1
+[2025-06-11 08:59:59] Clicked Excel download button
+[2025-06-11 09:00:02] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:00:02] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:01:02] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\HARDA DTO - MP47( 23-JUL-2022 ).xlsx
+[2025-06-11 09:01:02] Successfully processed RTO: HARDA DTO - MP47( 23-JUL-2022 )
+[2025-06-11 09:01:06] 
+Processing RTO: HOSANGABAD DTO - MP5( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:01:06] Checking for Badgateway (503) error
+[2025-06-11 09:01:06] Selecting RTO: HOSANGABAD DTO - MP5( 23-JUL-2022 )
+[2025-06-11 09:01:06] Clicked RTO dropdown using method 1
+[2025-06-11 09:01:07] Clicked RTO option: HOSANGABAD DTO - MP5( 23-JUL-2022 ) using method 1
+[2025-06-11 09:01:07] Successfully selected RTO: HOSANGABAD DTO - MP5( 23-JUL-2022 )
+[2025-06-11 09:01:07] Checking for Badgateway (503) error
+[2025-06-11 09:01:07] Applying left panel filters
+[2025-06-11 09:01:08] Clicked right refresh button using method 1
+[2025-06-11 09:01:12] Opening left panel if needed
+[2025-06-11 09:01:12] Clicked left panel toggler using method 1
+[2025-06-11 09:01:12] Expanded left panel
+[2025-06-11 09:01:13] Selecting vehicle categories and fuel types
+[2025-06-11 09:01:14] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:01:15] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:01:16] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:01:16] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:01:17] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:01:17] Vehicle categories and fuel types selected
+[2025-06-11 09:01:18] Clicking left refresh button
+[2025-06-11 09:01:19] Clicked left refresh button using method 1
+[2025-06-11 09:01:19] Left refresh button clicked
+[2025-06-11 09:01:24] Left panel collapsed successfully.
+[2025-06-11 09:01:24] Checking for Badgateway (503) error
+[2025-06-11 09:01:24] Downloading Excel file for Madhya Pradesh(53), HOSANGABAD DTO - MP5( 23-JUL-2022 ), 2022
+[2025-06-11 09:01:24] Clicked Excel download button using method 1
+[2025-06-11 09:01:24] Clicked Excel download button
+[2025-06-11 09:01:28] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:01:28] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:02:28] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\HOSANGABAD DTO - MP5( 23-JUL-2022 ).xlsx
+[2025-06-11 09:02:28] Successfully processed RTO: HOSANGABAD DTO - MP5( 23-JUL-2022 )
+[2025-06-11 09:02:30] 
+Processing RTO: INDORE RTO - MP9( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:02:30] Checking for Badgateway (503) error
+[2025-06-11 09:02:30] Selecting RTO: INDORE RTO - MP9( 23-JUL-2022 )
+[2025-06-11 09:02:31] Clicked RTO dropdown using method 1
+[2025-06-11 09:02:32] Clicked RTO option: INDORE RTO - MP9( 23-JUL-2022 ) using method 1
+[2025-06-11 09:02:32] Successfully selected RTO: INDORE RTO - MP9( 23-JUL-2022 )
+[2025-06-11 09:02:32] Checking for Badgateway (503) error
+[2025-06-11 09:02:32] Applying left panel filters
+[2025-06-11 09:02:32] Clicked right refresh button using method 1
+[2025-06-11 09:02:37] Opening left panel if needed
+[2025-06-11 09:02:37] Clicked left panel toggler using method 1
+[2025-06-11 09:02:37] Expanded left panel
+[2025-06-11 09:02:38] Selecting vehicle categories and fuel types
+[2025-06-11 09:02:39] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:02:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:02:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:02:41] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:02:42] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:02:42] Vehicle categories and fuel types selected
+[2025-06-11 09:02:43] Clicking left refresh button
+[2025-06-11 09:02:43] Clicked left refresh button using method 1
+[2025-06-11 09:02:43] Left refresh button clicked
+[2025-06-11 09:02:48] Left panel collapsed successfully.
+[2025-06-11 09:02:48] Checking for Badgateway (503) error
+[2025-06-11 09:02:48] Downloading Excel file for Madhya Pradesh(53), INDORE RTO - MP9( 23-JUL-2022 ), 2022
+[2025-06-11 09:02:49] Clicked Excel download button using method 1
+[2025-06-11 09:02:49] Clicked Excel download button
+[2025-06-11 09:02:52] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:02:52] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:03:52] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\INDORE RTO - MP9( 23-JUL-2022 ).xlsx
+[2025-06-11 09:03:52] Successfully processed RTO: INDORE RTO - MP9( 23-JUL-2022 )
+[2025-06-11 09:03:57] 
+Processing RTO: JABALPUR RTO - MP20( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:03:57] Checking for Badgateway (503) error
+[2025-06-11 09:03:57] Selecting RTO: JABALPUR RTO - MP20( 23-JUL-2022 )
+[2025-06-11 09:03:57] Clicked RTO dropdown using method 1
+[2025-06-11 09:03:59] Clicked RTO option: JABALPUR RTO - MP20( 23-JUL-2022 ) using method 1
+[2025-06-11 09:03:59] Successfully selected RTO: JABALPUR RTO - MP20( 23-JUL-2022 )
+[2025-06-11 09:03:59] Checking for Badgateway (503) error
+[2025-06-11 09:03:59] Applying left panel filters
+[2025-06-11 09:03:59] Clicked right refresh button using method 1
+[2025-06-11 09:04:03] Opening left panel if needed
+[2025-06-11 09:04:03] Clicked left panel toggler using method 1
+[2025-06-11 09:04:03] Expanded left panel
+[2025-06-11 09:04:05] Selecting vehicle categories and fuel types
+[2025-06-11 09:04:05] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:04:06] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:04:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:04:08] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:04:09] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:04:09] Vehicle categories and fuel types selected
+[2025-06-11 09:04:10] Clicking left refresh button
+[2025-06-11 09:04:10] Clicked left refresh button using method 1
+[2025-06-11 09:04:10] Left refresh button clicked
+[2025-06-11 09:04:15] Left panel collapsed successfully.
+[2025-06-11 09:04:15] Checking for Badgateway (503) error
+[2025-06-11 09:04:15] Downloading Excel file for Madhya Pradesh(53), JABALPUR RTO - MP20( 23-JUL-2022 ), 2022
+[2025-06-11 09:04:16] Clicked Excel download button using method 1
+[2025-06-11 09:04:16] Clicked Excel download button
+[2025-06-11 09:04:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:04:19] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:05:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\JABALPUR RTO - MP20( 23-JUL-2022 ).xlsx
+[2025-06-11 09:05:19] Successfully processed RTO: JABALPUR RTO - MP20( 23-JUL-2022 )
+[2025-06-11 09:05:21] 
+Processing RTO: JHABUA DTO - MP45( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:05:21] Checking for Badgateway (503) error
+[2025-06-11 09:05:22] Selecting RTO: JHABUA DTO - MP45( 23-JUL-2022 )
+[2025-06-11 09:05:22] Clicked RTO dropdown using method 1
+[2025-06-11 09:05:23] Clicked RTO option: JHABUA DTO - MP45( 23-JUL-2022 ) using method 1
+[2025-06-11 09:05:23] Successfully selected RTO: JHABUA DTO - MP45( 23-JUL-2022 )
+[2025-06-11 09:05:23] Checking for Badgateway (503) error
+[2025-06-11 09:05:23] Applying left panel filters
+[2025-06-11 09:05:24] Clicked right refresh button using method 1
+[2025-06-11 09:05:29] Opening left panel if needed
+[2025-06-11 09:05:29] Clicked left panel toggler using method 1
+[2025-06-11 09:05:29] Expanded left panel
+[2025-06-11 09:05:30] Selecting vehicle categories and fuel types
+[2025-06-11 09:05:31] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:05:31] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:05:32] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:05:33] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:05:34] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:05:35] Vehicle categories and fuel types selected
+[2025-06-11 09:05:35] Clicking left refresh button
+[2025-06-11 09:05:35] Clicked left refresh button using method 1
+[2025-06-11 09:05:35] Left refresh button clicked
+[2025-06-11 09:05:40] Left panel collapsed successfully.
+[2025-06-11 09:05:40] Checking for Badgateway (503) error
+[2025-06-11 09:05:40] Downloading Excel file for Madhya Pradesh(53), JHABUA DTO - MP45( 23-JUL-2022 ), 2022
+[2025-06-11 09:05:40] Clicked Excel download button using method 1
+[2025-06-11 09:05:41] Clicked Excel download button
+[2025-06-11 09:05:44] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:05:44] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:06:44] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\JHABUA DTO - MP45( 23-JUL-2022 ).xlsx
+[2025-06-11 09:06:44] Successfully processed RTO: JHABUA DTO - MP45( 23-JUL-2022 )
+[2025-06-11 09:06:47] 
+Processing RTO: KATNI ARTO - MP21( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:06:47] Checking for Badgateway (503) error
+[2025-06-11 09:06:47] Selecting RTO: KATNI ARTO - MP21( 23-JUL-2022 )
+[2025-06-11 09:06:47] Clicked RTO dropdown using method 1
+[2025-06-11 09:06:49] Clicked RTO option: KATNI ARTO - MP21( 23-JUL-2022 ) using method 1
+[2025-06-11 09:06:49] Successfully selected RTO: KATNI ARTO - MP21( 23-JUL-2022 )
+[2025-06-11 09:06:49] Checking for Badgateway (503) error
+[2025-06-11 09:06:49] Applying left panel filters
+[2025-06-11 09:06:49] Clicked right refresh button using method 1
+[2025-06-11 09:06:54] Opening left panel if needed
+[2025-06-11 09:06:54] Clicked left panel toggler using method 1
+[2025-06-11 09:06:54] Expanded left panel
+[2025-06-11 09:06:56] Selecting vehicle categories and fuel types
+[2025-06-11 09:06:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:06:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:06:57] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:06:58] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:06:59] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:06:59] Vehicle categories and fuel types selected
+[2025-06-11 09:07:00] Clicking left refresh button
+[2025-06-11 09:07:01] Clicked left refresh button using method 1
+[2025-06-11 09:07:01] Left refresh button clicked
+[2025-06-11 09:07:05] Left panel collapsed successfully.
+[2025-06-11 09:07:05] Checking for Badgateway (503) error
+[2025-06-11 09:07:05] Downloading Excel file for Madhya Pradesh(53), KATNI ARTO - MP21( 23-JUL-2022 ), 2022
+[2025-06-11 09:07:06] Clicked Excel download button using method 1
+[2025-06-11 09:07:06] Clicked Excel download button
+[2025-06-11 09:07:09] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:07:09] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:08:09] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\KATNI ARTO - MP21( 23-JUL-2022 ).xlsx
+[2025-06-11 09:08:09] Successfully processed RTO: KATNI ARTO - MP21( 23-JUL-2022 )
+[2025-06-11 09:08:12] 
+Processing RTO: KHANDWA ARTO - MP12( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:08:12] Checking for Badgateway (503) error
+[2025-06-11 09:08:12] Selecting RTO: KHANDWA ARTO - MP12( 23-JUL-2022 )
+[2025-06-11 09:08:13] Clicked RTO dropdown using method 1
+[2025-06-11 09:08:14] Clicked RTO option: KHANDWA ARTO - MP12( 23-JUL-2022 ) using method 1
+[2025-06-11 09:08:14] Successfully selected RTO: KHANDWA ARTO - MP12( 23-JUL-2022 )
+[2025-06-11 09:08:14] Checking for Badgateway (503) error
+[2025-06-11 09:08:14] Applying left panel filters
+[2025-06-11 09:08:14] Clicked right refresh button using method 1
+[2025-06-11 09:08:19] Opening left panel if needed
+[2025-06-11 09:08:19] Clicked left panel toggler using method 1
+[2025-06-11 09:08:19] Expanded left panel
+[2025-06-11 09:08:21] Selecting vehicle categories and fuel types
+[2025-06-11 09:08:21] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:08:22] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:08:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:08:23] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:08:24] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:08:25] Vehicle categories and fuel types selected
+[2025-06-11 09:08:25] Clicking left refresh button
+[2025-06-11 09:08:26] Clicked left refresh button using method 1
+[2025-06-11 09:08:26] Left refresh button clicked
+[2025-06-11 09:08:31] Left panel collapsed successfully.
+[2025-06-11 09:08:31] Checking for Badgateway (503) error
+[2025-06-11 09:08:31] Downloading Excel file for Madhya Pradesh(53), KHANDWA ARTO - MP12( 23-JUL-2022 ), 2022
+[2025-06-11 09:08:32] Clicked Excel download button using method 1
+[2025-06-11 09:08:32] Clicked Excel download button
+[2025-06-11 09:08:35] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:08:35] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:09:35] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\KHANDWA ARTO - MP12( 23-JUL-2022 ).xlsx
+[2025-06-11 09:09:35] Successfully processed RTO: KHANDWA ARTO - MP12( 23-JUL-2022 )
+[2025-06-11 09:09:38] 
+Processing RTO: KHARGONE ARTO - MP10( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:09:38] Checking for Badgateway (503) error
+[2025-06-11 09:09:38] Selecting RTO: KHARGONE ARTO - MP10( 23-JUL-2022 )
+[2025-06-11 09:09:38] Clicked RTO dropdown using method 1
+[2025-06-11 09:09:40] Clicked RTO option: KHARGONE ARTO - MP10( 23-JUL-2022 ) using method 1
+[2025-06-11 09:09:40] Successfully selected RTO: KHARGONE ARTO - MP10( 23-JUL-2022 )
+[2025-06-11 09:09:40] Checking for Badgateway (503) error
+[2025-06-11 09:09:40] Applying left panel filters
+[2025-06-11 09:09:40] Clicked right refresh button using method 1
+[2025-06-11 09:09:45] Opening left panel if needed
+[2025-06-11 09:09:45] Clicked left panel toggler using method 1
+[2025-06-11 09:09:45] Expanded left panel
+[2025-06-11 09:09:46] Selecting vehicle categories and fuel types
+[2025-06-11 09:09:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:09:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:09:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:09:49] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:09:49] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:09:49] Vehicle categories and fuel types selected
+[2025-06-11 09:09:50] Clicking left refresh button
+[2025-06-11 09:09:51] Clicked left refresh button using method 1
+[2025-06-11 09:09:51] Left refresh button clicked
+[2025-06-11 09:09:55] Left panel collapsed successfully.
+[2025-06-11 09:09:55] Checking for Badgateway (503) error
+[2025-06-11 09:09:55] Downloading Excel file for Madhya Pradesh(53), KHARGONE ARTO - MP10( 23-JUL-2022 ), 2022
+[2025-06-11 09:09:56] Clicked Excel download button using method 1
+[2025-06-11 09:09:56] Clicked Excel download button
+[2025-06-11 09:10:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:10:00] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:11:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\KHARGONE ARTO - MP10( 23-JUL-2022 ).xlsx
+[2025-06-11 09:11:00] Successfully processed RTO: KHARGONE ARTO - MP10( 23-JUL-2022 )
+[2025-06-11 09:11:02] 
+Processing RTO: MANDLA DTO - MP51( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:11:02] Checking for Badgateway (503) error
+[2025-06-11 09:11:02] Selecting RTO: MANDLA DTO - MP51( 23-JUL-2022 )
+[2025-06-11 09:11:03] Clicked RTO dropdown using method 1
+[2025-06-11 09:11:04] Clicked RTO option: MANDLA DTO - MP51( 23-JUL-2022 ) using method 1
+[2025-06-11 09:11:04] Successfully selected RTO: MANDLA DTO - MP51( 23-JUL-2022 )
+[2025-06-11 09:11:04] Checking for Badgateway (503) error
+[2025-06-11 09:11:04] Applying left panel filters
+[2025-06-11 09:11:05] Clicked right refresh button using method 1
+[2025-06-11 09:11:09] Opening left panel if needed
+[2025-06-11 09:11:10] Clicked left panel toggler using method 1
+[2025-06-11 09:11:10] Expanded left panel
+[2025-06-11 09:11:11] Selecting vehicle categories and fuel types
+[2025-06-11 09:11:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:11:12] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:11:13] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:11:14] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:11:15] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:11:15] Vehicle categories and fuel types selected
+[2025-06-11 09:11:16] Clicking left refresh button
+[2025-06-11 09:11:16] Clicked left refresh button using method 1
+[2025-06-11 09:11:16] Left refresh button clicked
+[2025-06-11 09:11:21] Left panel collapsed successfully.
+[2025-06-11 09:11:21] Checking for Badgateway (503) error
+[2025-06-11 09:11:21] Downloading Excel file for Madhya Pradesh(53), MANDLA DTO - MP51( 23-JUL-2022 ), 2022
+[2025-06-11 09:11:21] Clicked Excel download button using method 1
+[2025-06-11 09:11:21] Clicked Excel download button
+[2025-06-11 09:11:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:11:25] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:12:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\MANDLA DTO - MP51( 23-JUL-2022 ).xlsx
+[2025-06-11 09:12:25] Successfully processed RTO: MANDLA DTO - MP51( 23-JUL-2022 )
+[2025-06-11 09:12:28] 
+Processing RTO: MANDSAUR ARTO - MP14( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:12:28] Checking for Badgateway (503) error
+[2025-06-11 09:12:28] Selecting RTO: MANDSAUR ARTO - MP14( 23-JUL-2022 )
+[2025-06-11 09:12:29] Clicked RTO dropdown using method 1
+[2025-06-11 09:12:30] Clicked RTO option: MANDSAUR ARTO - MP14( 23-JUL-2022 ) using method 1
+[2025-06-11 09:12:30] Successfully selected RTO: MANDSAUR ARTO - MP14( 23-JUL-2022 )
+[2025-06-11 09:12:30] Checking for Badgateway (503) error
+[2025-06-11 09:12:30] Applying left panel filters
+[2025-06-11 09:12:30] Clicked right refresh button using method 1
+[2025-06-11 09:12:35] Opening left panel if needed
+[2025-06-11 09:12:35] Clicked left panel toggler using method 1
+[2025-06-11 09:12:35] Expanded left panel
+[2025-06-11 09:12:36] Selecting vehicle categories and fuel types
+[2025-06-11 09:12:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:12:37] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:12:38] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:12:39] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:12:39] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:12:40] Vehicle categories and fuel types selected
+[2025-06-11 09:12:41] Clicking left refresh button
+[2025-06-11 09:12:41] Clicked left refresh button using method 1
+[2025-06-11 09:12:41] Left refresh button clicked
+[2025-06-11 09:12:46] Left panel collapsed successfully.
+[2025-06-11 09:12:46] Checking for Badgateway (503) error
+[2025-06-11 09:12:46] Downloading Excel file for Madhya Pradesh(53), MANDSAUR ARTO - MP14( 23-JUL-2022 ), 2022
+[2025-06-11 09:12:46] Clicked Excel download button using method 1
+[2025-06-11 09:12:46] Clicked Excel download button
+[2025-06-11 09:12:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:12:50] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:13:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\MANDSAUR ARTO - MP14( 23-JUL-2022 ).xlsx
+[2025-06-11 09:13:50] Successfully processed RTO: MANDSAUR ARTO - MP14( 23-JUL-2022 )
+[2025-06-11 09:13:53] 
+Processing RTO: MORENA DTO - MP6( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:13:53] Checking for Badgateway (503) error
+[2025-06-11 09:13:53] Selecting RTO: MORENA DTO - MP6( 23-JUL-2022 )
+[2025-06-11 09:13:53] Clicked RTO dropdown using method 1
+[2025-06-11 09:13:54] Clicked RTO option: MORENA DTO - MP6( 23-JUL-2022 ) using method 1
+[2025-06-11 09:13:54] Successfully selected RTO: MORENA DTO - MP6( 23-JUL-2022 )
+[2025-06-11 09:13:54] Checking for Badgateway (503) error
+[2025-06-11 09:13:54] Applying left panel filters
+[2025-06-11 09:13:55] Clicked right refresh button using method 1
+[2025-06-11 09:13:59] Opening left panel if needed
+[2025-06-11 09:13:59] Clicked left panel toggler using method 1
+[2025-06-11 09:13:59] Expanded left panel
+[2025-06-11 09:14:01] Selecting vehicle categories and fuel types
+[2025-06-11 09:14:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:14:02] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:14:03] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:14:04] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:14:05] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:14:05] Vehicle categories and fuel types selected
+[2025-06-11 09:14:06] Clicking left refresh button
+[2025-06-11 09:14:06] Clicked left refresh button using method 1
+[2025-06-11 09:14:06] Left refresh button clicked
+[2025-06-11 09:14:11] Left panel collapsed successfully.
+[2025-06-11 09:14:11] Checking for Badgateway (503) error
+[2025-06-11 09:14:11] Downloading Excel file for Madhya Pradesh(53), MORENA DTO - MP6( 23-JUL-2022 ), 2022
+[2025-06-11 09:14:12] Clicked Excel download button using method 1
+[2025-06-11 09:14:12] Clicked Excel download button
+[2025-06-11 09:14:15] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:14:15] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:15:16] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\MORENA DTO - MP6( 23-JUL-2022 ).xlsx
+[2025-06-11 09:15:16] Successfully processed RTO: MORENA DTO - MP6( 23-JUL-2022 )
+[2025-06-11 09:15:19] 
+Processing RTO: NARSINGHPUR DTO - MP49( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:15:19] Checking for Badgateway (503) error
+[2025-06-11 09:15:19] Selecting RTO: NARSINGHPUR DTO - MP49( 23-JUL-2022 )
+[2025-06-11 09:15:20] Clicked RTO dropdown using method 1
+[2025-06-11 09:15:21] Clicked RTO option: NARSINGHPUR DTO - MP49( 23-JUL-2022 ) using method 1
+[2025-06-11 09:15:21] Successfully selected RTO: NARSINGHPUR DTO - MP49( 23-JUL-2022 )
+[2025-06-11 09:15:21] Checking for Badgateway (503) error
+[2025-06-11 09:15:21] Applying left panel filters
+[2025-06-11 09:15:21] Clicked right refresh button using method 1
+[2025-06-11 09:15:25] Opening left panel if needed
+[2025-06-11 09:15:26] Clicked left panel toggler using method 1
+[2025-06-11 09:15:26] Expanded left panel
+[2025-06-11 09:15:27] Selecting vehicle categories and fuel types
+[2025-06-11 09:15:28] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:15:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:15:29] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:15:30] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:15:31] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:15:31] Vehicle categories and fuel types selected
+[2025-06-11 09:15:32] Clicking left refresh button
+[2025-06-11 09:15:32] Clicked left refresh button using method 1
+[2025-06-11 09:15:32] Left refresh button clicked
+[2025-06-11 09:15:37] Left panel collapsed successfully.
+[2025-06-11 09:15:37] Checking for Badgateway (503) error
+[2025-06-11 09:15:37] Downloading Excel file for Madhya Pradesh(53), NARSINGHPUR DTO - MP49( 23-JUL-2022 ), 2022
+[2025-06-11 09:15:37] Clicked Excel download button using method 1
+[2025-06-11 09:15:37] Clicked Excel download button
+[2025-06-11 09:15:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:15:41] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:16:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\NARSINGHPUR DTO - MP49( 23-JUL-2022 ).xlsx
+[2025-06-11 09:16:41] Successfully processed RTO: NARSINGHPUR DTO - MP49( 23-JUL-2022 )
+[2025-06-11 09:16:43] 
+Processing RTO: NEEMUCH DTO - MP44( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:16:43] Checking for Badgateway (503) error
+[2025-06-11 09:16:43] Selecting RTO: NEEMUCH DTO - MP44( 23-JUL-2022 )
+[2025-06-11 09:16:44] Clicked RTO dropdown using method 1
+[2025-06-11 09:16:45] Clicked RTO option: NEEMUCH DTO - MP44( 23-JUL-2022 ) using method 1
+[2025-06-11 09:16:45] Successfully selected RTO: NEEMUCH DTO - MP44( 23-JUL-2022 )
+[2025-06-11 09:16:45] Checking for Badgateway (503) error
+[2025-06-11 09:16:45] Applying left panel filters
+[2025-06-11 09:16:45] Clicked right refresh button using method 1
+[2025-06-11 09:16:50] Opening left panel if needed
+[2025-06-11 09:16:50] Clicked left panel toggler using method 1
+[2025-06-11 09:16:50] Expanded left panel
+[2025-06-11 09:16:51] Selecting vehicle categories and fuel types
+[2025-06-11 09:16:52] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:16:53] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:16:54] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:16:54] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:16:55] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:16:56] Vehicle categories and fuel types selected
+[2025-06-11 09:16:56] Clicking left refresh button
+[2025-06-11 09:16:57] Clicked left refresh button using method 1
+[2025-06-11 09:16:57] Left refresh button clicked
+[2025-06-11 09:17:02] Left panel collapsed successfully.
+[2025-06-11 09:17:02] Checking for Badgateway (503) error
+[2025-06-11 09:17:02] Downloading Excel file for Madhya Pradesh(53), NEEMUCH DTO - MP44( 23-JUL-2022 ), 2022
+[2025-06-11 09:17:02] Clicked Excel download button using method 1
+[2025-06-11 09:17:02] Clicked Excel download button
+[2025-06-11 09:17:05] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:17:05] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:18:05] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\NEEMUCH DTO - MP44( 23-JUL-2022 ).xlsx
+[2025-06-11 09:18:05] Successfully processed RTO: NEEMUCH DTO - MP44( 23-JUL-2022 )
+[2025-06-11 09:18:09] 
+Processing RTO: NIWARI DTO - MP71( 20-OCT-2023 ) (Attempt 1)
+[2025-06-11 09:18:09] Checking for Badgateway (503) error
+[2025-06-11 09:18:09] Selecting RTO: NIWARI DTO - MP71( 20-OCT-2023 )
+[2025-06-11 09:18:09] Clicked RTO dropdown using method 1
+[2025-06-11 09:18:10] Clicked RTO option: NIWARI DTO - MP71( 20-OCT-2023 ) using method 1
+[2025-06-11 09:18:10] Successfully selected RTO: NIWARI DTO - MP71( 20-OCT-2023 )
+[2025-06-11 09:18:10] Checking for Badgateway (503) error
+[2025-06-11 09:18:10] Applying left panel filters
+[2025-06-11 09:18:11] Clicked right refresh button using method 1
+[2025-06-11 09:18:16] Opening left panel if needed
+[2025-06-11 09:18:16] Clicked left panel toggler using method 1
+[2025-06-11 09:18:16] Expanded left panel
+[2025-06-11 09:18:18] Selecting vehicle categories and fuel types
+[2025-06-11 09:18:18] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:18:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:18:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:18:20] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:18:21] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:18:22] Vehicle categories and fuel types selected
+[2025-06-11 09:18:22] Clicking left refresh button
+[2025-06-11 09:18:23] Clicked left refresh button using method 1
+[2025-06-11 09:18:23] Left refresh button clicked
+[2025-06-11 09:18:28] Left panel collapsed successfully.
+[2025-06-11 09:18:28] Checking for Badgateway (503) error
+[2025-06-11 09:18:28] Downloading Excel file for Madhya Pradesh(53), NIWARI DTO - MP71( 20-OCT-2023 ), 2022
+[2025-06-11 09:18:29] Clicked Excel download button using method 1
+[2025-06-11 09:18:29] Clicked Excel download button
+[2025-06-11 09:18:32] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:18:32] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:19:32] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\NIWARI DTO - MP71( 20-OCT-2023 ).xlsx
+[2025-06-11 09:19:32] Successfully processed RTO: NIWARI DTO - MP71( 20-OCT-2023 )
+[2025-06-11 09:19:35] 
+Processing RTO: PANNA DTO - MP35( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:19:35] Checking for Badgateway (503) error
+[2025-06-11 09:19:35] Selecting RTO: PANNA DTO - MP35( 23-JUL-2022 )
+[2025-06-11 09:19:36] Clicked RTO dropdown using method 1
+[2025-06-11 09:19:38] Clicked RTO option: PANNA DTO - MP35( 23-JUL-2022 ) using method 1
+[2025-06-11 09:19:38] Successfully selected RTO: PANNA DTO - MP35( 23-JUL-2022 )
+[2025-06-11 09:19:38] Checking for Badgateway (503) error
+[2025-06-11 09:19:38] Applying left panel filters
+[2025-06-11 09:19:39] Clicked right refresh button using method 1
+[2025-06-11 09:19:43] Opening left panel if needed
+[2025-06-11 09:19:44] Clicked left panel toggler using method 1
+[2025-06-11 09:19:44] Expanded left panel
+[2025-06-11 09:19:45] Selecting vehicle categories and fuel types
+[2025-06-11 09:19:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:19:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:19:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:19:49] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:19:50] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:19:50] Vehicle categories and fuel types selected
+[2025-06-11 09:19:51] Clicking left refresh button
+[2025-06-11 09:19:52] Clicked left refresh button using method 1
+[2025-06-11 09:19:52] Left refresh button clicked
+[2025-06-11 09:19:56] Left panel collapsed successfully.
+[2025-06-11 09:19:56] Checking for Badgateway (503) error
+[2025-06-11 09:19:56] Downloading Excel file for Madhya Pradesh(53), PANNA DTO - MP35( 23-JUL-2022 ), 2022
+[2025-06-11 09:19:57] Clicked Excel download button using method 1
+[2025-06-11 09:19:57] Clicked Excel download button
+[2025-06-11 09:20:01] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:20:01] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:21:01] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\PANNA DTO - MP35( 23-JUL-2022 ).xlsx
+[2025-06-11 09:21:01] Successfully processed RTO: PANNA DTO - MP35( 23-JUL-2022 )
+[2025-06-11 09:21:05] 
+Processing RTO: RAISEN DTO - MP38( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:21:05] Checking for Badgateway (503) error
+[2025-06-11 09:21:05] Selecting RTO: RAISEN DTO - MP38( 23-JUL-2022 )
+[2025-06-11 09:21:05] Clicked RTO dropdown using method 1
+[2025-06-11 09:21:06] Clicked RTO option: RAISEN DTO - MP38( 23-JUL-2022 ) using method 1
+[2025-06-11 09:21:06] Successfully selected RTO: RAISEN DTO - MP38( 23-JUL-2022 )
+[2025-06-11 09:21:06] Checking for Badgateway (503) error
+[2025-06-11 09:21:06] Applying left panel filters
+[2025-06-11 09:21:07] Clicked right refresh button using method 1
+[2025-06-11 09:21:11] Opening left panel if needed
+[2025-06-11 09:21:12] Clicked left panel toggler using method 1
+[2025-06-11 09:21:12] Expanded left panel
+[2025-06-11 09:21:13] Selecting vehicle categories and fuel types
+[2025-06-11 09:21:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:21:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:21:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:21:16] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:21:17] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:21:17] Vehicle categories and fuel types selected
+[2025-06-11 09:21:18] Clicking left refresh button
+[2025-06-11 09:21:18] Clicked left refresh button using method 1
+[2025-06-11 09:21:18] Left refresh button clicked
+[2025-06-11 09:21:24] Left panel collapsed successfully.
+[2025-06-11 09:21:24] Checking for Badgateway (503) error
+[2025-06-11 09:21:24] Downloading Excel file for Madhya Pradesh(53), RAISEN DTO - MP38( 23-JUL-2022 ), 2022
+[2025-06-11 09:21:24] Clicked Excel download button using method 1
+[2025-06-11 09:21:24] Clicked Excel download button
+[2025-06-11 09:21:27] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:21:27] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:22:27] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\RAISEN DTO - MP38( 23-JUL-2022 ).xlsx
+[2025-06-11 09:22:27] Successfully processed RTO: RAISEN DTO - MP38( 23-JUL-2022 )
+[2025-06-11 09:22:31] 
+Processing RTO: RAJGARH DTO - MP39( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:22:31] Checking for Badgateway (503) error
+[2025-06-11 09:22:31] Selecting RTO: RAJGARH DTO - MP39( 23-JUL-2022 )
+[2025-06-11 09:22:32] Clicked RTO dropdown using method 1
+[2025-06-11 09:22:33] Clicked RTO option: RAJGARH DTO - MP39( 23-JUL-2022 ) using method 1
+[2025-06-11 09:22:33] Successfully selected RTO: RAJGARH DTO - MP39( 23-JUL-2022 )
+[2025-06-11 09:22:33] Checking for Badgateway (503) error
+[2025-06-11 09:22:33] Applying left panel filters
+[2025-06-11 09:22:33] Clicked right refresh button using method 1
+[2025-06-11 09:22:38] Opening left panel if needed
+[2025-06-11 09:22:38] Clicked left panel toggler using method 1
+[2025-06-11 09:22:38] Expanded left panel
+[2025-06-11 09:22:40] Selecting vehicle categories and fuel types
+[2025-06-11 09:22:40] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 09:22:41] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 09:22:42] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 09:22:42] Clicked checkbox fuel:7 using method 2
+[2025-06-11 09:22:43] Clicked checkbox fuel:21 using method 2
+[2025-06-11 09:22:43] Vehicle categories and fuel types selected
+[2025-06-11 09:22:44] Clicking left refresh button
+[2025-06-11 09:22:44] Clicked left refresh button using method 1
+[2025-06-11 09:22:44] Left refresh button clicked
+[2025-06-11 09:22:49] Left panel collapsed successfully.
+[2025-06-11 09:22:49] Checking for Badgateway (503) error
+[2025-06-11 09:22:49] Downloading Excel file for Madhya Pradesh(53), RAJGARH DTO - MP39( 23-JUL-2022 ), 2022
+[2025-06-11 09:22:49] Clicked Excel download button using method 1
+[2025-06-11 09:22:49] Clicked Excel download button
+[2025-06-11 09:22:52] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:22:52] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:23:52] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\RAJGARH DTO - MP39( 23-JUL-2022 ).xlsx
+[2025-06-11 09:23:52] Successfully processed RTO: RAJGARH DTO - MP39( 23-JUL-2022 )
+[2025-06-11 09:23:56] 
+Processing RTO: RATLAM DTO - MP43( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:23:56] Checking for Badgateway (503) error
+[2025-06-11 09:23:56] Selecting RTO: RATLAM DTO - MP43( 23-JUL-2022 )
+[2025-06-11 09:23:56] Clicked RTO dropdown using method 1
+[2025-06-11 09:23:57] Clicked RTO option: RATLAM DTO - MP43( 23-JUL-2022 ) using method 1
+[2025-06-11 09:23:57] Successfully selected RTO: RATLAM DTO - MP43( 23-JUL-2022 )
+[2025-06-11 09:23:57] Checking for Badgateway (503) error
+[2025-06-11 09:23:57] Applying left panel filters
+[2025-06-11 09:23:57] Clicked right refresh button using method 1
+[2025-06-11 09:24:02] Opening left panel if needed
+[2025-06-11 09:24:02] Clicked left panel toggler using method 1
+[2025-06-11 09:24:02] Expanded left panel
+[2025-06-11 09:24:03] Selecting vehicle categories and fuel types
+[2025-06-11 09:24:06] Vehicle categories and fuel types selected
+[2025-06-11 09:24:06] Clicking left refresh button
+[2025-06-11 09:24:07] Clicked left refresh button using method 1
+[2025-06-11 09:24:07] Left refresh button clicked
+[2025-06-11 09:24:11] Left panel collapsed successfully.
+[2025-06-11 09:24:11] Checking for Badgateway (503) error
+[2025-06-11 09:24:11] Downloading Excel file for Madhya Pradesh(53), RATLAM DTO - MP43( 23-JUL-2022 ), 2022
+[2025-06-11 09:24:17] Clicked Excel download button using method 1
+[2025-06-11 09:24:17] Clicked Excel download button
+[2025-06-11 09:24:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:24:21] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:25:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Madhya Pradesh(53)\RATLAM DTO - MP43( 23-JUL-2022 ).xlsx
+[2025-06-11 09:25:21] Successfully processed RTO: RATLAM DTO - MP43( 23-JUL-2022 )
+[2025-06-11 09:25:24] 
+Processing RTO: REWA RTO - MP17( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:25:24] Checking for Badgateway (503) error
+[2025-06-11 09:25:24] Selecting RTO: REWA RTO - MP17( 23-JUL-2022 )
+[2025-06-11 09:25:25] Clicked RTO dropdown using method 1
+[2025-06-11 09:25:26] Clicked RTO option: REWA RTO - MP17( 23-JUL-2022 ) using method 1
+[2025-06-11 09:25:26] Successfully selected RTO: REWA RTO - MP17( 23-JUL-2022 )
+[2025-06-11 09:25:26] Checking for Badgateway (503) error
+[2025-06-11 09:25:26] Applying left panel filters
+[2025-06-11 09:25:26] Clicked right refresh button using method 1
+[2025-06-11 09:25:31] Opening left panel if needed
+[2025-06-11 09:25:31] Clicked left panel toggler using method 1
+[2025-06-11 09:25:31] Expanded left panel
+[2025-06-11 09:25:33] Selecting vehicle categories and fuel types
+[2025-06-11 09:25:34] Vehicle categories and fuel types selected
+[2025-06-11 09:25:35] Clicking left refresh button
+[2025-06-11 09:25:35] Clicked left refresh button using method 1
+[2025-06-11 09:25:36] Left refresh button clicked
+[2025-06-11 09:25:41] Left panel collapsed successfully.
+[2025-06-11 09:25:41] Checking for Badgateway (503) error
+[2025-06-11 09:25:41] Downloading Excel file for Madhya Pradesh(53), REWA RTO - MP17( 23-JUL-2022 ), 2022
+[2025-06-11 09:25:41] Clicked Excel download button using method 1
+[2025-06-11 09:25:41] Clicked Excel download button
+[2025-06-11 09:25:44] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-11 09:25:44] Inside_wait_for_download_and_rename for Madhya_Pradesh
+[2025-06-11 09:26:44] Download timeout - file not found
+[2025-06-11 09:26:44] Error processing RTO REWA RTO - MP17( 23-JUL-2022 ): Download failed
+[2025-06-11 09:26:44] Checking for Badgateway (503) error
+[2025-06-11 09:26:44] 
+Processing RTO: REWA RTO - MP17( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:26:44] Checking for Badgateway (503) error
+[2025-06-11 09:26:44] Selecting RTO: REWA RTO - MP17( 23-JUL-2022 )
+[2025-06-11 09:26:55] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:26:55] Error processing RTO REWA RTO - MP17( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:26:55] Checking for Badgateway (503) error
+[2025-06-11 09:26:58] 
+Processing RTO: SAGAR RTO - MP15( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:26:58] Checking for Badgateway (503) error
+[2025-06-11 09:26:58] Selecting RTO: SAGAR RTO - MP15( 23-JUL-2022 )
+[2025-06-11 09:27:08] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:27:08] Error processing RTO SAGAR RTO - MP15( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:27:08] Checking for Badgateway (503) error
+[2025-06-11 09:27:08] 
+Processing RTO: SAGAR RTO - MP15( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:27:08] Checking for Badgateway (503) error
+[2025-06-11 09:27:09] Selecting RTO: SAGAR RTO - MP15( 23-JUL-2022 )
+[2025-06-11 09:27:19] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:27:19] Error processing RTO SAGAR RTO - MP15( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:27:19] Checking for Badgateway (503) error
+[2025-06-11 09:27:23] 
+Processing RTO: SATNA ARTO - MP19( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:27:23] Checking for Badgateway (503) error
+[2025-06-11 09:27:23] Selecting RTO: SATNA ARTO - MP19( 23-JUL-2022 )
+[2025-06-11 09:27:33] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:27:33] Error processing RTO SATNA ARTO - MP19( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:27:33] Checking for Badgateway (503) error
+[2025-06-11 09:27:33] 
+Processing RTO: SATNA ARTO - MP19( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:27:33] Checking for Badgateway (503) error
+[2025-06-11 09:27:33] Selecting RTO: SATNA ARTO - MP19( 23-JUL-2022 )
+[2025-06-11 09:27:43] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:27:43] Error processing RTO SATNA ARTO - MP19( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:27:43] Checking for Badgateway (503) error
+[2025-06-11 09:27:48] 
+Processing RTO: SEHORE DTO - MP37( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:27:48] Checking for Badgateway (503) error
+[2025-06-11 09:27:48] Selecting RTO: SEHORE DTO - MP37( 23-JUL-2022 )
+[2025-06-11 09:27:58] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:27:58] Error processing RTO SEHORE DTO - MP37( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:27:58] Checking for Badgateway (503) error
+[2025-06-11 09:27:58] 
+Processing RTO: SEHORE DTO - MP37( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:27:58] Checking for Badgateway (503) error
+[2025-06-11 09:27:58] Selecting RTO: SEHORE DTO - MP37( 23-JUL-2022 )
+[2025-06-11 09:28:08] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:28:08] Error processing RTO SEHORE DTO - MP37( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:28:08] Checking for Badgateway (503) error
+[2025-06-11 09:28:11] 
+Processing RTO: SEONI ARTO - MP22( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:28:11] Checking for Badgateway (503) error
+[2025-06-11 09:28:11] Selecting RTO: SEONI ARTO - MP22( 23-JUL-2022 )
+[2025-06-11 09:28:21] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:28:21] Error processing RTO SEONI ARTO - MP22( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:28:21] Checking for Badgateway (503) error
+[2025-06-11 09:28:21] 
+Processing RTO: SEONI ARTO - MP22( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:28:21] Checking for Badgateway (503) error
+[2025-06-11 09:28:21] Selecting RTO: SEONI ARTO - MP22( 23-JUL-2022 )
+[2025-06-11 09:28:31] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:28:31] Error processing RTO SEONI ARTO - MP22( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:28:31] Checking for Badgateway (503) error
+[2025-06-11 09:28:34] 
+Processing RTO: SHAHDOL RTO - MP18( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:28:34] Checking for Badgateway (503) error
+[2025-06-11 09:28:34] Selecting RTO: SHAHDOL RTO - MP18( 23-JUL-2022 )
+[2025-06-11 09:28:45] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:28:45] Error processing RTO SHAHDOL RTO - MP18( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:28:45] Checking for Badgateway (503) error
+[2025-06-11 09:28:45] 
+Processing RTO: SHAHDOL RTO - MP18( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:28:45] Checking for Badgateway (503) error
+[2025-06-11 09:28:45] Selecting RTO: SHAHDOL RTO - MP18( 23-JUL-2022 )
+[2025-06-11 09:28:55] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:28:55] Error processing RTO SHAHDOL RTO - MP18( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:28:55] Checking for Badgateway (503) error
+[2025-06-11 09:29:00] 
+Processing RTO: SHAJAPUR DTO - MP42( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:29:00] Checking for Badgateway (503) error
+[2025-06-11 09:29:00] Selecting RTO: SHAJAPUR DTO - MP42( 23-JUL-2022 )
+[2025-06-11 09:29:10] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:29:10] Error processing RTO SHAJAPUR DTO - MP42( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:29:10] Checking for Badgateway (503) error
+[2025-06-11 09:29:10] 
+Processing RTO: SHAJAPUR DTO - MP42( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:29:10] Checking for Badgateway (503) error
+[2025-06-11 09:29:10] Selecting RTO: SHAJAPUR DTO - MP42( 23-JUL-2022 )
+[2025-06-11 09:29:21] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:29:21] Error processing RTO SHAJAPUR DTO - MP42( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:29:21] Checking for Badgateway (503) error
+[2025-06-11 09:29:23] 
+Processing RTO: SHEOPUR DTO - MP31( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:29:23] Checking for Badgateway (503) error
+[2025-06-11 09:29:23] Selecting RTO: SHEOPUR DTO - MP31( 23-JUL-2022 )
+[2025-06-11 09:29:33] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:29:33] Error processing RTO SHEOPUR DTO - MP31( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:29:33] Checking for Badgateway (503) error
+[2025-06-11 09:29:33] 
+Processing RTO: SHEOPUR DTO - MP31( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:29:33] Checking for Badgateway (503) error
+[2025-06-11 09:29:33] Selecting RTO: SHEOPUR DTO - MP31( 23-JUL-2022 )
+[2025-06-11 09:29:44] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:29:44] Error processing RTO SHEOPUR DTO - MP31( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:29:44] Checking for Badgateway (503) error
+[2025-06-11 09:29:47] 
+Processing RTO: SHIVPURI DTO - MP33( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:29:47] Checking for Badgateway (503) error
+[2025-06-11 09:29:47] Selecting RTO: SHIVPURI DTO - MP33( 23-JUL-2022 )
+[2025-06-11 09:29:58] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:29:58] Error processing RTO SHIVPURI DTO - MP33( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:29:58] Checking for Badgateway (503) error
+[2025-06-11 09:29:58] 
+Processing RTO: SHIVPURI DTO - MP33( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:29:58] Checking for Badgateway (503) error
+[2025-06-11 09:29:58] Selecting RTO: SHIVPURI DTO - MP33( 23-JUL-2022 )
+[2025-06-11 09:30:08] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:30:08] Error processing RTO SHIVPURI DTO - MP33( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:30:08] Checking for Badgateway (503) error
+[2025-06-11 09:30:10] 
+Processing RTO: SIDHI DTO - MP53( 26-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:30:10] Checking for Badgateway (503) error
+[2025-06-11 09:30:10] Selecting RTO: SIDHI DTO - MP53( 26-JUL-2022 )
+[2025-06-11 09:30:20] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:30:20] Error processing RTO SIDHI DTO - MP53( 26-JUL-2022 ): RTO selection failed
+[2025-06-11 09:30:20] Checking for Badgateway (503) error
+[2025-06-11 09:30:20] 
+Processing RTO: SIDHI DTO - MP53( 26-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:30:20] Checking for Badgateway (503) error
+[2025-06-11 09:30:20] Selecting RTO: SIDHI DTO - MP53( 26-JUL-2022 )
+[2025-06-11 09:30:30] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:30:30] Error processing RTO SIDHI DTO - MP53( 26-JUL-2022 ): RTO selection failed
+[2025-06-11 09:30:30] Checking for Badgateway (503) error
+[2025-06-11 09:30:33] 
+Processing RTO: SINGROLI DTO - MP66( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:30:33] Checking for Badgateway (503) error
+[2025-06-11 09:30:33] Selecting RTO: SINGROLI DTO - MP66( 23-JUL-2022 )
+[2025-06-11 09:30:43] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:30:43] Error processing RTO SINGROLI DTO - MP66( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:30:43] Checking for Badgateway (503) error
+[2025-06-11 09:30:43] 
+Processing RTO: SINGROLI DTO - MP66( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:30:43] Checking for Badgateway (503) error
+[2025-06-11 09:30:43] Selecting RTO: SINGROLI DTO - MP66( 23-JUL-2022 )
+[2025-06-11 09:30:53] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:30:53] Error processing RTO SINGROLI DTO - MP66( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:30:53] Checking for Badgateway (503) error
+[2025-06-11 09:30:57] 
+Processing RTO: STATE TRANSPORT AUTHORITY - MP999( 14-FEB-2023 ) (Attempt 1)
+[2025-06-11 09:30:57] Checking for Badgateway (503) error
+[2025-06-11 09:30:57] Selecting RTO: STATE TRANSPORT AUTHORITY - MP999( 14-FEB-2023 )
+[2025-06-11 09:31:07] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:31:07] Error processing RTO STATE TRANSPORT AUTHORITY - MP999( 14-FEB-2023 ): RTO selection failed
+[2025-06-11 09:31:07] Checking for Badgateway (503) error
+[2025-06-11 09:31:07] 
+Processing RTO: STATE TRANSPORT AUTHORITY - MP999( 14-FEB-2023 ) (Attempt 2)
+[2025-06-11 09:31:07] Checking for Badgateway (503) error
+[2025-06-11 09:31:07] Selecting RTO: STATE TRANSPORT AUTHORITY - MP999( 14-FEB-2023 )
+[2025-06-11 09:31:17] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:31:17] Error processing RTO STATE TRANSPORT AUTHORITY - MP999( 14-FEB-2023 ): RTO selection failed
+[2025-06-11 09:31:17] Checking for Badgateway (503) error
+[2025-06-11 09:31:20] 
+Processing RTO: TIKAMGARH DTO - MP36( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:31:20] Checking for Badgateway (503) error
+[2025-06-11 09:31:20] Selecting RTO: TIKAMGARH DTO - MP36( 23-JUL-2022 )
+[2025-06-11 09:31:31] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:31:31] Error processing RTO TIKAMGARH DTO - MP36( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:31:31] Checking for Badgateway (503) error
+[2025-06-11 09:31:31] 
+Processing RTO: TIKAMGARH DTO - MP36( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:31:31] Checking for Badgateway (503) error
+[2025-06-11 09:31:31] Selecting RTO: TIKAMGARH DTO - MP36( 23-JUL-2022 )
+[2025-06-11 09:31:41] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:31:41] Error processing RTO TIKAMGARH DTO - MP36( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:31:41] Checking for Badgateway (503) error
+[2025-06-11 09:31:44] 
+Processing RTO: UJJAIN RTO - MP13( 23-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:31:44] Checking for Badgateway (503) error
+[2025-06-11 09:31:44] Selecting RTO: UJJAIN RTO - MP13( 23-JUL-2022 )
+[2025-06-11 09:31:54] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:31:54] Error processing RTO UJJAIN RTO - MP13( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:31:54] Checking for Badgateway (503) error
+[2025-06-11 09:31:54] 
+Processing RTO: UJJAIN RTO - MP13( 23-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:31:54] Checking for Badgateway (503) error
+[2025-06-11 09:31:54] Selecting RTO: UJJAIN RTO - MP13( 23-JUL-2022 )
+[2025-06-11 09:32:04] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:32:04] Error processing RTO UJJAIN RTO - MP13( 23-JUL-2022 ): RTO selection failed
+[2025-06-11 09:32:04] Checking for Badgateway (503) error
+[2025-06-11 09:32:07] 
+Processing RTO: UMARIA DTO - MP54( 26-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:32:07] Checking for Badgateway (503) error
+[2025-06-11 09:32:07] Selecting RTO: UMARIA DTO - MP54( 26-JUL-2022 )
+[2025-06-11 09:32:18] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:32:18] Error processing RTO UMARIA DTO - MP54( 26-JUL-2022 ): RTO selection failed
+[2025-06-11 09:32:18] Checking for Badgateway (503) error
+[2025-06-11 09:32:18] 
+Processing RTO: UMARIA DTO - MP54( 26-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:32:18] Checking for Badgateway (503) error
+[2025-06-11 09:32:18] Selecting RTO: UMARIA DTO - MP54( 26-JUL-2022 )
+[2025-06-11 09:32:28] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:32:28] Error processing RTO UMARIA DTO - MP54( 26-JUL-2022 ): RTO selection failed
+[2025-06-11 09:32:28] Checking for Badgateway (503) error
+[2025-06-11 09:32:32] 
+Processing RTO: VIDISHA DTO - MP40( 19-JUL-2022 ) (Attempt 1)
+[2025-06-11 09:32:32] Checking for Badgateway (503) error
+[2025-06-11 09:32:32] Selecting RTO: VIDISHA DTO - MP40( 19-JUL-2022 )
+[2025-06-11 09:32:42] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:32:42] Error processing RTO VIDISHA DTO - MP40( 19-JUL-2022 ): RTO selection failed
+[2025-06-11 09:32:42] Checking for Badgateway (503) error
+[2025-06-11 09:32:42] 
+Processing RTO: VIDISHA DTO - MP40( 19-JUL-2022 ) (Attempt 2)
+[2025-06-11 09:32:42] Checking for Badgateway (503) error
+[2025-06-11 09:32:42] Selecting RTO: VIDISHA DTO - MP40( 19-JUL-2022 )
+[2025-06-11 09:32:52] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:32:52] Error processing RTO VIDISHA DTO - MP40( 19-JUL-2022 ): RTO selection failed
+[2025-06-11 09:32:52] Checking for Badgateway (503) error
+[2025-06-11 09:32:54] 
+Processing state: Maharashtra(57), Year: 2022
+[2025-06-11 09:32:54] 
+=== Starting RTO-wise processing for Maharashtra(57), 2022 ===
+[2025-06-11 09:32:54] Checking for Badgateway (503) error
+[2025-06-11 09:32:54] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:33:25] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:33:25] Failed to setup axis configuration
+[2025-06-11 09:33:25] 
+Processing state: Manipur(13), Year: 2022
+[2025-06-11 09:33:25] 
+=== Starting RTO-wise processing for Manipur(13), 2022 ===
+[2025-06-11 09:33:25] Checking for Badgateway (503) error
+[2025-06-11 09:33:25] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:33:55] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:33:55] Failed to setup axis configuration
+[2025-06-11 09:33:55] 
+Processing state: Meghalaya(13), Year: 2022
+[2025-06-11 09:33:55] 
+=== Starting RTO-wise processing for Meghalaya(13), 2022 ===
+[2025-06-11 09:33:55] Checking for Badgateway (503) error
+[2025-06-11 09:33:55] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:34:26] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:34:26] Failed to setup axis configuration
+[2025-06-11 09:34:26] 
+Processing state: Mizoram(10), Year: 2022
+[2025-06-11 09:34:26] 
+=== Starting RTO-wise processing for Mizoram(10), 2022 ===
+[2025-06-11 09:34:26] Checking for Badgateway (503) error
+[2025-06-11 09:34:26] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:34:56] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:34:56] Failed to setup axis configuration
+[2025-06-11 09:34:56] 
+Processing state: Nagaland(9), Year: 2022
+[2025-06-11 09:34:56] 
+=== Starting RTO-wise processing for Nagaland(9), 2022 ===
+[2025-06-11 09:34:56] Checking for Badgateway (503) error
+[2025-06-11 09:34:56] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:35:27] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:35:27] Failed to setup axis configuration
+[2025-06-11 09:35:27] 
+Processing state: Odisha(39), Year: 2022
+[2025-06-11 09:35:27] 
+=== Starting RTO-wise processing for Odisha(39), 2022 ===
+[2025-06-11 09:35:27] Checking for Badgateway (503) error
+[2025-06-11 09:35:27] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:35:57] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:35:57] Failed to setup axis configuration
+[2025-06-11 09:35:57] 
+Processing state: Puducherry(8), Year: 2022
+[2025-06-11 09:35:57] 
+=== Starting RTO-wise processing for Puducherry(8), 2022 ===
+[2025-06-11 09:35:57] Checking for Badgateway (503) error
+[2025-06-11 09:35:57] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:36:28] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:36:28] Failed to setup axis configuration
+[2025-06-11 09:36:28] 
+Processing state: Punjab(96), Year: 2022
+[2025-06-11 09:36:28] 
+=== Starting RTO-wise processing for Punjab(96), 2022 ===
+[2025-06-11 09:36:28] Checking for Badgateway (503) error
+[2025-06-11 09:36:28] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:36:58] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:36:58] Failed to setup axis configuration
+[2025-06-11 09:36:58] 
+Processing state: Rajasthan(59), Year: 2022
+[2025-06-11 09:36:58] 
+=== Starting RTO-wise processing for Rajasthan(59), 2022 ===
+[2025-06-11 09:36:58] Checking for Badgateway (503) error
+[2025-06-11 09:36:58] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:37:29] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:37:29] Failed to setup axis configuration
+[2025-06-11 09:37:29] 
+Processing state: Sikkim(9), Year: 2022
+[2025-06-11 09:37:29] 
+=== Starting RTO-wise processing for Sikkim(9), 2022 ===
+[2025-06-11 09:37:29] Checking for Badgateway (503) error
+[2025-06-11 09:37:29] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 09:37:59] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9d3783+63299]
+	GetHandleVerifier [0x0x9d37c4+63364]
+	(No symbol) [0x0x801113]
+	(No symbol) [0x0x84987e]
+	(No symbol) [0x0x849c1b]
+	(No symbol) [0x0x892212]
+	(No symbol) [0x0x86e5c4]
+	(No symbol) [0x0x88fa4a]
+	(No symbol) [0x0x86e376]
+	(No symbol) [0x0x83d6e0]
+	(No symbol) [0x0x83e544]
+	GetHandleVerifier [0x0xc2e073+2531379]
+	GetHandleVerifier [0x0xc29372+2511666]
+	GetHandleVerifier [0x0x9f9efa+220858]
+	GetHandleVerifier [0x0x9ea548+156936]
+	GetHandleVerifier [0x0x9f0c7d+183357]
+	GetHandleVerifier [0x0x9db6e8+95912]
+	GetHandleVerifier [0x0x9db890+96336]
+	GetHandleVerifier [0x0x9c666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-11 09:37:59] Failed to setup axis configuration
+[2025-06-11 09:37:59] 
+Processing state: Tamil Nadu(148), Year: 2022
+[2025-06-11 09:37:59] 
+=== Starting RTO-wise processing for Tamil Nadu(148), 2022 ===
+[2025-06-11 09:37:59] Checking for Badgateway (503) error
+[2025-06-11 09:37:59] Setting up X-axis (Month Wise) and Y-axis (Maker)...

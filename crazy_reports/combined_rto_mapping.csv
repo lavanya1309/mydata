@@ -1,0 +1,1553 @@
+RTO Code,City,District
+TN1,Chennai Central,Chennai
+TN2,Chennai North West,Chennai
+TN3,Chennai North East,Chennai
+TN4,Chennai East,Chennai
+TN5,Chennai North,Chennai
+TN6,Chennai South East,Chennai
+TN7,Chennai South,Chennai
+TN9,Chennai West,Chennai
+TN10,Chennai South West,Chennai
+TN11,Tambaram,Chengalpattu
+TN12,Poonamallee,Thiruvallur
+TN13,Ambattur,Thiruvallur
+TN14,Sholinganallur,Chengalpattu
+TN15,Ulundurpet,Kallakurichi
+TN15Z,Kallakurichi,Kallakurichi
+TN16,Tindivanam,Villupuram
+TN16Z,Gingee,Villupuram
+TN18,Red Hills,Thiruvallur
+TN18Y,Gummidipoondi,Thiruvallur
+TN19,Chengalpattu,Chengalpattu
+TN19Y,Thirukalukundram,Chengalpattu
+TN19Z,Madurantakam,Chengalpattu
+TN20,Tiruvallur,Thiruvallur
+TN20X,Tiruttani,Thiruvallur
+TN21,Kanchipuram,Kanchipuram
+TN22,Meenambakkam,Chennai
+TN23,Vellore,Vellore
+TN23T,Gudiyatham,Vellore
+TN24,Krishnagiri,Krishnagiri
+TN25,Thiruvannamalai,Thiruvannamalai
+TN25Y,Cheyyar,Thiruvannamalai
+TN25Z,Arani,Thiruvannamalai
+TN28,Namakkal North,Namakkal
+TN28Z,Rasipuram,Namakkal
+TN29,Dharmapuri,Dharmapuri
+TN29W,Palacode,Dharmapuri
+TN30,Salem West,Salem
+TN30W,Omalur,Salem
+TN31,Cuddalore,Cuddalore
+TN32,Villupuram,Villupuram
+TN33,Erode East,Erode
+TN34,Tiruchengode,Namakkal
+TN34Z,Komarapalayam,Namakkal
+TN36,Gobichettipalayam,Erode
+TN36W,Bhavani,Erode
+TN36Z,Sathyamangalam,Erode
+TN37,Coimbatore South,Coimbatore
+TN37Z,Sulur,Coimbatore
+TN38,Coimbatore North,Coimbatore
+TN39,Tiruppur North,Tiruppur
+TN39Z,Avinashi,Tiruppur
+TN40,Mettupalayam,Coimbatore
+TN41,Pollachi,Coimbatore
+TN42,Tiruppur South,Tiruppur
+TN42Y,Palladam,Tiruppur
+TN43,Ooty,Nilgiris
+TN43Z,Gudalur,Nilgiris
+TN45,Trichy West,Tiruchirappalli
+TN46,Perambalur,Perambalur
+TN47,Karur,Karur
+TN47X,Manmangalam,Karur
+TN47Y,Aravakurichi,Karur
+TN47Z,Kulithalai,Karur
+TN48,Srirangam,Tiruchirappalli
+TN48X,Lalgudi,Tiruchirappalli
+TN48Y,Musiri,Tiruchirappalli
+TN48Z,Thuraiyur,Tiruchirappalli
+TN49,Thanjavur,Thanjavur
+TN49Y,Pattukottai,Thanjavur
+TN50,Tiruvarur,Tiruvarur
+TN50Y,Thiruthuraipoondi,Tiruvarur
+TN50Z,Mannargudi,Tiruvarur
+TN51,Nagapattinam,Nagapattinam
+TN52,Sankagiri,Salem
+TN54,Salem East,Salem
+TN55,Pudukkottai,Pudukkottai
+TN55Y,Illuppur,Pudukkottai
+TN55Z,Aranthangi,Pudukkottai
+TN56,Perundurai,Erode
+TN57,Dindigul,Dindigul
+TN58,Madurai (South),Madurai
+TN58Z,Thirumangalam,Madurai
+TN59,Madurai (North),Madurai
+TN59V,Vadipatti,Madurai
+TN60,Theni,Theni
+TN60Z,Uthamapalayam,Theni
+TN61,Ariyalur,Ariyalur
+TN63,Sivagangai,Sivagangai
+TN63Z,Karaikudi,Sivagangai
+TN64,Madurai (Central),Madurai
+TN65,Ramanathapuram,Ramanathapuram
+TN65Z,Paramakudi,Ramanathapuram
+TN66,Coimbatore (Central),Coimbatore
+TN67,Virudhunagar,Virudhunagar
+TN67W,Aruppukottai,Virudhunagar
+TN68,Kumbakonam,Thanjavur
+TN69,Thoothukudi (Tuticorin),Thoothukudi
+TN70,Hosur,Krishnagiri
+TN72,Tirunelveli,Tirunelveli
+TN72V,Valliyur,Tirunelveli
+TN73,Ranipet,Ranipet
+TN73Z,Arakonam,Ranipet
+TN74,Nagercoil,Kanniyakumari
+TN75,Marthandam,Kanniyakumari
+TN76,Tenkasi,Tenkasi
+TN76V,Ambasamudram,Tenkasi
+TN77,Attur,Salem
+TN78,Dharapuram,Tiruppur
+TN78Z,Udumalpet,Tiruppur
+TN79,Sankarankovil,Tenkasi
+TN81,Trichy East,Tiruchirappalli
+TN82,Mayiladuthurai,Mayiladuthurai
+TN83,Vaniyambadi,Tirupattur
+TN83M,Tirupattur,Tirupattur
+TN83Y,Ambur,Tirupattur
+TN83Z,Tirupattur,Tirupattur
+TN84,Srivilliputtur,Virudhunagar
+TN85,Kundrathur,Kanchipuram
+TN86,Erode West,Erode
+TN87,Sriperumbudur,Kanchipuram
+TN88,Namakkal South,Namakkal
+TN88Z,Paramathi Velur,Namakkal
+TN90,Salem South,Salem
+TN91,Chidambaram,Cuddalore
+TN91Y,Neyveli,Cuddalore
+TN91Z,Virudhachalam,Cuddalore
+TN92,Thiruchendur,Thoothukudi
+TN93,Mettur,Salem
+TN94,Palani,Dindigul
+TN95,Sivakasi,Virudhunagar
+TN96,Kovilpatti,Thoothukudi
+TN97,Arani,Thiruvannamalai
+TN97Z,Cheyyar,Thiruvannamalai
+TN99,Coimbatore (West),Coimbatore
+KA1,Koramangala,Bengaluru Urban
+KA2,Rajajinagar,Bengaluru Urban
+KA3,Indiranagar,Bengaluru Urban
+KA4,Yeshwanthpur,Bengaluru Urban
+KA5,Jayanagar,Bengaluru Urban
+KA6,Tumakuru,Tumakuru
+KA7,Kolar,Kolar
+KA8,Kolar Gold Fields (KGF),Kolar
+KA9,Mysuru West,Mysuru
+KA10,Chamarajanagar,Chamarajanagar
+KA11,Mandya,Mandya
+KA12,Madikeri,Kodagu
+KA13,Hassan,Hassan
+KA14,Shivamogga,Shivamogga
+KA15,Sagar,Shivamogga
+KA16,Chitradurga,Chitradurga
+KA17,Davangere,Davangere
+KA18,Chikkamagaluru,Chikkamagaluru
+KA19,Mangaluru,Dakshina Kannada
+KA20,Udupi,Udupi
+KA21,Puttur,Dakshina Kannada
+KA22,Belagavi,Belagavi
+KA23,Chikkodi,Belagavi
+KA24,Bailhongal,Belagavi
+KA25,Dharwad,Dharwad
+KA26,Gadag,Gadag
+KA27,Haveri,Haveri
+KA28,Vijayapura (Bijapur),Vijayapura
+KA29,Bagalkot,Bagalkot
+KA30,Karwar,Uttara Kannada
+KA31,Sirsi,Uttara Kannada
+KA32,Kalaburagi (Gulbarga),Kalaburagi
+KA33,Yadgir,Yadgir
+KA34,Ballari (Bellary),Ballari
+KA35,Hosapete (Hospet),Ballari
+KA36,Raichur,Raichur
+KA37,Koppal,Koppal
+KA38,Bidar,Bidar
+KA39,Bhalki,Bidar
+KA40,Chikkaballapur,Chikkaballapur
+KA41,Jnanabharathi (Kengeri),Bengaluru Urban
+KA42,Ramanagara,Ramanagara
+KA43,Devanahalli,Bengaluru Rural
+KA44,Tiptur,Tumakuru
+KA45,Hunsur,Mysuru
+KA46,Sakleshpur,Hassan
+KA47,Honnavar,Uttara Kannada
+KA48,Jamkhandi,Bagalkot
+KA49,Gokak,Belagavi
+KA50,Yelahanka,Bengaluru Urban
+KA51,Electronic City,Bengaluru Urban
+KA52,Nelamangala,Bengaluru Rural
+KA53,K.R. Puram,Bengaluru Urban
+KA54,Nagamangala,Mandya
+KA55,Mysuru East,Mysuru
+KA56,Basavakalyan,Bidar
+KA57,Shantinagar (Bengaluru STU/Auto Rickshaw),Bengaluru Urban
+KA58,Chamrajpet,Bengaluru Urban
+KA59,Banashankari (Chandapura),Bengaluru Urban
+KA60,R.T. Nagar,Bengaluru Urban
+KA61,Marathahalli,Bengaluru Urban
+KA62,Surathkal,Dakshina Kannada
+KA63,Hubballi,Dharwad
+KA64,Madhugiri,Tumakuru
+KA65,Dandeli,Uttara Kannada
+KA66,Tarikere,Chikkamagaluru
+KA67,Sedam,Kalaburagi
+KA68,Ranebennur,Haveri
+KA69,Ramadurga,Belagavi
+KA70,Bantwal,Dakshina Kannada
+KA71,Athani,Belagavi
+KL1,Thiruvananthapuram,Thiruvananthapuram
+KL2,Kollam,Kollam
+KL3,Pathanamthitta,Pathanamthitta
+KL4,Alappuzha,Alappuzha
+KL5,Kottayam,Kottayam
+KL6,Idukki,Idukki
+KL7,Ernakulam,Ernakulam
+KL8,Thrissur,Thrissur
+KL9,Palakkad,Palakkad
+KL10,Malappuram,Malappuram
+KL11,Kozhikode,Kozhikode
+KL12,Wayanad,Wayanad
+KL13,Kannur,Kannur
+KL14,Kasaragod,Kasaragod
+KL15,Thiruvananthapuram (KSRTC/Nationalized Sector),Thiruvananthapuram
+KL16,Attingal,Thiruvananthapuram
+KL17,Muvattupuzha,Ernakulam
+KL18,Vadakara,Kozhikode
+KL19,Parassala,Thiruvananthapuram
+KL20,Neyyattinkara,Thiruvananthapuram
+KL21,Nedumangad,Thiruvananthapuram
+KL22,Kazhakoottam,Thiruvananthapuram
+KL23,Karunagappally,Kollam
+KL24,Kottarakkara,Kollam
+KL25,Punalur,Kollam
+KL26,Adoor,Pathanamthitta
+KL27,Thiruvalla,Pathanamthitta
+KL28,Mallappally,Pathanamthitta
+KL29,Kayamkulam,Alappuzha
+KL30,Chengannur,Alappuzha
+KL31,Mavelikkara,Alappuzha
+KL32,Cherthala,Alappuzha
+KL33,Changanassery,Kottayam
+KL34,Kanjirappally,Kottayam
+KL35,Pala,Kottayam
+KL36,Vaikom,Kottayam
+KL37,Vandiperiyar,Idukki
+KL38,Thodupuzha,Idukki
+KL39,Tripunithura,Ernakulam
+KL40,Perumbavoor,Ernakulam
+KL41,Aluva,Ernakulam
+KL42,North Paravur,Ernakulam
+KL43,Mattancherry,Ernakulam
+KL44,Kothamangalam,Ernakulam
+KL45,Irinjalakuda,Thrissur
+KL46,Guruvayur,Thrissur
+KL47,Kodungalloor,Thrissur
+KL48,Wadakkancherry,Thrissur
+KL49,Alathur,Palakkad
+KL50,Mannarkkad,Palakkad
+KL51,Ottappalam,Palakkad
+KL52,Pattambi,Palakkad
+KL53,Perinthalmanna,Malappuram
+KL54,Ponnani,Malappuram
+KL55,Tirur,Malappuram
+KL56,Koyilandy,Kozhikode
+KL57,Koduvally,Kozhikode
+KL58,Thalassery,Kannur
+KL59,Taliparamba,Kannur
+KL60,Kanhangad,Kasaragod
+KL61,Kunnathur,Kollam
+KL62,Ranni,Pathanamthitta
+KL63,Angamaly,Ernakulam
+KL64,Chalakkudy,Thrissur
+KL65,Tirurangadi,Malappuram
+KL66,Kuttanad,Alappuzha
+KL67,Uzhavoor,Kottayam
+KL68,Devikulam,Idukki
+KL69,Udumbanchola,Idukki
+KL70,Chittur,Palakkad
+KL71,Nilambur,Malappuram
+KL72,Mananthavady,Wayanad
+KL73,Sulthan Bathery,Wayanad
+KL74,Kattakkada,Thiruvananthapuram
+KL75,Thriprayar,Thrissur
+KL76,Nanmanda,Kozhikode
+KL77,Perambra,Kozhikode
+KL78,Iritty,Kannur
+KL79,Vellarikundu,Kasaragod
+KL80,Pathanapuram,Kollam
+KL81,Varkala,Thiruvananthapuram
+KL82,Chadayamangalam,Kollam
+KL83,Konni,Pathanamthitta
+KL84,Kondotty,Malappuram
+KL85,Ramanattukara,Kozhikode
+KL86,Payyanur,Kannur
+KL87,Pattazhi,Kollam
+PY1,Puducherry (City),Puducherry
+PY2,Karaikal,Karaikal
+PY3,Mahe,Mahe
+PY4,Yanam,Yanam
+PY5,Oulgaret,Puducherry
+PY11,Bahour,Puducherry
+PY51,Villianur / Thirubuvanai,Puducherry
+PY99,Check Post,Puducherry / Karaikal
+AR1,Itanagar (DTO Capital Complex),Papum Pare (Capital Complex)
+AR2,Itanagar (RTO),Papum Pare
+AR3,Tawang,Tawang
+AR4,Bomdila,West Kameng
+AR5,Seppa,East Kameng
+AR6,Ziro,Lower Subansiri
+AR7,Daporijo,Upper Subansiri
+AR8,Aalo (Along),West Siang
+AR9,Pasighat,East Siang
+AR10,Anini,Dibang Valley
+AR11,Tezu,Lohit
+AR12,Changlang,Changlang
+AR13,Khonsa,Tirap
+AR14,Yingkiong,Upper Siang
+AR15,Palin,Kurung Kumey
+AR16,Roing,Lower Dibang Valley
+AR17,Lohit (Hawai),Anjaw (formerly Lohit)
+AR18,Longding,Longding
+AR19,Palin (New),Kra Daadi (formerly Kurung Kumey)
+AR20,Namsai,Namsai
+AR21,Siang,Siang
+AR22,Lower Siang,Lower Siang
+AR23,Kamle,Kamle
+AR24,Pakke-Kessang,Pakke-Kessang
+AR25,Leparada,Leparada
+TS1,Adilabad,Adilabad
+TS2,Karimnagar,Karimnagar
+TS3,Warangal Urban (Hanamkonda),Hanamkonda
+TS4,Khammam,Khammam
+TS5,Nalgonda,Nalgonda
+TS6,Mahabubnagar,Mahabubnagar
+TS7,Rangareddy (L.B. Nagar),Rangareddy
+TS8,Medchal-Malkajgiri (Uppal),Medchal-Malkajgiri
+TS9,Hyderabad Central,Hyderabad
+TS10,Hyderabad North,Hyderabad
+TS11,Hyderabad East,Hyderabad
+TS12,Hyderabad South,Hyderabad
+TS13,Hyderabad West,Hyderabad
+TS14,Reserved for Hyderabad,Hyderabad
+TS15,Sangareddy,Sangareddy
+TS16,Nizamabad,Nizamabad
+TS17,Kamareddy,Kamareddy
+TS18,Nirmal,Nirmal
+TS19,Mancherial,Mancherial
+TS20,Komaram Bheem Asifabad,Komaram Bheem Asifabad
+TS21,Jagtial,Jagtial
+TS22,Peddapalli,Peddapalli
+TS23,Sircilla,Rajanna Sircilla
+TS24,Warangal Rural,Warangal
+TS25,Jayashankar Bhupalpally,Jayashankar Bhupalpally
+TS26,Mahabubabad,Mahabubabad
+TS27,Jangaon,Jangaon
+TS28,Bhadradri Kothagudem,Bhadradri Kothagudem
+TS29,Suryapet,Suryapet
+TS30,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri
+TS31,Nagarkurnool,Nagarkurnool
+TS32,Wanaparthy,Wanapavarathay
+TS33,Jogulamba Gadwal,Jogulamba Gadwal
+TS34,Vikarabad,Vikarabad
+TS35,Medak,Medak
+TS36,Siddipet,Siddipet
+TS37,Mulugu,Mulugu
+TS38,Narayanpet,Narayanpet
+MH1,Mumbai (South - Tardeo),Mumbai City (South)
+MH2,Mumbai (West - Andheri),Mumbai Suburban
+MH3,Mumbai (East - Wadala/Ghatkopar),Mumbai Suburban
+MH4,Thane,Thane
+MH5,Kalyan,Thane
+MH6,Pen (Raigad),Raigad
+MH7,Sindhudurg Nagari (Oros),Sindhudurg
+MH8,Ratnagiri,Ratnagiri
+MH9,Kolhapur,Kolhapur
+MH10,Sangli,Sangli
+MH11,Satara,Satara
+MH12,Pune,Pune
+MH13,Solapur,Solapur
+MH14,Pimpri-Chinchwad,Pune
+MH15,Nashik,Nashik
+MH16,Ahmednagar,Ahmednagar
+MH17,Shrirampur,Ahmednagar
+MH18,Dhule,Dhule
+MH19,Jalgaon,Jalgaon
+MH20,Aurangabad,Chhatrapati Sambhajinagar (Aurangabad)
+MH21,Jalna,Jalna
+MH22,Parbhani,Parbhani
+MH23,Beed,Beed
+MH24,Latur,Latur
+MH25,Osmanabad,Dharashiv (Osmanabad)
+MH26,Nanded,Nanded
+MH27,Amravati,Amravati
+MH28,Buldhana,Buldhana
+MH29,Yavatmal,Yavatmal
+MH30,Akola,Akola
+MH31,Nagpur,Nagpur
+MH32,Wardha,Wardha
+MH33,Gadchiroli,Gadchiroli
+MH34,Chandrapur,Chandrapur
+MH35,Gondia,Gondia
+MH36,Bhandara,Bhandara
+MH37,Washim,Washim
+MH38,Hingoli,Hingoli
+MH39,Nandurbar,Nandurbar
+MH40,Nagpur Rural (Wadi),Nagpur
+MH41,Malegaon,Nashik
+MH42,Baramati,Pune
+MH43,Vashi (Navi Mumbai),Thane / Navi Mumbai
+MH44,Ambajogai,Beed
+MH45,Akluj,Solapur
+MH46,Panvel,Raigad
+MH47,Borivali,Mumbai Suburban
+MH48,Vasai-Virar,Palghar
+MH49,Nagpur East,Nagpur
+MH50,Karad,Satara
+MH51,Sangamner,Ahmednagar
+MH52,Parbhani (Rural),Parbhani
+MH53,Pune South,Pune
+MH54,Pune North,Pune
+MH55,Mumbai Central (Tardeo),Mumbai City
+MH56,Thane Rural,Thane
+MH57,Nashik East,Nashik
+MH58,Wardha Rural,Wardha
+OD1,Balasore,Balasore
+OD2,Bhubaneswar,Khordha
+OD3,Bolangir,Bolangir
+OD4,Chandikhol,Jajpur
+OD5,Cuttack,Cuttack
+OD6,Dhenkanal,Dhenkanal
+OD7,Ganjam (Chhatrapur),Ganjam
+OD8,Kalahandi (Bhawanipatna),Kalahandi
+OD9,Keonjhar,Keonjhar
+OD10,Koraput,Koraput
+OD11,Mayurbhanj (Baripada),Mayurbhanj
+OD12,Phulbani (Kandhamal),Kandhamal
+OD13,Puri,Puri
+OD14,Rourkela,Sundargarh
+OD15,Sambalpur,Sambalpur
+OD16,Sundargarh,Sundargarh
+OD17,Bargarh,Bargarh
+OD18,Rayagada,Rayagada
+OD19,Angul,Angul
+OD20,Gajapati (Paralakhemundi),Gajapati
+OD21,Jagatsinghpur,Jagatsinghpur
+OD22,Bhadrak,Bhadrak
+OD23,Jharsuguda,Jharsuguda
+OD24,Nabarangpur,Nabarangpur
+OD25,Nayagarh,Nayagarh
+OD26,Nuapada,Nuapada
+OD27,Boudh,Boudh
+OD28,Debagarh (Deogarh),Debagarh
+OD29,Kendrapara,Kendrapara
+OD30,Malkangiri,Malkangiri
+OD31,Subarnapur (Sonepur),Subarnapur
+OD32,Bhanjanagar,Ganjam
+OD33,Bhubaneswar-II,Khordha
+OD34,Jajpur,Jajpur
+OD35,Talcher,Angul
+OD36,Khordha,Khordha
+OD37,Rairangpur,Mayurbhanj
+OD38,Barbil,Keonjhar
+OD39,Titilagarh,Bolangir
+OD40,Padampur,Bargarh
+CG1,(Governor's Vehicles),Chhattisgarh (State Level)
+CG2,(Govt. Vehicles),Chhattisgarh (State Level)
+CG3,(Police Vehicles),Chhattisgarh (State Level)
+CG4,Raipur,Raipur
+CG5,Dhamtari,Dhamtari
+CG6,Mahasamund,Mahasamund
+CG7,Durg,Durg
+CG8,Rajnandgaon,Rajnandgaon
+CG9,Kabirdham (Kawardha),Kabirdham
+CG10,Bilaspur,Bilaspur
+CG11,Janjgir-Champa,Janjgir-Champa
+CG12,Korba,Korba
+CG13,Raigarh,Raigarh
+CG14,Jashpur (Jashpur Nagar),Jashpur
+CG15,Ambikapur (Surguja),Surguja
+CG16,Koriya (Baikunthpur),Koriya
+CG17,Jagdalpur (Bastar),Bastar
+CG18,Dantewada,Dantewada
+CG19,Kanker,Kanker
+CG20,Bijapur,Bijapur
+CG21,Narayanpur,Narayanpur
+CG22,Baloda Bazar,Baloda Bazar
+CG23,Gariaband,Gariaband
+CG24,Balod,Balod
+CG25,Bemetara,Bemetara
+CG26,Sukma,Sukma
+CG27,Kondagaon,Kondagaon
+CG28,Mungeli,Mungeli
+CG29,Surajpur,Surajpur
+CG30,Balrampur,Balrampur
+CG99,(State Transport Authority),Chhattisgarh (State Level)
+MP1,(Governor's Vehicles),Madhya Pradesh (State Level)
+MP2,(Government Vehicles),Madhya Pradesh (State Level)
+MP3,(Police Vehicles),Madhya Pradesh (State Level)
+MP4,Bhopal,Bhopal
+MP5,Hoshangabad,Narmadapuram (Hoshangabad)
+MP6,Morena,Morena
+MP7,Gwalior,Gwalior
+MP8,Guna,Guna
+MP9,Indore,Indore
+MP10,Khargone,Khargone
+MP11,Dhar,Dhar
+MP12,Khandwa,Khandwa
+MP13,Ujjain,Ujjain
+MP14,Mandsaur,Mandsaur
+MP15,Sagar,Sagar
+MP16,Chhatarpur,Chhatarpur
+MP17,Rewa,Rewa
+MP18,Shahdol,Shahdol
+MP19,Satna,Satna
+MP20,Jabalpur,Jabalpur
+MP21,Katni,Katni
+MP22,Seoni,Seoni
+MP23,(Previously Raipur - now Chhattisgarh),-
+MP24,(Previously Durg - now Chhattisgarh),-
+MP25,(Previously Jagdalpur - now Chhattisgarh),-
+MP26,(Previously Bilaspur - now Chhattisgarh),-
+MP27,(Previously Ambikapur - now Chhattisgarh),-
+MP28,Chhindwara,Chhindwara
+MP29,(Previously Rajnandgaon - now Chhattisgarh),-
+MP30,Bhind,Bhind
+MP31,Sheopur,Sheopur
+MP32,Datia,Datia
+MP33,Shivpuri,Shivpuri
+MP34,Damoh,Damoh
+MP35,Panna,Panna
+MP36,Tikamgarh,Tikamgarh
+MP37,Sehore,Sehore
+MP38,Raisen,Raisen
+MP39,Rajgarh,Rajgarh
+MP40,Vidisha,Vidisha
+MP41,Dewas,Dewas
+MP42,Shajapur,Shajapur
+MP43,Ratlam,Ratlam
+MP44,Neemuch,Neemuch
+MP45,Jhabua,Jhabua
+MP46,Barwani,Barwani
+MP47,Harda,Harda
+MP48,Betul,Betul
+MP49,Narsinghpur,Narsinghpur
+MP50,Balaghat,Balaghat
+MP51,Mandla,Mandla
+MP52,Dindori,Dindori
+MP53,Sidhi,Sidhi
+MP54,Umaria,Umaria
+MP55,Bagli,Dewas
+MP65,Anuppur,Anuppur
+MP66,Singrauli,Singrauli
+MP67,Ashoknagar,Ashoknagar
+MP68,Burhanpur,Burhanpur
+MP69,Alirajpur,Alirajpur
+MP70,Agar Malwa,Agar Malwa
+MP71,Niwari,Niwari
+GJ1,Ahmedabad (Subhash Bridge),Ahmedabad
+GJ2,Mehsana,Mehsana
+GJ3,Rajkot,Rajkot
+GJ4,Bhavnagar,Bhavnagar
+GJ5,Surat,Surat
+GJ6,Vadodara,Vadodara
+GJ7,Nadiad,Kheda
+GJ8,Palanpur,Banaskantha
+GJ9,Himatnagar,Sabarkantha
+GJ10,Jamnagar,Jamnagar
+GJ11,Junagadh,Junagadh
+GJ12,Bhuj (Kutch),Kutch
+GJ13,Surendranagar,Surendranagar
+GJ14,Amreli,Amreli
+GJ15,Valsad,Valsad
+GJ16,Bharuch,Bharuch
+GJ17,Godhra,Panchmahal
+GJ18,Gandhinagar,Gandhinagar
+GJ19,Bardoli,Surat
+GJ20,Dahod,Dahod
+GJ21,Navsari,Navsari
+GJ22,Rajpipla,Narmada
+GJ23,Anand,Anand
+GJ24,Patan,Patan
+GJ25,Porbandar,Porbandar
+GJ26,Vyara,Tapi
+GJ27,Ahmedabad East (Vastral),Ahmedabad
+GJ28,Surat (Pal),Surat
+GJ29,Vadodara (Darjipura),Vadodara
+GJ30,Ahwa (Dang),Dang
+GJ31,Modasa (Aravalli),Aravalli
+GJ32,Veraval (Gir Somnath),Gir Somnath
+GJ33,Botad,Botad
+GJ34,Chhota Udepur,Chhota Udepur
+GJ35,Lunawada (Mahisagar),Mahisagar
+GJ36,Morbi,Morbi
+GJ37,Khambhaliya (Devbhumi Dwarka),Devbhumi Dwarka
+GJ38,Bavla (Ahmedabad Rural),Ahmedabad
+GJ39,Anjar (Kutch),Kutch
+RJ1,Ajmer,Ajmer
+RJ2,Alwar,Alwar
+RJ3,Banswara,Banswara
+RJ4,Barmer,Barmer
+RJ5,Bharatpur,Bharatpur
+RJ6,Bhilwara,Bhilwara
+RJ7,Bikaner,Bikaner
+RJ8,Bundi,Bundi
+RJ9,Chittorgarh,Chittorgarh
+RJ10,Churu,Churu
+RJ11,Dholpur,Dholpur
+RJ12,Dungarpur,Dungarpur
+RJ13,Sri Ganganagar,Sri Ganganagar
+RJ14,Jaipur (South),Jaipur
+RJ15,Jaisalmer,Jaisalmer
+RJ16,Jalore,Jalore
+RJ17,Jhalawar,Jhalawar
+RJ18,Jhunjhunu,Jhunjhunu
+RJ19,Jodhpur,Jodhpur
+RJ20,Kota,Kota
+RJ21,Nagaur,Nagaur
+RJ22,Pali,Pali
+RJ23,Sikar,Sikar
+RJ24,Sirohi,Sirohi
+RJ25,Sawai Madhopur,Sawai Madhopur
+RJ26,Tonk,Tonk
+RJ27,Udaipur,Udaipur
+RJ28,Baran,Baran
+RJ29,Dausa,Dausa
+RJ30,Rajsamand,Rajsamand
+RJ31,Hanumangarh,Hanumangarh
+RJ32,Kotputli,Kotputli-Behror
+RJ33,Ramganj Mandi,Kota
+RJ34,Karauli,Karauli
+RJ35,Pratapgarh,Pratapgarh
+RJ36,Beawar,Beawar
+RJ37,Didwana,Didwana-Kuchaman
+RJ38,Abu Road,Sirohi
+RJ39,Balotra,Balotra
+RJ40,Bhiwadi,Alwar
+RJ41,Chomu,Jaipur
+RJ42,Kishangarh,Ajmer
+RJ43,Phalodi,Phalodi
+RJ44,Sujangarh,Churu
+RJ45,Jaipur (North),Jaipur
+RJ46,Bhinmal,Jalore
+RJ47,Dudu,Dudu
+RJ48,Kekri,Kekri
+RJ49,Nohar,Hanumangarh
+RJ50,Nokha,Bikaner
+RJ51,Shahpura (Bhilwara),Shahpura (Bhilwara)
+RJ52,Shahpura (Jaipur),Jaipur
+RJ53,Khetri,Jhunjhunu
+RJ54,Pipar,Jodhpur
+RJ55,Pokhran,Jaisalmer
+RJ56,Sadulshahar,Sri Ganganagar
+RJ57,Sumerpur,Pali
+RJ58,Salumber,Salumber
+RJ59,Shahpura (Jaipur),Jaipur
+RJ60,Jaipur (East),Jaipur
+RJ61,Sanchore,Sanchore
+RJ62,Deedwana-Kuchaman,Deedwana-Kuchaman
+RJ63,Gangapur City,Gangapur City
+RJ64,Bayana,Bharatpur
+RJ65,Khairthal,Khairthal-Tijara
+RJ66,Salasar,Churu
+RJ67,Kekri,Kekri
+RJ68,Anupgarh,Anupgarh
+RJ69,Jodhpur Rural,Jodhpur
+RJ70,Jodhpur City (West),Jodhpur
+RJ71,Jaipur City (East),Jaipur
+RJ72,Jaipur City (West),Jaipur
+RJ73,Kota City (North),Kota
+RJ74,Kota City (South),Kota
+UP11,Saharanpur,Saharanpur
+UP12,Muzaffarnagar,Muzaffarnagar
+UP13,Bulandshahr,Bulandshahr
+UP14,Ghaziabad,Ghaziabad
+UP15,Meerut,Meerut
+UP16,Gautam Buddh Nagar (Noida),Gautam Buddh Nagar
+UP17,Bagpat,Baghpat
+UP18,Greater Noida,Gautam Buddh Nagar
+UP19,Shamli,Shamli
+UP20,Bijnor,Bijnor
+UP21,Moradabad,Moradabad
+UP22,Rampur,Rampur
+UP23,Amroha (Jyotiba Phule Nagar),Amroha
+UP24,Badaun,Budaun
+UP25,Bareilly,Bareilly
+UP26,Pilibhit,Pilibhit
+UP27,Shahjahanpur,Shahjahanpur
+UP28,Ayodhya,Ayodhya
+UP30,Hardoi,Hardoi
+UP31,Lakhimpur Kheri,Lakhimpur Kheri
+UP32,Lucknow,Lucknow
+UP32A,Lucknow (Trans Gomti Office),Lucknow
+UP33,Raebareli,Rae Bareli
+UP34,Sitapur,Sitapur
+UP35,Unnao,Unnao
+UP36,Amethi,Amethi
+UP37,Hapur,Hapur
+UP38,Sambhal,Sambhal
+UP40,Bahraich,Bahraich
+UP41,Barabanki,Barabanki
+UP42,Faizabad,Ayodhya
+UP43,Gonda,Gonda
+UP44,Sultanpur,Sultanpur
+UP45,Ambedkar Nagar,Ambedkar Nagar
+UP46,Shravasti,Shravasti
+UP47,Balrampur,Balrampur
+UP50,Azamgarh,Azamgarh
+UP51,Basti,Basti
+UP52,Deoria,Deoria
+UP53,Gorakhpur,Gorakhpur
+UP54,Mau,Mau
+UP55,Siddharthnagar,Siddharthnagar
+UP56,Maharajganj,Maharajganj
+UP57,Padrauna (Kushinagar),Kushinagar
+UP58,Sant Kabir Nagar,Sant Kabir Nagar
+UP60,Ballia,Ballia
+UP61,Ghazipur,Ghazipur
+UP62,Jaunpur,Jaunpur
+UP63,Mirzapur,Mirzapur
+UP64,Sonbhadra,Sonbhadra
+UP65,Varanasi,Varanasi
+UP65A,Varanasi (Cantt),Varanasi
+UP66,Bhadohi (Sant Ravidas Nagar),Sant Ravidas Nagar
+UP67,Chandauli,Chandauli
+UP70,Prayagraj (Allahabad),Prayagraj
+UP71,Fatehpur,Fatehpur
+UP72,Pratapgarh,Pratapgarh
+UP73,Kaushambi,Kaushambi
+UP74,Kannauj,Kannauj
+UP75,Etawah,Etawah
+UP76,Farrukhabad,Farrukhabad
+UP77,Kanpur Dehat,Kanpur Dehat
+UP78,Kanpur Nagar,Kanpur Nagar
+UP79,Auraiya,Auraiya
+UP80,Agra,Agra
+UP81,Aligarh,Aligarh
+UP82,Etah,Etah
+UP83,Firozabad,Firozabad
+UP84,Mainpuri,Mainpuri
+UP85,Mathura,Mathura
+UP86,Hathras (Mahamaya Nagar),Hathras
+UP87,Kasganj (Kanshiram Nagar),Kasganj
+UP90,Banda,Banda
+UP91,Hamirpur,Hamirpur
+UP92,Orai (Jalaun),Jalaun
+UP93,Jhansi,Jhansi
+UP94,Lalitpur,Lalitpur
+UP95,Mahoba,Mahoba
+UP96,Chitrakoot Dham (Karwi),Chitrakoot
+BR1,Patna,Patna
+BR2,Gaya,Gaya
+BR3,Arrah,Bhojpur
+BR4,Chhapra,Saran
+BR5,Motihari,East Champaran
+BR6,Muzaffarpur,Muzaffarpur
+BR7,Darbhanga,Darbhanga
+BR8,Munger,Munger
+BR9,Begusarai,Begusarai
+BR10,Bhagalpur,Bhagalpur
+BR11,Purnia,Purnia
+BR19,Saharsa,Saharsa
+BR21,Bihar Sharif,Nalanda
+BR22,Bettiah,West Champaran
+BR24,Dehri,Rohtas
+BR25,Jehanabad,Jehanabad
+BR26,Aurangabad,Aurangabad
+BR27,Nawada,Nawada
+BR28,Gopalganj,Gopalganj
+BR29,Siwan,Siwan
+BR30,Sitamarhi,Sitamarhi
+BR31,Hajipur,Vaishali
+BR32,Madhubani,Madhubani
+BR33,Samastipur,Samastipur
+BR34,Khagaria,Khagaria
+BR37,Kishanganj,Kishanganj
+BR38,Araria,Araria
+BR39,Katihar,Katihar
+BR43,Madhepura,Madhepura
+BR44,Buxar,Buxar
+BR45,Bhabua,Kaimur
+BR46,Jamui,Jamui
+BR50,Supaul,Supaul
+BR51,Banka,Banka
+BR52,Sheikhpura,Sheikhpura
+BR53,Lakhisarai,Lakhisarai
+BR55,Sheohar,Sheohar
+BR56,Arwal,Arwal
+BR57,Rohtas (Sasaram),Rohtas
+JH1,Ranchi,Ranchi
+JH2,Hazaribagh / Ramgarh,Hazaribagh / Ramgarh (Ramgarh was carved out of Hazaribagh)
+JH3,Daltonganj (Palamau),Palamau
+JH4,Dumka,Dumka
+JH5,Jamshedpur,East Singhbhum
+JH6,Chaibasa,West Singhbhum
+JH7,Gumla,Gumla
+JH8,Lohardaga,Lohardaga
+JH9,Bokaro Steel City,Bokaro
+JH10,Dhanbad,Dhanbad
+JH11,Giridih,Giridih
+JH12,Koderma,Koderma
+JH13,Chatra,Chatra
+JH14,Garhwa,Garhwa
+JH15,Deoghar,Deoghar
+JH16,Pakur,Pakur
+JH17,Godda,Godda
+JH18,Sahibganj,Sahibganj
+JH19,Latehar,Latehar
+JH20,Simdega,Simdega
+JH21,Jamtara,Jamtara
+JH22,Saraikela-Kharsawan,Saraikela-Kharsawan
+JH23,Khunti,Khunti
+JH24,Ramgarh,Ramgarh
+WB1,Kolkata Beltala (2-wheelers),Kolkata
+WB2,Kolkata Beltala (Pvt 4-wheelers),Kolkata
+WB3,Kolkata Beltala (Goods Carriers),Kolkata
+WB4,Kolkata Beltala (Commercial),Kolkata
+WB5,Kolkata Kasba (Commercial),Kolkata
+WB6,Kolkata Kasba (Private),Kolkata
+WB7,Kolkata Salt Lake (Private),Kolkata
+WB8,Kolkata Salt Lake (Private),Kolkata
+WB9,Kolkata (various specific purposes),Kolkata
+WB10,Kolkata (Behala / various specific purposes),Kolkata
+WB11,Howrah (Transport Vehicles),Howrah
+WB12,Howrah (Private Vehicles),Howrah
+WB13,Uluberia (Transport Vehicles),Howrah
+WB14,Uluberia (Private Vehicles),Howrah
+WB15,Hooghly-Chuchura (Transport),Hooghly
+WB16,Hooghly-Chuchura (Private),Hooghly
+WB17,Hooghly Srirampur (Commercial),Hooghly
+WB18,Dankuni (Hooghly),Hooghly
+WB19,Alipore (Transport Vehicles),South 24 Parganas
+WB20,Alipore (Private Vehicles),South 24 Parganas
+WB21,Basirhat,North 24 Parganas
+WB22,Alipore (various specific purposes),South 24 Parganas
+WB23,Barrackpore (Transport Vehicles),North 24 Parganas
+WB24,Barrackpore (Private Vehicles),North 24 Parganas
+WB25,Barasat (Transport Vehicles),North 24 Parganas
+WB26,Barasat (Private Vehicles),North 24 Parganas
+WB27,Bongaon (Transport Vehicles),North 24 Parganas
+WB28,Bongaon (Private Vehicles),North 24 Parganas
+WB29,Tamluk (Transport Vehicles),Purba Medinipur
+WB30,Tamluk (Private Vehicles),Purba Medinipur
+WB31,Contai (Transport Vehicles),Purba Medinipur
+WB32,Contai (Private Vehicles),Purba Medinipur
+WB33,Midnapore (Transport Vehicles),Paschim Medinipur
+WB34,Midnapore (Private Vehicles),Paschim Medinipur
+WB35,Kharagpur,Paschim Medinipur
+WB36,Midnapore (various specific purposes),Paschim Medinipur
+WB37,Asansol (Transport Vehicles),Paschim Bardhaman
+WB38,Asansol (Private Vehicles),Paschim Bardhaman
+WB39,Durgapur (Transport Vehicles),Paschim Bardhaman
+WB40,Durgapur (Private Vehicles),Paschim Bardhaman
+WB41,Burdwan (Transport Vehicles),Purba Bardhaman
+WB42,Burdwan (Private Vehicles),Purba Bardhaman
+WB43,Kalna (Transport Vehicles),Purba Bardhaman
+WB44,Asansol (various specific purposes),Paschim Bardhaman
+WB45,Rampurhat (Transport Vehicles),Birbhum
+WB46,Rampurhat (Private Vehicles),Birbhum
+WB47,Bolpur (Transport Vehicles),Birbhum
+WB48,Bolpur (Private Vehicles),Birbhum
+WB49,Jhargram (Transport Vehicles),Jhargram
+WB50,Jhargram (Private Vehicles),Jhargram
+WB51,Nadia (Transport Vehicles),Nadia
+WB52,Nadia (Other than Transport),Nadia
+WB53,Birbhum (Transport Vehicles),Birbhum
+WB54,Birbhum (Other than Transport),Birbhum
+WB55,Purulia (Transport Vehicles),Purulia
+WB56,Purulia (Other than Transport),Purulia
+WB57,Murshidabad (Transport Vehicles),Murshidabad
+WB58,Murshidabad (Other than Transport),Murshidabad
+WB59,Raiganj (Transport Vehicles),Uttar Dinajpur
+WB60,Raiganj (Other than Transport),Uttar Dinajpur
+WB61,Balurghat (Transport Vehicles),Dakshin Dinajpur
+WB62,Balurghat (Other than Transport),Dakshin Dinajpur
+WB63,"Cooch Behar (Transport, NBSTC buses)",Cooch Behar
+WB64,Cooch Behar (Other than Transport),Cooch Behar
+WB65,Malda (Transport Vehicles),Malda
+WB66,Malda (Other than Transport),Malda
+WB67,Bankura (Transport Vehicles),Bankura
+WB68,Bankura (Other than Transport),Bankura
+WB69,Alipurduar (Transport Vehicles),Alipurduar
+WB70,Alipurduar (Other than Transport),Alipurduar
+WB71,Jalpaiguri (Transport Vehicles),Jalpaiguri
+WB72,Jalpaiguri (Other than Transport),Jalpaiguri
+WB73,Siliguri (Transport Vehicles),Darjeeling (or Jalpaiguri for some parts)
+WB74,Siliguri (Other than Transport),Darjeeling (or Jalpaiguri for some parts)
+WB76,Darjeeling (Transport Vehicles),Darjeeling
+WB77,Darjeeling (Other than Transport),Darjeeling
+WB78,Kalimpong (Transport Vehicles),Kalimpong
+WB79,Kalimpong (Other than Transport),Kalimpong
+WB81,Raghunathpur (Private Vehicles),Purulia
+WB82,Raghunathpur (Transport Vehicles),Purulia
+WB83,Chanchal (Transport Vehicles),Malda
+WB84,Chanchal (Private Vehicles),Malda
+WB85,Mathabhanga (Commercial Vehicles),Cooch Behar
+WB86,Mathabhanga (Other than Transport),Cooch Behar
+WB87,Bishnupur (Private Vehicles),Bankura
+WB88,Bishnupur (Transport Vehicles),Bankura
+WB89,Kalyani (Transport Vehicles),Nadia
+WB90,Kalyani (Private Vehicles),Nadia
+WB91,Islampur (Commercial Vehicles),Uttar Dinajpur
+WB92,Islampur (Private Vehicles),Uttar Dinajpur
+WB93,Jangipur (Commercial Vehicles),Murshidabad
+WB94,Jangipur (Transport Vehicles),Murshidabad
+WB95,Baruipur (Commercial Vehicles),South 24 Parganas
+WB96,Baruipur (Private Vehicles),South 24 Parganas
+WB97,Diamond Harbour (Commercial Vehicles),South 24 Parganas
+WB98,Diamond Harbour (Private Vehicles),South 24 Parganas
+WB99,Jaynagar (Private Vehicles),South 24 Parganas
+AS1,Guwahati (Kamrup Metro),Kamrup Metropolitan
+AS2,Nagaon,Nagaon
+AS3,Jorhat,Jorhat
+AS4,Sivasagar,Sivasagar
+AS5,Golaghat,Golaghat
+AS6,Dibrugarh,Dibrugarh
+AS7,Lakhimpur,Lakhimpur
+AS8,Dima Hasao (Haflong),Dima Hasao
+AS9,Karbi Anglong (Diphu),Karbi Anglong
+AS10,Karimganj,Karimganj
+AS11,Cachar (Silchar),Cachar
+AS12,Sonitpur (Tezpur),Sonitpur
+AS13,Darrang (Mangaldoi),Darrang
+AS14,Nalbari,Nalbari
+AS15,Barpeta,Barpeta
+AS16,Kokrajhar,Kokrajhar
+AS17,Dhubri,Dhubri
+AS18,Goalpara,Goalpara
+AS19,Bongaigaon,Bongaigaon
+AS20,Assam State Transport Corp.,Assam (State Level)
+AS21,Morigaon,Morigaon
+AS22,Dhemaji,Dhemaji
+AS23,Tinsukia,Tinsukia
+AS24,Hailakandi,Hailakandi
+AS25,Kamrup Rural (Amingaon),Kamrup
+AS26,Chirang (Kajalgaon),Chirang
+AS27,Udalguri,Udalguri
+AS28,Baksa (Mushalpur),Baksa
+AS29,Majuli,Majuli
+AS30,Assam Police Vehicles,Assam (State Level)
+AS31,Hojai,Hojai
+AS32,Biswanath Chariali,Biswanath
+AS33,Charaideo (Sonari),Charaideo
+AS34,South Salmara Mankachar (Hatsingimari),South Salmara Mankachar
+CH1,Chandigarh,Chandigarh
+CH2,Chandigarh,Chandigarh
+CH3,Chandigarh,Chandigarh
+CH4,Chandigarh,Chandigarh
+PB1,"Chandigarh (though now a UT, linked to Punjab for historical vehicle registrations)",Chandigarh (UT)
+PB2,Amritsar,Amritsar
+PB3,Bathinda,Bathinda
+PB4,Faridkot,Faridkot
+PB5,Ferozepur,Ferozepur
+PB6,Gurdaspur,Gurdaspur
+PB7,Hoshiarpur,Hoshiarpur
+PB8,Jalandhar,Jalandhar
+PB9,Kapurthala,Kapurthala
+PB10,Ludhiana,Ludhiana
+PB11,Patiala,Patiala
+PB12,Ropar (Rupnagar),Rupnagar
+PB13,Sangrur,Sangrur
+PB14,Ajnala,Amritsar
+PB15,Abohar,Fazilka
+PB16,Anandpur Sahib,Rupnagar
+PB17,Baba Bakala,Amritsar
+PB18,Batala,Gurdaspur
+PB19,Barnala,Barnala
+PB20,Balachaur,Shaheed Bhagat Singh Nagar (Nawanshahr)
+PB21,Dasuya,Hoshiarpur
+PB22,Fazilka,Fazilka
+PB23,Fatehgarh Sahib,Fatehgarh Sahib
+PB24,Garhshankar,Hoshiarpur
+PB25,Jagraon,Ludhiana
+PB26,Khanna,Ludhiana
+PB27,Kharar,Mohali (SAS Nagar)
+PB28,Malerkotla,Malerkotla
+PB29,Moga,Moga
+PB30,Muktsar (Sri Muktsar Sahib),Sri Muktsar Sahib
+PB31,Mansa,Mansa
+PB32,Nawanshahr (SBS Nagar),Shaheed Bhagat Singh Nagar (Nawanshahr)
+PB33,Nakodar,Jalandhar
+PB34,Nabha,Patiala
+PB35,Pathankot,Pathankot
+PB36,Phagwara,Kapurthala
+PB37,Phillaur,Jalandhar
+PB38,Patti,Tarn Taran
+PB39,Rajpura,Patiala
+PB40,Rampura Phul,Bathinda
+PB41,Sultanpur Lodhi,Kapurthala
+PB42,Samana,Patiala
+PB43,Samrala,Ludhiana
+PB44,Sunam,Sangrur
+PB45,Talwandi Sabo,Bathinda
+PB46,Tarn Taran,Tarn Taran
+PB47,Zira,Ferozepur
+PB48,Amloh,Fatehgarh Sahib
+PB49,Khamanon,Fatehgarh Sahib
+PB50,Budhlada,Mansa
+PB51,Sardulgarh (Jhunir),Mansa
+PB52,Bassi Pathana,Fatehgarh Sahib
+PB53,Malout,Sri Muktsar Sahib
+PB54,Mukerian,Hoshiarpur
+PB55,Payal,Ludhiana
+PB56,Raikot,Ludhiana
+PB57,Bhulath,Kapurthala
+PB58,Dera Baba Nanak,Gurdaspur
+PB59,Dhuri,Sangrur
+PB60,Gidderbaha,Sri Muktsar Sahib
+PB61,Jalalabad,Fazilka
+PB62,Jaitu,Faridkot
+PB63,Khadoor Sahib,Tarn Taran
+PB64,Moonak,Sangrur
+PB65,Mohali (SAS Nagar),Mohali (SAS Nagar)
+PB66,Nihal Singh Wala,Moga
+PB67,Shahkot,Jalandhar
+PB68,Dhar Kalan,Pathankot
+PB69,Bagha Purana,Moga
+PB70,Dera Bassi,Mohali (SAS Nagar)
+PB71,Chamkaur Sahib,Rupnagar
+PB72,Patran,Patiala
+PB73,Tapa Mandi,Barnala
+PB74,Nangal,Rupnagar
+PB75,Lehra Gagga,Sangrur
+PB76,Ahmedgarh,Malerkotla
+PB77,Guru Har Sahai,Ferozepur
+PB78,Banga,Shaheed Bhagat Singh Nagar (Nawanshahr)
+PB79,Kotkapura,Faridkot
+PB80,Maur Mandi,Bathinda
+PB81,Majitha,Amritsar
+PB82,Ahmedgarh,Malerkotla
+PB83,Dudhan Sadhan,Patiala
+PB84,Bhawanigarh,Sangrur
+PB85,Kalanaur,Gurdaspur
+PB86,Dirba,Sangrur
+PB87,Morinda,Rupnagar
+PB88,Bhikhiwind,Tarn Taran
+PB89,Amritsar-2,Amritsar
+PB90,Jalandhar-2,Jalandhar
+PB91,Ludhiana East,Ludhiana
+PB92,Amargarh,Malerkotla
+PB99,Dinanagar,Gurdaspur
+HR1,Ambala (North),Ambala
+HR2,Jagadhri (Yamunanagar),Yamunanagar
+HR3,Panchkula,Panchkula
+HR4,Naraingarh,Ambala
+HR5,Karnal,Karnal
+HR6,Panipat,Panipat
+HR7,Thanesar (Kurukshetra),Kurukshetra
+HR8,Kaithal,Kaithal
+HR9,Guhla,Kaithal
+HR10,Sonipat,Sonipat
+HR11,Gohana,Sonipat
+HR12,Rohtak,Rohtak
+HR13,Bahadurgarh,Jhajjar
+HR14,Jhajjar,Jhajjar
+HR15,Meham,Rohtak
+HR16,Bhiwani,Bhiwani
+HR17,Siwani,Bhiwani
+HR18,Loharu,Bhiwani
+HR19,Charkhi Dadri,Charkhi Dadri
+HR20,Hisar,Hisar
+HR21,Hansi,Hisar
+HR22,Fatehabad,Fatehabad
+HR23,Tohana,Fatehabad
+HR24,Sirsa,Sirsa
+HR25,Dabwali,Sirsa
+HR26,Gurugram (North),Gurugram
+HR27,Nuh,Nuh (Mewat)
+HR28,Ferozepur Jhirka,Nuh (Mewat)
+HR29,Ballabgarh (Faridabad S.),Faridabad
+HR30,Palwal,Palwal
+HR31,Jind,Jind
+HR32,Narwana,Jind
+HR33,Safidon,Jind
+HR34,Mahendragarh,Mahendragarh
+HR35,Narnaul,Mahendragarh
+HR36,Rewari,Rewari
+HR37,Ambala (Commercial),Ambala
+HR38,Faridabad (Commercial),Faridabad
+HR39,Hisar (Commercial),Hisar
+HR40,Assandh,Karnal
+HR41,Pehowa,Kurukshetra
+HR42,Ganaur,Sonipat
+HR43,Kosli,Rewari
+HR44,Ellenabad,Sirsa
+HR45,Karnal (Commercial),Karnal
+HR46,Rohtak (Commercial),Rohtak
+HR47,Rewari (Commercial),Rewari
+HR48,Tosham,Bhiwani
+HR49,Kalka,Panchkula
+HR50,Hodal,Palwal
+HR51,Faridabad (North),Faridabad
+HR52,Hathin,Palwal
+HR53,Adampur,Hisar
+HR54,Barara,Ambala
+HR55,Gurugram (Commercial),Gurugram
+HR56,Jind (Commercial),Jind
+HR57,Sirsa (Commercial),Sirsa
+HR58,Yamunanagar (Commercial),Yamunanagar
+HR59,Ratia,Fatehabad
+HR60,Samalkha,Panipat
+HR61,Bhiwani (Commercial),Bhiwani
+HR62,Fatehabad (Commercial),Fatehabad
+HR63,Jhajjar (Commercial),Jhajjar
+HR64,Kaithal (Commercial),Kaithal
+HR65,Kurukshetra (Commercial),Kurukshetra
+HR66,Narnaul (Commercial),Mahendragarh
+HR67,Panipat (Commercial),Panipat
+HR68,Panchkula (Commercial),Panchkula
+HR69,Sonipat (Commercial),Sonipat
+HR70,Chandigarh (Reserved),Union Territory
+HR71,Bilaspur,Yamunanagar
+HR72,Gurugram (South),Gurugram
+HR73,Palwal (Commercial),Palwal
+HR74,Nuh (Mewat) (Commercial),Nuh (Mewat)
+HR75,Indri,Karnal
+HR76,Pataudi,Gurugram
+HR77,Beri,Jhajjar
+HR78,Shahabad Markanda,Kurukshetra
+HR79,Kharkhoda,Sonipat
+HR80,Barwala,Hisar
+HR81,Bawal,Rewari
+HR82,Kanina,Mahendragarh
+HR83,Kalayat,Kaithal
+HR84,Charkhi Dadri (Commercial),Charkhi Dadri
+HR85,Ambala Cantt (South),Ambala
+HR86,Narnaund,Hisar
+HR87,Badkhal (Faridabad West),Faridabad
+HR88,Badhra,Charkhi Dadri
+HR89,Badli,Jhajjar
+HR90,Uchana,Jind
+HR91,Gharaunda,Karnal
+HR92,Radaur,Yamunanagar
+HR93,Punhana,Nuh (Mewat)
+HR94,Kalanwali,Sirsa
+HR95,Sampla,Rohtak
+HR96,Tauru,Nuh (Mewat)
+HR97,Ladwa,Kurukshetra
+HR98,Badshahpur,Gurugram
+HR99,Haryana (Temporary),State Level
+DL1,Mall Road,North Delhi
+DL2,Tilak Marg,New Delhi (Central)
+DL3,Sheikh Sarai,South Delhi
+DL4,Janakpuri (West),West Delhi
+DL5,Loni Road,North East Delhi / Shahdara
+DL6,Sarai Kale Khan,Central Delhi
+DL7,Mayur Vihar,East Delhi
+DL8,Wazirpur,North West Delhi
+DL9,Dwarka / Janakpuri (Palam),South West Delhi
+DL10,Raja Garden,West Delhi
+DL11,Rohini,North West Delhi
+DL12,Vasant Vihar,South West Delhi
+DL13,Surajmal Vihar / Shahdara,East Delhi
+DL14,(Sonipat),Haryana (NCR)
+DL15,(Gurgaon),Haryana (NCR)
+DL16,(Faridabad),Haryana (NCR)
+DL17,(Noida),Uttar Pradesh (NCR)
+DL18,(Ghaziabad),Uttar Pradesh (NCR)
+GA1,Panaji,North Goa
+GA2,Margao,South Goa
+GA3,Mapusa,North Goa
+GA4,Bicholim,North Goa
+GA5,Ponda,North Goa
+GA6,Vasco da Gama,South Goa
+GA7,Panaji (Tiswadi),North Goa
+GA8,Margao (Salcette),South Goa
+GA9,Quepem,South Goa
+GA10,Canacona,South Goa
+GA11,Pernem,North Goa
+GA12,Dharbandora,South Goa
+JK1,Srinagar,Srinagar
+JK2,Jammu,Jammu
+JK3,Anantnag,Anantnag
+JK4,Budgam,Budgam
+JK5,Baramulla,Baramulla
+JK6,Doda,Doda
+JK7,Kargil,Kargil (Now part of UT Ladakh)
+JK8,Kathua,Kathua
+JK9,Kupwara,Kupwara
+JK10,Leh,Leh (Now part of UT Ladakh)
+JK11,Rajouri,Rajouri
+JK12,Poonch,Poonch
+JK13,Pulwama,Pulwama
+JK14,Udhampur,Udhampur
+JK15,Bandipora,Bandipora
+JK16,Ganderbal,Ganderbal
+JK17,Kishtwar,Kishtwar
+JK18,Kulgam,Kulgam
+JK19,Ramban,Ramban
+JK20,Reasi,Reasi
+JK21,Samba,Samba
+JK22,Shopian,Shopian
+LA1,Kargil,Kargil
+LA2,Leh,Leh
+LD1,Kavaratti,Lakshadweep
+LD2,Agatti,Lakshadweep
+LD3,Amini,Lakshadweep
+LD4,Androth,Lakshadweep
+LD5,Kadmat,Lakshadweep
+LD6,Kiltan,Lakshadweep
+LD7,Chetlat,Lakshadweep
+LD8,Kalpeni,Lakshadweep
+LD9,Minicoy,Lakshadweep
+ML1,Shillong,East Khasi Hills
+ML2,Shillong,East Khasi Hills
+ML3,Shillong,East Khasi Hills
+ML4,Jowai,West Jaintia Hills
+ML5,Shillong,East Khasi Hills
+ML6,Nongstoin,West Khasi Hills
+ML7,Williamnagar,East Garo Hills
+ML8,Tura,West Garo Hills
+ML9,Baghmara,South Garo Hills
+ML10,Nongpoh,Ri-Bhoi
+ML11,Khliehriat,East Jaintia Hills
+ML12,Mawkyrwat,South West Khasi Hills
+ML13,Resubelpara,North Garo Hills
+ML14,Ampati,South West Garo Hills
+ML15,Mairang,Eastern West Khasi Hills
+ML56,Shillong,East Khasi Hills
+MN1,Imphal West,Imphal West
+MN2,Churachandpur,Churachandpur
+MN3,Kangpokpi,Kangpokpi
+MN4,Thoubal,Thoubal
+MN5,Bishnupur,Bishnupur
+MN6,Imphal East,Imphal East
+MN7,Ukhrul,Ukhrul
+MN8,Senapati,Senapati
+MN9,Chandel,Chandel
+MZ1,Aizawl,Aizawl
+MZ2,Lunglei,Lunglei
+MZ3,Saiha (Chhimtuipui),Siaha (formerly Chhimtuipui)
+MZ4,Champhai,Champhai
+MZ5,Kolasib,Kolasib
+MZ6,Serchhip,Serchhip
+MZ7,Lawngtlai,Lawngtlai
+MZ8,Mamit,Mamit
+MZ9,Aizawl Rural,Aizawl
+MZ10,Hnahthial,Hnahthial
+MZ11,Saitual,Saitual
+MZ12,Khawzawl,Khawzawl
+NL1,Kohima,Kohima
+NL2,Mokokchung,Mokokchung
+NL3,Tuensang,Tuensang
+NL4,Mon,Mon
+NL5,Wokha,Wokha
+NL6,Zunheboto,Zunheboto
+NL7,Dimapur,Dimapur
+NL8,Phek,Phek
+NL9,Kiphire,Kiphire
+NL10,Longleng,Longleng
+NL11,Peren,Peren
+NL12,Shamator,Shamator
+NL13,Noklak,Noklak
+NL14,Tseminyu,Tseminyu
+NL15,Chumoukedima,Chumoukedima
+NL16,Niuland,Niuland
+SK1,Gangtok,East Sikkim
+SK2,Gyalshing,Gyalshing (West Sikkim)
+SK3,Mangan,Mangan (North Sikkim)
+SK4,Jorethang,Namchi (South Sikkim)
+SK5,Namchi,Namchi (South Sikkim)
+SK6,Soreng,Soreng (West Sikkim)
+SK7,Pakyong,Pakyong (East Sikkim)
+SK8,Singtam,East Sikkim
+TR1,Agartala,West Tripura
+TR2,Kailashahar (Unakoti),Unakoti
+TR3,Udaipur (Gomati),Gomati
+TR4,Ambassa (Dhalai),Dhalai
+TR5,Dharmanagar (North Tripura),North Tripura
+TR6,Khowai (Teliamura),Khowai
+TR7,Bishramganj (Sepahijala),Sepahijala
+TR8,Santirbazar (South Tripura),South Tripura
+TR99,STA Tripura,State Level
+UK1,Almora,Almora
+UK2,Bageshwar,Bageshwar
+UK3,Champawat,Champawat
+UK4,Nainital (Haldwani),Nainital
+UK5,Pithoragarh,Pithoragarh
+UK6,Udham Singh Nagar (Rudrapur),Udham Singh Nagar
+UK7,Dehradun,Dehradun
+UK8,Haridwar,Haridwar
+UK9,Tehri,Tehri Garhwal
+UK10,Uttarkashi,Uttarkashi
+UK11,Chamoli (Gopeshwar),Chamoli
+UK12,Pauri,Pauri Garhwal
+UK13,Rudraprayag,Rudraprayag
+UK14,Rishikesh,Dehradun
+UK15,Kotdwar,Pauri Garhwal
+UK16,Vikasnagar,Dehradun
+UK17,Roorkee,Haridwar
+UK18,Kashipur,Udham Singh Nagar
+UK19,Ramnagar,Nainital
+UK20,Ranikhet,Almora
+AN1,Port Blair,"Andaman District (South Andaman, North & Middle Andaman)"
+AN2,Car Nicobar,Nicobar District
+AN200,Ferrargun,Nicobar District
+AN201,Baratang,Nicobar District
+AN202,Rangat,Nicobar District
+AN203,Mayabander,Nicobar District
+AN204,Digilpur,Nicobar District
+AN206,Swaraj dweep,Nicobar District
+AN207,Little andaman,Nicobar District
+AN211,Car Nicobar,Nicobar District
+AN212,Campbell bay,Nicobar District
+AP2,Anantapur,Anantapuramu
+AP3,Chittoor,Chittoor
+AP4,Kadapa,YSR Kadapa
+AP5,Kakinada,Kakinada
+AP6,Amalapuram,Konaseema
+AP7,Guntur,Guntur
+AP8,(Guntur-II),Guntur
+AP16,Vijayawada (RTO-1),NTR
+AP17,Vijayawada (RTO-2),NTR
+AP18,Vijayawada (RTO-3),NTR
+AP19,Vijayawada (RTO-4),NTR
+AP21,Kurnool,Kurnool
+AP26,Nellore,Sri Potti Sriramulu Nellore
+AP27,Ongole,Prakasam
+AP30,Srikakulam,Srikakulam
+AP31,Visakhapatnam (RTO-1),Visakhapatnam
+AP32,Visakhapatnam (RTO-2),Visakhapatnam
+AP33,Gajuwaka,Visakhapatnam
+AP34,(Visakhapatnam-4),Visakhapatnam
+AP35,Vizianagaram,Vizianagaram
+AP37,Eluru,Eluru
+AP38,Eluru (Unit Office),West Godavari
+AP39,Gajuwaka (Old/Reassigned),Visakhapatnam
+AP40,Visakhapatnam (New/Reassigned),Visakhapatnam
+AP41,Chilakaluripet,Guntur
+CG31,Not found,Not found
+HP12,Nalagarh,Solan
+HP14,Solan,Solan
+HP15,Solan,Solan
+HP16,Sirmaur,Sirmaur
+HP17,Paonta Sahib,Sirmaur
+HP18,Nahan,Sirmaur
+HP19,Amb,Una
+HP20,Una,Una
+HP21,Barsar,Hamirpur
+HP22,Hamirpur,Hamirpur
+HP23,Bilaspur,Bilaspur
+HP24,Bilaspur,Bilaspur
+HP25,Rekong Peo,Kinnaur
+HP28,Sarkaghat,Mandi
+HP29,Jogindernagar,Mandi
+HP31,Sundernagar,Mandi
+HP32,Gohar,Mandi
+HP33,Mandi,Mandi
+HP34,Kullu,Kullu
+HP36,Dehra,Kangra
+HP37,Palampur,Kangra
+HP38,Nurpur,Kangra
+HP39,Kangra,Kangra
+HP40,Kangra,Kangra
+HP48,Chamba,Chamba
+HP53,Baijnath,Kangra
+HP54,Jawali,Kangra
+HP55,Nadaun,Hamirpur
+HP56,Jaisinghpur,Kangra
+HP57,Chowari,Chamba
+HP58,Manali,Kullu
+HP63,Shimla,Shimla
+HP64,Solan,Solan
+HP65,Mandi,Mandi
+HP66,Kullu,Kullu
+HP67,Hamirpur,Hamirpur
+HP68,Dharamshala,Kangra
+HP71,Nahan,Sirmaur
+HP72,Una,Una
+HP73,Chamba,Chamba
+HP74,Bhoranj,Hamirpur
+HP78,Bangana,Una
+HP80,Haroli,Una
+HP82,Balh,Mandi
+HP83,Jawalaji,Kangra
+HP84,Sujanpur Tihra,Hamirpur
+HP86,Dharampur,Mandi
+HP88,Fatehpur,Kangra
+HP89,Jhandutta,Bilaspur
+HP90,Shahpur,Kangra
+HP91,Naina Devi (Swarghat),Bilaspur
+HP94,Nagrota Bagwan,Kangra
+HP96,Dheera,Kangra
+HP97,Indora,Kangra
+HP98,Kasauli,Solan
+WB75,Katwa,Purba Bardhaman
+AP221,Adoni,Kurnool
+AP205,Amalapuram,Konaseema
+AP131,Anakapalli,Anakapalli
+AP126,Atmakur,Kurnool
+AP207,Bapatla,Bapatla
+AP137,Bhimavaram,West Godavari
+AP307,Chilakaluripeta,Prakasam
+AP905,Chintoor,East Godavari
+AP127,Chirala,Prakasam
+AP427,Darsi,Prakasam
+AP231,Gajuwaka,Visakhapatnam
+AP116,Gudiwada,Krishna
+AP226,Gudur,Nellore
+AP202,Guntakal,Anantapur
+AP102,Hindupur,Anantapur
+AP130,Itchapuram,Srikakulam
+AP616,Jaggayyapet,Krishna
+AP237,Jangareddygudem,West Godavari
+AP227,Kandukur,Prakasam
+AP326,Kavali,Nellore
+AP337,Kovvuru,West Godavari
+AP407,Macherla,Prakasam
+AP405,Mandapeta,East Godavari
+AP327,Markapur,Prakasam
+AP316,Nandigama,Krishna
+AP121,Nandyal,Nandyal
+AP107,Narasaraopet,Palnadu
+AP331,Narsipatnam,Visakhapatnam
+AP416,Nuzvid,Krishna
+AP637,Palakole,West Godavari
+AP230,Palakonda,Parvathipuram Manyam
+AP303,Palamaner,Chittoor
+AP135,Parvathipuram,Parvathipuram Manyam
+AP607,Piduguralla,Palnadu
+AP204,Proddutur,YSR
+AP304,Pulivendula,YSR
+AP113,Punganur,Chittoor
+AP105,Rajahmundry,East Godavari
+AP605,Ramachandrapuram,East Godavari
+AP705,Ravulapalem,East Godavari
+AP504,Rayachoti,YSR
+AP141,Rampachodavaram,Alluri Sitharama Raju
+AP216,Machilipatnam,Krishna
+AP203,Madanapalle,Chittoor
+AP235,Salur,Parvathipuram Manyam
+AP426,Sullurpet,Nellore
+AP437,Tadepalli Gudem,West Godavari
+AP402,Tadipatri,Anantapur
+AP537,Tanuku,West Godavari
+AP707,Tenali,Guntur
+AP103,Tirupati,Chittoor
+AP305,Kathipudi,East Godavari
+AP502,Rayadurg,Anantapur
+AP516,Vuyyuru,Krishna
+HP101,Gagret,Una
+HP102,Kotli,Sirmaur
+HP100,Pachhad,Sirmaur
+OD901,Barbil,Keonjhar
+OD201,Khordha,Khordha
+OD111,Rairangpur,Mayurbhanj
+TN641,Alangudi,Pudukkottai
+TN644,Alangulam,Tirunelveli
+TN611,Ambasamuthiram,Tirunelveli
+TN612,Ambattur,Chennai
+TN628,Ambur,Vellore
+TN609,Arakkonam,Ranipet
+TN516,Arani,Tiruvannamalai
+TN592,Aranthangi,Pudukkottai
+TN632,Aravakurichi,Karur
+TN622,Aruppukottai,Virudhunagar
+TN591,Attur,Salem
+TN580,Avinashi,Tiruppur
+TN596,Batlagundu,Dindigul
+TN578,Bhavani,Erode
+TN635,Cheyyar,Tiruvannamalai
+TN544,Chidambaram,Cuddalore
+TN594,Dharapuram,Tiruppur
+TN627,Gingee,Villupuram
+TN582,Gudalore,Nilgiris
+TN514,Gudiyatham,Vellore
+TN625,Gummidipoondi,Tiruvallur
+TN527,Harur,Dharmapuri
+TN629,Illuppur,Pudukkottai
+TN615,Kallakurichi,Kallakurichi
+TN593,Kangeyam,Tiruppur
+TN602,Karaikudi,Sivaganga
+TN607,Kovilpatti,Thoothukudi
+TN585,Kulithali,Erode
+TN638,Kumarapalayam,Namakkal
+TN631,Lalkudi,Tiruchirappalli
+TN508,Madurantagam,Kanchipuram
+TN584,Manaparai,Tiruchirappalli
+TN637,Manmangalam,Tiruchirappalli
+TN588,Mannargudi,Tiruvarur
+TN589,Mayiladuthurai,Mayiladuthurai
+TN600,Melur,Madurai
+TN590,Mettur,Salem
+TN621,Musuri,Krishnagiri
+TN640,Natham,Dindigul
+TN562,Neyveli,Cuddalore
+TN595,Oddanchatram,Dindigul
+TN535,Omalur,Salem
+TN616,Palacode,Dharmapuri
+TN597,Palani,Dindigul
+TN626,Panruti,Cuddalore
+TN603,Paramakudi,Ramanathapuram
+TN517,Paramathi Vellure,Namakkal
+TN587,Pattukottai,Thanjavur
+TN511,Poonamallee,Chennai
+TN643,Rajapalayam,Virudhunagar
+TN526,Rasipuram,Namakkal
+TN610,Sankarankovil,Tirunelveli
+TN579,Sathyamangalam,Erode
+TN512,Sholinganallur,Chennai
+TN623,Sirkali,Nagapattinam
+TN604,Sivakasi,Virudhunagar
+TN614,Sriperumbudur,Kanchipuram
+TN605,Srivilliputhur,Virudhunagar
+TN620,Sulur,Coimbatore
+TN513,Tambaram,Chennai
+TN606,Thiruchendur,Thoothukudi
+TN639,Thirukalukuntram,Tiruchirappalli
+TN598,Thirumangalam,Madurai
+TN624,Thirupattur,Vellore
+TN630,Thiruthuraipoondi,Tiruvarur
+TN634,Thiruttani,Tiruvallur
+TN586,Thuraiyur,Tiruchirappalli
+TN571,Tindivanam,Villupuram
+TN583,Tiruveranbur,Tiruvarur
+TN581,Udumalpet,Tiruppur
+TN577,Ulundurpet,Kallakurichi
+TN636,Usilampatti,Madurai
+TN601,Uthamapalayam,Theni
+TN599,Vadipatti,Madurai
+TN613,Valappadi,Salem
+TN608,Valliyur,Tirunelveli
+TN515,Vaniyambadi,Vellore
+TN617,Vedachandur,Dindigul
+TN553,Virudhachalam,Cuddalore
+UP321,Lucknow,Lucknow
+HP8,Chopal,Shimla
+HP9,Theog,Shimla
+DD3,Daman,Daman
+DD2,Diu,Diu
+DD1,Silvassa,Dadra and Nagar Haveli
+HP3,Nalagarh,Solan
+HP93,Kandaghat,Solan
+HP123,Padhar,Mandi
+HP49,Kangra,Kangra
+HP47,Dharamshala,Kangra
+HP75,Nurpur,Kangra
+HP13,Hamirpur,Hamirpur
+HP30,Sarkaghat,Mandi
+HP42,Dehra,Kangra
+HP76,Palampur,Kangra
+HP10,Rohru,Shimla
+WB80,Barrackpore,North 24 Parganas
+AP302,Madanapalle,Annamayya
+AP602,Amalapuram,Konaseema
+HP11,Rampur,Shimla
+HP127,Jogindernagar,Mandi
+HP26,Kullu,Kullu
+HP44,Baijnath,Kangra
+HP51,Bilaspur,Bilaspur
+HP85,Jaisinghpur,Kangra
+HP99,Nadaun,Hamirpur
+PB93,Malerkotla,Malerkotla
+TN633,Karur,Karur
+AP702,Sattenapalle,Palnadu
+HP77,Jawali,Kangra

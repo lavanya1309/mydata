@@ -1,0 +1,2291 @@
+[2025-06-12 13:38:30] Loading page
+[2025-06-12 13:38:32] Page loaded
+[2025-06-12 13:38:32] 
+=== Starting RTO-wise processing ===
+[2025-06-12 13:38:32] 
+Processing state: Uttar Pradesh(77), Year: 2022
+[2025-06-12 13:38:32] 
+=== Starting RTO-wise processing for Uttar Pradesh(77), 2022 ===
+
+[2025-06-12 13:38:32] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-12 13:38:32] Clicked Y-axis dropdown using method 1
+[2025-06-12 13:38:34] Clicked Maker option using method 1
+[2025-06-12 13:38:35] Clicked X-axis dropdown using method 1
+[2025-06-12 13:38:36] Clicked Month Wise option using method 1
+[2025-06-12 13:38:37] Axis setup completed
+[2025-06-12 13:38:37] Selecting State: Uttar Pradesh(77)
+[2025-06-12 13:38:37] Clicked state dropdown label using method 1
+[2025-06-12 13:38:38] Clicked state option: Uttar Pradesh(77) using method 1
+[2025-06-12 13:38:39] Successfully selected state: Uttar Pradesh(77)
+[2025-06-12 13:38:39] Selecting Year: 2022
+[2025-06-12 13:38:39] Clicked year dropdown using method 1
+[2025-06-12 13:38:40] Clicked year option: 2022 using method 1
+[2025-06-12 13:38:40] Successfully selected year: 2022
+[2025-06-12 13:38:40] Getting list of all RTOs for the selected state
+[2025-06-12 13:38:40] Clicked RTO dropdown label using method 1
+[2025-06-12 13:38:42] Found 78 RTOs for the state
+[2025-06-12 13:38:42] 
+Processing RTO 1/78: Agra RTO - UP80( 23-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 13:38:42] Selecting RTO: Agra RTO - UP80( 23-NOV-2017 )
+[2025-06-12 13:38:42] Clicked RTO dropdown using method 1
+[2025-06-12 13:38:43] Clicked RTO option: Agra RTO - UP80( 23-NOV-2017 ) using method 1
+[2025-06-12 13:38:43] Successfully selected RTO: Agra RTO - UP80( 23-NOV-2017 )
+[2025-06-12 13:38:43] Applying left panel filters
+[2025-06-12 13:38:44] Clicked right refresh button using method 1
+[2025-06-12 13:38:49] Opening left panel if needed
+[2025-06-12 13:38:49] Clicked left panel toggler using method 1
+[2025-06-12 13:38:49] Expanded left panel
+[2025-06-12 13:38:51] Selecting vehicle categories and fuel types
+[2025-06-12 13:38:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:38:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:38:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:38:53] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:38:54] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:38:54] Vehicle categories and fuel types selected
+[2025-06-12 13:38:55] Clicking left refresh button
+[2025-06-12 13:38:55] Clicked left refresh button using method 1
+[2025-06-12 13:38:55] Left refresh button clicked
+[2025-06-12 13:39:01] Left panel collapsed successfully.
+[2025-06-12 13:39:01] Downloading Excel file for Uttar Pradesh(77), Agra RTO - UP80( 23-NOV-2017 ), 2022
+[2025-06-12 13:39:01] Clicked Excel download button using method 1
+[2025-06-12 13:39:01] Clicked Excel download button
+[2025-06-12 13:39:05] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:39:05] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:40:05] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Agra RTO - UP80( 23-NOV-2017 ).xlsx
+[2025-06-12 13:40:05] Successfully processed RTO: Agra RTO - UP80( 23-NOV-2017 )
+[2025-06-12 13:40:05] 
+Processing RTO 2/78: AKBARPUR(AMBEDKAR NAGAR) - UP45( 27-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 13:40:05] Selecting RTO: AKBARPUR(AMBEDKAR NAGAR) - UP45( 27-DEC-2017 )
+[2025-06-12 13:40:05] Clicked RTO dropdown using method 1
+[2025-06-12 13:40:06] Clicked RTO option: AKBARPUR(AMBEDKAR NAGAR) - UP45( 27-DEC-2017 ) using method 1
+[2025-06-12 13:40:07] Successfully selected RTO: AKBARPUR(AMBEDKAR NAGAR) - UP45( 27-DEC-2017 )
+[2025-06-12 13:40:07] Applying left panel filters
+[2025-06-12 13:40:07] Clicked right refresh button using method 1
+[2025-06-12 13:40:12] Opening left panel if needed
+[2025-06-12 13:40:12] Clicked left panel toggler using method 1
+[2025-06-12 13:40:12] Expanded left panel
+[2025-06-12 13:40:13] Selecting vehicle categories and fuel types
+[2025-06-12 13:40:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:40:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:40:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:40:16] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:40:16] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:40:17] Vehicle categories and fuel types selected
+[2025-06-12 13:40:17] Clicking left refresh button
+[2025-06-12 13:40:18] Clicked left refresh button using method 1
+[2025-06-12 13:40:18] Left refresh button clicked
+[2025-06-12 13:40:23] Left panel collapsed successfully.
+[2025-06-12 13:40:23] Downloading Excel file for Uttar Pradesh(77), AKBARPUR(AMBEDKAR NAGAR) - UP45( 27-DEC-2017 ), 2022
+[2025-06-12 13:40:23] Clicked Excel download button using method 1
+[2025-06-12 13:40:23] Clicked Excel download button
+[2025-06-12 13:40:27] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:40:27] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:41:27] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\AKBARPUR(AMBEDKAR NAGAR) - UP45( 27-DEC-2017 ).xlsx
+[2025-06-12 13:41:27] Successfully processed RTO: AKBARPUR(AMBEDKAR NAGAR) - UP45( 27-DEC-2017 )
+[2025-06-12 13:41:27] 
+Processing RTO 3/78: ALIGARH RTO - UP81( 20-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 13:41:27] Selecting RTO: ALIGARH RTO - UP81( 20-DEC-2017 )
+[2025-06-12 13:41:27] Clicked RTO dropdown using method 1
+[2025-06-12 13:41:28] Clicked RTO option: ALIGARH RTO - UP81( 20-DEC-2017 ) using method 1
+[2025-06-12 13:41:29] Successfully selected RTO: ALIGARH RTO - UP81( 20-DEC-2017 )
+[2025-06-12 13:41:29] Applying left panel filters
+[2025-06-12 13:41:29] Clicked right refresh button using method 1
+[2025-06-12 13:41:33] Opening left panel if needed
+[2025-06-12 13:41:33] Clicked left panel toggler using method 1
+[2025-06-12 13:41:33] Expanded left panel
+[2025-06-12 13:41:35] Selecting vehicle categories and fuel types
+[2025-06-12 13:41:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:41:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:41:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:41:37] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:41:38] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:41:39] Vehicle categories and fuel types selected
+[2025-06-12 13:41:39] Clicking left refresh button
+[2025-06-12 13:41:40] Clicked left refresh button using method 1
+[2025-06-12 13:41:40] Left refresh button clicked
+[2025-06-12 13:41:45] Left panel collapsed successfully.
+[2025-06-12 13:41:45] Downloading Excel file for Uttar Pradesh(77), ALIGARH RTO - UP81( 20-DEC-2017 ), 2022
+[2025-06-12 13:41:45] Clicked Excel download button using method 1
+[2025-06-12 13:41:45] Clicked Excel download button
+[2025-06-12 13:41:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:41:49] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:42:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\ALIGARH RTO - UP81( 20-DEC-2017 ).xlsx
+[2025-06-12 13:42:49] Successfully processed RTO: ALIGARH RTO - UP81( 20-DEC-2017 )
+[2025-06-12 13:42:49] 
+Processing RTO 4/78: Amethi ARTO - UP36( 28-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 13:42:49] Selecting RTO: Amethi ARTO - UP36( 28-DEC-2017 )
+[2025-06-12 13:42:49] Clicked RTO dropdown using method 1
+[2025-06-12 13:42:50] Clicked RTO option: Amethi ARTO - UP36( 28-DEC-2017 ) using method 1
+[2025-06-12 13:42:51] Successfully selected RTO: Amethi ARTO - UP36( 28-DEC-2017 )
+[2025-06-12 13:42:51] Applying left panel filters
+[2025-06-12 13:42:51] Clicked right refresh button using method 1
+[2025-06-12 13:42:56] Opening left panel if needed
+[2025-06-12 13:42:56] Clicked left panel toggler using method 1
+[2025-06-12 13:42:56] Expanded left panel
+[2025-06-12 13:42:57] Selecting vehicle categories and fuel types
+[2025-06-12 13:42:58] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:42:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:42:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:43:00] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:43:01] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:43:02] Vehicle categories and fuel types selected
+[2025-06-12 13:43:02] Clicking left refresh button
+[2025-06-12 13:43:02] Clicked left refresh button using method 1
+[2025-06-12 13:43:02] Left refresh button clicked
+[2025-06-12 13:43:07] Left panel collapsed successfully.
+[2025-06-12 13:43:07] Downloading Excel file for Uttar Pradesh(77), Amethi ARTO - UP36( 28-DEC-2017 ), 2022
+[2025-06-12 13:43:07] Clicked Excel download button using method 1
+[2025-06-12 13:43:07] Clicked Excel download button
+[2025-06-12 13:43:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:43:10] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:44:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Amethi ARTO - UP36( 28-DEC-2017 ).xlsx
+[2025-06-12 13:44:10] Successfully processed RTO: Amethi ARTO - UP36( 28-DEC-2017 )
+[2025-06-12 13:44:10] 
+Processing RTO 5/78: ARTO OFFICE RAMPUR - UP22( 12-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 13:44:10] Selecting RTO: ARTO OFFICE RAMPUR - UP22( 12-FEB-2018 )
+[2025-06-12 13:44:11] Clicked RTO dropdown using method 1
+[2025-06-12 13:44:12] Clicked RTO option: ARTO OFFICE RAMPUR - UP22( 12-FEB-2018 ) using method 1
+[2025-06-12 13:44:12] Successfully selected RTO: ARTO OFFICE RAMPUR - UP22( 12-FEB-2018 )
+[2025-06-12 13:44:12] Applying left panel filters
+[2025-06-12 13:44:13] Clicked right refresh button using method 1
+[2025-06-12 13:44:17] Opening left panel if needed
+[2025-06-12 13:44:17] Clicked left panel toggler using method 1
+[2025-06-12 13:44:17] Expanded left panel
+[2025-06-12 13:44:19] Selecting vehicle categories and fuel types
+[2025-06-12 13:44:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:44:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:44:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:44:21] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:44:22] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:44:22] Vehicle categories and fuel types selected
+[2025-06-12 13:44:23] Clicking left refresh button
+[2025-06-12 13:44:23] Clicked left refresh button using method 1
+[2025-06-12 13:44:23] Left refresh button clicked
+[2025-06-12 13:44:28] Left panel collapsed successfully.
+[2025-06-12 13:44:28] Downloading Excel file for Uttar Pradesh(77), ARTO OFFICE RAMPUR - UP22( 12-FEB-2018 ), 2022
+[2025-06-12 13:44:28] Clicked Excel download button using method 1
+[2025-06-12 13:44:28] Clicked Excel download button
+[2025-06-12 13:44:32] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:44:32] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:45:32] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\ARTO OFFICE RAMPUR - UP22( 12-FEB-2018 ).xlsx
+[2025-06-12 13:45:32] Successfully processed RTO: ARTO OFFICE RAMPUR - UP22( 12-FEB-2018 )
+[2025-06-12 13:45:32] 
+Processing RTO 6/78: AURAIYA - UP79( 12-OCT-2017 ) (Attempt 1/2)
+[2025-06-12 13:45:32] Selecting RTO: AURAIYA - UP79( 12-OCT-2017 )
+[2025-06-12 13:45:32] Clicked RTO dropdown using method 1
+[2025-06-12 13:45:33] Clicked RTO option: AURAIYA - UP79( 12-OCT-2017 ) using method 1
+[2025-06-12 13:45:34] Successfully selected RTO: AURAIYA - UP79( 12-OCT-2017 )
+[2025-06-12 13:45:34] Applying left panel filters
+[2025-06-12 13:45:34] Clicked right refresh button using method 1
+[2025-06-12 13:45:38] Opening left panel if needed
+[2025-06-12 13:45:38] Clicked left panel toggler using method 1
+[2025-06-12 13:45:38] Expanded left panel
+[2025-06-12 13:45:40] Selecting vehicle categories and fuel types
+[2025-06-12 13:45:40] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:45:41] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:45:42] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:45:42] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:45:43] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:45:44] Vehicle categories and fuel types selected
+[2025-06-12 13:45:44] Clicking left refresh button
+[2025-06-12 13:45:45] Clicked left refresh button using method 1
+[2025-06-12 13:45:45] Left refresh button clicked
+[2025-06-12 13:45:49] Left panel collapsed successfully.
+[2025-06-12 13:45:49] Downloading Excel file for Uttar Pradesh(77), AURAIYA - UP79( 12-OCT-2017 ), 2022
+[2025-06-12 13:45:50] Clicked Excel download button using method 1
+[2025-06-12 13:45:50] Clicked Excel download button
+[2025-06-12 13:45:54] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:45:54] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:46:54] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\AURAIYA - UP79( 12-OCT-2017 ).xlsx
+[2025-06-12 13:46:54] Successfully processed RTO: AURAIYA - UP79( 12-OCT-2017 )
+[2025-06-12 13:46:54] 
+Processing RTO 7/78: AYODHYA RTO - UP42( 26-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 13:46:54] Selecting RTO: AYODHYA RTO - UP42( 26-DEC-2017 )
+[2025-06-12 13:46:54] Clicked RTO dropdown using method 1
+[2025-06-12 13:46:55] Clicked RTO option: AYODHYA RTO - UP42( 26-DEC-2017 ) using method 1
+[2025-06-12 13:46:56] Successfully selected RTO: AYODHYA RTO - UP42( 26-DEC-2017 )
+[2025-06-12 13:46:56] Applying left panel filters
+[2025-06-12 13:46:56] Clicked right refresh button using method 1
+[2025-06-12 13:47:01] Opening left panel if needed
+[2025-06-12 13:47:01] Clicked left panel toggler using method 1
+[2025-06-12 13:47:01] Expanded left panel
+[2025-06-12 13:47:03] Selecting vehicle categories and fuel types
+[2025-06-12 13:47:03] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:47:04] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:47:05] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:47:05] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:47:06] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:47:07] Vehicle categories and fuel types selected
+[2025-06-12 13:47:07] Clicking left refresh button
+[2025-06-12 13:47:08] Clicked left refresh button using method 1
+[2025-06-12 13:47:08] Left refresh button clicked
+[2025-06-12 13:47:13] Left panel collapsed successfully.
+[2025-06-12 13:47:13] Downloading Excel file for Uttar Pradesh(77), AYODHYA RTO - UP42( 26-DEC-2017 ), 2022
+[2025-06-12 13:47:13] Clicked Excel download button using method 1
+[2025-06-12 13:47:13] Clicked Excel download button
+[2025-06-12 13:47:17] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:47:17] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:48:17] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\AYODHYA RTO - UP42( 26-DEC-2017 ).xlsx
+[2025-06-12 13:48:17] Successfully processed RTO: AYODHYA RTO - UP42( 26-DEC-2017 )
+[2025-06-12 13:48:17] 
+Processing RTO 8/78: Azamgarh RTO - UP50( 26-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 13:48:17] Selecting RTO: Azamgarh RTO - UP50( 26-FEB-2018 )
+[2025-06-12 13:48:17] Clicked RTO dropdown using method 1
+[2025-06-12 13:48:19] Clicked RTO option: Azamgarh RTO - UP50( 26-FEB-2018 ) using method 1
+[2025-06-12 13:48:19] Successfully selected RTO: Azamgarh RTO - UP50( 26-FEB-2018 )
+[2025-06-12 13:48:19] Applying left panel filters
+[2025-06-12 13:48:19] Clicked right refresh button using method 1
+[2025-06-12 13:48:24] Opening left panel if needed
+[2025-06-12 13:48:24] Clicked left panel toggler using method 1
+[2025-06-12 13:48:24] Expanded left panel
+[2025-06-12 13:48:26] Selecting vehicle categories and fuel types
+[2025-06-12 13:48:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:48:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:48:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:48:28] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:48:29] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:48:29] Vehicle categories and fuel types selected
+[2025-06-12 13:48:30] Clicking left refresh button
+[2025-06-12 13:48:31] Clicked left refresh button using method 1
+[2025-06-12 13:48:31] Left refresh button clicked
+[2025-06-12 13:48:36] Left panel collapsed successfully.
+[2025-06-12 13:48:36] Downloading Excel file for Uttar Pradesh(77), Azamgarh RTO - UP50( 26-FEB-2018 ), 2022
+[2025-06-12 13:48:36] Clicked Excel download button using method 1
+[2025-06-12 13:48:36] Clicked Excel download button
+[2025-06-12 13:48:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:48:40] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:49:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Azamgarh RTO - UP50( 26-FEB-2018 ).xlsx
+[2025-06-12 13:49:40] Successfully processed RTO: Azamgarh RTO - UP50( 26-FEB-2018 )
+[2025-06-12 13:49:40] 
+Processing RTO 9/78: Badaun - UP24( 12-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 13:49:40] Selecting RTO: Badaun - UP24( 12-FEB-2018 )
+[2025-06-12 13:49:40] Clicked RTO dropdown using method 1
+[2025-06-12 13:49:41] Clicked RTO option: Badaun - UP24( 12-FEB-2018 ) using method 1
+[2025-06-12 13:49:42] Successfully selected RTO: Badaun - UP24( 12-FEB-2018 )
+[2025-06-12 13:49:42] Applying left panel filters
+[2025-06-12 13:49:42] Clicked right refresh button using method 1
+[2025-06-12 13:49:46] Opening left panel if needed
+[2025-06-12 13:49:47] Clicked left panel toggler using method 1
+[2025-06-12 13:49:47] Expanded left panel
+[2025-06-12 13:49:48] Selecting vehicle categories and fuel types
+[2025-06-12 13:49:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:49:49] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:49:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:49:51] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:49:52] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:49:52] Vehicle categories and fuel types selected
+[2025-06-12 13:49:53] Clicking left refresh button
+[2025-06-12 13:49:53] Clicked left refresh button using method 1
+[2025-06-12 13:49:53] Left refresh button clicked
+[2025-06-12 13:49:58] Left panel collapsed successfully.
+[2025-06-12 13:49:58] Downloading Excel file for Uttar Pradesh(77), Badaun - UP24( 12-FEB-2018 ), 2022
+[2025-06-12 13:49:58] Clicked Excel download button using method 1
+[2025-06-12 13:49:58] Clicked Excel download button
+[2025-06-12 13:50:02] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:50:02] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:51:02] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Badaun - UP24( 12-FEB-2018 ).xlsx
+[2025-06-12 13:51:02] Successfully processed RTO: Badaun - UP24( 12-FEB-2018 )
+[2025-06-12 13:51:02] 
+Processing RTO 10/78: Baghpat - UP17( 14-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 13:51:02] Selecting RTO: Baghpat - UP17( 14-NOV-2017 )
+[2025-06-12 13:51:02] Clicked RTO dropdown using method 1
+[2025-06-12 13:51:04] Clicked RTO option: Baghpat - UP17( 14-NOV-2017 ) using method 1
+[2025-06-12 13:51:04] Successfully selected RTO: Baghpat - UP17( 14-NOV-2017 )
+[2025-06-12 13:51:04] Applying left panel filters
+[2025-06-12 13:51:04] Clicked right refresh button using method 1
+[2025-06-12 13:51:09] Opening left panel if needed
+[2025-06-12 13:51:09] Clicked left panel toggler using method 1
+[2025-06-12 13:51:09] Expanded left panel
+[2025-06-12 13:51:11] Selecting vehicle categories and fuel types
+[2025-06-12 13:51:11] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:51:12] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:51:13] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:51:13] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:51:14] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:51:14] Vehicle categories and fuel types selected
+[2025-06-12 13:51:15] Clicking left refresh button
+[2025-06-12 13:51:16] Clicked left refresh button using method 1
+[2025-06-12 13:51:16] Left refresh button clicked
+[2025-06-12 13:51:21] Left panel collapsed successfully.
+[2025-06-12 13:51:21] Downloading Excel file for Uttar Pradesh(77), Baghpat - UP17( 14-NOV-2017 ), 2022
+[2025-06-12 13:51:21] Clicked Excel download button using method 1
+[2025-06-12 13:51:21] Clicked Excel download button
+[2025-06-12 13:51:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:51:25] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:52:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Baghpat - UP17( 14-NOV-2017 ).xlsx
+[2025-06-12 13:52:25] Successfully processed RTO: Baghpat - UP17( 14-NOV-2017 )
+[2025-06-12 13:52:25] 
+Processing RTO 11/78: Bahraich - UP40( 11-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 13:52:25] Selecting RTO: Bahraich - UP40( 11-DEC-2017 )
+[2025-06-12 13:52:25] Clicked RTO dropdown using method 1
+[2025-06-12 13:52:26] Clicked RTO option: Bahraich - UP40( 11-DEC-2017 ) using method 1
+[2025-06-12 13:52:27] Successfully selected RTO: Bahraich - UP40( 11-DEC-2017 )
+[2025-06-12 13:52:27] Applying left panel filters
+[2025-06-12 13:52:27] Clicked right refresh button using method 1
+[2025-06-12 13:52:32] Opening left panel if needed
+[2025-06-12 13:52:32] Clicked left panel toggler using method 1
+[2025-06-12 13:52:32] Expanded left panel
+[2025-06-12 13:52:34] Selecting vehicle categories and fuel types
+[2025-06-12 13:52:34] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:52:35] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:52:35] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:52:36] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:52:37] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:52:37] Vehicle categories and fuel types selected
+[2025-06-12 13:52:38] Clicking left refresh button
+[2025-06-12 13:52:38] Clicked left refresh button using method 1
+[2025-06-12 13:52:38] Left refresh button clicked
+[2025-06-12 13:52:43] Left panel collapsed successfully.
+[2025-06-12 13:52:43] Downloading Excel file for Uttar Pradesh(77), Bahraich - UP40( 11-DEC-2017 ), 2022
+[2025-06-12 13:52:44] Clicked Excel download button using method 1
+[2025-06-12 13:52:44] Clicked Excel download button
+[2025-06-12 13:52:47] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:52:47] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:53:47] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Bahraich - UP40( 11-DEC-2017 ).xlsx
+[2025-06-12 13:53:47] Successfully processed RTO: Bahraich - UP40( 11-DEC-2017 )
+[2025-06-12 13:53:47] 
+Processing RTO 12/78: Ballia - UP60( 15-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 13:53:47] Selecting RTO: Ballia - UP60( 15-JAN-2018 )
+[2025-06-12 13:53:48] Clicked RTO dropdown using method 1
+[2025-06-12 13:53:49] Clicked RTO option: Ballia - UP60( 15-JAN-2018 ) using method 1
+[2025-06-12 13:53:49] Successfully selected RTO: Ballia - UP60( 15-JAN-2018 )
+[2025-06-12 13:53:49] Applying left panel filters
+[2025-06-12 13:53:50] Clicked right refresh button using method 1
+[2025-06-12 13:53:54] Opening left panel if needed
+[2025-06-12 13:53:55] Clicked left panel toggler using method 1
+[2025-06-12 13:53:55] Expanded left panel
+[2025-06-12 13:53:56] Selecting vehicle categories and fuel types
+[2025-06-12 13:53:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:53:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:53:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:53:59] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:54:00] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:54:00] Vehicle categories and fuel types selected
+[2025-06-12 13:54:01] Clicking left refresh button
+[2025-06-12 13:54:01] Clicked left refresh button using method 1
+[2025-06-12 13:54:01] Left refresh button clicked
+[2025-06-12 13:54:06] Left panel collapsed successfully.
+[2025-06-12 13:54:06] Downloading Excel file for Uttar Pradesh(77), Ballia - UP60( 15-JAN-2018 ), 2022
+[2025-06-12 13:54:07] Clicked Excel download button using method 1
+[2025-06-12 13:54:07] Clicked Excel download button
+[2025-06-12 13:54:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:54:11] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:55:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Ballia - UP60( 15-JAN-2018 ).xlsx
+[2025-06-12 13:55:11] Successfully processed RTO: Ballia - UP60( 15-JAN-2018 )
+[2025-06-12 13:55:11] 
+Processing RTO 13/78: Balrampur - UP47( 11-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 13:55:11] Selecting RTO: Balrampur - UP47( 11-DEC-2017 )
+[2025-06-12 13:55:11] Clicked RTO dropdown using method 1
+[2025-06-12 13:55:13] Clicked RTO option: Balrampur - UP47( 11-DEC-2017 ) using method 1
+[2025-06-12 13:55:13] Successfully selected RTO: Balrampur - UP47( 11-DEC-2017 )
+[2025-06-12 13:55:13] Applying left panel filters
+[2025-06-12 13:55:13] Clicked right refresh button using method 1
+[2025-06-12 13:55:18] Opening left panel if needed
+[2025-06-12 13:55:18] Clicked left panel toggler using method 1
+[2025-06-12 13:55:18] Expanded left panel
+[2025-06-12 13:55:20] Selecting vehicle categories and fuel types
+[2025-06-12 13:55:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:55:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:55:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:55:22] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:55:23] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:55:23] Vehicle categories and fuel types selected
+[2025-06-12 13:55:24] Clicking left refresh button
+[2025-06-12 13:55:24] Clicked left refresh button using method 1
+[2025-06-12 13:55:24] Left refresh button clicked
+[2025-06-12 13:55:29] Left panel collapsed successfully.
+[2025-06-12 13:55:29] Downloading Excel file for Uttar Pradesh(77), Balrampur - UP47( 11-DEC-2017 ), 2022
+[2025-06-12 13:55:29] Clicked Excel download button using method 1
+[2025-06-12 13:55:29] Clicked Excel download button
+[2025-06-12 13:55:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:55:33] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:56:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Balrampur - UP47( 11-DEC-2017 ).xlsx
+[2025-06-12 13:56:33] Successfully processed RTO: Balrampur - UP47( 11-DEC-2017 )
+[2025-06-12 13:56:33] 
+Processing RTO 14/78: BANDARTO - UP90( 22-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 13:56:33] Selecting RTO: BANDARTO - UP90( 22-FEB-2018 )
+[2025-06-12 13:56:33] Clicked RTO dropdown using method 1
+[2025-06-12 13:56:34] Clicked RTO option: BANDARTO - UP90( 22-FEB-2018 ) using method 1
+[2025-06-12 13:56:35] Successfully selected RTO: BANDARTO - UP90( 22-FEB-2018 )
+[2025-06-12 13:56:35] Applying left panel filters
+[2025-06-12 13:56:35] Clicked right refresh button using method 1
+[2025-06-12 13:56:39] Opening left panel if needed
+[2025-06-12 13:56:40] Clicked left panel toggler using method 1
+[2025-06-12 13:56:40] Expanded left panel
+[2025-06-12 13:56:41] Selecting vehicle categories and fuel types
+[2025-06-12 13:56:41] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:56:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:56:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:56:43] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:56:44] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:56:44] Vehicle categories and fuel types selected
+[2025-06-12 13:56:45] Clicking left refresh button
+[2025-06-12 13:56:45] Clicked left refresh button using method 1
+[2025-06-12 13:56:45] Left refresh button clicked
+[2025-06-12 13:56:50] Left panel collapsed successfully.
+[2025-06-12 13:56:50] Downloading Excel file for Uttar Pradesh(77), BANDARTO - UP90( 22-FEB-2018 ), 2022
+[2025-06-12 13:56:50] Clicked Excel download button using method 1
+[2025-06-12 13:56:50] Clicked Excel download button
+[2025-06-12 13:56:54] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:56:54] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:57:54] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\BANDARTO - UP90( 22-FEB-2018 ).xlsx
+[2025-06-12 13:57:54] Successfully processed RTO: BANDARTO - UP90( 22-FEB-2018 )
+[2025-06-12 13:57:54] 
+Processing RTO 15/78: Barabanki ARTO - UP41( 12-JAN-2016 ) (Attempt 1/2)
+[2025-06-12 13:57:54] Selecting RTO: Barabanki ARTO - UP41( 12-JAN-2016 )
+[2025-06-12 13:57:54] Clicked RTO dropdown using method 1
+[2025-06-12 13:57:56] Clicked RTO option: Barabanki ARTO - UP41( 12-JAN-2016 ) using method 1
+[2025-06-12 13:57:56] Successfully selected RTO: Barabanki ARTO - UP41( 12-JAN-2016 )
+[2025-06-12 13:57:56] Applying left panel filters
+[2025-06-12 13:57:56] Clicked right refresh button using method 1
+[2025-06-12 13:58:00] Opening left panel if needed
+[2025-06-12 13:58:01] Clicked left panel toggler using method 1
+[2025-06-12 13:58:01] Expanded left panel
+[2025-06-12 13:58:02] Selecting vehicle categories and fuel types
+[2025-06-12 13:58:03] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:58:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:58:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:58:05] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:58:05] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:58:06] Vehicle categories and fuel types selected
+[2025-06-12 13:58:07] Clicking left refresh button
+[2025-06-12 13:58:07] Clicked left refresh button using method 1
+[2025-06-12 13:58:07] Left refresh button clicked
+[2025-06-12 13:58:12] Left panel collapsed successfully.
+[2025-06-12 13:58:12] Downloading Excel file for Uttar Pradesh(77), Barabanki ARTO - UP41( 12-JAN-2016 ), 2022
+[2025-06-12 13:58:12] Clicked Excel download button using method 1
+[2025-06-12 13:58:12] Clicked Excel download button
+[2025-06-12 13:58:16] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:58:16] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 13:59:16] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Barabanki ARTO - UP41( 12-JAN-2016 ).xlsx
+[2025-06-12 13:59:16] Successfully processed RTO: Barabanki ARTO - UP41( 12-JAN-2016 )
+[2025-06-12 13:59:16] 
+Processing RTO 16/78: BAREILLY - UP25( 13-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 13:59:16] Selecting RTO: BAREILLY - UP25( 13-FEB-2018 )
+[2025-06-12 13:59:16] Clicked RTO dropdown using method 1
+[2025-06-12 13:59:17] Clicked RTO option: BAREILLY - UP25( 13-FEB-2018 ) using method 1
+[2025-06-12 13:59:18] Successfully selected RTO: BAREILLY - UP25( 13-FEB-2018 )
+[2025-06-12 13:59:18] Applying left panel filters
+[2025-06-12 13:59:18] Clicked right refresh button using method 1
+[2025-06-12 13:59:23] Opening left panel if needed
+[2025-06-12 13:59:23] Clicked left panel toggler using method 1
+[2025-06-12 13:59:23] Expanded left panel
+[2025-06-12 13:59:25] Selecting vehicle categories and fuel types
+[2025-06-12 13:59:25] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:59:26] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:59:26] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:59:27] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:59:28] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:59:28] Vehicle categories and fuel types selected
+[2025-06-12 13:59:29] Clicking left refresh button
+[2025-06-12 13:59:29] Clicked left refresh button using method 1
+[2025-06-12 13:59:29] Left refresh button clicked
+[2025-06-12 13:59:34] Left panel collapsed successfully.
+[2025-06-12 13:59:34] Downloading Excel file for Uttar Pradesh(77), BAREILLY - UP25( 13-FEB-2018 ), 2022
+[2025-06-12 13:59:35] Clicked Excel download button using method 1
+[2025-06-12 13:59:35] Clicked Excel download button
+[2025-06-12 13:59:38] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:59:38] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:00:38] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\BAREILLY - UP25( 13-FEB-2018 ).xlsx
+[2025-06-12 14:00:38] Successfully processed RTO: BAREILLY - UP25( 13-FEB-2018 )
+[2025-06-12 14:00:38] 
+Processing RTO 17/78: BASTI RTO - UP51( 13-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 14:00:38] Selecting RTO: BASTI RTO - UP51( 13-DEC-2017 )
+[2025-06-12 14:00:39] Clicked RTO dropdown using method 1
+[2025-06-12 14:00:40] Clicked RTO option: BASTI RTO - UP51( 13-DEC-2017 ) using method 1
+[2025-06-12 14:00:40] Successfully selected RTO: BASTI RTO - UP51( 13-DEC-2017 )
+[2025-06-12 14:00:40] Applying left panel filters
+[2025-06-12 14:00:41] Clicked right refresh button using method 1
+[2025-06-12 14:00:45] Opening left panel if needed
+[2025-06-12 14:00:45] Clicked left panel toggler using method 1
+[2025-06-12 14:00:45] Expanded left panel
+[2025-06-12 14:00:47] Selecting vehicle categories and fuel types
+[2025-06-12 14:00:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:00:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:00:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:00:49] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:00:50] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:00:50] Vehicle categories and fuel types selected
+[2025-06-12 14:00:51] Clicking left refresh button
+[2025-06-12 14:00:51] Clicked left refresh button using method 1
+[2025-06-12 14:00:51] Left refresh button clicked
+[2025-06-12 14:00:56] Left panel collapsed successfully.
+[2025-06-12 14:00:56] Downloading Excel file for Uttar Pradesh(77), BASTI RTO - UP51( 13-DEC-2017 ), 2022
+[2025-06-12 14:00:57] Clicked Excel download button using method 1
+[2025-06-12 14:00:57] Clicked Excel download button
+[2025-06-12 14:01:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:01:00] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:02:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\BASTI RTO - UP51( 13-DEC-2017 ).xlsx
+[2025-06-12 14:02:00] Successfully processed RTO: BASTI RTO - UP51( 13-DEC-2017 )
+[2025-06-12 14:02:00] 
+Processing RTO 18/78: Bhadohi(SANT RAVIDAS NAGAR) - UP66( 25-OCT-2017 ) (Attempt 1/2)
+[2025-06-12 14:02:00] Selecting RTO: Bhadohi(SANT RAVIDAS NAGAR) - UP66( 25-OCT-2017 )
+[2025-06-12 14:02:01] Clicked RTO dropdown using method 1
+[2025-06-12 14:02:02] Clicked RTO option: Bhadohi(SANT RAVIDAS NAGAR) - UP66( 25-OCT-2017 ) using method 1
+[2025-06-12 14:02:02] Successfully selected RTO: Bhadohi(SANT RAVIDAS NAGAR) - UP66( 25-OCT-2017 )
+[2025-06-12 14:02:02] Applying left panel filters
+[2025-06-12 14:02:03] Clicked right refresh button using method 1
+[2025-06-12 14:02:07] Opening left panel if needed
+[2025-06-12 14:02:07] Clicked left panel toggler using method 1
+[2025-06-12 14:02:07] Expanded left panel
+[2025-06-12 14:02:09] Selecting vehicle categories and fuel types
+[2025-06-12 14:02:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:02:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:02:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:02:12] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:02:13] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:02:13] Vehicle categories and fuel types selected
+[2025-06-12 14:02:14] Clicking left refresh button
+[2025-06-12 14:02:14] Clicked left refresh button using method 1
+[2025-06-12 14:02:14] Left refresh button clicked
+[2025-06-12 14:02:19] Left panel collapsed successfully.
+[2025-06-12 14:02:19] Downloading Excel file for Uttar Pradesh(77), Bhadohi(SANT RAVIDAS NAGAR) - UP66( 25-OCT-2017 ), 2022
+[2025-06-12 14:02:20] Clicked Excel download button using method 1
+[2025-06-12 14:02:20] Clicked Excel download button
+[2025-06-12 14:02:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:02:23] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:03:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Bhadohi(SANT RAVIDAS NAGAR) - UP66( 25-OCT-2017 ).xlsx
+[2025-06-12 14:03:23] Successfully processed RTO: Bhadohi(SANT RAVIDAS NAGAR) - UP66( 25-OCT-2017 )
+[2025-06-12 14:03:23] 
+Processing RTO 19/78: Bijnor - UP20( 13-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 14:03:23] Selecting RTO: Bijnor - UP20( 13-FEB-2018 )
+[2025-06-12 14:03:24] Clicked RTO dropdown using method 1
+[2025-06-12 14:03:25] Clicked RTO option: Bijnor - UP20( 13-FEB-2018 ) using method 1
+[2025-06-12 14:03:26] Successfully selected RTO: Bijnor - UP20( 13-FEB-2018 )
+[2025-06-12 14:03:26] Applying left panel filters
+[2025-06-12 14:03:26] Clicked right refresh button using method 1
+[2025-06-12 14:03:31] Opening left panel if needed
+[2025-06-12 14:03:31] Clicked left panel toggler using method 1
+[2025-06-12 14:03:31] Expanded left panel
+[2025-06-12 14:03:32] Selecting vehicle categories and fuel types
+[2025-06-12 14:03:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:03:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:03:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:03:35] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:03:36] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:03:36] Vehicle categories and fuel types selected
+[2025-06-12 14:03:37] Clicking left refresh button
+[2025-06-12 14:03:37] Clicked left refresh button using method 1
+[2025-06-12 14:03:37] Left refresh button clicked
+[2025-06-12 14:03:42] Left panel collapsed successfully.
+[2025-06-12 14:03:42] Downloading Excel file for Uttar Pradesh(77), Bijnor - UP20( 13-FEB-2018 ), 2022
+[2025-06-12 14:03:43] Clicked Excel download button using method 1
+[2025-06-12 14:03:43] Clicked Excel download button
+[2025-06-12 14:03:46] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:03:46] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:04:46] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Bijnor - UP20( 13-FEB-2018 ).xlsx
+[2025-06-12 14:04:46] Successfully processed RTO: Bijnor - UP20( 13-FEB-2018 )
+[2025-06-12 14:04:46] 
+Processing RTO 20/78: Bulandshahar - UP13( 22-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:04:46] Selecting RTO: Bulandshahar - UP13( 22-JAN-2018 )
+[2025-06-12 14:04:46] Clicked RTO dropdown using method 1
+[2025-06-12 14:04:47] Clicked RTO option: Bulandshahar - UP13( 22-JAN-2018 ) using method 1
+[2025-06-12 14:04:48] Successfully selected RTO: Bulandshahar - UP13( 22-JAN-2018 )
+[2025-06-12 14:04:48] Applying left panel filters
+[2025-06-12 14:04:48] Clicked right refresh button using method 1
+[2025-06-12 14:04:53] Opening left panel if needed
+[2025-06-12 14:04:53] Clicked left panel toggler using method 1
+[2025-06-12 14:04:53] Expanded left panel
+[2025-06-12 14:04:54] Selecting vehicle categories and fuel types
+[2025-06-12 14:04:55] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:04:55] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:04:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:04:57] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:04:58] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:04:58] Vehicle categories and fuel types selected
+[2025-06-12 14:04:59] Clicking left refresh button
+[2025-06-12 14:04:59] Clicked left refresh button using method 1
+[2025-06-12 14:04:59] Left refresh button clicked
+[2025-06-12 14:05:04] Left panel collapsed successfully.
+[2025-06-12 14:05:04] Downloading Excel file for Uttar Pradesh(77), Bulandshahar - UP13( 22-JAN-2018 ), 2022
+[2025-06-12 14:05:05] Clicked Excel download button using method 1
+[2025-06-12 14:05:05] Clicked Excel download button
+[2025-06-12 14:05:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:05:08] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:06:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Bulandshahar - UP13( 22-JAN-2018 ).xlsx
+[2025-06-12 14:06:08] Successfully processed RTO: Bulandshahar - UP13( 22-JAN-2018 )
+[2025-06-12 14:06:08] 
+Processing RTO 21/78: Chandauli - UP67( 17-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:06:08] Selecting RTO: Chandauli - UP67( 17-JAN-2018 )
+[2025-06-12 14:06:08] Clicked RTO dropdown using method 1
+[2025-06-12 14:06:09] Clicked RTO option: Chandauli - UP67( 17-JAN-2018 ) using method 1
+[2025-06-12 14:06:09] Successfully selected RTO: Chandauli - UP67( 17-JAN-2018 )
+[2025-06-12 14:06:09] Applying left panel filters
+[2025-06-12 14:06:10] Clicked right refresh button using method 1
+[2025-06-12 14:06:14] Opening left panel if needed
+[2025-06-12 14:06:14] Clicked left panel toggler using method 1
+[2025-06-12 14:06:14] Expanded left panel
+[2025-06-12 14:06:15] Selecting vehicle categories and fuel types
+[2025-06-12 14:06:16] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:06:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:06:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:06:18] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:06:19] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:06:19] Vehicle categories and fuel types selected
+[2025-06-12 14:06:20] Clicking left refresh button
+[2025-06-12 14:06:20] Clicked left refresh button using method 1
+[2025-06-12 14:06:20] Left refresh button clicked
+[2025-06-12 14:06:25] Left panel collapsed successfully.
+[2025-06-12 14:06:25] Downloading Excel file for Uttar Pradesh(77), Chandauli - UP67( 17-JAN-2018 ), 2022
+[2025-06-12 14:06:26] Clicked Excel download button using method 1
+[2025-06-12 14:06:26] Clicked Excel download button
+[2025-06-12 14:06:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:06:29] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:07:29] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Chandauli - UP67( 17-JAN-2018 ).xlsx
+[2025-06-12 14:07:29] Successfully processed RTO: Chandauli - UP67( 17-JAN-2018 )
+[2025-06-12 14:07:29] 
+Processing RTO 22/78: Chitrakoot - UP96( 22-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 14:07:29] Selecting RTO: Chitrakoot - UP96( 22-FEB-2018 )
+[2025-06-12 14:07:29] Clicked RTO dropdown using method 1
+[2025-06-12 14:07:30] Clicked RTO option: Chitrakoot - UP96( 22-FEB-2018 ) using method 1
+[2025-06-12 14:07:31] Successfully selected RTO: Chitrakoot - UP96( 22-FEB-2018 )
+[2025-06-12 14:07:31] Applying left panel filters
+[2025-06-12 14:07:31] Clicked right refresh button using method 1
+[2025-06-12 14:07:36] Opening left panel if needed
+[2025-06-12 14:07:36] Clicked left panel toggler using method 1
+[2025-06-12 14:07:36] Expanded left panel
+[2025-06-12 14:07:37] Selecting vehicle categories and fuel types
+[2025-06-12 14:07:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:07:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:07:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:07:40] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:07:41] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:07:41] Vehicle categories and fuel types selected
+[2025-06-12 14:07:42] Clicking left refresh button
+[2025-06-12 14:07:43] Clicked left refresh button using method 1
+[2025-06-12 14:07:43] Left refresh button clicked
+[2025-06-12 14:07:47] Left panel collapsed successfully.
+[2025-06-12 14:07:47] Downloading Excel file for Uttar Pradesh(77), Chitrakoot - UP96( 22-FEB-2018 ), 2022
+[2025-06-12 14:07:47] Clicked Excel download button using method 1
+[2025-06-12 14:07:47] Clicked Excel download button
+[2025-06-12 14:07:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:07:50] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:08:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Chitrakoot - UP96( 22-FEB-2018 ).xlsx
+[2025-06-12 14:08:50] Successfully processed RTO: Chitrakoot - UP96( 22-FEB-2018 )
+[2025-06-12 14:08:50] 
+Processing RTO 23/78: DEORIA - UP52( 23-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:08:50] Selecting RTO: DEORIA - UP52( 23-JAN-2018 )
+[2025-06-12 14:08:51] Clicked RTO dropdown using method 1
+[2025-06-12 14:08:52] Clicked RTO option: DEORIA - UP52( 23-JAN-2018 ) using method 1
+[2025-06-12 14:08:52] Successfully selected RTO: DEORIA - UP52( 23-JAN-2018 )
+[2025-06-12 14:08:52] Applying left panel filters
+[2025-06-12 14:08:53] Clicked right refresh button using method 1
+[2025-06-12 14:08:57] Opening left panel if needed
+[2025-06-12 14:08:57] Clicked left panel toggler using method 1
+[2025-06-12 14:08:57] Expanded left panel
+[2025-06-12 14:08:58] Selecting vehicle categories and fuel types
+[2025-06-12 14:08:59] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:08:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:09:00] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:09:01] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:09:01] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:09:02] Vehicle categories and fuel types selected
+[2025-06-12 14:09:03] Clicking left refresh button
+[2025-06-12 14:09:03] Clicked left refresh button using method 1
+[2025-06-12 14:09:03] Left refresh button clicked
+[2025-06-12 14:09:07] Left panel collapsed successfully.
+[2025-06-12 14:09:07] Downloading Excel file for Uttar Pradesh(77), DEORIA - UP52( 23-JAN-2018 ), 2022
+[2025-06-12 14:09:08] Clicked Excel download button using method 1
+[2025-06-12 14:09:08] Clicked Excel download button
+[2025-06-12 14:09:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:09:11] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:10:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\DEORIA - UP52( 23-JAN-2018 ).xlsx
+[2025-06-12 14:10:11] Successfully processed RTO: DEORIA - UP52( 23-JAN-2018 )
+[2025-06-12 14:10:11] 
+Processing RTO 24/78: Etah - UP82( 27-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 14:10:11] Selecting RTO: Etah - UP82( 27-NOV-2017 )
+[2025-06-12 14:10:12] Clicked RTO dropdown using method 1
+[2025-06-12 14:10:13] Clicked RTO option: Etah - UP82( 27-NOV-2017 ) using method 1
+[2025-06-12 14:10:13] Successfully selected RTO: Etah - UP82( 27-NOV-2017 )
+[2025-06-12 14:10:13] Applying left panel filters
+[2025-06-12 14:10:13] Clicked right refresh button using method 1
+[2025-06-12 14:10:18] Opening left panel if needed
+[2025-06-12 14:10:18] Clicked left panel toggler using method 1
+[2025-06-12 14:10:18] Expanded left panel
+[2025-06-12 14:10:20] Selecting vehicle categories and fuel types
+[2025-06-12 14:10:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:10:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:10:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:10:22] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:10:23] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:10:23] Vehicle categories and fuel types selected
+[2025-06-12 14:10:24] Clicking left refresh button
+[2025-06-12 14:10:24] Clicked left refresh button using method 1
+[2025-06-12 14:10:24] Left refresh button clicked
+[2025-06-12 14:10:29] Left panel collapsed successfully.
+[2025-06-12 14:10:29] Downloading Excel file for Uttar Pradesh(77), Etah - UP82( 27-NOV-2017 ), 2022
+[2025-06-12 14:10:29] Clicked Excel download button using method 1
+[2025-06-12 14:10:29] Clicked Excel download button
+[2025-06-12 14:10:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:10:33] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:11:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Etah - UP82( 27-NOV-2017 ).xlsx
+[2025-06-12 14:11:33] Successfully processed RTO: Etah - UP82( 27-NOV-2017 )
+[2025-06-12 14:11:33] 
+Processing RTO 25/78: Etawah - UP75( 11-OCT-2017 ) (Attempt 1/2)
+[2025-06-12 14:11:33] Selecting RTO: Etawah - UP75( 11-OCT-2017 )
+[2025-06-12 14:11:33] Clicked RTO dropdown using method 1
+[2025-06-12 14:11:34] Clicked RTO option: Etawah - UP75( 11-OCT-2017 ) using method 1
+[2025-06-12 14:11:35] Successfully selected RTO: Etawah - UP75( 11-OCT-2017 )
+[2025-06-12 14:11:35] Applying left panel filters
+[2025-06-12 14:11:35] Clicked right refresh button using method 1
+[2025-06-12 14:11:40] Opening left panel if needed
+[2025-06-12 14:11:40] Clicked left panel toggler using method 1
+[2025-06-12 14:11:40] Expanded left panel
+[2025-06-12 14:11:41] Selecting vehicle categories and fuel types
+[2025-06-12 14:11:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:11:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:11:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:11:44] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:11:45] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:11:45] Vehicle categories and fuel types selected
+[2025-06-12 14:11:46] Clicking left refresh button
+[2025-06-12 14:11:46] Clicked left refresh button using method 1
+[2025-06-12 14:11:46] Left refresh button clicked
+[2025-06-12 14:11:51] Left panel collapsed successfully.
+[2025-06-12 14:11:51] Downloading Excel file for Uttar Pradesh(77), Etawah - UP75( 11-OCT-2017 ), 2022
+[2025-06-12 14:11:51] Clicked Excel download button using method 1
+[2025-06-12 14:11:51] Clicked Excel download button
+[2025-06-12 14:11:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:11:55] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:12:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Etawah - UP75( 11-OCT-2017 ).xlsx
+[2025-06-12 14:12:55] Successfully processed RTO: Etawah - UP75( 11-OCT-2017 )
+[2025-06-12 14:12:55] 
+Processing RTO 26/78: Farrukhabad - UP76( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:12:55] Selecting RTO: Farrukhabad - UP76( 29-JAN-2018 )
+[2025-06-12 14:12:55] Clicked RTO dropdown using method 1
+[2025-06-12 14:12:56] Clicked RTO option: Farrukhabad - UP76( 29-JAN-2018 ) using method 1
+[2025-06-12 14:12:57] Successfully selected RTO: Farrukhabad - UP76( 29-JAN-2018 )
+[2025-06-12 14:12:57] Applying left panel filters
+[2025-06-12 14:12:57] Clicked right refresh button using method 1
+[2025-06-12 14:13:02] Opening left panel if needed
+[2025-06-12 14:13:02] Clicked left panel toggler using method 1
+[2025-06-12 14:13:02] Expanded left panel
+[2025-06-12 14:13:03] Selecting vehicle categories and fuel types
+[2025-06-12 14:13:03] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:13:04] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:13:05] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:13:06] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:13:06] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:13:07] Vehicle categories and fuel types selected
+[2025-06-12 14:13:08] Clicking left refresh button
+[2025-06-12 14:13:08] Clicked left refresh button using method 1
+[2025-06-12 14:13:08] Left refresh button clicked
+[2025-06-12 14:13:13] Left panel collapsed successfully.
+[2025-06-12 14:13:13] Downloading Excel file for Uttar Pradesh(77), Farrukhabad - UP76( 29-JAN-2018 ), 2022
+[2025-06-12 14:13:13] Clicked Excel download button using method 1
+[2025-06-12 14:13:13] Clicked Excel download button
+[2025-06-12 14:13:17] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:13:17] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:14:17] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Farrukhabad - UP76( 29-JAN-2018 ).xlsx
+[2025-06-12 14:14:17] Successfully processed RTO: Farrukhabad - UP76( 29-JAN-2018 )
+[2025-06-12 14:14:17] 
+Processing RTO 27/78: FATHEHPUR - UP71( 24-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:14:17] Selecting RTO: FATHEHPUR - UP71( 24-JAN-2018 )
+[2025-06-12 14:14:18] Clicked RTO dropdown using method 1
+[2025-06-12 14:14:18] Clicked RTO option: FATHEHPUR - UP71( 24-JAN-2018 ) using method 1
+[2025-06-12 14:14:19] Successfully selected RTO: FATHEHPUR - UP71( 24-JAN-2018 )
+[2025-06-12 14:14:19] Applying left panel filters
+[2025-06-12 14:14:19] Clicked right refresh button using method 1
+[2025-06-12 14:14:24] Opening left panel if needed
+[2025-06-12 14:14:24] Clicked left panel toggler using method 1
+[2025-06-12 14:14:24] Expanded left panel
+[2025-06-12 14:14:26] Selecting vehicle categories and fuel types
+[2025-06-12 14:14:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:14:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:14:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:14:28] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:14:29] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:14:30] Vehicle categories and fuel types selected
+[2025-06-12 14:14:30] Clicking left refresh button
+[2025-06-12 14:14:31] Clicked left refresh button using method 1
+[2025-06-12 14:14:31] Left refresh button clicked
+[2025-06-12 14:14:36] Left panel collapsed successfully.
+[2025-06-12 14:14:36] Downloading Excel file for Uttar Pradesh(77), FATHEHPUR - UP71( 24-JAN-2018 ), 2022
+[2025-06-12 14:14:36] Clicked Excel download button using method 1
+[2025-06-12 14:14:36] Clicked Excel download button
+[2025-06-12 14:14:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:14:40] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:15:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\FATHEHPUR - UP71( 24-JAN-2018 ).xlsx
+[2025-06-12 14:15:40] Successfully processed RTO: FATHEHPUR - UP71( 24-JAN-2018 )
+[2025-06-12 14:15:40] 
+Processing RTO 28/78: FEROZABAD - UP83( 25-OCT-2017 ) (Attempt 1/2)
+[2025-06-12 14:15:40] Selecting RTO: FEROZABAD - UP83( 25-OCT-2017 )
+[2025-06-12 14:15:40] Clicked RTO dropdown using method 1
+[2025-06-12 14:15:42] Clicked RTO option: FEROZABAD - UP83( 25-OCT-2017 ) using method 1
+[2025-06-12 14:15:42] Successfully selected RTO: FEROZABAD - UP83( 25-OCT-2017 )
+[2025-06-12 14:15:42] Applying left panel filters
+[2025-06-12 14:15:42] Clicked right refresh button using method 1
+[2025-06-12 14:15:47] Opening left panel if needed
+[2025-06-12 14:15:47] Clicked left panel toggler using method 1
+[2025-06-12 14:15:47] Expanded left panel
+[2025-06-12 14:15:49] Selecting vehicle categories and fuel types
+[2025-06-12 14:15:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:15:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:15:51] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:15:51] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:15:52] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:15:52] Vehicle categories and fuel types selected
+[2025-06-12 14:15:53] Clicking left refresh button
+[2025-06-12 14:15:53] Clicked left refresh button using method 1
+[2025-06-12 14:15:53] Left refresh button clicked
+[2025-06-12 14:15:58] Left panel collapsed successfully.
+[2025-06-12 14:15:58] Downloading Excel file for Uttar Pradesh(77), FEROZABAD - UP83( 25-OCT-2017 ), 2022
+[2025-06-12 14:15:59] Clicked Excel download button using method 1
+[2025-06-12 14:15:59] Clicked Excel download button
+[2025-06-12 14:16:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:16:03] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:17:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\FEROZABAD - UP83( 25-OCT-2017 ).xlsx
+[2025-06-12 14:17:03] Successfully processed RTO: FEROZABAD - UP83( 25-OCT-2017 )
+[2025-06-12 14:17:03] 
+Processing RTO 29/78: GHAZIABAD - UP14( 23-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:17:03] Selecting RTO: GHAZIABAD - UP14( 23-JAN-2018 )
+[2025-06-12 14:17:03] Clicked RTO dropdown using method 1
+[2025-06-12 14:17:04] Clicked RTO option: GHAZIABAD - UP14( 23-JAN-2018 ) using method 1
+[2025-06-12 14:17:04] Successfully selected RTO: GHAZIABAD - UP14( 23-JAN-2018 )
+[2025-06-12 14:17:04] Applying left panel filters
+[2025-06-12 14:17:05] Clicked right refresh button using method 1
+[2025-06-12 14:17:09] Opening left panel if needed
+[2025-06-12 14:17:09] Clicked left panel toggler using method 1
+[2025-06-12 14:17:09] Expanded left panel
+[2025-06-12 14:17:11] Selecting vehicle categories and fuel types
+[2025-06-12 14:17:11] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:17:12] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:17:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:17:13] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:17:14] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:17:14] Vehicle categories and fuel types selected
+[2025-06-12 14:17:15] Clicking left refresh button
+[2025-06-12 14:17:15] Clicked left refresh button using method 1
+[2025-06-12 14:17:15] Left refresh button clicked
+[2025-06-12 14:17:20] Left panel collapsed successfully.
+[2025-06-12 14:17:20] Downloading Excel file for Uttar Pradesh(77), GHAZIABAD - UP14( 23-JAN-2018 ), 2022
+[2025-06-12 14:17:21] Clicked Excel download button using method 1
+[2025-06-12 14:17:21] Clicked Excel download button
+[2025-06-12 14:17:24] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:17:24] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:18:24] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\GHAZIABAD - UP14( 23-JAN-2018 ).xlsx
+[2025-06-12 14:18:24] Successfully processed RTO: GHAZIABAD - UP14( 23-JAN-2018 )
+[2025-06-12 14:18:24] 
+Processing RTO 30/78: Ghazipur - UP61( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:18:24] Selecting RTO: Ghazipur - UP61( 29-JAN-2018 )
+[2025-06-12 14:18:25] Clicked RTO dropdown using method 1
+[2025-06-12 14:18:26] Clicked RTO option: Ghazipur - UP61( 29-JAN-2018 ) using method 1
+[2025-06-12 14:18:27] Successfully selected RTO: Ghazipur - UP61( 29-JAN-2018 )
+[2025-06-12 14:18:27] Applying left panel filters
+[2025-06-12 14:18:27] Clicked right refresh button using method 1
+[2025-06-12 14:18:32] Opening left panel if needed
+[2025-06-12 14:18:32] Clicked left panel toggler using method 1
+[2025-06-12 14:18:32] Expanded left panel
+[2025-06-12 14:18:33] Selecting vehicle categories and fuel types
+[2025-06-12 14:18:34] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:18:35] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:18:36] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:18:36] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:18:37] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:18:37] Vehicle categories and fuel types selected
+[2025-06-12 14:18:38] Clicking left refresh button
+[2025-06-12 14:18:38] Clicked left refresh button using method 1
+[2025-06-12 14:18:38] Left refresh button clicked
+[2025-06-12 14:18:43] Left panel collapsed successfully.
+[2025-06-12 14:18:43] Downloading Excel file for Uttar Pradesh(77), Ghazipur - UP61( 29-JAN-2018 ), 2022
+[2025-06-12 14:18:43] Clicked Excel download button using method 1
+[2025-06-12 14:18:43] Clicked Excel download button
+[2025-06-12 14:18:47] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:18:47] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:19:47] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Ghazipur - UP61( 29-JAN-2018 ).xlsx
+[2025-06-12 14:19:47] Successfully processed RTO: Ghazipur - UP61( 29-JAN-2018 )
+[2025-06-12 14:19:47] 
+Processing RTO 31/78: GONDA - UP43( 14-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 14:19:47] Selecting RTO: GONDA - UP43( 14-DEC-2017 )
+[2025-06-12 14:19:48] Clicked RTO dropdown using method 1
+[2025-06-12 14:19:49] Clicked RTO option: GONDA - UP43( 14-DEC-2017 ) using method 1
+[2025-06-12 14:19:49] Successfully selected RTO: GONDA - UP43( 14-DEC-2017 )
+[2025-06-12 14:19:49] Applying left panel filters
+[2025-06-12 14:19:50] Clicked right refresh button using method 1
+[2025-06-12 14:19:54] Opening left panel if needed
+[2025-06-12 14:19:54] Clicked left panel toggler using method 1
+[2025-06-12 14:19:54] Expanded left panel
+[2025-06-12 14:19:56] Selecting vehicle categories and fuel types
+[2025-06-12 14:19:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:19:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:19:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:19:58] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:19:59] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:19:59] Vehicle categories and fuel types selected
+[2025-06-12 14:20:00] Clicking left refresh button
+[2025-06-12 14:20:00] Clicked left refresh button using method 1
+[2025-06-12 14:20:00] Left refresh button clicked
+[2025-06-12 14:20:06] Left panel collapsed successfully.
+[2025-06-12 14:20:06] Downloading Excel file for Uttar Pradesh(77), GONDA - UP43( 14-DEC-2017 ), 2022
+[2025-06-12 14:20:06] Clicked Excel download button using method 1
+[2025-06-12 14:20:06] Clicked Excel download button
+[2025-06-12 14:20:09] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:20:09] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:21:09] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\GONDA - UP43( 14-DEC-2017 ).xlsx
+[2025-06-12 14:21:09] Successfully processed RTO: GONDA - UP43( 14-DEC-2017 )
+[2025-06-12 14:21:09] 
+Processing RTO 32/78: Gorakhpur RTO - UP53( 08-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 14:21:09] Selecting RTO: Gorakhpur RTO - UP53( 08-NOV-2017 )
+[2025-06-12 14:21:10] Clicked RTO dropdown using method 1
+[2025-06-12 14:21:11] Clicked RTO option: Gorakhpur RTO - UP53( 08-NOV-2017 ) using method 1
+[2025-06-12 14:21:11] Successfully selected RTO: Gorakhpur RTO - UP53( 08-NOV-2017 )
+[2025-06-12 14:21:11] Applying left panel filters
+[2025-06-12 14:21:12] Clicked right refresh button using method 1
+[2025-06-12 14:21:16] Opening left panel if needed
+[2025-06-12 14:21:16] Clicked left panel toggler using method 1
+[2025-06-12 14:21:16] Expanded left panel
+[2025-06-12 14:21:18] Selecting vehicle categories and fuel types
+[2025-06-12 14:21:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:21:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:21:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:21:21] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:21:22] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:21:22] Vehicle categories and fuel types selected
+[2025-06-12 14:21:23] Clicking left refresh button
+[2025-06-12 14:21:23] Clicked left refresh button using method 1
+[2025-06-12 14:21:23] Left refresh button clicked
+[2025-06-12 14:21:28] Left panel collapsed successfully.
+[2025-06-12 14:21:28] Downloading Excel file for Uttar Pradesh(77), Gorakhpur RTO - UP53( 08-NOV-2017 ), 2022
+[2025-06-12 14:21:29] Clicked Excel download button using method 1
+[2025-06-12 14:21:29] Clicked Excel download button
+[2025-06-12 14:21:32] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:21:32] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:22:32] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Gorakhpur RTO - UP53( 08-NOV-2017 ).xlsx
+[2025-06-12 14:22:32] Successfully processed RTO: Gorakhpur RTO - UP53( 08-NOV-2017 )
+[2025-06-12 14:22:32] 
+Processing RTO 33/78: HAMIRPUR(UP) - UP91( 24-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 14:22:32] Selecting RTO: HAMIRPUR(UP) - UP91( 24-FEB-2018 )
+[2025-06-12 14:22:33] Clicked RTO dropdown using method 1
+[2025-06-12 14:22:34] Clicked RTO option: HAMIRPUR(UP) - UP91( 24-FEB-2018 ) using method 1
+[2025-06-12 14:22:34] Successfully selected RTO: HAMIRPUR(UP) - UP91( 24-FEB-2018 )
+[2025-06-12 14:22:34] Applying left panel filters
+[2025-06-12 14:22:35] Clicked right refresh button using method 1
+[2025-06-12 14:22:40] Opening left panel if needed
+[2025-06-12 14:22:40] Clicked left panel toggler using method 1
+[2025-06-12 14:22:40] Expanded left panel
+[2025-06-12 14:22:41] Selecting vehicle categories and fuel types
+[2025-06-12 14:22:41] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:22:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:22:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:22:43] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:22:44] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:22:44] Vehicle categories and fuel types selected
+[2025-06-12 14:22:45] Clicking left refresh button
+[2025-06-12 14:22:45] Clicked left refresh button using method 1
+[2025-06-12 14:22:45] Left refresh button clicked
+[2025-06-12 14:22:50] Left panel collapsed successfully.
+[2025-06-12 14:22:50] Downloading Excel file for Uttar Pradesh(77), HAMIRPUR(UP) - UP91( 24-FEB-2018 ), 2022
+[2025-06-12 14:22:51] Clicked Excel download button using method 1
+[2025-06-12 14:22:51] Clicked Excel download button
+[2025-06-12 14:22:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:22:55] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:23:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\HAMIRPUR(UP) - UP91( 24-FEB-2018 ).xlsx
+[2025-06-12 14:23:55] Successfully processed RTO: HAMIRPUR(UP) - UP91( 24-FEB-2018 )
+[2025-06-12 14:23:55] 
+Processing RTO 34/78: Hapur - UP37( 23-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:23:55] Selecting RTO: Hapur - UP37( 23-JAN-2018 )
+[2025-06-12 14:23:55] Clicked RTO dropdown using method 1
+[2025-06-12 14:23:56] Clicked RTO option: Hapur - UP37( 23-JAN-2018 ) using method 1
+[2025-06-12 14:23:56] Successfully selected RTO: Hapur - UP37( 23-JAN-2018 )
+[2025-06-12 14:23:56] Applying left panel filters
+[2025-06-12 14:23:57] Clicked right refresh button using method 1
+[2025-06-12 14:24:01] Opening left panel if needed
+[2025-06-12 14:24:01] Clicked left panel toggler using method 1
+[2025-06-12 14:24:01] Expanded left panel
+[2025-06-12 14:24:02] Selecting vehicle categories and fuel types
+[2025-06-12 14:24:03] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:24:04] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:24:05] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:24:06] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:24:07] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:24:07] Vehicle categories and fuel types selected
+[2025-06-12 14:24:08] Clicking left refresh button
+[2025-06-12 14:24:08] Clicked left refresh button using method 1
+[2025-06-12 14:24:08] Left refresh button clicked
+[2025-06-12 14:24:13] Left panel collapsed successfully.
+[2025-06-12 14:24:13] Downloading Excel file for Uttar Pradesh(77), Hapur - UP37( 23-JAN-2018 ), 2022
+[2025-06-12 14:24:14] Clicked Excel download button using method 1
+[2025-06-12 14:24:14] Clicked Excel download button
+[2025-06-12 14:24:18] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:24:18] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:25:18] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Hapur - UP37( 23-JAN-2018 ).xlsx
+[2025-06-12 14:25:18] Successfully processed RTO: Hapur - UP37( 23-JAN-2018 )
+[2025-06-12 14:25:18] 
+Processing RTO 35/78: HARDOI - UP30( 11-SEP-2017 ) (Attempt 1/2)
+[2025-06-12 14:25:18] Selecting RTO: HARDOI - UP30( 11-SEP-2017 )
+[2025-06-12 14:25:19] Clicked RTO dropdown using method 1
+[2025-06-12 14:25:20] Clicked RTO option: HARDOI - UP30( 11-SEP-2017 ) using method 1
+[2025-06-12 14:25:21] Successfully selected RTO: HARDOI - UP30( 11-SEP-2017 )
+[2025-06-12 14:25:21] Applying left panel filters
+[2025-06-12 14:25:21] Clicked right refresh button using method 1
+[2025-06-12 14:25:25] Opening left panel if needed
+[2025-06-12 14:25:25] Clicked left panel toggler using method 1
+[2025-06-12 14:25:25] Expanded left panel
+[2025-06-12 14:25:27] Selecting vehicle categories and fuel types
+[2025-06-12 14:25:28] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:25:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:25:29] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:25:30] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:25:31] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:25:31] Vehicle categories and fuel types selected
+[2025-06-12 14:25:32] Clicking left refresh button
+[2025-06-12 14:25:33] Clicked left refresh button using method 1
+[2025-06-12 14:25:33] Left refresh button clicked
+[2025-06-12 14:25:38] Left panel collapsed successfully.
+[2025-06-12 14:25:38] Downloading Excel file for Uttar Pradesh(77), HARDOI - UP30( 11-SEP-2017 ), 2022
+[2025-06-12 14:25:38] Clicked Excel download button using method 1
+[2025-06-12 14:25:38] Clicked Excel download button
+[2025-06-12 14:25:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:25:41] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:26:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\HARDOI - UP30( 11-SEP-2017 ).xlsx
+[2025-06-12 14:26:41] Successfully processed RTO: HARDOI - UP30( 11-SEP-2017 )
+[2025-06-12 14:26:41] 
+Processing RTO 36/78: HATHRAS - UP86( 18-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 14:26:41] Selecting RTO: HATHRAS - UP86( 18-DEC-2017 )
+[2025-06-12 14:26:42] Clicked RTO dropdown using method 1
+[2025-06-12 14:26:43] Clicked RTO option: HATHRAS - UP86( 18-DEC-2017 ) using method 1
+[2025-06-12 14:26:44] Successfully selected RTO: HATHRAS - UP86( 18-DEC-2017 )
+[2025-06-12 14:26:44] Applying left panel filters
+[2025-06-12 14:26:44] Clicked right refresh button using method 1
+[2025-06-12 14:26:49] Opening left panel if needed
+[2025-06-12 14:26:49] Clicked left panel toggler using method 1
+[2025-06-12 14:26:49] Expanded left panel
+[2025-06-12 14:26:50] Selecting vehicle categories and fuel types
+[2025-06-12 14:26:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:26:51] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:26:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:26:53] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:26:54] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:26:54] Vehicle categories and fuel types selected
+[2025-06-12 14:26:54] Clicking left refresh button
+[2025-06-12 14:26:55] Clicked left refresh button using method 1
+[2025-06-12 14:26:55] Left refresh button clicked
+[2025-06-12 14:27:00] Left panel collapsed successfully.
+[2025-06-12 14:27:00] Downloading Excel file for Uttar Pradesh(77), HATHRAS - UP86( 18-DEC-2017 ), 2022
+[2025-06-12 14:27:00] Clicked Excel download button using method 1
+[2025-06-12 14:27:00] Clicked Excel download button
+[2025-06-12 14:27:04] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:27:04] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:28:04] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\HATHRAS - UP86( 18-DEC-2017 ).xlsx
+[2025-06-12 14:28:04] Successfully processed RTO: HATHRAS - UP86( 18-DEC-2017 )
+[2025-06-12 14:28:04] 
+Processing RTO 37/78: JAUNPUR - UP62( 18-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:28:04] Selecting RTO: JAUNPUR - UP62( 18-JAN-2018 )
+[2025-06-12 14:28:04] Clicked RTO dropdown using method 1
+[2025-06-12 14:28:06] Clicked RTO option: JAUNPUR - UP62( 18-JAN-2018 ) using method 1
+[2025-06-12 14:28:06] Successfully selected RTO: JAUNPUR - UP62( 18-JAN-2018 )
+[2025-06-12 14:28:06] Applying left panel filters
+[2025-06-12 14:28:06] Clicked right refresh button using method 1
+[2025-06-12 14:28:11] Opening left panel if needed
+[2025-06-12 14:28:11] Clicked left panel toggler using method 1
+[2025-06-12 14:28:11] Expanded left panel
+[2025-06-12 14:28:13] Selecting vehicle categories and fuel types
+[2025-06-12 14:28:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:28:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:28:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:28:16] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:28:16] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:28:17] Vehicle categories and fuel types selected
+[2025-06-12 14:28:18] Clicking left refresh button
+[2025-06-12 14:28:18] Clicked left refresh button using method 1
+[2025-06-12 14:28:18] Left refresh button clicked
+[2025-06-12 14:28:23] Left panel collapsed successfully.
+[2025-06-12 14:28:23] Downloading Excel file for Uttar Pradesh(77), JAUNPUR - UP62( 18-JAN-2018 ), 2022
+[2025-06-12 14:28:24] Clicked Excel download button using method 1
+[2025-06-12 14:28:24] Clicked Excel download button
+[2025-06-12 14:28:27] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:28:27] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:29:27] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\JAUNPUR - UP62( 18-JAN-2018 ).xlsx
+[2025-06-12 14:29:27] Successfully processed RTO: JAUNPUR - UP62( 18-JAN-2018 )
+[2025-06-12 14:29:27] 
+Processing RTO 38/78: JhansiRTO - UP93( 19-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 14:29:27] Selecting RTO: JhansiRTO - UP93( 19-DEC-2017 )
+[2025-06-12 14:29:28] Clicked RTO dropdown using method 1
+[2025-06-12 14:29:29] Clicked RTO option: JhansiRTO - UP93( 19-DEC-2017 ) using method 1
+[2025-06-12 14:29:29] Successfully selected RTO: JhansiRTO - UP93( 19-DEC-2017 )
+[2025-06-12 14:29:29] Applying left panel filters
+[2025-06-12 14:29:30] Clicked right refresh button using method 1
+[2025-06-12 14:29:35] Opening left panel if needed
+[2025-06-12 14:29:35] Clicked left panel toggler using method 1
+[2025-06-12 14:29:35] Expanded left panel
+[2025-06-12 14:29:36] Selecting vehicle categories and fuel types
+[2025-06-12 14:29:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:29:37] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:29:38] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:29:39] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:29:40] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:29:40] Vehicle categories and fuel types selected
+[2025-06-12 14:29:41] Clicking left refresh button
+[2025-06-12 14:29:41] Clicked left refresh button using method 1
+[2025-06-12 14:29:41] Left refresh button clicked
+[2025-06-12 14:29:46] Left panel collapsed successfully.
+[2025-06-12 14:29:46] Downloading Excel file for Uttar Pradesh(77), JhansiRTO - UP93( 19-DEC-2017 ), 2022
+[2025-06-12 14:29:47] Clicked Excel download button using method 1
+[2025-06-12 14:29:47] Clicked Excel download button
+[2025-06-12 14:29:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:29:50] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:30:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\JhansiRTO - UP93( 19-DEC-2017 ).xlsx
+[2025-06-12 14:30:50] Successfully processed RTO: JhansiRTO - UP93( 19-DEC-2017 )
+[2025-06-12 14:30:50] 
+Processing RTO 39/78: JPNAGAR - UP23( 17-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 14:30:50] Selecting RTO: JPNAGAR - UP23( 17-NOV-2017 )
+[2025-06-12 14:30:50] Clicked RTO dropdown using method 1
+[2025-06-12 14:30:52] Clicked RTO option: JPNAGAR - UP23( 17-NOV-2017 ) using method 1
+[2025-06-12 14:30:52] Successfully selected RTO: JPNAGAR - UP23( 17-NOV-2017 )
+[2025-06-12 14:30:52] Applying left panel filters
+[2025-06-12 14:30:53] Clicked right refresh button using method 1
+[2025-06-12 14:30:57] Opening left panel if needed
+[2025-06-12 14:30:57] Clicked left panel toggler using method 1
+[2025-06-12 14:30:57] Expanded left panel
+[2025-06-12 14:30:59] Selecting vehicle categories and fuel types
+[2025-06-12 14:30:59] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:31:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:31:01] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:31:01] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:31:02] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:31:02] Vehicle categories and fuel types selected
+[2025-06-12 14:31:03] Clicking left refresh button
+[2025-06-12 14:31:04] Clicked left refresh button using method 1
+[2025-06-12 14:31:04] Left refresh button clicked
+[2025-06-12 14:31:08] Left panel collapsed successfully.
+[2025-06-12 14:31:08] Downloading Excel file for Uttar Pradesh(77), JPNAGAR - UP23( 17-NOV-2017 ), 2022
+[2025-06-12 14:31:09] Clicked Excel download button using method 1
+[2025-06-12 14:31:09] Clicked Excel download button
+[2025-06-12 14:31:12] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:31:12] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:32:12] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\JPNAGAR - UP23( 17-NOV-2017 ).xlsx
+[2025-06-12 14:32:12] Successfully processed RTO: JPNAGAR - UP23( 17-NOV-2017 )
+[2025-06-12 14:32:12] 
+Processing RTO 40/78: Kannauj - UP74( 13-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 14:32:12] Selecting RTO: Kannauj - UP74( 13-FEB-2018 )
+[2025-06-12 14:32:13] Clicked RTO dropdown using method 1
+[2025-06-12 14:32:14] Clicked RTO option: Kannauj - UP74( 13-FEB-2018 ) using method 1
+[2025-06-12 14:32:14] Successfully selected RTO: Kannauj - UP74( 13-FEB-2018 )
+[2025-06-12 14:32:14] Applying left panel filters
+[2025-06-12 14:32:14] Clicked right refresh button using method 1
+[2025-06-12 14:32:18] Opening left panel if needed
+[2025-06-12 14:32:19] Clicked left panel toggler using method 1
+[2025-06-12 14:32:19] Expanded left panel
+[2025-06-12 14:32:20] Selecting vehicle categories and fuel types
+[2025-06-12 14:32:21] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:32:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:32:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:32:23] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:32:24] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:32:24] Vehicle categories and fuel types selected
+[2025-06-12 14:32:25] Clicking left refresh button
+[2025-06-12 14:32:25] Clicked left refresh button using method 1
+[2025-06-12 14:32:25] Left refresh button clicked
+[2025-06-12 14:32:30] Left panel collapsed successfully.
+[2025-06-12 14:32:30] Downloading Excel file for Uttar Pradesh(77), Kannauj - UP74( 13-FEB-2018 ), 2022
+[2025-06-12 14:32:31] Clicked Excel download button using method 1
+[2025-06-12 14:32:31] Clicked Excel download button
+[2025-06-12 14:32:34] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:32:34] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:33:34] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Kannauj - UP74( 13-FEB-2018 ).xlsx
+[2025-06-12 14:33:34] Successfully processed RTO: Kannauj - UP74( 13-FEB-2018 )
+[2025-06-12 14:33:34] 
+Processing RTO 41/78: Kanpur Dehat - UP77( 11-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 14:33:34] Selecting RTO: Kanpur Dehat - UP77( 11-DEC-2017 )
+[2025-06-12 14:33:35] Clicked RTO dropdown using method 1
+[2025-06-12 14:33:36] Clicked RTO option: Kanpur Dehat - UP77( 11-DEC-2017 ) using method 1
+[2025-06-12 14:33:36] Successfully selected RTO: Kanpur Dehat - UP77( 11-DEC-2017 )
+[2025-06-12 14:33:36] Applying left panel filters
+[2025-06-12 14:33:37] Clicked right refresh button using method 1
+[2025-06-12 14:33:41] Opening left panel if needed
+[2025-06-12 14:33:41] Clicked left panel toggler using method 1
+[2025-06-12 14:33:41] Expanded left panel
+[2025-06-12 14:33:43] Selecting vehicle categories and fuel types
+[2025-06-12 14:33:44] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:33:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:33:45] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:33:46] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:33:47] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:33:47] Vehicle categories and fuel types selected
+[2025-06-12 14:33:48] Clicking left refresh button
+[2025-06-12 14:33:48] Clicked left refresh button using method 1
+[2025-06-12 14:33:48] Left refresh button clicked
+[2025-06-12 14:33:54] Left panel collapsed successfully.
+[2025-06-12 14:33:54] Downloading Excel file for Uttar Pradesh(77), Kanpur Dehat - UP77( 11-DEC-2017 ), 2022
+[2025-06-12 14:33:54] Clicked Excel download button using method 1
+[2025-06-12 14:33:54] Clicked Excel download button
+[2025-06-12 14:33:57] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:33:57] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:34:57] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Kanpur Dehat - UP77( 11-DEC-2017 ).xlsx
+[2025-06-12 14:34:57] Successfully processed RTO: Kanpur Dehat - UP77( 11-DEC-2017 )
+[2025-06-12 14:34:57] 
+Processing RTO 42/78: KANPUR NAGAR - UP78( 05-DEC-2016 ) (Attempt 1/2)
+[2025-06-12 14:34:57] Selecting RTO: KANPUR NAGAR - UP78( 05-DEC-2016 )
+[2025-06-12 14:34:58] Clicked RTO dropdown using method 1
+[2025-06-12 14:34:59] Clicked RTO option: KANPUR NAGAR - UP78( 05-DEC-2016 ) using method 1
+[2025-06-12 14:34:59] Successfully selected RTO: KANPUR NAGAR - UP78( 05-DEC-2016 )
+[2025-06-12 14:34:59] Applying left panel filters
+[2025-06-12 14:35:00] Clicked right refresh button using method 1
+[2025-06-12 14:35:04] Opening left panel if needed
+[2025-06-12 14:35:04] Clicked left panel toggler using method 1
+[2025-06-12 14:35:04] Expanded left panel
+[2025-06-12 14:35:06] Selecting vehicle categories and fuel types
+[2025-06-12 14:35:06] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:35:07] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:35:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:35:08] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:35:09] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:35:09] Vehicle categories and fuel types selected
+[2025-06-12 14:35:10] Clicking left refresh button
+[2025-06-12 14:35:11] Clicked left refresh button using method 1
+[2025-06-12 14:35:11] Left refresh button clicked
+[2025-06-12 14:35:15] Left panel collapsed successfully.
+[2025-06-12 14:35:15] Downloading Excel file for Uttar Pradesh(77), KANPUR NAGAR - UP78( 05-DEC-2016 ), 2022
+[2025-06-12 14:35:16] Clicked Excel download button using method 1
+[2025-06-12 14:35:16] Clicked Excel download button
+[2025-06-12 14:35:20] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:35:20] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:36:20] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\KANPUR NAGAR - UP78( 05-DEC-2016 ).xlsx
+[2025-06-12 14:36:20] Successfully processed RTO: KANPUR NAGAR - UP78( 05-DEC-2016 )
+[2025-06-12 14:36:20] 
+Processing RTO 43/78: Kasganj(kashi ram nagar) - UP87( 29-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 14:36:20] Selecting RTO: Kasganj(kashi ram nagar) - UP87( 29-NOV-2017 )
+[2025-06-12 14:36:20] Clicked RTO dropdown using method 1
+[2025-06-12 14:36:21] Clicked RTO option: Kasganj(kashi ram nagar) - UP87( 29-NOV-2017 ) using method 1
+[2025-06-12 14:36:22] Successfully selected RTO: Kasganj(kashi ram nagar) - UP87( 29-NOV-2017 )
+[2025-06-12 14:36:22] Applying left panel filters
+[2025-06-12 14:36:22] Clicked right refresh button using method 1
+[2025-06-12 14:36:26] Opening left panel if needed
+[2025-06-12 14:36:27] Clicked left panel toggler using method 1
+[2025-06-12 14:36:27] Expanded left panel
+[2025-06-12 14:36:28] Selecting vehicle categories and fuel types
+[2025-06-12 14:36:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:36:29] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:36:30] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:36:31] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:36:32] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:36:32] Vehicle categories and fuel types selected
+[2025-06-12 14:36:32] Clicking left refresh button
+[2025-06-12 14:36:33] Clicked left refresh button using method 1
+[2025-06-12 14:36:33] Left refresh button clicked
+[2025-06-12 14:36:38] Left panel collapsed successfully.
+[2025-06-12 14:36:38] Downloading Excel file for Uttar Pradesh(77), Kasganj(kashi ram nagar) - UP87( 29-NOV-2017 ), 2022
+[2025-06-12 14:36:38] Clicked Excel download button using method 1
+[2025-06-12 14:36:38] Clicked Excel download button
+[2025-06-12 14:36:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:36:41] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:37:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Kasganj(kashi ram nagar) - UP87( 29-NOV-2017 ).xlsx
+[2025-06-12 14:37:41] Successfully processed RTO: Kasganj(kashi ram nagar) - UP87( 29-NOV-2017 )
+[2025-06-12 14:37:41] 
+Processing RTO 44/78: Kaushambi - UP73( 11-OCT-2017 ) (Attempt 1/2)
+[2025-06-12 14:37:41] Selecting RTO: Kaushambi - UP73( 11-OCT-2017 )
+[2025-06-12 14:37:42] Clicked RTO dropdown using method 1
+[2025-06-12 14:37:43] Clicked RTO option: Kaushambi - UP73( 11-OCT-2017 ) using method 1
+[2025-06-12 14:37:43] Successfully selected RTO: Kaushambi - UP73( 11-OCT-2017 )
+[2025-06-12 14:37:43] Applying left panel filters
+[2025-06-12 14:37:44] Clicked right refresh button using method 1
+[2025-06-12 14:37:48] Opening left panel if needed
+[2025-06-12 14:37:48] Clicked left panel toggler using method 1
+[2025-06-12 14:37:48] Expanded left panel
+[2025-06-12 14:37:50] Selecting vehicle categories and fuel types
+[2025-06-12 14:37:50] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:37:51] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:37:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:37:53] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:37:53] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:37:54] Vehicle categories and fuel types selected
+[2025-06-12 14:37:54] Clicking left refresh button
+[2025-06-12 14:37:55] Clicked left refresh button using method 1
+[2025-06-12 14:37:55] Left refresh button clicked
+[2025-06-12 14:37:59] Left panel collapsed successfully.
+[2025-06-12 14:37:59] Downloading Excel file for Uttar Pradesh(77), Kaushambi - UP73( 11-OCT-2017 ), 2022
+[2025-06-12 14:38:00] Clicked Excel download button using method 1
+[2025-06-12 14:38:00] Clicked Excel download button
+[2025-06-12 14:38:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:38:03] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:39:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Kaushambi - UP73( 11-OCT-2017 ).xlsx
+[2025-06-12 14:39:03] Successfully processed RTO: Kaushambi - UP73( 11-OCT-2017 )
+[2025-06-12 14:39:03] 
+Processing RTO 45/78: LAKHIMPUR KHERI - UP31( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:39:03] Selecting RTO: LAKHIMPUR KHERI - UP31( 29-JAN-2018 )
+[2025-06-12 14:39:04] Clicked RTO dropdown using method 1
+[2025-06-12 14:39:05] Clicked RTO option: LAKHIMPUR KHERI - UP31( 29-JAN-2018 ) using method 1
+[2025-06-12 14:39:06] Successfully selected RTO: LAKHIMPUR KHERI - UP31( 29-JAN-2018 )
+[2025-06-12 14:39:06] Applying left panel filters
+[2025-06-12 14:39:06] Clicked right refresh button using method 1
+[2025-06-12 14:39:10] Opening left panel if needed
+[2025-06-12 14:39:11] Clicked left panel toggler using method 1
+[2025-06-12 14:39:11] Expanded left panel
+[2025-06-12 14:39:12] Selecting vehicle categories and fuel types
+[2025-06-12 14:39:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:39:13] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:39:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:39:15] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:39:15] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:39:16] Vehicle categories and fuel types selected
+[2025-06-12 14:39:16] Clicking left refresh button
+[2025-06-12 14:39:17] Clicked left refresh button using method 1
+[2025-06-12 14:39:17] Left refresh button clicked
+[2025-06-12 14:39:22] Left panel collapsed successfully.
+[2025-06-12 14:39:22] Downloading Excel file for Uttar Pradesh(77), LAKHIMPUR KHERI - UP31( 29-JAN-2018 ), 2022
+[2025-06-12 14:39:23] Clicked Excel download button using method 1
+[2025-06-12 14:39:23] Clicked Excel download button
+[2025-06-12 14:39:26] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:39:26] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:40:26] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\LAKHIMPUR KHERI - UP31( 29-JAN-2018 ).xlsx
+[2025-06-12 14:40:26] Successfully processed RTO: LAKHIMPUR KHERI - UP31( 29-JAN-2018 )
+[2025-06-12 14:40:26] 
+Processing RTO 46/78: Lalitpur - UP94( 26-OCT-2017 ) (Attempt 1/2)
+[2025-06-12 14:40:26] Selecting RTO: Lalitpur - UP94( 26-OCT-2017 )
+[2025-06-12 14:40:26] Clicked RTO dropdown using method 1
+[2025-06-12 14:40:27] Clicked RTO option: Lalitpur - UP94( 26-OCT-2017 ) using method 1
+[2025-06-12 14:40:28] Successfully selected RTO: Lalitpur - UP94( 26-OCT-2017 )
+[2025-06-12 14:40:28] Applying left panel filters
+[2025-06-12 14:40:28] Clicked right refresh button using method 1
+[2025-06-12 14:40:32] Opening left panel if needed
+[2025-06-12 14:40:33] Clicked left panel toggler using method 1
+[2025-06-12 14:40:33] Expanded left panel
+[2025-06-12 14:40:34] Selecting vehicle categories and fuel types
+[2025-06-12 14:40:34] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:40:35] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:40:35] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:40:36] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:40:37] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:40:37] Vehicle categories and fuel types selected
+[2025-06-12 14:40:38] Clicking left refresh button
+[2025-06-12 14:40:39] Clicked left refresh button using method 1
+[2025-06-12 14:40:39] Left refresh button clicked
+[2025-06-12 14:40:44] Left panel collapsed successfully.
+[2025-06-12 14:40:44] Downloading Excel file for Uttar Pradesh(77), Lalitpur - UP94( 26-OCT-2017 ), 2022
+[2025-06-12 14:40:44] Clicked Excel download button using method 1
+[2025-06-12 14:40:44] Clicked Excel download button
+[2025-06-12 14:40:48] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:40:48] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:41:48] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Lalitpur - UP94( 26-OCT-2017 ).xlsx
+[2025-06-12 14:41:48] Successfully processed RTO: Lalitpur - UP94( 26-OCT-2017 )
+[2025-06-12 14:41:48] 
+Processing RTO 47/78: MAHANAGAR ARTO LUCKNOW (UP321) - UP321( 22-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 14:41:48] Selecting RTO: MAHANAGAR ARTO LUCKNOW (UP321) - UP321( 22-NOV-2017 )
+[2025-06-12 14:41:49] Clicked RTO dropdown using method 1
+[2025-06-12 14:41:50] Clicked RTO option: MAHANAGAR ARTO LUCKNOW (UP321) - UP321( 22-NOV-2017 ) using method 1
+[2025-06-12 14:41:50] Successfully selected RTO: MAHANAGAR ARTO LUCKNOW (UP321) - UP321( 22-NOV-2017 )
+[2025-06-12 14:41:50] Applying left panel filters
+[2025-06-12 14:41:51] Clicked right refresh button using method 1
+[2025-06-12 14:41:55] Opening left panel if needed
+[2025-06-12 14:41:55] Clicked left panel toggler using method 1
+[2025-06-12 14:41:55] Expanded left panel
+[2025-06-12 14:41:56] Selecting vehicle categories and fuel types
+[2025-06-12 14:41:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:41:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:41:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:41:59] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:42:00] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:42:00] Vehicle categories and fuel types selected
+[2025-06-12 14:42:01] Clicking left refresh button
+[2025-06-12 14:42:02] Clicked left refresh button using method 1
+[2025-06-12 14:42:02] Left refresh button clicked
+[2025-06-12 14:42:06] Left panel collapsed successfully.
+[2025-06-12 14:42:06] Downloading Excel file for Uttar Pradesh(77), MAHANAGAR ARTO LUCKNOW (UP321) - UP321( 22-NOV-2017 ), 2022
+[2025-06-12 14:42:07] Clicked Excel download button using method 1
+[2025-06-12 14:42:07] Clicked Excel download button
+[2025-06-12 14:42:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:42:10] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:43:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\MAHANAGAR ARTO LUCKNOW (UP321) - UP321( 22-NOV-2017 ).xlsx
+[2025-06-12 14:43:10] Successfully processed RTO: MAHANAGAR ARTO LUCKNOW (UP321) - UP321( 22-NOV-2017 )
+[2025-06-12 14:43:10] 
+Processing RTO 48/78: Maharajganj - UP56( 18-SEP-2017 ) (Attempt 1/2)
+[2025-06-12 14:43:10] Selecting RTO: Maharajganj - UP56( 18-SEP-2017 )
+[2025-06-12 14:43:10] Clicked RTO dropdown using method 1
+[2025-06-12 14:43:12] Clicked RTO option: Maharajganj - UP56( 18-SEP-2017 ) using method 1
+[2025-06-12 14:43:12] Successfully selected RTO: Maharajganj - UP56( 18-SEP-2017 )
+[2025-06-12 14:43:12] Applying left panel filters
+[2025-06-12 14:43:13] Clicked right refresh button using method 1
+[2025-06-12 14:43:17] Opening left panel if needed
+[2025-06-12 14:43:18] Clicked left panel toggler using method 1
+[2025-06-12 14:43:18] Expanded left panel
+[2025-06-12 14:43:19] Selecting vehicle categories and fuel types
+[2025-06-12 14:43:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:43:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:43:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:43:21] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:43:22] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:43:23] Vehicle categories and fuel types selected
+[2025-06-12 14:43:24] Clicking left refresh button
+[2025-06-12 14:43:24] Clicked left refresh button using method 1
+[2025-06-12 14:43:24] Left refresh button clicked
+[2025-06-12 14:43:29] Left panel collapsed successfully.
+[2025-06-12 14:43:29] Downloading Excel file for Uttar Pradesh(77), Maharajganj - UP56( 18-SEP-2017 ), 2022
+[2025-06-12 14:43:29] Clicked Excel download button using method 1
+[2025-06-12 14:43:29] Clicked Excel download button
+[2025-06-12 14:43:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:43:33] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:44:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Maharajganj - UP56( 18-SEP-2017 ).xlsx
+[2025-06-12 14:44:33] Successfully processed RTO: Maharajganj - UP56( 18-SEP-2017 )
+[2025-06-12 14:44:33] 
+Processing RTO 49/78: Mahoba - UP95( 23-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 14:44:33] Selecting RTO: Mahoba - UP95( 23-FEB-2018 )
+[2025-06-12 14:44:34] Clicked RTO dropdown using method 1
+[2025-06-12 14:44:35] Clicked RTO option: Mahoba - UP95( 23-FEB-2018 ) using method 1
+[2025-06-12 14:44:36] Successfully selected RTO: Mahoba - UP95( 23-FEB-2018 )
+[2025-06-12 14:44:36] Applying left panel filters
+[2025-06-12 14:44:36] Clicked right refresh button using method 1
+[2025-06-12 14:44:40] Opening left panel if needed
+[2025-06-12 14:44:40] Clicked left panel toggler using method 1
+[2025-06-12 14:44:40] Expanded left panel
+[2025-06-12 14:44:42] Selecting vehicle categories and fuel types
+[2025-06-12 14:44:43] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:44:44] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:44:45] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:44:45] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:44:46] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:44:46] Vehicle categories and fuel types selected
+[2025-06-12 14:44:47] Clicking left refresh button
+[2025-06-12 14:44:48] Clicked left refresh button using method 1
+[2025-06-12 14:44:48] Left refresh button clicked
+[2025-06-12 14:44:53] Left panel collapsed successfully.
+[2025-06-12 14:44:53] Downloading Excel file for Uttar Pradesh(77), Mahoba - UP95( 23-FEB-2018 ), 2022
+[2025-06-12 14:44:53] Clicked Excel download button using method 1
+[2025-06-12 14:44:53] Clicked Excel download button
+[2025-06-12 14:44:57] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:44:57] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:45:57] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Mahoba - UP95( 23-FEB-2018 ).xlsx
+[2025-06-12 14:45:57] Successfully processed RTO: Mahoba - UP95( 23-FEB-2018 )
+[2025-06-12 14:45:57] 
+Processing RTO 50/78: Mainpuri - UP84( 20-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 14:45:57] Selecting RTO: Mainpuri - UP84( 20-FEB-2018 )
+[2025-06-12 14:45:58] Clicked RTO dropdown using method 1
+[2025-06-12 14:45:59] Clicked RTO option: Mainpuri - UP84( 20-FEB-2018 ) using method 1
+[2025-06-12 14:45:59] Successfully selected RTO: Mainpuri - UP84( 20-FEB-2018 )
+[2025-06-12 14:45:59] Applying left panel filters
+[2025-06-12 14:45:59] Clicked right refresh button using method 1
+[2025-06-12 14:46:04] Opening left panel if needed
+[2025-06-12 14:46:04] Clicked left panel toggler using method 1
+[2025-06-12 14:46:04] Expanded left panel
+[2025-06-12 14:46:06] Selecting vehicle categories and fuel types
+[2025-06-12 14:46:06] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:46:07] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:46:08] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:46:08] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:46:09] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:46:10] Vehicle categories and fuel types selected
+[2025-06-12 14:46:10] Clicking left refresh button
+[2025-06-12 14:46:11] Clicked left refresh button using method 1
+[2025-06-12 14:46:11] Left refresh button clicked
+[2025-06-12 14:46:16] Left panel collapsed successfully.
+[2025-06-12 14:46:16] Downloading Excel file for Uttar Pradesh(77), Mainpuri - UP84( 20-FEB-2018 ), 2022
+[2025-06-12 14:46:17] Clicked Excel download button using method 1
+[2025-06-12 14:46:17] Clicked Excel download button
+[2025-06-12 14:46:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:46:21] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:47:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Mainpuri - UP84( 20-FEB-2018 ).xlsx
+[2025-06-12 14:47:21] Successfully processed RTO: Mainpuri - UP84( 20-FEB-2018 )
+[2025-06-12 14:47:21] 
+Processing RTO 51/78: MATHURA - UP85( 22-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 14:47:21] Selecting RTO: MATHURA - UP85( 22-FEB-2018 )
+[2025-06-12 14:47:21] Clicked RTO dropdown using method 1
+[2025-06-12 14:47:22] Clicked RTO option: MATHURA - UP85( 22-FEB-2018 ) using method 1
+[2025-06-12 14:47:23] Successfully selected RTO: MATHURA - UP85( 22-FEB-2018 )
+[2025-06-12 14:47:23] Applying left panel filters
+[2025-06-12 14:47:23] Clicked right refresh button using method 1
+[2025-06-12 14:47:27] Opening left panel if needed
+[2025-06-12 14:47:28] Clicked left panel toggler using method 1
+[2025-06-12 14:47:28] Expanded left panel
+[2025-06-12 14:47:29] Selecting vehicle categories and fuel types
+[2025-06-12 14:47:30] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:47:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:47:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:47:32] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:47:33] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:47:33] Vehicle categories and fuel types selected
+[2025-06-12 14:47:34] Clicking left refresh button
+[2025-06-12 14:47:34] Clicked left refresh button using method 1
+[2025-06-12 14:47:34] Left refresh button clicked
+[2025-06-12 14:47:38] Left panel collapsed successfully.
+[2025-06-12 14:47:38] Downloading Excel file for Uttar Pradesh(77), MATHURA - UP85( 22-FEB-2018 ), 2022
+[2025-06-12 14:47:39] Clicked Excel download button using method 1
+[2025-06-12 14:47:39] Clicked Excel download button
+[2025-06-12 14:47:43] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:47:43] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:48:43] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\MATHURA - UP85( 22-FEB-2018 ).xlsx
+[2025-06-12 14:48:43] Successfully processed RTO: MATHURA - UP85( 22-FEB-2018 )
+[2025-06-12 14:48:43] 
+Processing RTO 52/78: Mau - UP54( 23-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:48:43] Selecting RTO: Mau - UP54( 23-JAN-2018 )
+[2025-06-12 14:48:43] Clicked RTO dropdown using method 1
+[2025-06-12 14:48:44] Clicked RTO option: Mau - UP54( 23-JAN-2018 ) using method 1
+[2025-06-12 14:48:45] Successfully selected RTO: Mau - UP54( 23-JAN-2018 )
+[2025-06-12 14:48:45] Applying left panel filters
+[2025-06-12 14:48:45] Clicked right refresh button using method 1
+[2025-06-12 14:48:49] Opening left panel if needed
+[2025-06-12 14:48:50] Clicked left panel toggler using method 1
+[2025-06-12 14:48:50] Expanded left panel
+[2025-06-12 14:48:51] Selecting vehicle categories and fuel types
+[2025-06-12 14:48:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:48:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:48:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:48:53] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:48:54] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:48:54] Vehicle categories and fuel types selected
+[2025-06-12 14:48:55] Clicking left refresh button
+[2025-06-12 14:48:56] Clicked left refresh button using method 1
+[2025-06-12 14:48:56] Left refresh button clicked
+[2025-06-12 14:49:00] Left panel collapsed successfully.
+[2025-06-12 14:49:00] Downloading Excel file for Uttar Pradesh(77), Mau - UP54( 23-JAN-2018 ), 2022
+[2025-06-12 14:49:01] Clicked Excel download button using method 1
+[2025-06-12 14:49:01] Clicked Excel download button
+[2025-06-12 14:49:05] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:49:05] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:50:05] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Mau - UP54( 23-JAN-2018 ).xlsx
+[2025-06-12 14:50:05] Successfully processed RTO: Mau - UP54( 23-JAN-2018 )
+[2025-06-12 14:50:05] 
+Processing RTO 53/78: MEERUT RTO - UP15( 15-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 14:50:05] Selecting RTO: MEERUT RTO - UP15( 15-JAN-2018 )
+[2025-06-12 14:50:05] Clicked RTO dropdown using method 1
+[2025-06-12 14:50:06] Clicked RTO option: MEERUT RTO - UP15( 15-JAN-2018 ) using method 1
+[2025-06-12 14:50:07] Successfully selected RTO: MEERUT RTO - UP15( 15-JAN-2018 )
+[2025-06-12 14:50:07] Applying left panel filters
+[2025-06-12 14:50:07] Clicked right refresh button using method 1
+[2025-06-12 14:50:11] Opening left panel if needed
+[2025-06-12 14:50:12] Clicked left panel toggler using method 1
+[2025-06-12 14:50:12] Expanded left panel
+[2025-06-12 14:50:13] Selecting vehicle categories and fuel types
+[2025-06-12 14:50:14] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:50:15] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:50:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:50:16] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:50:17] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:50:17] Vehicle categories and fuel types selected
+[2025-06-12 14:50:18] Clicking left refresh button
+[2025-06-12 14:50:19] Clicked left refresh button using method 1
+[2025-06-12 14:50:19] Left refresh button clicked
+[2025-06-12 14:50:24] Left panel collapsed successfully.
+[2025-06-12 14:50:24] Downloading Excel file for Uttar Pradesh(77), MEERUT RTO - UP15( 15-JAN-2018 ), 2022
+[2025-06-12 14:50:25] Clicked Excel download button using method 1
+[2025-06-12 14:50:25] Clicked Excel download button
+[2025-06-12 14:50:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:50:29] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:51:29] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\MEERUT RTO - UP15( 15-JAN-2018 ).xlsx
+[2025-06-12 14:51:29] Successfully processed RTO: MEERUT RTO - UP15( 15-JAN-2018 )
+[2025-06-12 14:51:29] 
+Processing RTO 54/78: MIRZAPUR RTO - UP63( 20-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 14:51:29] Selecting RTO: MIRZAPUR RTO - UP63( 20-DEC-2017 )
+[2025-06-12 14:51:29] Clicked RTO dropdown using method 1
+[2025-06-12 14:51:30] Clicked RTO option: MIRZAPUR RTO - UP63( 20-DEC-2017 ) using method 1
+[2025-06-12 14:51:31] Successfully selected RTO: MIRZAPUR RTO - UP63( 20-DEC-2017 )
+[2025-06-12 14:51:31] Applying left panel filters
+[2025-06-12 14:51:31] Clicked right refresh button using method 1
+[2025-06-12 14:51:36] Opening left panel if needed
+[2025-06-12 14:51:36] Clicked left panel toggler using method 1
+[2025-06-12 14:51:36] Expanded left panel
+[2025-06-12 14:51:38] Selecting vehicle categories and fuel types
+[2025-06-12 14:51:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:51:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:51:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:51:41] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:51:42] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:51:42] Vehicle categories and fuel types selected
+[2025-06-12 14:51:43] Clicking left refresh button
+[2025-06-12 14:51:44] Clicked left refresh button using method 1
+[2025-06-12 14:51:44] Left refresh button clicked
+[2025-06-12 14:51:48] Left panel collapsed successfully.
+[2025-06-12 14:51:48] Downloading Excel file for Uttar Pradesh(77), MIRZAPUR RTO - UP63( 20-DEC-2017 ), 2022
+[2025-06-12 14:51:49] Clicked Excel download button using method 1
+[2025-06-12 14:51:49] Clicked Excel download button
+[2025-06-12 14:51:53] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:51:53] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:52:53] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\MIRZAPUR RTO - UP63( 20-DEC-2017 ).xlsx
+[2025-06-12 14:52:53] Successfully processed RTO: MIRZAPUR RTO - UP63( 20-DEC-2017 )
+[2025-06-12 14:52:53] 
+Processing RTO 55/78: MORADABAD - UP21( 17-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 14:52:53] Selecting RTO: MORADABAD - UP21( 17-NOV-2017 )
+[2025-06-12 14:52:53] Clicked RTO dropdown using method 1
+[2025-06-12 14:52:55] Clicked RTO option: MORADABAD - UP21( 17-NOV-2017 ) using method 1
+[2025-06-12 14:52:55] Successfully selected RTO: MORADABAD - UP21( 17-NOV-2017 )
+[2025-06-12 14:52:55] Applying left panel filters
+[2025-06-12 14:52:55] Clicked right refresh button using method 1
+[2025-06-12 14:53:00] Opening left panel if needed
+[2025-06-12 14:53:00] Clicked left panel toggler using method 1
+[2025-06-12 14:53:00] Expanded left panel
+[2025-06-12 14:53:02] Selecting vehicle categories and fuel types
+[2025-06-12 14:53:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:53:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:53:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:53:05] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:53:06] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:53:06] Vehicle categories and fuel types selected
+[2025-06-12 14:53:07] Clicking left refresh button
+[2025-06-12 14:53:08] Clicked left refresh button using method 1
+[2025-06-12 14:53:08] Left refresh button clicked
+[2025-06-12 14:53:13] Left panel collapsed successfully.
+[2025-06-12 14:53:13] Downloading Excel file for Uttar Pradesh(77), MORADABAD - UP21( 17-NOV-2017 ), 2022
+[2025-06-12 14:53:13] Clicked Excel download button using method 1
+[2025-06-12 14:53:13] Clicked Excel download button
+[2025-06-12 14:53:17] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:53:17] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:54:17] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\MORADABAD - UP21( 17-NOV-2017 ).xlsx
+[2025-06-12 14:54:17] Successfully processed RTO: MORADABAD - UP21( 17-NOV-2017 )
+[2025-06-12 14:54:17] 
+Processing RTO 56/78: M/S Sai Dham Super Srv Soln Pvt Ltd Ghaziabad - UP214( 20-JAN-2021 ) (Attempt 1/2)
+[2025-06-12 14:54:17] Selecting RTO: M/S Sai Dham Super Srv Soln Pvt Ltd Ghaziabad - UP214( 20-JAN-2021 )
+[2025-06-12 14:54:18] Clicked RTO dropdown using method 1
+[2025-06-12 14:54:19] Clicked RTO option: M/S Sai Dham Super Srv Soln Pvt Ltd Ghaziabad - UP214( 20-JAN-2021 ) using method 1
+[2025-06-12 14:54:19] Successfully selected RTO: M/S Sai Dham Super Srv Soln Pvt Ltd Ghaziabad - UP214( 20-JAN-2021 )
+[2025-06-12 14:54:19] Applying left panel filters
+[2025-06-12 14:54:20] Clicked right refresh button using method 1
+[2025-06-12 14:54:24] Opening left panel if needed
+[2025-06-12 14:54:24] Clicked left panel toggler using method 1
+[2025-06-12 14:54:24] Expanded left panel
+[2025-06-12 14:54:26] Selecting vehicle categories and fuel types
+[2025-06-12 14:54:27] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:54:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:54:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:54:29] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:54:30] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:54:30] Vehicle categories and fuel types selected
+[2025-06-12 14:54:31] Clicking left refresh button
+[2025-06-12 14:54:31] Clicked left refresh button using method 1
+[2025-06-12 14:54:31] Left refresh button clicked
+[2025-06-12 14:54:36] Left panel collapsed successfully.
+[2025-06-12 14:54:36] Downloading Excel file for Uttar Pradesh(77), M/S Sai Dham Super Srv Soln Pvt Ltd Ghaziabad - UP214( 20-JAN-2021 ), 2022
+[2025-06-12 14:54:36] Clicked Excel download button using method 1
+[2025-06-12 14:54:36] Clicked Excel download button
+[2025-06-12 14:54:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:54:40] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:55:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\M_S Sai Dham Super Srv Soln Pvt Ltd Ghaziabad - UP214( 20-JAN-2021 ).xlsx
+[2025-06-12 14:55:40] Successfully processed RTO: M/S Sai Dham Super Srv Soln Pvt Ltd Ghaziabad - UP214( 20-JAN-2021 )
+[2025-06-12 14:55:40] 
+Processing RTO 57/78: MuzaffarNagar - UP12( 19-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 14:55:40] Selecting RTO: MuzaffarNagar - UP12( 19-FEB-2018 )
+[2025-06-12 14:55:40] Clicked RTO dropdown using method 1
+[2025-06-12 14:55:41] Clicked RTO option: MuzaffarNagar - UP12( 19-FEB-2018 ) using method 1
+[2025-06-12 14:55:41] Successfully selected RTO: MuzaffarNagar - UP12( 19-FEB-2018 )
+[2025-06-12 14:55:41] Applying left panel filters
+[2025-06-12 14:55:42] Clicked right refresh button using method 1
+[2025-06-12 14:55:46] Opening left panel if needed
+[2025-06-12 14:55:46] Clicked left panel toggler using method 1
+[2025-06-12 14:55:46] Expanded left panel
+[2025-06-12 14:55:48] Selecting vehicle categories and fuel types
+[2025-06-12 14:55:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:55:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:55:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:55:51] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:55:52] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:55:52] Vehicle categories and fuel types selected
+[2025-06-12 14:55:53] Clicking left refresh button
+[2025-06-12 14:55:53] Clicked left refresh button using method 1
+[2025-06-12 14:55:53] Left refresh button clicked
+[2025-06-12 14:55:58] Left panel collapsed successfully.
+[2025-06-12 14:55:58] Downloading Excel file for Uttar Pradesh(77), MuzaffarNagar - UP12( 19-FEB-2018 ), 2022
+[2025-06-12 14:55:58] Clicked Excel download button using method 1
+[2025-06-12 14:55:58] Clicked Excel download button
+[2025-06-12 14:56:02] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:56:02] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:57:02] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\MuzaffarNagar - UP12( 19-FEB-2018 ).xlsx
+[2025-06-12 14:57:02] Successfully processed RTO: MuzaffarNagar - UP12( 19-FEB-2018 )
+[2025-06-12 14:57:02] 
+Processing RTO 58/78: Noida - UP16( 13-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 14:57:02] Selecting RTO: Noida - UP16( 13-NOV-2017 )
+[2025-06-12 14:57:02] Clicked RTO dropdown using method 1
+[2025-06-12 14:57:03] Clicked RTO option: Noida - UP16( 13-NOV-2017 ) using method 1
+[2025-06-12 14:57:03] Successfully selected RTO: Noida - UP16( 13-NOV-2017 )
+[2025-06-12 14:57:03] Applying left panel filters
+[2025-06-12 14:57:04] Clicked right refresh button using method 1
+[2025-06-12 14:57:08] Opening left panel if needed
+[2025-06-12 14:57:08] Clicked left panel toggler using method 1
+[2025-06-12 14:57:08] Expanded left panel
+[2025-06-12 14:57:09] Selecting vehicle categories and fuel types
+[2025-06-12 14:57:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:57:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:57:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:57:12] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:57:13] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:57:13] Vehicle categories and fuel types selected
+[2025-06-12 14:57:14] Clicking left refresh button
+[2025-06-12 14:57:14] Clicked left refresh button using method 1
+[2025-06-12 14:57:14] Left refresh button clicked
+[2025-06-12 14:57:19] Left panel collapsed successfully.
+[2025-06-12 14:57:19] Downloading Excel file for Uttar Pradesh(77), Noida - UP16( 13-NOV-2017 ), 2022
+[2025-06-12 14:57:20] Clicked Excel download button using method 1
+[2025-06-12 14:57:20] Clicked Excel download button
+[2025-06-12 14:57:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:57:23] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:58:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Noida - UP16( 13-NOV-2017 ).xlsx
+[2025-06-12 14:58:23] Successfully processed RTO: Noida - UP16( 13-NOV-2017 )
+[2025-06-12 14:58:23] 
+Processing RTO 59/78: Orai - UP92( 18-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 14:58:23] Selecting RTO: Orai - UP92( 18-DEC-2017 )
+[2025-06-12 14:58:24] Clicked RTO dropdown using method 1
+[2025-06-12 14:58:25] Clicked RTO option: Orai - UP92( 18-DEC-2017 ) using method 1
+[2025-06-12 14:58:25] Successfully selected RTO: Orai - UP92( 18-DEC-2017 )
+[2025-06-12 14:58:25] Applying left panel filters
+[2025-06-12 14:58:26] Clicked right refresh button using method 1
+[2025-06-12 14:58:31] Opening left panel if needed
+[2025-06-12 14:58:31] Clicked left panel toggler using method 1
+[2025-06-12 14:58:31] Expanded left panel
+[2025-06-12 14:58:33] Selecting vehicle categories and fuel types
+[2025-06-12 14:58:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:58:34] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:58:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:58:35] Clicked checkbox fuel:7 using method 2
+[2025-06-12 14:58:36] Clicked checkbox fuel:21 using method 2
+[2025-06-12 14:58:36] Vehicle categories and fuel types selected
+[2025-06-12 14:58:37] Clicking left refresh button
+[2025-06-12 14:58:38] Clicked left refresh button using method 1
+[2025-06-12 14:58:38] Left refresh button clicked
+[2025-06-12 14:58:42] Left panel collapsed successfully.
+[2025-06-12 14:58:42] Downloading Excel file for Uttar Pradesh(77), Orai - UP92( 18-DEC-2017 ), 2022
+[2025-06-12 14:58:42] Clicked Excel download button using method 1
+[2025-06-12 14:58:42] Clicked Excel download button
+[2025-06-12 14:58:46] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 14:58:46] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 14:59:46] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Orai - UP92( 18-DEC-2017 ).xlsx
+[2025-06-12 14:59:46] Successfully processed RTO: Orai - UP92( 18-DEC-2017 )
+[2025-06-12 14:59:46] 
+Processing RTO 60/78: PADRAUNA(KUSHI NAGAR) - UP57( 08-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 14:59:46] Selecting RTO: PADRAUNA(KUSHI NAGAR) - UP57( 08-NOV-2017 )
+[2025-06-12 14:59:47] Clicked RTO dropdown using method 1
+[2025-06-12 14:59:48] Clicked RTO option: PADRAUNA(KUSHI NAGAR) - UP57( 08-NOV-2017 ) using method 1
+[2025-06-12 14:59:49] Successfully selected RTO: PADRAUNA(KUSHI NAGAR) - UP57( 08-NOV-2017 )
+[2025-06-12 14:59:49] Applying left panel filters
+[2025-06-12 14:59:49] Clicked right refresh button using method 1
+[2025-06-12 14:59:54] Opening left panel if needed
+[2025-06-12 14:59:54] Clicked left panel toggler using method 1
+[2025-06-12 14:59:54] Expanded left panel
+[2025-06-12 14:59:56] Selecting vehicle categories and fuel types
+[2025-06-12 14:59:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 14:59:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 14:59:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 14:59:59] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:00:00] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:00:00] Vehicle categories and fuel types selected
+[2025-06-12 15:00:01] Clicking left refresh button
+[2025-06-12 15:00:01] Clicked left refresh button using method 1
+[2025-06-12 15:00:01] Left refresh button clicked
+[2025-06-12 15:00:07] Left panel collapsed successfully.
+[2025-06-12 15:00:07] Downloading Excel file for Uttar Pradesh(77), PADRAUNA(KUSHI NAGAR) - UP57( 08-NOV-2017 ), 2022
+[2025-06-12 15:00:08] Clicked Excel download button using method 1
+[2025-06-12 15:00:08] Clicked Excel download button
+[2025-06-12 15:00:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:00:11] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:01:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\PADRAUNA(KUSHI NAGAR) - UP57( 08-NOV-2017 ).xlsx
+[2025-06-12 15:01:11] Successfully processed RTO: PADRAUNA(KUSHI NAGAR) - UP57( 08-NOV-2017 )
+[2025-06-12 15:01:11] 
+Processing RTO 61/78: Pilibhit - UP26( 12-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 15:01:11] Selecting RTO: Pilibhit - UP26( 12-FEB-2018 )
+[2025-06-12 15:01:12] Clicked RTO dropdown using method 1
+[2025-06-12 15:01:12] Clicked RTO option: Pilibhit - UP26( 12-FEB-2018 ) using method 1
+[2025-06-12 15:01:13] Successfully selected RTO: Pilibhit - UP26( 12-FEB-2018 )
+[2025-06-12 15:01:13] Applying left panel filters
+[2025-06-12 15:01:13] Clicked right refresh button using method 1
+[2025-06-12 15:01:18] Opening left panel if needed
+[2025-06-12 15:01:18] Clicked left panel toggler using method 1
+[2025-06-12 15:01:18] Expanded left panel
+[2025-06-12 15:01:19] Selecting vehicle categories and fuel types
+[2025-06-12 15:01:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:01:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:01:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:01:22] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:01:23] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:01:24] Vehicle categories and fuel types selected
+[2025-06-12 15:01:24] Clicking left refresh button
+[2025-06-12 15:01:25] Clicked left refresh button using method 1
+[2025-06-12 15:01:25] Left refresh button clicked
+[2025-06-12 15:01:30] Left panel collapsed successfully.
+[2025-06-12 15:01:30] Downloading Excel file for Uttar Pradesh(77), Pilibhit - UP26( 12-FEB-2018 ), 2022
+[2025-06-12 15:01:30] Clicked Excel download button using method 1
+[2025-06-12 15:01:30] Clicked Excel download button
+[2025-06-12 15:01:34] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:01:34] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:02:34] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Pilibhit - UP26( 12-FEB-2018 ).xlsx
+[2025-06-12 15:02:34] Successfully processed RTO: Pilibhit - UP26( 12-FEB-2018 )
+[2025-06-12 15:02:34] 
+Processing RTO 62/78: PRATAPGARH - UP72( 09-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 15:02:34] Selecting RTO: PRATAPGARH - UP72( 09-FEB-2018 )
+[2025-06-12 15:02:35] Clicked RTO dropdown using method 1
+[2025-06-12 15:02:36] Clicked RTO option: PRATAPGARH - UP72( 09-FEB-2018 ) using method 1
+[2025-06-12 15:02:37] Successfully selected RTO: PRATAPGARH - UP72( 09-FEB-2018 )
+[2025-06-12 15:02:37] Applying left panel filters
+[2025-06-12 15:02:37] Clicked right refresh button using method 1
+[2025-06-12 15:02:42] Opening left panel if needed
+[2025-06-12 15:02:42] Clicked left panel toggler using method 1
+[2025-06-12 15:02:42] Expanded left panel
+[2025-06-12 15:02:44] Selecting vehicle categories and fuel types
+[2025-06-12 15:02:44] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:02:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:02:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:02:47] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:02:47] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:02:48] Vehicle categories and fuel types selected
+[2025-06-12 15:02:49] Clicking left refresh button
+[2025-06-12 15:02:49] Clicked left refresh button using method 1
+[2025-06-12 15:02:49] Left refresh button clicked
+[2025-06-12 15:02:54] Left panel collapsed successfully.
+[2025-06-12 15:02:54] Downloading Excel file for Uttar Pradesh(77), PRATAPGARH - UP72( 09-FEB-2018 ), 2022
+[2025-06-12 15:02:54] Clicked Excel download button using method 1
+[2025-06-12 15:02:54] Clicked Excel download button
+[2025-06-12 15:02:58] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:02:58] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:03:58] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\PRATAPGARH - UP72( 09-FEB-2018 ).xlsx
+[2025-06-12 15:03:58] Successfully processed RTO: PRATAPGARH - UP72( 09-FEB-2018 )
+[2025-06-12 15:03:58] 
+Processing RTO 63/78: Prayagraj RTO - UP70( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 15:03:58] Selecting RTO: Prayagraj RTO - UP70( 29-JAN-2018 )
+[2025-06-12 15:03:58] Clicked RTO dropdown using method 1
+[2025-06-12 15:04:00] Clicked RTO option: Prayagraj RTO - UP70( 29-JAN-2018 ) using method 1
+[2025-06-12 15:04:00] Successfully selected RTO: Prayagraj RTO - UP70( 29-JAN-2018 )
+[2025-06-12 15:04:00] Applying left panel filters
+[2025-06-12 15:04:01] Clicked right refresh button using method 1
+[2025-06-12 15:04:05] Opening left panel if needed
+[2025-06-12 15:04:05] Clicked left panel toggler using method 1
+[2025-06-12 15:04:05] Expanded left panel
+[2025-06-12 15:04:06] Selecting vehicle categories and fuel types
+[2025-06-12 15:04:07] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:04:08] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:04:08] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:04:09] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:04:10] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:04:10] Vehicle categories and fuel types selected
+[2025-06-12 15:04:11] Clicking left refresh button
+[2025-06-12 15:04:11] Clicked left refresh button using method 1
+[2025-06-12 15:04:11] Left refresh button clicked
+[2025-06-12 15:04:16] Left panel collapsed successfully.
+[2025-06-12 15:04:16] Downloading Excel file for Uttar Pradesh(77), Prayagraj RTO - UP70( 29-JAN-2018 ), 2022
+[2025-06-12 15:04:17] Clicked Excel download button using method 1
+[2025-06-12 15:04:17] Clicked Excel download button
+[2025-06-12 15:04:20] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:04:20] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:05:20] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Prayagraj RTO - UP70( 29-JAN-2018 ).xlsx
+[2025-06-12 15:05:20] Successfully processed RTO: Prayagraj RTO - UP70( 29-JAN-2018 )
+[2025-06-12 15:05:20] 
+Processing RTO 64/78: Raibareilly - UP33( 23-AUG-2017 ) (Attempt 1/2)
+[2025-06-12 15:05:20] Selecting RTO: Raibareilly - UP33( 23-AUG-2017 )
+[2025-06-12 15:05:21] Clicked RTO dropdown using method 1
+[2025-06-12 15:05:22] Clicked RTO option: Raibareilly - UP33( 23-AUG-2017 ) using method 1
+[2025-06-12 15:05:22] Successfully selected RTO: Raibareilly - UP33( 23-AUG-2017 )
+[2025-06-12 15:05:22] Applying left panel filters
+[2025-06-12 15:05:23] Clicked right refresh button using method 1
+[2025-06-12 15:05:27] Opening left panel if needed
+[2025-06-12 15:05:27] Clicked left panel toggler using method 1
+[2025-06-12 15:05:27] Expanded left panel
+[2025-06-12 15:05:29] Selecting vehicle categories and fuel types
+[2025-06-12 15:05:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:05:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:05:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:05:32] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:05:32] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:05:33] Vehicle categories and fuel types selected
+[2025-06-12 15:05:34] Clicking left refresh button
+[2025-06-12 15:05:34] Clicked left refresh button using method 1
+[2025-06-12 15:05:34] Left refresh button clicked
+[2025-06-12 15:05:39] Left panel collapsed successfully.
+[2025-06-12 15:05:39] Downloading Excel file for Uttar Pradesh(77), Raibareilly - UP33( 23-AUG-2017 ), 2022
+[2025-06-12 15:05:39] Clicked Excel download button using method 1
+[2025-06-12 15:05:39] Clicked Excel download button
+[2025-06-12 15:05:43] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:05:43] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:06:43] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Raibareilly - UP33( 23-AUG-2017 ).xlsx
+[2025-06-12 15:06:43] Successfully processed RTO: Raibareilly - UP33( 23-AUG-2017 )
+[2025-06-12 15:06:43] 
+Processing RTO 65/78: SAHARANPUR RTO - UP11( 18-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 15:06:43] Selecting RTO: SAHARANPUR RTO - UP11( 18-JAN-2018 )
+[2025-06-12 15:06:43] Clicked RTO dropdown using method 1
+[2025-06-12 15:06:44] Clicked RTO option: SAHARANPUR RTO - UP11( 18-JAN-2018 ) using method 1
+[2025-06-12 15:06:45] Successfully selected RTO: SAHARANPUR RTO - UP11( 18-JAN-2018 )
+[2025-06-12 15:06:45] Applying left panel filters
+[2025-06-12 15:06:45] Clicked right refresh button using method 1
+[2025-06-12 15:06:50] Opening left panel if needed
+[2025-06-12 15:06:50] Clicked left panel toggler using method 1
+[2025-06-12 15:06:50] Expanded left panel
+[2025-06-12 15:06:52] Selecting vehicle categories and fuel types
+[2025-06-12 15:06:52] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:06:53] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:06:54] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:06:54] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:06:55] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:06:56] Vehicle categories and fuel types selected
+[2025-06-12 15:06:56] Clicking left refresh button
+[2025-06-12 15:06:57] Clicked left refresh button using method 1
+[2025-06-12 15:06:57] Left refresh button clicked
+[2025-06-12 15:07:02] Left panel collapsed successfully.
+[2025-06-12 15:07:02] Downloading Excel file for Uttar Pradesh(77), SAHARANPUR RTO - UP11( 18-JAN-2018 ), 2022
+[2025-06-12 15:07:02] Clicked Excel download button using method 1
+[2025-06-12 15:07:02] Clicked Excel download button
+[2025-06-12 15:07:06] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:07:06] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:08:06] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\SAHARANPUR RTO - UP11( 18-JAN-2018 ).xlsx
+[2025-06-12 15:08:06] Successfully processed RTO: SAHARANPUR RTO - UP11( 18-JAN-2018 )
+[2025-06-12 15:08:06] 
+Processing RTO 66/78: SAHJAHANPUR - UP27( 15-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 15:08:06] Selecting RTO: SAHJAHANPUR - UP27( 15-FEB-2018 )
+[2025-06-12 15:08:07] Clicked RTO dropdown using method 1
+[2025-06-12 15:08:08] Clicked RTO option: SAHJAHANPUR - UP27( 15-FEB-2018 ) using method 1
+[2025-06-12 15:08:08] Successfully selected RTO: SAHJAHANPUR - UP27( 15-FEB-2018 )
+[2025-06-12 15:08:08] Applying left panel filters
+[2025-06-12 15:08:09] Clicked right refresh button using method 1
+[2025-06-12 15:08:13] Opening left panel if needed
+[2025-06-12 15:08:13] Clicked left panel toggler using method 1
+[2025-06-12 15:08:13] Expanded left panel
+[2025-06-12 15:08:15] Selecting vehicle categories and fuel types
+[2025-06-12 15:08:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:08:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:08:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:08:18] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:08:18] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:08:19] Vehicle categories and fuel types selected
+[2025-06-12 15:08:20] Clicking left refresh button
+[2025-06-12 15:08:20] Clicked left refresh button using method 1
+[2025-06-12 15:08:20] Left refresh button clicked
+[2025-06-12 15:08:25] Left panel collapsed successfully.
+[2025-06-12 15:08:25] Downloading Excel file for Uttar Pradesh(77), SAHJAHANPUR - UP27( 15-FEB-2018 ), 2022
+[2025-06-12 15:08:25] Clicked Excel download button using method 1
+[2025-06-12 15:08:25] Clicked Excel download button
+[2025-06-12 15:08:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:08:29] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:09:29] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\SAHJAHANPUR - UP27( 15-FEB-2018 ).xlsx
+[2025-06-12 15:09:29] Successfully processed RTO: SAHJAHANPUR - UP27( 15-FEB-2018 )
+[2025-06-12 15:09:29] 
+Processing RTO 67/78: Sambhal ARTO - UP38( 30-NOV-2017 ) (Attempt 1/2)
+[2025-06-12 15:09:29] Selecting RTO: Sambhal ARTO - UP38( 30-NOV-2017 )
+[2025-06-12 15:09:29] Clicked RTO dropdown using method 1
+[2025-06-12 15:09:30] Clicked RTO option: Sambhal ARTO - UP38( 30-NOV-2017 ) using method 1
+[2025-06-12 15:09:31] Successfully selected RTO: Sambhal ARTO - UP38( 30-NOV-2017 )
+[2025-06-12 15:09:31] Applying left panel filters
+[2025-06-12 15:09:31] Clicked right refresh button using method 1
+[2025-06-12 15:09:35] Opening left panel if needed
+[2025-06-12 15:09:35] Clicked left panel toggler using method 1
+[2025-06-12 15:09:35] Expanded left panel
+[2025-06-12 15:09:37] Selecting vehicle categories and fuel types
+[2025-06-12 15:09:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:09:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:09:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:09:40] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:09:40] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:09:41] Vehicle categories and fuel types selected
+[2025-06-12 15:09:41] Clicking left refresh button
+[2025-06-12 15:09:42] Clicked left refresh button using method 1
+[2025-06-12 15:09:42] Left refresh button clicked
+[2025-06-12 15:09:47] Left panel collapsed successfully.
+[2025-06-12 15:09:47] Downloading Excel file for Uttar Pradesh(77), Sambhal ARTO - UP38( 30-NOV-2017 ), 2022
+[2025-06-12 15:09:47] Clicked Excel download button using method 1
+[2025-06-12 15:09:47] Clicked Excel download button
+[2025-06-12 15:09:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:09:51] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:10:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Sambhal ARTO - UP38( 30-NOV-2017 ).xlsx
+[2025-06-12 15:10:51] Successfully processed RTO: Sambhal ARTO - UP38( 30-NOV-2017 )
+[2025-06-12 15:10:51] 
+Processing RTO 68/78: Sant Kabir Nagar - UP58( 12-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 15:10:51] Selecting RTO: Sant Kabir Nagar - UP58( 12-DEC-2017 )
+[2025-06-12 15:10:51] Clicked RTO dropdown using method 1
+[2025-06-12 15:10:53] Clicked RTO option: Sant Kabir Nagar - UP58( 12-DEC-2017 ) using method 1
+[2025-06-12 15:10:53] Successfully selected RTO: Sant Kabir Nagar - UP58( 12-DEC-2017 )
+[2025-06-12 15:10:53] Applying left panel filters
+[2025-06-12 15:10:54] Clicked right refresh button using method 1
+[2025-06-12 15:10:58] Opening left panel if needed
+[2025-06-12 15:10:58] Clicked left panel toggler using method 1
+[2025-06-12 15:10:58] Expanded left panel
+[2025-06-12 15:11:00] Selecting vehicle categories and fuel types
+[2025-06-12 15:11:01] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:11:01] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:11:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:11:03] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:11:04] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:11:04] Vehicle categories and fuel types selected
+[2025-06-12 15:11:05] Clicking left refresh button
+[2025-06-12 15:11:05] Clicked left refresh button using method 1
+[2025-06-12 15:11:05] Left refresh button clicked
+[2025-06-12 15:11:11] Left panel collapsed successfully.
+[2025-06-12 15:11:11] Downloading Excel file for Uttar Pradesh(77), Sant Kabir Nagar - UP58( 12-DEC-2017 ), 2022
+[2025-06-12 15:11:11] Clicked Excel download button using method 1
+[2025-06-12 15:11:11] Clicked Excel download button
+[2025-06-12 15:11:14] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:11:14] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:12:14] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Sant Kabir Nagar - UP58( 12-DEC-2017 ).xlsx
+[2025-06-12 15:12:14] Successfully processed RTO: Sant Kabir Nagar - UP58( 12-DEC-2017 )
+[2025-06-12 15:12:14] 
+Processing RTO 69/78: SHAMLI ARTO - UP19( 08-FEB-2018 ) (Attempt 1/2)
+[2025-06-12 15:12:14] Selecting RTO: SHAMLI ARTO - UP19( 08-FEB-2018 )
+[2025-06-12 15:12:14] Clicked RTO dropdown using method 1
+[2025-06-12 15:12:16] Clicked RTO option: SHAMLI ARTO - UP19( 08-FEB-2018 ) using method 1
+[2025-06-12 15:12:16] Successfully selected RTO: SHAMLI ARTO - UP19( 08-FEB-2018 )
+[2025-06-12 15:12:16] Applying left panel filters
+[2025-06-12 15:12:16] Clicked right refresh button using method 1
+[2025-06-12 15:12:21] Opening left panel if needed
+[2025-06-12 15:12:21] Clicked left panel toggler using method 1
+[2025-06-12 15:12:21] Expanded left panel
+[2025-06-12 15:12:23] Selecting vehicle categories and fuel types
+[2025-06-12 15:12:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:12:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:12:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:12:25] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:12:26] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:12:26] Vehicle categories and fuel types selected
+[2025-06-12 15:12:27] Clicking left refresh button
+[2025-06-12 15:12:28] Clicked left refresh button using method 1
+[2025-06-12 15:12:28] Left refresh button clicked
+[2025-06-12 15:12:33] Left panel collapsed successfully.
+[2025-06-12 15:12:33] Downloading Excel file for Uttar Pradesh(77), SHAMLI ARTO - UP19( 08-FEB-2018 ), 2022
+[2025-06-12 15:12:34] Clicked Excel download button using method 1
+[2025-06-12 15:12:34] Clicked Excel download button
+[2025-06-12 15:12:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:12:37] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:13:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\SHAMLI ARTO - UP19( 08-FEB-2018 ).xlsx
+[2025-06-12 15:13:37] Successfully processed RTO: SHAMLI ARTO - UP19( 08-FEB-2018 )
+[2025-06-12 15:13:37] 
+Processing RTO 70/78: Shravasti - UP46( 14-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 15:13:37] Selecting RTO: Shravasti - UP46( 14-DEC-2017 )
+[2025-06-12 15:13:37] Clicked RTO dropdown using method 1
+[2025-06-12 15:13:38] Clicked RTO option: Shravasti - UP46( 14-DEC-2017 ) using method 1
+[2025-06-12 15:13:39] Successfully selected RTO: Shravasti - UP46( 14-DEC-2017 )
+[2025-06-12 15:13:39] Applying left panel filters
+[2025-06-12 15:13:39] Clicked right refresh button using method 1
+[2025-06-12 15:13:43] Opening left panel if needed
+[2025-06-12 15:13:44] Clicked left panel toggler using method 1
+[2025-06-12 15:13:44] Expanded left panel
+[2025-06-12 15:13:45] Selecting vehicle categories and fuel types
+[2025-06-12 15:13:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:13:46] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:13:47] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:13:48] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:13:49] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:13:49] Vehicle categories and fuel types selected
+[2025-06-12 15:13:50] Clicking left refresh button
+[2025-06-12 15:13:50] Clicked left refresh button using method 1
+[2025-06-12 15:13:50] Left refresh button clicked
+[2025-06-12 15:13:56] Left panel collapsed successfully.
+[2025-06-12 15:13:56] Downloading Excel file for Uttar Pradesh(77), Shravasti - UP46( 14-DEC-2017 ), 2022
+[2025-06-12 15:13:56] Clicked Excel download button using method 1
+[2025-06-12 15:13:56] Clicked Excel download button
+[2025-06-12 15:14:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:14:00] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:15:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Shravasti - UP46( 14-DEC-2017 ).xlsx
+[2025-06-12 15:15:00] Successfully processed RTO: Shravasti - UP46( 14-DEC-2017 )
+[2025-06-12 15:15:00] 
+Processing RTO 71/78: Siddharth Nagar(naugarh) - UP55( 19-SEP-2017 ) (Attempt 1/2)
+[2025-06-12 15:15:00] Selecting RTO: Siddharth Nagar(naugarh) - UP55( 19-SEP-2017 )
+[2025-06-12 15:15:00] Clicked RTO dropdown using method 1
+[2025-06-12 15:15:01] Clicked RTO option: Siddharth Nagar(naugarh) - UP55( 19-SEP-2017 ) using method 1
+[2025-06-12 15:15:01] Successfully selected RTO: Siddharth Nagar(naugarh) - UP55( 19-SEP-2017 )
+[2025-06-12 15:15:01] Applying left panel filters
+[2025-06-12 15:15:02] Clicked right refresh button using method 1
+[2025-06-12 15:15:07] Opening left panel if needed
+[2025-06-12 15:15:07] Clicked left panel toggler using method 1
+[2025-06-12 15:15:07] Expanded left panel
+[2025-06-12 15:15:08] Selecting vehicle categories and fuel types
+[2025-06-12 15:15:09] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:15:10] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:15:10] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:15:11] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:15:12] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:15:13] Vehicle categories and fuel types selected
+[2025-06-12 15:15:13] Clicking left refresh button
+[2025-06-12 15:15:14] Clicked left refresh button using method 1
+[2025-06-12 15:15:14] Left refresh button clicked
+[2025-06-12 15:15:19] Left panel collapsed successfully.
+[2025-06-12 15:15:19] Downloading Excel file for Uttar Pradesh(77), Siddharth Nagar(naugarh) - UP55( 19-SEP-2017 ), 2022
+[2025-06-12 15:15:19] Clicked Excel download button using method 1
+[2025-06-12 15:15:19] Clicked Excel download button
+[2025-06-12 15:15:22] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:15:22] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:16:22] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Siddharth Nagar(naugarh) - UP55( 19-SEP-2017 ).xlsx
+[2025-06-12 15:16:22] Successfully processed RTO: Siddharth Nagar(naugarh) - UP55( 19-SEP-2017 )
+[2025-06-12 15:16:22] 
+Processing RTO 72/78: Sitapur - UP34( 18-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 15:16:22] Selecting RTO: Sitapur - UP34( 18-DEC-2017 )
+[2025-06-12 15:16:23] Clicked RTO dropdown using method 1
+[2025-06-12 15:16:24] Clicked RTO option: Sitapur - UP34( 18-DEC-2017 ) using method 1
+[2025-06-12 15:16:24] Successfully selected RTO: Sitapur - UP34( 18-DEC-2017 )
+[2025-06-12 15:16:24] Applying left panel filters
+[2025-06-12 15:16:25] Clicked right refresh button using method 1
+[2025-06-12 15:16:29] Opening left panel if needed
+[2025-06-12 15:16:29] Clicked left panel toggler using method 1
+[2025-06-12 15:16:29] Expanded left panel
+[2025-06-12 15:16:31] Selecting vehicle categories and fuel types
+[2025-06-12 15:16:31] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:16:32] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:16:33] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:16:34] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:16:35] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:16:35] Vehicle categories and fuel types selected
+[2025-06-12 15:16:36] Clicking left refresh button
+[2025-06-12 15:16:36] Clicked left refresh button using method 1
+[2025-06-12 15:16:36] Left refresh button clicked
+[2025-06-12 15:16:41] Left panel collapsed successfully.
+[2025-06-12 15:16:41] Downloading Excel file for Uttar Pradesh(77), Sitapur - UP34( 18-DEC-2017 ), 2022
+[2025-06-12 15:16:41] Clicked Excel download button using method 1
+[2025-06-12 15:16:41] Clicked Excel download button
+[2025-06-12 15:16:44] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:16:44] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:17:44] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Sitapur - UP34( 18-DEC-2017 ).xlsx
+[2025-06-12 15:17:44] Successfully processed RTO: Sitapur - UP34( 18-DEC-2017 )
+[2025-06-12 15:17:44] 
+Processing RTO 73/78: SONBHADRA - UP64( 18-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 15:17:44] Selecting RTO: SONBHADRA - UP64( 18-DEC-2017 )
+[2025-06-12 15:17:45] Clicked RTO dropdown using method 1
+[2025-06-12 15:17:46] Clicked RTO option: SONBHADRA - UP64( 18-DEC-2017 ) using method 1
+[2025-06-12 15:17:46] Successfully selected RTO: SONBHADRA - UP64( 18-DEC-2017 )
+[2025-06-12 15:17:46] Applying left panel filters
+[2025-06-12 15:17:47] Clicked right refresh button using method 1
+[2025-06-12 15:17:51] Opening left panel if needed
+[2025-06-12 15:17:51] Clicked left panel toggler using method 1
+[2025-06-12 15:17:51] Expanded left panel
+[2025-06-12 15:17:52] Selecting vehicle categories and fuel types
+[2025-06-12 15:17:53] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:17:54] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:17:55] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:17:55] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:17:56] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:17:56] Vehicle categories and fuel types selected
+[2025-06-12 15:17:57] Clicking left refresh button
+[2025-06-12 15:17:58] Clicked left refresh button using method 1
+[2025-06-12 15:17:58] Left refresh button clicked
+[2025-06-12 15:18:03] Left panel collapsed successfully.
+[2025-06-12 15:18:03] Downloading Excel file for Uttar Pradesh(77), SONBHADRA - UP64( 18-DEC-2017 ), 2022
+[2025-06-12 15:18:03] Clicked Excel download button using method 1
+[2025-06-12 15:18:03] Clicked Excel download button
+[2025-06-12 15:18:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:18:07] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:19:07] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\SONBHADRA - UP64( 18-DEC-2017 ).xlsx
+[2025-06-12 15:19:07] Successfully processed RTO: SONBHADRA - UP64( 18-DEC-2017 )
+[2025-06-12 15:19:07] 
+Processing RTO 74/78: STATE TRANSPORT AUTHORITY - UP999( 20-FEB-2019 ) (Attempt 1/2)
+[2025-06-12 15:19:07] Selecting RTO: STATE TRANSPORT AUTHORITY - UP999( 20-FEB-2019 )
+[2025-06-12 15:19:07] Clicked RTO dropdown using method 1
+[2025-06-12 15:19:08] Clicked RTO option: STATE TRANSPORT AUTHORITY - UP999( 20-FEB-2019 ) using method 1
+[2025-06-12 15:19:09] Successfully selected RTO: STATE TRANSPORT AUTHORITY - UP999( 20-FEB-2019 )
+[2025-06-12 15:19:09] Applying left panel filters
+[2025-06-12 15:19:09] Clicked right refresh button using method 1
+[2025-06-12 15:19:14] Opening left panel if needed
+[2025-06-12 15:19:14] Clicked left panel toggler using method 1
+[2025-06-12 15:19:14] Expanded left panel
+[2025-06-12 15:19:15] Selecting vehicle categories and fuel types
+[2025-06-12 15:19:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:19:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:19:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:19:18] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:19:19] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:19:19] Vehicle categories and fuel types selected
+[2025-06-12 15:19:20] Clicking left refresh button
+[2025-06-12 15:19:20] Clicked left refresh button using method 1
+[2025-06-12 15:19:20] Left refresh button clicked
+[2025-06-12 15:19:25] Left panel collapsed successfully.
+[2025-06-12 15:19:25] Downloading Excel file for Uttar Pradesh(77), STATE TRANSPORT AUTHORITY - UP999( 20-FEB-2019 ), 2022
+[2025-06-12 15:19:25] Clicked Excel download button using method 1
+[2025-06-12 15:19:25] Clicked Excel download button
+[2025-06-12 15:19:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:19:29] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:20:29] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\STATE TRANSPORT AUTHORITY - UP999( 20-FEB-2019 ).xlsx
+[2025-06-12 15:20:29] Successfully processed RTO: STATE TRANSPORT AUTHORITY - UP999( 20-FEB-2019 )
+[2025-06-12 15:20:29] 
+Processing RTO 75/78: Sultanpur - UP44( 11-OCT-2017 ) (Attempt 1/2)
+[2025-06-12 15:20:29] Selecting RTO: Sultanpur - UP44( 11-OCT-2017 )
+[2025-06-12 15:20:29] Clicked RTO dropdown using method 1
+[2025-06-12 15:20:31] Clicked RTO option: Sultanpur - UP44( 11-OCT-2017 ) using method 1
+[2025-06-12 15:20:31] Successfully selected RTO: Sultanpur - UP44( 11-OCT-2017 )
+[2025-06-12 15:20:31] Applying left panel filters
+[2025-06-12 15:20:31] Clicked right refresh button using method 1
+[2025-06-12 15:20:36] Opening left panel if needed
+[2025-06-12 15:20:36] Clicked left panel toggler using method 1
+[2025-06-12 15:20:36] Expanded left panel
+[2025-06-12 15:20:37] Selecting vehicle categories and fuel types
+[2025-06-12 15:20:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:20:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:20:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:20:40] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:20:41] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:20:41] Vehicle categories and fuel types selected
+[2025-06-12 15:20:42] Clicking left refresh button
+[2025-06-12 15:20:42] Clicked left refresh button using method 1
+[2025-06-12 15:20:42] Left refresh button clicked
+[2025-06-12 15:20:48] Left panel collapsed successfully.
+[2025-06-12 15:20:48] Downloading Excel file for Uttar Pradesh(77), Sultanpur - UP44( 11-OCT-2017 ), 2022
+[2025-06-12 15:20:48] Clicked Excel download button using method 1
+[2025-06-12 15:20:48] Clicked Excel download button
+[2025-06-12 15:20:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:20:51] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:21:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Sultanpur - UP44( 11-OCT-2017 ).xlsx
+[2025-06-12 15:21:51] Successfully processed RTO: Sultanpur - UP44( 11-OCT-2017 )
+[2025-06-12 15:21:51] 
+Processing RTO 76/78: TRANSPORT NAGAR RTO LUCKNOW (UP32) - UP32( 19-JUL-2016 ) (Attempt 1/2)
+[2025-06-12 15:21:51] Selecting RTO: TRANSPORT NAGAR RTO LUCKNOW (UP32) - UP32( 19-JUL-2016 )
+[2025-06-12 15:21:52] Clicked RTO dropdown using method 1
+[2025-06-12 15:21:53] Clicked RTO option: TRANSPORT NAGAR RTO LUCKNOW (UP32) - UP32( 19-JUL-2016 ) using method 1
+[2025-06-12 15:21:54] Successfully selected RTO: TRANSPORT NAGAR RTO LUCKNOW (UP32) - UP32( 19-JUL-2016 )
+[2025-06-12 15:21:54] Applying left panel filters
+[2025-06-12 15:21:54] Clicked right refresh button using method 1
+[2025-06-12 15:21:59] Opening left panel if needed
+[2025-06-12 15:21:59] Clicked left panel toggler using method 1
+[2025-06-12 15:21:59] Expanded left panel
+[2025-06-12 15:22:00] Selecting vehicle categories and fuel types
+[2025-06-12 15:22:01] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:22:02] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:22:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:22:03] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:22:03] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:22:04] Vehicle categories and fuel types selected
+[2025-06-12 15:22:05] Clicking left refresh button
+[2025-06-12 15:22:05] Clicked left refresh button using method 1
+[2025-06-12 15:22:05] Left refresh button clicked
+[2025-06-12 15:22:09] Left panel collapsed successfully.
+[2025-06-12 15:22:09] Downloading Excel file for Uttar Pradesh(77), TRANSPORT NAGAR RTO LUCKNOW (UP32) - UP32( 19-JUL-2016 ), 2022
+[2025-06-12 15:22:10] Clicked Excel download button using method 1
+[2025-06-12 15:22:10] Clicked Excel download button
+[2025-06-12 15:22:13] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:22:13] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:23:13] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\TRANSPORT NAGAR RTO LUCKNOW (UP32) - UP32( 19-JUL-2016 ).xlsx
+[2025-06-12 15:23:13] Successfully processed RTO: TRANSPORT NAGAR RTO LUCKNOW (UP32) - UP32( 19-JUL-2016 )
+[2025-06-12 15:23:13] 
+Processing RTO 77/78: Unnao - UP35( 12-SEP-2017 ) (Attempt 1/2)
+[2025-06-12 15:23:13] Selecting RTO: Unnao - UP35( 12-SEP-2017 )
+[2025-06-12 15:23:14] Clicked RTO dropdown using method 1
+[2025-06-12 15:23:15] Clicked RTO option: Unnao - UP35( 12-SEP-2017 ) using method 1
+[2025-06-12 15:23:16] Successfully selected RTO: Unnao - UP35( 12-SEP-2017 )
+[2025-06-12 15:23:16] Applying left panel filters
+[2025-06-12 15:23:16] Clicked right refresh button using method 1
+[2025-06-12 15:23:21] Opening left panel if needed
+[2025-06-12 15:23:21] Clicked left panel toggler using method 1
+[2025-06-12 15:23:21] Expanded left panel
+[2025-06-12 15:23:22] Selecting vehicle categories and fuel types
+[2025-06-12 15:23:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:23:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:23:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:23:25] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:23:26] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:23:26] Vehicle categories and fuel types selected
+[2025-06-12 15:23:26] Clicking left refresh button
+[2025-06-12 15:23:27] Clicked left refresh button using method 1
+[2025-06-12 15:23:27] Left refresh button clicked
+[2025-06-12 15:23:31] Left panel collapsed successfully.
+[2025-06-12 15:23:31] Downloading Excel file for Uttar Pradesh(77), Unnao - UP35( 12-SEP-2017 ), 2022
+[2025-06-12 15:23:32] Clicked Excel download button using method 1
+[2025-06-12 15:23:32] Clicked Excel download button
+[2025-06-12 15:23:35] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:23:35] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:24:35] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\Unnao - UP35( 12-SEP-2017 ).xlsx
+[2025-06-12 15:24:35] Successfully processed RTO: Unnao - UP35( 12-SEP-2017 )
+[2025-06-12 15:24:35] 
+Processing RTO 78/78: VARANASI RTO - UP65( 17-JAN-2018 ) (Attempt 1/2)
+[2025-06-12 15:24:35] Selecting RTO: VARANASI RTO - UP65( 17-JAN-2018 )
+[2025-06-12 15:24:36] Clicked RTO dropdown using method 1
+[2025-06-12 15:24:37] Clicked RTO option: VARANASI RTO - UP65( 17-JAN-2018 ) using method 1
+[2025-06-12 15:24:38] Successfully selected RTO: VARANASI RTO - UP65( 17-JAN-2018 )
+[2025-06-12 15:24:38] Applying left panel filters
+[2025-06-12 15:24:38] Clicked right refresh button using method 1
+[2025-06-12 15:24:42] Opening left panel if needed
+[2025-06-12 15:24:43] Clicked left panel toggler using method 1
+[2025-06-12 15:24:43] Expanded left panel
+[2025-06-12 15:24:44] Selecting vehicle categories and fuel types
+[2025-06-12 15:24:45] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:24:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:24:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:24:47] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:24:48] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:24:48] Vehicle categories and fuel types selected
+[2025-06-12 15:24:49] Clicking left refresh button
+[2025-06-12 15:24:49] Clicked left refresh button using method 1
+[2025-06-12 15:24:49] Left refresh button clicked
+[2025-06-12 15:24:54] Left panel collapsed successfully.
+[2025-06-12 15:24:54] Downloading Excel file for Uttar Pradesh(77), VARANASI RTO - UP65( 17-JAN-2018 ), 2022
+[2025-06-12 15:24:54] Clicked Excel download button using method 1
+[2025-06-12 15:24:54] Clicked Excel download button
+[2025-06-12 15:24:58] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 15:24:58] Inside_wait_for_download_and_rename for Uttar_Pradesh
+[2025-06-12 15:25:58] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Uttar Pradesh(77)\VARANASI RTO - UP65( 17-JAN-2018 ).xlsx
+[2025-06-12 15:25:58] Successfully processed RTO: VARANASI RTO - UP65( 17-JAN-2018 )
+[2025-06-12 15:25:58] 
+=== Processing completed for Uttar Pradesh(77) ===
+

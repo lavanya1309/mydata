@@ -1,0 +1,1395 @@
+[2025-06-11 05:00:09] Loading page
+[2025-06-11 05:00:11] Page loaded
+[2025-06-11 05:00:11] 
+=== Starting RTO-wise processing ===
+[2025-06-11 05:00:11] 
+Processing state: Andaman & Nicobar Island(3), Year: 2023
+[2025-06-11 05:00:11] 
+=== Starting RTO-wise processing for Andaman & Nicobar Island(3), 2023 ===
+[2025-06-11 05:00:11] Checking for Badgateway (503) error
+[2025-06-11 05:00:11] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 05:00:12] Clicked Y-axis dropdown using method 1
+[2025-06-11 05:00:13] Clicked Maker option using method 1
+[2025-06-11 05:00:14] Clicked X-axis dropdown using method 1
+[2025-06-11 05:00:15] Clicked Month Wise option using method 1
+[2025-06-11 05:00:16] Axis setup completed
+[2025-06-11 05:00:16] Checking for Badgateway (503) error
+[2025-06-11 05:00:16] Selecting State: Andaman & Nicobar Island(3)
+[2025-06-11 05:00:17] Clicked state dropdown label using method 1
+[2025-06-11 05:00:18] Clicked state option: Andaman & Nicobar Island(3) using method 1
+[2025-06-11 05:00:18] Successfully selected state: Andaman & Nicobar Island(3)
+[2025-06-11 05:00:18] Checking for Badgateway (503) error
+[2025-06-11 05:00:18] Selecting Year: 2023
+[2025-06-11 05:00:19] Clicked year dropdown using method 1
+[2025-06-11 05:00:20] Clicked year option: 2023 using method 1
+[2025-06-11 05:00:20] Successfully selected year: 2023
+[2025-06-11 05:00:20] Checking for Badgateway (503) error
+[2025-06-11 05:00:20] Getting list of all RTOs for the selected state
+[2025-06-11 05:00:20] Clicked RTO dropdown label using method 1
+[2025-06-11 05:00:22] Found 10 RTOs for the state
+[2025-06-11 05:00:22] 
+Processing RTO: Baratang - AN201( 29-NOV-2024 ) (Attempt 1)
+[2025-06-11 05:00:22] Checking for Badgateway (503) error
+[2025-06-11 05:00:22] Selecting RTO: Baratang - AN201( 29-NOV-2024 )
+[2025-06-11 05:00:22] Clicked RTO dropdown using method 1
+[2025-06-11 05:00:23] Clicked RTO option: Baratang - AN201( 29-NOV-2024 ) using method 1
+[2025-06-11 05:00:23] Successfully selected RTO: Baratang - AN201( 29-NOV-2024 )
+[2025-06-11 05:00:23] Checking for Badgateway (503) error
+[2025-06-11 05:00:23] Applying left panel filters
+[2025-06-11 05:00:24] Clicked right refresh button using method 1
+[2025-06-11 05:00:28] Opening left panel if needed
+[2025-06-11 05:00:29] Clicked left panel toggler using method 1
+[2025-06-11 05:00:29] Expanded left panel
+[2025-06-11 05:00:30] Selecting vehicle categories and fuel types
+[2025-06-11 05:00:30] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:00:31] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:00:32] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:00:33] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:00:33] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:00:34] Vehicle categories and fuel types selected
+[2025-06-11 05:00:34] Clicking left refresh button
+[2025-06-11 05:00:35] Clicked left refresh button using method 1
+[2025-06-11 05:00:35] Left refresh button clicked
+[2025-06-11 05:00:40] Left panel collapsed successfully.
+[2025-06-11 05:00:40] Checking for Badgateway (503) error
+[2025-06-11 05:00:40] Downloading Excel file for Andaman & Nicobar Island(3), Baratang - AN201( 29-NOV-2024 ), 2023
+[2025-06-11 05:00:40] Clicked Excel download button using method 1
+[2025-06-11 05:00:40] Clicked Excel download button
+[2025-06-11 05:00:43] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:00:43] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:01:43] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Baratang - AN201( 29-NOV-2024 ).xlsx
+[2025-06-11 05:01:43] Successfully processed RTO: Baratang - AN201( 29-NOV-2024 )
+[2025-06-11 05:01:47] 
+Processing RTO: Campbell Bay - AN212( 18-FEB-2022 ) (Attempt 1)
+[2025-06-11 05:01:47] Checking for Badgateway (503) error
+[2025-06-11 05:01:47] Selecting RTO: Campbell Bay - AN212( 18-FEB-2022 )
+[2025-06-11 05:01:48] Clicked RTO dropdown using method 1
+[2025-06-11 05:01:49] Clicked RTO option: Campbell Bay - AN212( 18-FEB-2022 ) using method 1
+[2025-06-11 05:01:49] Successfully selected RTO: Campbell Bay - AN212( 18-FEB-2022 )
+[2025-06-11 05:01:49] Checking for Badgateway (503) error
+[2025-06-11 05:01:49] Applying left panel filters
+[2025-06-11 05:01:49] Clicked right refresh button using method 1
+[2025-06-11 05:01:54] Opening left panel if needed
+[2025-06-11 05:01:54] Clicked left panel toggler using method 1
+[2025-06-11 05:01:54] Expanded left panel
+[2025-06-11 05:01:56] Selecting vehicle categories and fuel types
+[2025-06-11 05:01:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:01:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:01:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:01:59] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:02:00] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:02:00] Vehicle categories and fuel types selected
+[2025-06-11 05:02:01] Clicking left refresh button
+[2025-06-11 05:02:01] Clicked left refresh button using method 1
+[2025-06-11 05:02:01] Left refresh button clicked
+[2025-06-11 05:02:06] Left panel collapsed successfully.
+[2025-06-11 05:02:06] Checking for Badgateway (503) error
+[2025-06-11 05:02:06] Downloading Excel file for Andaman & Nicobar Island(3), Campbell Bay - AN212( 18-FEB-2022 ), 2023
+[2025-06-11 05:02:06] Clicked Excel download button using method 1
+[2025-06-11 05:02:06] Clicked Excel download button
+[2025-06-11 05:02:10] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:02:10] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:03:10] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Campbell Bay - AN212( 18-FEB-2022 ).xlsx
+[2025-06-11 05:03:10] Successfully processed RTO: Campbell Bay - AN212( 18-FEB-2022 )
+[2025-06-11 05:03:14] 
+Processing RTO: Car Nicobar - AN211( 23-FEB-2023 ) (Attempt 1)
+[2025-06-11 05:03:14] Checking for Badgateway (503) error
+[2025-06-11 05:03:14] Selecting RTO: Car Nicobar - AN211( 23-FEB-2023 )
+[2025-06-11 05:03:14] Clicked RTO dropdown using method 1
+[2025-06-11 05:03:15] Clicked RTO option: Car Nicobar - AN211( 23-FEB-2023 ) using method 1
+[2025-06-11 05:03:15] Successfully selected RTO: Car Nicobar - AN211( 23-FEB-2023 )
+[2025-06-11 05:03:15] Checking for Badgateway (503) error
+[2025-06-11 05:03:15] Applying left panel filters
+[2025-06-11 05:03:16] Clicked right refresh button using method 1
+[2025-06-11 05:03:20] Opening left panel if needed
+[2025-06-11 05:03:20] Clicked left panel toggler using method 1
+[2025-06-11 05:03:20] Expanded left panel
+[2025-06-11 05:03:21] Selecting vehicle categories and fuel types
+[2025-06-11 05:03:22] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:03:22] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:03:23] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:03:24] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:03:25] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:03:25] Vehicle categories and fuel types selected
+[2025-06-11 05:03:26] Clicking left refresh button
+[2025-06-11 05:03:26] Clicked left refresh button using method 1
+[2025-06-11 05:03:26] Left refresh button clicked
+[2025-06-11 05:03:31] Left panel collapsed successfully.
+[2025-06-11 05:03:31] Checking for Badgateway (503) error
+[2025-06-11 05:03:31] Downloading Excel file for Andaman & Nicobar Island(3), Car Nicobar - AN211( 23-FEB-2023 ), 2023
+[2025-06-11 05:03:31] Clicked Excel download button using method 1
+[2025-06-11 05:03:31] Clicked Excel download button
+[2025-06-11 05:03:35] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:03:35] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:04:35] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Car Nicobar - AN211( 23-FEB-2023 ).xlsx
+[2025-06-11 05:04:35] Successfully processed RTO: Car Nicobar - AN211( 23-FEB-2023 )
+[2025-06-11 05:04:39] 
+Processing RTO: Diglipur - AN204( 09-NOV-2021 ) (Attempt 1)
+[2025-06-11 05:04:39] Checking for Badgateway (503) error
+[2025-06-11 05:04:39] Selecting RTO: Diglipur - AN204( 09-NOV-2021 )
+[2025-06-11 05:04:39] Clicked RTO dropdown using method 1
+[2025-06-11 05:04:41] Clicked RTO option: Diglipur - AN204( 09-NOV-2021 ) using method 1
+[2025-06-11 05:04:41] Successfully selected RTO: Diglipur - AN204( 09-NOV-2021 )
+[2025-06-11 05:04:41] Checking for Badgateway (503) error
+[2025-06-11 05:04:41] Applying left panel filters
+[2025-06-11 05:04:41] Clicked right refresh button using method 1
+[2025-06-11 05:04:45] Opening left panel if needed
+[2025-06-11 05:04:45] Clicked left panel toggler using method 1
+[2025-06-11 05:04:45] Expanded left panel
+[2025-06-11 05:04:47] Selecting vehicle categories and fuel types
+[2025-06-11 05:04:48] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:04:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:04:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:04:50] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:04:51] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:04:51] Vehicle categories and fuel types selected
+[2025-06-11 05:04:52] Clicking left refresh button
+[2025-06-11 05:04:52] Clicked left refresh button using method 1
+[2025-06-11 05:04:52] Left refresh button clicked
+[2025-06-11 05:04:57] Left panel collapsed successfully.
+[2025-06-11 05:04:57] Checking for Badgateway (503) error
+[2025-06-11 05:04:57] Downloading Excel file for Andaman & Nicobar Island(3), Diglipur - AN204( 09-NOV-2021 ), 2023
+[2025-06-11 05:04:58] Clicked Excel download button using method 1
+[2025-06-11 05:04:58] Clicked Excel download button
+[2025-06-11 05:05:01] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:05:01] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:06:01] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Diglipur - AN204( 09-NOV-2021 ).xlsx
+[2025-06-11 05:06:01] Successfully processed RTO: Diglipur - AN204( 09-NOV-2021 )
+[2025-06-11 05:06:04] 
+Processing RTO: Ferrargunj - AN200( 12-OCT-2021 ) (Attempt 1)
+[2025-06-11 05:06:04] Checking for Badgateway (503) error
+[2025-06-11 05:06:04] Selecting RTO: Ferrargunj - AN200( 12-OCT-2021 )
+[2025-06-11 05:06:04] Clicked RTO dropdown using method 1
+[2025-06-11 05:06:06] Clicked RTO option: Ferrargunj - AN200( 12-OCT-2021 ) using method 1
+[2025-06-11 05:06:06] Successfully selected RTO: Ferrargunj - AN200( 12-OCT-2021 )
+[2025-06-11 05:06:06] Checking for Badgateway (503) error
+[2025-06-11 05:06:06] Applying left panel filters
+[2025-06-11 05:06:06] Clicked right refresh button using method 1
+[2025-06-11 05:06:10] Opening left panel if needed
+[2025-06-11 05:06:11] Clicked left panel toggler using method 1
+[2025-06-11 05:06:11] Expanded left panel
+[2025-06-11 05:06:12] Selecting vehicle categories and fuel types
+[2025-06-11 05:06:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:06:13] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:06:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:06:15] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:06:15] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:06:16] Vehicle categories and fuel types selected
+[2025-06-11 05:06:16] Clicking left refresh button
+[2025-06-11 05:06:17] Clicked left refresh button using method 1
+[2025-06-11 05:06:17] Left refresh button clicked
+[2025-06-11 05:06:22] Left panel collapsed successfully.
+[2025-06-11 05:06:22] Checking for Badgateway (503) error
+[2025-06-11 05:06:22] Downloading Excel file for Andaman & Nicobar Island(3), Ferrargunj - AN200( 12-OCT-2021 ), 2023
+[2025-06-11 05:06:22] Clicked Excel download button using method 1
+[2025-06-11 05:06:22] Clicked Excel download button
+[2025-06-11 05:06:26] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:06:26] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:07:26] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Ferrargunj - AN200( 12-OCT-2021 ).xlsx
+[2025-06-11 05:07:26] Successfully processed RTO: Ferrargunj - AN200( 12-OCT-2021 )
+[2025-06-11 05:07:31] 
+Processing RTO: Little Andaman - AN207( 17-FEB-2025 ) (Attempt 1)
+[2025-06-11 05:07:31] Checking for Badgateway (503) error
+[2025-06-11 05:07:31] Selecting RTO: Little Andaman - AN207( 17-FEB-2025 )
+[2025-06-11 05:07:31] Clicked RTO dropdown using method 1
+[2025-06-11 05:07:33] Clicked RTO option: Little Andaman - AN207( 17-FEB-2025 ) using method 1
+[2025-06-11 05:07:33] Successfully selected RTO: Little Andaman - AN207( 17-FEB-2025 )
+[2025-06-11 05:07:33] Checking for Badgateway (503) error
+[2025-06-11 05:07:33] Applying left panel filters
+[2025-06-11 05:07:33] Clicked right refresh button using method 1
+[2025-06-11 05:07:38] Opening left panel if needed
+[2025-06-11 05:07:38] Clicked left panel toggler using method 1
+[2025-06-11 05:07:38] Expanded left panel
+[2025-06-11 05:07:39] Selecting vehicle categories and fuel types
+[2025-06-11 05:07:39] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:07:40] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:07:41] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:07:42] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:07:42] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:07:43] Vehicle categories and fuel types selected
+[2025-06-11 05:07:44] Clicking left refresh button
+[2025-06-11 05:07:44] Clicked left refresh button using method 1
+[2025-06-11 05:07:44] Left refresh button clicked
+[2025-06-11 05:07:49] Left panel collapsed successfully.
+[2025-06-11 05:07:49] Checking for Badgateway (503) error
+[2025-06-11 05:07:49] Downloading Excel file for Andaman & Nicobar Island(3), Little Andaman - AN207( 17-FEB-2025 ), 2023
+[2025-06-11 05:07:50] Clicked Excel download button using method 1
+[2025-06-11 05:07:50] Clicked Excel download button
+[2025-06-11 05:07:53] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:07:53] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:08:53] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Little Andaman - AN207( 17-FEB-2025 ).xlsx
+[2025-06-11 05:08:53] Successfully processed RTO: Little Andaman - AN207( 17-FEB-2025 )
+[2025-06-11 05:08:56] 
+Processing RTO: Mayabunder - AN203( 09-NOV-2021 ) (Attempt 1)
+[2025-06-11 05:08:56] Checking for Badgateway (503) error
+[2025-06-11 05:08:56] Selecting RTO: Mayabunder - AN203( 09-NOV-2021 )
+[2025-06-11 05:08:56] Clicked RTO dropdown using method 1
+[2025-06-11 05:08:57] Clicked RTO option: Mayabunder - AN203( 09-NOV-2021 ) using method 1
+[2025-06-11 05:08:57] Successfully selected RTO: Mayabunder - AN203( 09-NOV-2021 )
+[2025-06-11 05:08:57] Checking for Badgateway (503) error
+[2025-06-11 05:08:57] Applying left panel filters
+[2025-06-11 05:08:58] Clicked right refresh button using method 1
+[2025-06-11 05:09:02] Opening left panel if needed
+[2025-06-11 05:09:02] Clicked left panel toggler using method 1
+[2025-06-11 05:09:02] Expanded left panel
+[2025-06-11 05:09:04] Selecting vehicle categories and fuel types
+[2025-06-11 05:09:04] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:09:05] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:09:06] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:09:07] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:09:08] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:09:08] Vehicle categories and fuel types selected
+[2025-06-11 05:09:09] Clicking left refresh button
+[2025-06-11 05:09:09] Clicked left refresh button using method 1
+[2025-06-11 05:09:09] Left refresh button clicked
+[2025-06-11 05:09:14] Left panel collapsed successfully.
+[2025-06-11 05:09:14] Checking for Badgateway (503) error
+[2025-06-11 05:09:14] Downloading Excel file for Andaman & Nicobar Island(3), Mayabunder - AN203( 09-NOV-2021 ), 2023
+[2025-06-11 05:09:15] Clicked Excel download button using method 1
+[2025-06-11 05:09:15] Clicked Excel download button
+[2025-06-11 05:09:18] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:09:18] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:10:18] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Mayabunder - AN203( 09-NOV-2021 ).xlsx
+[2025-06-11 05:10:18] Successfully processed RTO: Mayabunder - AN203( 09-NOV-2021 )
+[2025-06-11 05:10:21] 
+Processing RTO: Port Blair DTO - AN1( 15-AUG-2020 ) (Attempt 1)
+[2025-06-11 05:10:21] Checking for Badgateway (503) error
+[2025-06-11 05:10:21] Selecting RTO: Port Blair DTO - AN1( 15-AUG-2020 )
+[2025-06-11 05:10:21] Clicked RTO dropdown using method 1
+[2025-06-11 05:10:22] Clicked RTO option: Port Blair DTO - AN1( 15-AUG-2020 ) using method 1
+[2025-06-11 05:10:22] Successfully selected RTO: Port Blair DTO - AN1( 15-AUG-2020 )
+[2025-06-11 05:10:22] Checking for Badgateway (503) error
+[2025-06-11 05:10:22] Applying left panel filters
+[2025-06-11 05:10:23] Clicked right refresh button using method 1
+[2025-06-11 05:10:27] Opening left panel if needed
+[2025-06-11 05:10:27] Clicked left panel toggler using method 1
+[2025-06-11 05:10:27] Expanded left panel
+[2025-06-11 05:10:29] Selecting vehicle categories and fuel types
+[2025-06-11 05:10:30] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:10:31] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:10:32] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:10:33] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:10:34] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:10:34] Vehicle categories and fuel types selected
+[2025-06-11 05:10:34] Clicking left refresh button
+[2025-06-11 05:10:35] Clicked left refresh button using method 1
+[2025-06-11 05:10:35] Left refresh button clicked
+[2025-06-11 05:10:40] Left panel collapsed successfully.
+[2025-06-11 05:10:40] Checking for Badgateway (503) error
+[2025-06-11 05:10:40] Downloading Excel file for Andaman & Nicobar Island(3), Port Blair DTO - AN1( 15-AUG-2020 ), 2023
+[2025-06-11 05:10:40] Clicked Excel download button using method 1
+[2025-06-11 05:10:40] Clicked Excel download button
+[2025-06-11 05:10:44] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:10:44] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:11:44] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Port Blair DTO - AN1( 15-AUG-2020 ).xlsx
+[2025-06-11 05:11:44] Successfully processed RTO: Port Blair DTO - AN1( 15-AUG-2020 )
+[2025-06-11 05:11:48] 
+Processing RTO: Rangat - AN202( 17-NOV-2021 ) (Attempt 1)
+[2025-06-11 05:11:48] Checking for Badgateway (503) error
+[2025-06-11 05:11:48] Selecting RTO: Rangat - AN202( 17-NOV-2021 )
+[2025-06-11 05:11:49] Clicked RTO dropdown using method 1
+[2025-06-11 05:11:50] Clicked RTO option: Rangat - AN202( 17-NOV-2021 ) using method 1
+[2025-06-11 05:11:50] Successfully selected RTO: Rangat - AN202( 17-NOV-2021 )
+[2025-06-11 05:11:50] Checking for Badgateway (503) error
+[2025-06-11 05:11:50] Applying left panel filters
+[2025-06-11 05:11:51] Clicked right refresh button using method 1
+[2025-06-11 05:11:56] Opening left panel if needed
+[2025-06-11 05:11:56] Clicked left panel toggler using method 1
+[2025-06-11 05:11:56] Expanded left panel
+[2025-06-11 05:11:57] Selecting vehicle categories and fuel types
+[2025-06-11 05:11:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:11:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:11:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:12:00] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:12:01] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:12:01] Vehicle categories and fuel types selected
+[2025-06-11 05:12:02] Clicking left refresh button
+[2025-06-11 05:12:02] Clicked left refresh button using method 1
+[2025-06-11 05:12:02] Left refresh button clicked
+[2025-06-11 05:12:07] Left panel collapsed successfully.
+[2025-06-11 05:12:07] Checking for Badgateway (503) error
+[2025-06-11 05:12:07] Downloading Excel file for Andaman & Nicobar Island(3), Rangat - AN202( 17-NOV-2021 ), 2023
+[2025-06-11 05:12:08] Clicked Excel download button using method 1
+[2025-06-11 05:12:08] Clicked Excel download button
+[2025-06-11 05:12:11] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:12:11] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:13:11] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Rangat - AN202( 17-NOV-2021 ).xlsx
+[2025-06-11 05:13:11] Successfully processed RTO: Rangat - AN202( 17-NOV-2021 )
+[2025-06-11 05:13:14] 
+Processing RTO: Swaraj Dweep - AN206( 29-NOV-2021 ) (Attempt 1)
+[2025-06-11 05:13:14] Checking for Badgateway (503) error
+[2025-06-11 05:13:14] Selecting RTO: Swaraj Dweep - AN206( 29-NOV-2021 )
+[2025-06-11 05:13:15] Clicked RTO dropdown using method 1
+[2025-06-11 05:13:16] Clicked RTO option: Swaraj Dweep - AN206( 29-NOV-2021 ) using method 1
+[2025-06-11 05:13:16] Successfully selected RTO: Swaraj Dweep - AN206( 29-NOV-2021 )
+[2025-06-11 05:13:16] Checking for Badgateway (503) error
+[2025-06-11 05:13:16] Applying left panel filters
+[2025-06-11 05:13:16] Clicked right refresh button using method 1
+[2025-06-11 05:13:21] Opening left panel if needed
+[2025-06-11 05:13:21] Clicked left panel toggler using method 1
+[2025-06-11 05:13:21] Expanded left panel
+[2025-06-11 05:13:22] Selecting vehicle categories and fuel types
+[2025-06-11 05:13:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:13:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:13:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:13:25] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:13:26] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:13:26] Vehicle categories and fuel types selected
+[2025-06-11 05:13:27] Clicking left refresh button
+[2025-06-11 05:13:27] Clicked left refresh button using method 1
+[2025-06-11 05:13:27] Left refresh button clicked
+[2025-06-11 05:13:33] Left panel collapsed successfully.
+[2025-06-11 05:13:33] Checking for Badgateway (503) error
+[2025-06-11 05:13:33] Downloading Excel file for Andaman & Nicobar Island(3), Swaraj Dweep - AN206( 29-NOV-2021 ), 2023
+[2025-06-11 05:13:33] Clicked Excel download button using method 1
+[2025-06-11 05:13:33] Clicked Excel download button
+[2025-06-11 05:13:37] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:13:37] Inside_wait_for_download_and_rename for Andaman_&_Nicobar_Island
+[2025-06-11 05:14:37] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andaman & Nicobar Island(3)/Swaraj Dweep - AN206( 29-NOV-2021 ).xlsx
+[2025-06-11 05:14:37] Successfully processed RTO: Swaraj Dweep - AN206( 29-NOV-2021 )
+[2025-06-11 05:14:41] 
+Processing state: Andhra Pradesh(83), Year: 2023
+[2025-06-11 05:14:41] 
+=== Starting RTO-wise processing for Andhra Pradesh(83), 2023 ===
+[2025-06-11 05:14:41] Checking for Badgateway (503) error
+[2025-06-11 05:14:41] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-11 05:14:41] Clicked Y-axis dropdown using method 1
+[2025-06-11 05:14:42] Clicked Maker option using method 1
+[2025-06-11 05:14:43] Clicked X-axis dropdown using method 1
+[2025-06-11 05:14:45] Clicked Month Wise option using method 1
+[2025-06-11 05:14:45] Axis setup completed
+[2025-06-11 05:14:45] Checking for Badgateway (503) error
+[2025-06-11 05:14:45] Selecting State: Andhra Pradesh(83)
+[2025-06-11 05:14:46] Clicked state dropdown label using method 1
+[2025-06-11 05:14:47] Clicked state option: Andhra Pradesh(83) using method 1
+[2025-06-11 05:14:48] Successfully selected state: Andhra Pradesh(83)
+[2025-06-11 05:14:48] Checking for Badgateway (503) error
+[2025-06-11 05:14:48] Selecting Year: 2023
+[2025-06-11 05:14:48] Clicked year dropdown using method 1
+[2025-06-11 05:14:50] Clicked year option: 2023 using method 1
+[2025-06-11 05:14:50] Successfully selected year: 2023
+[2025-06-11 05:14:50] Checking for Badgateway (503) error
+[2025-06-11 05:14:50] Getting list of all RTOs for the selected state
+[2025-06-11 05:14:50] Clicked RTO dropdown label using method 1
+[2025-06-11 05:14:52] Found 83 RTOs for the state
+[2025-06-11 05:14:52] 
+Processing RTO: Adoni RTO - AP221( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:14:52] Checking for Badgateway (503) error
+[2025-06-11 05:14:52] Selecting RTO: Adoni RTO - AP221( 06-MAY-2022 )
+[2025-06-11 05:14:52] Clicked RTO dropdown using method 1
+[2025-06-11 05:14:53] Clicked RTO option: Adoni RTO - AP221( 06-MAY-2022 ) using method 1
+[2025-06-11 05:14:53] Successfully selected RTO: Adoni RTO - AP221( 06-MAY-2022 )
+[2025-06-11 05:14:53] Checking for Badgateway (503) error
+[2025-06-11 05:14:53] Applying left panel filters
+[2025-06-11 05:14:54] Clicked right refresh button using method 1
+[2025-06-11 05:14:58] Opening left panel if needed
+[2025-06-11 05:14:58] Clicked left panel toggler using method 1
+[2025-06-11 05:14:58] Expanded left panel
+[2025-06-11 05:15:00] Selecting vehicle categories and fuel types
+[2025-06-11 05:15:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:15:01] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:15:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:15:02] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:15:03] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:15:03] Vehicle categories and fuel types selected
+[2025-06-11 05:15:04] Clicking left refresh button
+[2025-06-11 05:15:05] Clicked left refresh button using method 1
+[2025-06-11 05:15:05] Left refresh button clicked
+[2025-06-11 05:15:10] Left panel collapsed successfully.
+[2025-06-11 05:15:10] Checking for Badgateway (503) error
+[2025-06-11 05:15:10] Downloading Excel file for Andhra Pradesh(83), Adoni RTO - AP221( 06-MAY-2022 ), 2023
+[2025-06-11 05:15:11] Clicked Excel download button using method 1
+[2025-06-11 05:15:11] Clicked Excel download button
+[2025-06-11 05:15:14] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:15:14] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:16:14] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Adoni RTO - AP221( 06-MAY-2022 ).xlsx
+[2025-06-11 05:16:14] Successfully processed RTO: Adoni RTO - AP221( 06-MAY-2022 )
+[2025-06-11 05:16:18] 
+Processing RTO: Amalapuram RTA - AP205( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:16:18] Checking for Badgateway (503) error
+[2025-06-11 05:16:18] Selecting RTO: Amalapuram RTA - AP205( 25-APR-2022 )
+[2025-06-11 05:16:18] Clicked RTO dropdown using method 1
+[2025-06-11 05:16:19] Clicked RTO option: Amalapuram RTA - AP205( 25-APR-2022 ) using method 1
+[2025-06-11 05:16:19] Successfully selected RTO: Amalapuram RTA - AP205( 25-APR-2022 )
+[2025-06-11 05:16:19] Checking for Badgateway (503) error
+[2025-06-11 05:16:19] Applying left panel filters
+[2025-06-11 05:16:20] Clicked right refresh button using method 1
+[2025-06-11 05:16:24] Opening left panel if needed
+[2025-06-11 05:16:24] Clicked left panel toggler using method 1
+[2025-06-11 05:16:24] Expanded left panel
+[2025-06-11 05:16:26] Selecting vehicle categories and fuel types
+[2025-06-11 05:16:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:16:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:16:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:16:28] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:16:29] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:16:29] Vehicle categories and fuel types selected
+[2025-06-11 05:16:30] Clicking left refresh button
+[2025-06-11 05:16:31] Clicked left refresh button using method 1
+[2025-06-11 05:16:31] Left refresh button clicked
+[2025-06-11 05:16:36] Left panel collapsed successfully.
+[2025-06-11 05:16:36] Checking for Badgateway (503) error
+[2025-06-11 05:16:36] Downloading Excel file for Andhra Pradesh(83), Amalapuram RTA - AP205( 25-APR-2022 ), 2023
+[2025-06-11 05:16:37] Clicked Excel download button using method 1
+[2025-06-11 05:16:37] Clicked Excel download button
+[2025-06-11 05:16:40] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:16:40] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:17:40] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Amalapuram RTA - AP205( 25-APR-2022 ).xlsx
+[2025-06-11 05:17:40] Successfully processed RTO: Amalapuram RTA - AP205( 25-APR-2022 )
+[2025-06-11 05:17:45] 
+Processing RTO: Anakapalli RTA - AP131( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:17:45] Checking for Badgateway (503) error
+[2025-06-11 05:17:45] Selecting RTO: Anakapalli RTA - AP131( 25-APR-2022 )
+[2025-06-11 05:17:45] Clicked RTO dropdown using method 1
+[2025-06-11 05:17:47] Clicked RTO option: Anakapalli RTA - AP131( 25-APR-2022 ) using method 1
+[2025-06-11 05:17:47] Successfully selected RTO: Anakapalli RTA - AP131( 25-APR-2022 )
+[2025-06-11 05:17:47] Checking for Badgateway (503) error
+[2025-06-11 05:17:47] Applying left panel filters
+[2025-06-11 05:17:47] Clicked right refresh button using method 1
+[2025-06-11 05:17:51] Opening left panel if needed
+[2025-06-11 05:17:51] Clicked left panel toggler using method 1
+[2025-06-11 05:17:51] Expanded left panel
+[2025-06-11 05:17:53] Selecting vehicle categories and fuel types
+[2025-06-11 05:17:54] Error selecting checkbox VhCatg:2: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.68); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5f1f54d23c9a <unknown>
+#1 0x5f1f547c96e0 <unknown>
+#2 0x5f1f547d0378 <unknown>
+#3 0x5f1f547d2c18 <unknown>
+#4 0x5f1f547d2ca3 <unknown>
+#5 0x5f1f54815acd <unknown>
+#6 0x5f1f54840e32 <unknown>
+#7 0x5f1f5480ec7a <unknown>
+#8 0x5f1f54840ffe <unknown>
+#9 0x5f1f548672cc <unknown>
+#10 0x5f1f54840c03 <unknown>
+#11 0x5f1f5480d47b <unknown>
+#12 0x5f1f5480e0e1 <unknown>
+#13 0x5f1f54ce844b <unknown>
+#14 0x5f1f54cec37f <unknown>
+#15 0x5f1f54ccff89 <unknown>
+#16 0x5f1f54cecf18 <unknown>
+#17 0x5f1f54cb46df <unknown>
+#18 0x5f1f54d11308 <unknown>
+#19 0x5f1f54d114e6 <unknown>
+#20 0x5f1f54d22b76 <unknown>
+#21 0x7d59ee69caa4 <unknown>
+#22 0x7d59ee729c3c <unknown>
+
+[2025-06-11 05:17:55] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:17:55] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:17:56] Vehicle categories and fuel types selected
+[2025-06-11 05:17:56] Clicking left refresh button
+[2025-06-11 05:17:57] Clicked left refresh button using method 1
+[2025-06-11 05:17:57] Left refresh button clicked
+[2025-06-11 05:18:02] Left panel collapsed successfully.
+[2025-06-11 05:18:02] Checking for Badgateway (503) error
+[2025-06-11 05:18:02] Downloading Excel file for Andhra Pradesh(83), Anakapalli RTA - AP131( 25-APR-2022 ), 2023
+[2025-06-11 05:18:02] Clicked Excel download button using method 1
+[2025-06-11 05:18:02] Clicked Excel download button
+[2025-06-11 05:18:05] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:18:05] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:19:05] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Anakapalli RTA - AP131( 25-APR-2022 ).xlsx
+[2025-06-11 05:19:05] Successfully processed RTO: Anakapalli RTA - AP131( 25-APR-2022 )
+[2025-06-11 05:19:10] 
+Processing RTO: Anantapur RTA - AP2( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:19:10] Checking for Badgateway (503) error
+[2025-06-11 05:19:10] Selecting RTO: Anantapur RTA - AP2( 25-APR-2022 )
+[2025-06-11 05:19:10] Clicked RTO dropdown using method 1
+[2025-06-11 05:19:11] Clicked RTO option: Anantapur RTA - AP2( 25-APR-2022 ) using method 1
+[2025-06-11 05:19:11] Successfully selected RTO: Anantapur RTA - AP2( 25-APR-2022 )
+[2025-06-11 05:19:11] Checking for Badgateway (503) error
+[2025-06-11 05:19:11] Applying left panel filters
+[2025-06-11 05:19:12] Clicked right refresh button using method 1
+[2025-06-11 05:19:16] Opening left panel if needed
+[2025-06-11 05:19:16] Clicked left panel toggler using method 1
+[2025-06-11 05:19:16] Expanded left panel
+[2025-06-11 05:19:18] Selecting vehicle categories and fuel types
+[2025-06-11 05:19:18] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:19:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:19:19] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:19:20] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:19:21] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:19:21] Vehicle categories and fuel types selected
+[2025-06-11 05:19:22] Clicking left refresh button
+[2025-06-11 05:19:22] Clicked left refresh button using method 1
+[2025-06-11 05:19:22] Left refresh button clicked
+[2025-06-11 05:19:27] Left panel collapsed successfully.
+[2025-06-11 05:19:27] Checking for Badgateway (503) error
+[2025-06-11 05:19:27] Downloading Excel file for Andhra Pradesh(83), Anantapur RTA - AP2( 25-APR-2022 ), 2023
+[2025-06-11 05:19:28] Clicked Excel download button using method 1
+[2025-06-11 05:19:28] Clicked Excel download button
+[2025-06-11 05:19:31] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:19:31] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:20:31] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Anantapur RTA - AP2( 25-APR-2022 ).xlsx
+[2025-06-11 05:20:31] Successfully processed RTO: Anantapur RTA - AP2( 25-APR-2022 )
+[2025-06-11 05:20:34] 
+Processing RTO: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:20:34] Checking for Badgateway (503) error
+[2025-06-11 05:20:34] Selecting RTO: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 )
+[2025-06-11 05:20:35] Clicked RTO dropdown using method 1
+[2025-06-11 05:20:36] Clicked RTO option: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 ) using method 1
+[2025-06-11 05:20:36] Successfully selected RTO: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 )
+[2025-06-11 05:20:36] Checking for Badgateway (503) error
+[2025-06-11 05:20:36] Applying left panel filters
+[2025-06-11 05:20:37] Clicked right refresh button using method 1
+[2025-06-11 05:20:41] Opening left panel if needed
+[2025-06-11 05:20:41] Clicked left panel toggler using method 1
+[2025-06-11 05:20:41] Expanded left panel
+[2025-06-11 05:20:43] Selecting vehicle categories and fuel types
+[2025-06-11 05:20:43] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:20:44] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:20:45] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:20:45] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:20:46] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:20:46] Vehicle categories and fuel types selected
+[2025-06-11 05:20:47] Clicking left refresh button
+[2025-06-11 05:20:48] Clicked left refresh button using method 1
+[2025-06-11 05:20:48] Left refresh button clicked
+[2025-06-11 05:20:52] Left panel collapsed successfully.
+[2025-06-11 05:20:52] Checking for Badgateway (503) error
+[2025-06-11 05:20:52] Downloading Excel file for Andhra Pradesh(83), Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 ), 2023
+[2025-06-11 05:20:53] Clicked Excel download button using method 1
+[2025-06-11 05:20:53] Clicked Excel download button
+[2025-06-11 05:20:56] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:20:56] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:21:56] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 ).xlsx
+[2025-06-11 05:21:56] Successfully processed RTO: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 )
+[2025-06-11 05:22:01] 
+Processing RTO: Atmakur MVI Office - AP126( 11-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:22:01] Checking for Badgateway (503) error
+[2025-06-11 05:22:01] Selecting RTO: Atmakur MVI Office - AP126( 11-MAY-2022 )
+[2025-06-11 05:22:01] Clicked RTO dropdown using method 1
+[2025-06-11 05:22:03] Clicked RTO option: Atmakur MVI Office - AP126( 11-MAY-2022 ) using method 1
+[2025-06-11 05:22:03] Successfully selected RTO: Atmakur MVI Office - AP126( 11-MAY-2022 )
+[2025-06-11 05:22:03] Checking for Badgateway (503) error
+[2025-06-11 05:22:03] Applying left panel filters
+[2025-06-11 05:22:03] Clicked right refresh button using method 1
+[2025-06-11 05:22:08] Opening left panel if needed
+[2025-06-11 05:22:08] Clicked left panel toggler using method 1
+[2025-06-11 05:22:08] Expanded left panel
+[2025-06-11 05:22:10] Selecting vehicle categories and fuel types
+[2025-06-11 05:22:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:22:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:22:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:22:13] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:22:13] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:22:14] Vehicle categories and fuel types selected
+[2025-06-11 05:22:15] Clicking left refresh button
+[2025-06-11 05:22:15] Clicked left refresh button using method 1
+[2025-06-11 05:22:15] Left refresh button clicked
+[2025-06-11 05:22:20] Left panel collapsed successfully.
+[2025-06-11 05:22:20] Checking for Badgateway (503) error
+[2025-06-11 05:22:20] Downloading Excel file for Andhra Pradesh(83), Atmakur MVI Office - AP126( 11-MAY-2022 ), 2023
+[2025-06-11 05:22:20] Clicked Excel download button using method 1
+[2025-06-11 05:22:20] Clicked Excel download button
+[2025-06-11 05:22:24] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:22:24] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:23:24] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Atmakur MVI Office - AP126( 11-MAY-2022 ).xlsx
+[2025-06-11 05:23:24] Successfully processed RTO: Atmakur MVI Office - AP126( 11-MAY-2022 )
+[2025-06-11 05:23:27] 
+Processing RTO: Badvel MVI Office - AP104( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:23:27] Checking for Badgateway (503) error
+[2025-06-11 05:23:27] Selecting RTO: Badvel MVI Office - AP104( 06-MAY-2022 )
+[2025-06-11 05:23:27] Clicked RTO dropdown using method 1
+[2025-06-11 05:23:28] Clicked RTO option: Badvel MVI Office - AP104( 06-MAY-2022 ) using method 1
+[2025-06-11 05:23:28] Successfully selected RTO: Badvel MVI Office - AP104( 06-MAY-2022 )
+[2025-06-11 05:23:28] Checking for Badgateway (503) error
+[2025-06-11 05:23:28] Applying left panel filters
+[2025-06-11 05:23:29] Clicked right refresh button using method 1
+[2025-06-11 05:23:33] Opening left panel if needed
+[2025-06-11 05:23:33] Clicked left panel toggler using method 1
+[2025-06-11 05:23:33] Expanded left panel
+[2025-06-11 05:23:35] Selecting vehicle categories and fuel types
+[2025-06-11 05:23:36] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:23:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:23:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:23:38] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:23:39] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:23:39] Vehicle categories and fuel types selected
+[2025-06-11 05:23:40] Clicking left refresh button
+[2025-06-11 05:23:41] Clicked left refresh button using method 1
+[2025-06-11 05:23:41] Left refresh button clicked
+[2025-06-11 05:23:46] Left panel collapsed successfully.
+[2025-06-11 05:23:46] Checking for Badgateway (503) error
+[2025-06-11 05:23:46] Downloading Excel file for Andhra Pradesh(83), Badvel MVI Office - AP104( 06-MAY-2022 ), 2023
+[2025-06-11 05:23:46] Clicked Excel download button using method 1
+[2025-06-11 05:23:46] Clicked Excel download button
+[2025-06-11 05:23:50] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:23:50] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:24:50] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Badvel MVI Office - AP104( 06-MAY-2022 ).xlsx
+[2025-06-11 05:24:50] Successfully processed RTO: Badvel MVI Office - AP104( 06-MAY-2022 )
+[2025-06-11 05:24:55] 
+Processing RTO: BAPATLA RTO OFFICE - AP207( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:24:55] Checking for Badgateway (503) error
+[2025-06-11 05:24:55] Selecting RTO: BAPATLA RTO OFFICE - AP207( 25-APR-2022 )
+[2025-06-11 05:24:55] Clicked RTO dropdown using method 1
+[2025-06-11 05:24:57] Clicked RTO option: BAPATLA RTO OFFICE - AP207( 25-APR-2022 ) using method 1
+[2025-06-11 05:24:57] Successfully selected RTO: BAPATLA RTO OFFICE - AP207( 25-APR-2022 )
+[2025-06-11 05:24:57] Checking for Badgateway (503) error
+[2025-06-11 05:24:57] Applying left panel filters
+[2025-06-11 05:24:57] Clicked right refresh button using method 1
+[2025-06-11 05:25:02] Opening left panel if needed
+[2025-06-11 05:25:02] Clicked left panel toggler using method 1
+[2025-06-11 05:25:02] Expanded left panel
+[2025-06-11 05:25:04] Selecting vehicle categories and fuel types
+[2025-06-11 05:25:04] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:25:05] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:25:06] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:25:07] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:25:07] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:25:07] Vehicle categories and fuel types selected
+[2025-06-11 05:25:08] Clicking left refresh button
+[2025-06-11 05:25:09] Clicked left refresh button using method 1
+[2025-06-11 05:25:09] Left refresh button clicked
+[2025-06-11 05:25:14] Left panel collapsed successfully.
+[2025-06-11 05:25:14] Checking for Badgateway (503) error
+[2025-06-11 05:25:14] Downloading Excel file for Andhra Pradesh(83), BAPATLA RTO OFFICE - AP207( 25-APR-2022 ), 2023
+[2025-06-11 05:25:14] Clicked Excel download button using method 1
+[2025-06-11 05:25:14] Clicked Excel download button
+[2025-06-11 05:25:18] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:25:18] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:26:18] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/BAPATLA RTO OFFICE - AP207( 25-APR-2022 ).xlsx
+[2025-06-11 05:26:18] Successfully processed RTO: BAPATLA RTO OFFICE - AP207( 25-APR-2022 )
+[2025-06-11 05:26:21] 
+Processing RTO: Bhimavaram RTA - AP137( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:26:21] Checking for Badgateway (503) error
+[2025-06-11 05:26:21] Selecting RTO: Bhimavaram RTA - AP137( 25-APR-2022 )
+[2025-06-11 05:26:21] Clicked RTO dropdown using method 1
+[2025-06-11 05:26:23] Clicked RTO option: Bhimavaram RTA - AP137( 25-APR-2022 ) using method 1
+[2025-06-11 05:26:23] Successfully selected RTO: Bhimavaram RTA - AP137( 25-APR-2022 )
+[2025-06-11 05:26:23] Checking for Badgateway (503) error
+[2025-06-11 05:26:23] Applying left panel filters
+[2025-06-11 05:26:23] Clicked right refresh button using method 1
+[2025-06-11 05:26:28] Opening left panel if needed
+[2025-06-11 05:26:28] Clicked left panel toggler using method 1
+[2025-06-11 05:26:28] Expanded left panel
+[2025-06-11 05:26:30] Selecting vehicle categories and fuel types
+[2025-06-11 05:26:30] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:26:31] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:26:32] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:26:33] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:26:33] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:26:34] Vehicle categories and fuel types selected
+[2025-06-11 05:26:34] Clicking left refresh button
+[2025-06-11 05:26:35] Clicked left refresh button using method 1
+[2025-06-11 05:26:35] Left refresh button clicked
+[2025-06-11 05:26:40] Left panel collapsed successfully.
+[2025-06-11 05:26:40] Checking for Badgateway (503) error
+[2025-06-11 05:26:40] Downloading Excel file for Andhra Pradesh(83), Bhimavaram RTA - AP137( 25-APR-2022 ), 2023
+[2025-06-11 05:26:40] Clicked Excel download button using method 1
+[2025-06-11 05:26:40] Clicked Excel download button
+[2025-06-11 05:26:44] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:26:44] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:27:44] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Bhimavaram RTA - AP137( 25-APR-2022 ).xlsx
+[2025-06-11 05:27:44] Successfully processed RTO: Bhimavaram RTA - AP137( 25-APR-2022 )
+[2025-06-11 05:27:47] 
+Processing RTO: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:27:47] Checking for Badgateway (503) error
+[2025-06-11 05:27:47] Selecting RTO: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 )
+[2025-06-11 05:27:48] Clicked RTO dropdown using method 1
+[2025-06-11 05:27:49] Clicked RTO option: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 ) using method 1
+[2025-06-11 05:27:49] Successfully selected RTO: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 )
+[2025-06-11 05:27:49] Checking for Badgateway (503) error
+[2025-06-11 05:27:49] Applying left panel filters
+[2025-06-11 05:27:49] Clicked right refresh button using method 1
+[2025-06-11 05:27:53] Opening left panel if needed
+[2025-06-11 05:27:54] Clicked left panel toggler using method 1
+[2025-06-11 05:27:54] Expanded left panel
+[2025-06-11 05:27:55] Selecting vehicle categories and fuel types
+[2025-06-11 05:27:55] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:27:56] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:27:57] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:27:58] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:27:59] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:27:59] Vehicle categories and fuel types selected
+[2025-06-11 05:28:00] Clicking left refresh button
+[2025-06-11 05:28:00] Clicked left refresh button using method 1
+[2025-06-11 05:28:00] Left refresh button clicked
+[2025-06-11 05:28:06] Left panel collapsed successfully.
+[2025-06-11 05:28:06] Checking for Badgateway (503) error
+[2025-06-11 05:28:06] Downloading Excel file for Andhra Pradesh(83), Chilakaluripeta MVI Office - AP307( 06-MAY-2022 ), 2023
+[2025-06-11 05:28:06] Clicked Excel download button using method 1
+[2025-06-11 05:28:06] Clicked Excel download button
+[2025-06-11 05:28:10] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:28:10] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:29:10] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Chilakaluripeta MVI Office - AP307( 06-MAY-2022 ).xlsx
+[2025-06-11 05:29:10] Successfully processed RTO: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 )
+[2025-06-11 05:29:14] 
+Processing RTO: Chintoor - AP905( 09-JUN-2022 ) (Attempt 1)
+[2025-06-11 05:29:14] Checking for Badgateway (503) error
+[2025-06-11 05:29:14] Selecting RTO: Chintoor - AP905( 09-JUN-2022 )
+[2025-06-11 05:29:14] Clicked RTO dropdown using method 1
+[2025-06-11 05:29:15] Clicked RTO option: Chintoor - AP905( 09-JUN-2022 ) using method 1
+[2025-06-11 05:29:15] Successfully selected RTO: Chintoor - AP905( 09-JUN-2022 )
+[2025-06-11 05:29:15] Checking for Badgateway (503) error
+[2025-06-11 05:29:15] Applying left panel filters
+[2025-06-11 05:29:16] Clicked right refresh button using method 1
+[2025-06-11 05:29:21] Opening left panel if needed
+[2025-06-11 05:29:21] Clicked left panel toggler using method 1
+[2025-06-11 05:29:21] Expanded left panel
+[2025-06-11 05:29:23] Selecting vehicle categories and fuel types
+[2025-06-11 05:29:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:29:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:29:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:29:25] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:29:26] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:29:26] Vehicle categories and fuel types selected
+[2025-06-11 05:29:27] Clicking left refresh button
+[2025-06-11 05:29:27] Clicked left refresh button using method 1
+[2025-06-11 05:29:27] Left refresh button clicked
+[2025-06-11 05:29:32] Left panel collapsed successfully.
+[2025-06-11 05:29:32] Checking for Badgateway (503) error
+[2025-06-11 05:29:32] Downloading Excel file for Andhra Pradesh(83), Chintoor - AP905( 09-JUN-2022 ), 2023
+[2025-06-11 05:29:32] Clicked Excel download button using method 1
+[2025-06-11 05:29:32] Clicked Excel download button
+[2025-06-11 05:29:36] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:29:36] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:30:36] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Chintoor - AP905( 09-JUN-2022 ).xlsx
+[2025-06-11 05:30:36] Successfully processed RTO: Chintoor - AP905( 09-JUN-2022 )
+[2025-06-11 05:30:38] 
+Processing RTO: Chirala UO - AP127( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:30:38] Checking for Badgateway (503) error
+[2025-06-11 05:30:38] Selecting RTO: Chirala UO - AP127( 06-MAY-2022 )
+[2025-06-11 05:30:39] Clicked RTO dropdown using method 1
+[2025-06-11 05:30:40] Clicked RTO option: Chirala UO - AP127( 06-MAY-2022 ) using method 1
+[2025-06-11 05:30:40] Successfully selected RTO: Chirala UO - AP127( 06-MAY-2022 )
+[2025-06-11 05:30:40] Checking for Badgateway (503) error
+[2025-06-11 05:30:40] Applying left panel filters
+[2025-06-11 05:30:41] Clicked right refresh button using method 1
+[2025-06-11 05:30:45] Opening left panel if needed
+[2025-06-11 05:30:46] Clicked left panel toggler using method 1
+[2025-06-11 05:30:46] Expanded left panel
+[2025-06-11 05:30:47] Selecting vehicle categories and fuel types
+[2025-06-11 05:30:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:30:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:30:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:30:50] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:30:51] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:30:51] Vehicle categories and fuel types selected
+[2025-06-11 05:30:52] Clicking left refresh button
+[2025-06-11 05:30:53] Clicked left refresh button using method 1
+[2025-06-11 05:30:53] Left refresh button clicked
+[2025-06-11 05:30:57] Left panel collapsed successfully.
+[2025-06-11 05:30:57] Checking for Badgateway (503) error
+[2025-06-11 05:30:57] Downloading Excel file for Andhra Pradesh(83), Chirala UO - AP127( 06-MAY-2022 ), 2023
+[2025-06-11 05:30:57] Clicked Excel download button using method 1
+[2025-06-11 05:30:57] Clicked Excel download button
+[2025-06-11 05:31:01] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:31:01] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:32:01] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Chirala UO - AP127( 06-MAY-2022 ).xlsx
+[2025-06-11 05:32:01] Successfully processed RTO: Chirala UO - AP127( 06-MAY-2022 )
+[2025-06-11 05:32:05] 
+Processing RTO: Chittoor RTA - AP3( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:32:05] Checking for Badgateway (503) error
+[2025-06-11 05:32:05] Selecting RTO: Chittoor RTA - AP3( 25-APR-2022 )
+[2025-06-11 05:32:05] Clicked RTO dropdown using method 1
+[2025-06-11 05:32:06] Clicked RTO option: Chittoor RTA - AP3( 25-APR-2022 ) using method 1
+[2025-06-11 05:32:06] Successfully selected RTO: Chittoor RTA - AP3( 25-APR-2022 )
+[2025-06-11 05:32:06] Checking for Badgateway (503) error
+[2025-06-11 05:32:06] Applying left panel filters
+[2025-06-11 05:32:06] Clicked right refresh button using method 1
+[2025-06-11 05:32:11] Opening left panel if needed
+[2025-06-11 05:32:11] Clicked left panel toggler using method 1
+[2025-06-11 05:32:11] Expanded left panel
+[2025-06-11 05:32:13] Selecting vehicle categories and fuel types
+[2025-06-11 05:32:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:32:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:32:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:32:16] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:32:16] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:32:17] Vehicle categories and fuel types selected
+[2025-06-11 05:32:17] Clicking left refresh button
+[2025-06-11 05:32:18] Clicked left refresh button using method 1
+[2025-06-11 05:32:18] Left refresh button clicked
+[2025-06-11 05:32:23] Left panel collapsed successfully.
+[2025-06-11 05:32:23] Checking for Badgateway (503) error
+[2025-06-11 05:32:23] Downloading Excel file for Andhra Pradesh(83), Chittoor RTA - AP3( 25-APR-2022 ), 2023
+[2025-06-11 05:32:23] Clicked Excel download button using method 1
+[2025-06-11 05:32:23] Clicked Excel download button
+[2025-06-11 05:32:27] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:32:27] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:33:27] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Chittoor RTA - AP3( 25-APR-2022 ).xlsx
+[2025-06-11 05:33:27] Successfully processed RTO: Chittoor RTA - AP3( 25-APR-2022 )
+[2025-06-11 05:33:31] 
+Processing RTO: Cuddapah RTA - AP4( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:33:31] Checking for Badgateway (503) error
+[2025-06-11 05:33:31] Selecting RTO: Cuddapah RTA - AP4( 25-APR-2022 )
+[2025-06-11 05:33:31] Clicked RTO dropdown using method 1
+[2025-06-11 05:33:32] Clicked RTO option: Cuddapah RTA - AP4( 25-APR-2022 ) using method 1
+[2025-06-11 05:33:32] Successfully selected RTO: Cuddapah RTA - AP4( 25-APR-2022 )
+[2025-06-11 05:33:32] Checking for Badgateway (503) error
+[2025-06-11 05:33:32] Applying left panel filters
+[2025-06-11 05:33:33] Clicked right refresh button using method 1
+[2025-06-11 05:33:37] Opening left panel if needed
+[2025-06-11 05:33:38] Clicked left panel toggler using method 1
+[2025-06-11 05:33:38] Expanded left panel
+[2025-06-11 05:33:39] Selecting vehicle categories and fuel types
+[2025-06-11 05:33:40] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:33:41] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:33:41] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:33:42] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:33:43] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:33:43] Vehicle categories and fuel types selected
+[2025-06-11 05:33:44] Clicking left refresh button
+[2025-06-11 05:33:44] Clicked left refresh button using method 1
+[2025-06-11 05:33:44] Left refresh button clicked
+[2025-06-11 05:33:49] Left panel collapsed successfully.
+[2025-06-11 05:33:49] Checking for Badgateway (503) error
+[2025-06-11 05:33:49] Downloading Excel file for Andhra Pradesh(83), Cuddapah RTA - AP4( 25-APR-2022 ), 2023
+[2025-06-11 05:33:49] Clicked Excel download button using method 1
+[2025-06-11 05:33:49] Clicked Excel download button
+[2025-06-11 05:33:52] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:33:52] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:34:52] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Cuddapah RTA - AP4( 25-APR-2022 ).xlsx
+[2025-06-11 05:34:52] Successfully processed RTO: Cuddapah RTA - AP4( 25-APR-2022 )
+[2025-06-11 05:34:56] 
+Processing RTO: Darsi UO - AP427( 11-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:34:56] Checking for Badgateway (503) error
+[2025-06-11 05:34:56] Selecting RTO: Darsi UO - AP427( 11-MAY-2022 )
+[2025-06-11 05:34:56] Clicked RTO dropdown using method 1
+[2025-06-11 05:34:58] Clicked RTO option: Darsi UO - AP427( 11-MAY-2022 ) using method 1
+[2025-06-11 05:34:58] Successfully selected RTO: Darsi UO - AP427( 11-MAY-2022 )
+[2025-06-11 05:34:58] Checking for Badgateway (503) error
+[2025-06-11 05:34:58] Applying left panel filters
+[2025-06-11 05:34:58] Clicked right refresh button using method 1
+[2025-06-11 05:35:02] Opening left panel if needed
+[2025-06-11 05:35:03] Clicked left panel toggler using method 1
+[2025-06-11 05:35:03] Expanded left panel
+[2025-06-11 05:35:04] Selecting vehicle categories and fuel types
+[2025-06-11 05:35:05] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:35:06] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:35:06] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:35:07] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:35:08] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:35:08] Vehicle categories and fuel types selected
+[2025-06-11 05:35:09] Clicking left refresh button
+[2025-06-11 05:35:09] Clicked left refresh button using method 1
+[2025-06-11 05:35:09] Left refresh button clicked
+[2025-06-11 05:35:15] Left panel collapsed successfully.
+[2025-06-11 05:35:15] Checking for Badgateway (503) error
+[2025-06-11 05:35:15] Downloading Excel file for Andhra Pradesh(83), Darsi UO - AP427( 11-MAY-2022 ), 2023
+[2025-06-11 05:35:15] Clicked Excel download button using method 1
+[2025-06-11 05:35:15] Clicked Excel download button
+[2025-06-11 05:35:19] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:35:19] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:36:19] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Darsi UO - AP427( 11-MAY-2022 ).xlsx
+[2025-06-11 05:36:19] Successfully processed RTO: Darsi UO - AP427( 11-MAY-2022 )
+[2025-06-11 05:36:23] 
+Processing RTO: Dharamavaram unit office - AP602( 04-DEC-2024 ) (Attempt 1)
+[2025-06-11 05:36:23] Checking for Badgateway (503) error
+[2025-06-11 05:36:23] Selecting RTO: Dharamavaram unit office - AP602( 04-DEC-2024 )
+[2025-06-11 05:36:24] Clicked RTO dropdown using method 1
+[2025-06-11 05:36:25] Clicked RTO option: Dharamavaram unit office - AP602( 04-DEC-2024 ) using method 1
+[2025-06-11 05:36:25] Successfully selected RTO: Dharamavaram unit office - AP602( 04-DEC-2024 )
+[2025-06-11 05:36:25] Checking for Badgateway (503) error
+[2025-06-11 05:36:25] Applying left panel filters
+[2025-06-11 05:36:26] Clicked right refresh button using method 1
+[2025-06-11 05:36:30] Opening left panel if needed
+[2025-06-11 05:36:31] Clicked left panel toggler using method 1
+[2025-06-11 05:36:31] Expanded left panel
+[2025-06-11 05:36:32] Selecting vehicle categories and fuel types
+[2025-06-11 05:36:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:36:34] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:36:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:36:35] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:36:35] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:36:36] Vehicle categories and fuel types selected
+[2025-06-11 05:36:36] Clicking left refresh button
+[2025-06-11 05:36:37] Clicked left refresh button using method 1
+[2025-06-11 05:36:37] Left refresh button clicked
+[2025-06-11 05:36:42] Left panel collapsed successfully.
+[2025-06-11 05:36:42] Checking for Badgateway (503) error
+[2025-06-11 05:36:42] Downloading Excel file for Andhra Pradesh(83), Dharamavaram unit office - AP602( 04-DEC-2024 ), 2023
+[2025-06-11 05:36:43] Clicked Excel download button using method 1
+[2025-06-11 05:36:43] Clicked Excel download button
+[2025-06-11 05:36:47] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:36:47] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:37:47] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Dharamavaram unit office - AP602( 04-DEC-2024 ).xlsx
+[2025-06-11 05:37:47] Successfully processed RTO: Dharamavaram unit office - AP602( 04-DEC-2024 )
+[2025-06-11 05:37:50] 
+Processing RTO: Dhone MVI Office - AP421( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:37:50] Checking for Badgateway (503) error
+[2025-06-11 05:37:50] Selecting RTO: Dhone MVI Office - AP421( 06-MAY-2022 )
+[2025-06-11 05:37:51] Clicked RTO dropdown using method 1
+[2025-06-11 05:37:52] Clicked RTO option: Dhone MVI Office - AP421( 06-MAY-2022 ) using method 1
+[2025-06-11 05:37:52] Successfully selected RTO: Dhone MVI Office - AP421( 06-MAY-2022 )
+[2025-06-11 05:37:52] Checking for Badgateway (503) error
+[2025-06-11 05:37:52] Applying left panel filters
+[2025-06-11 05:37:52] Clicked right refresh button using method 1
+[2025-06-11 05:37:56] Opening left panel if needed
+[2025-06-11 05:37:56] Clicked left panel toggler using method 1
+[2025-06-11 05:37:56] Expanded left panel
+[2025-06-11 05:37:58] Selecting vehicle categories and fuel types
+[2025-06-11 05:37:59] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:37:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:38:00] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:38:01] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:38:02] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:38:02] Vehicle categories and fuel types selected
+[2025-06-11 05:38:02] Clicking left refresh button
+[2025-06-11 05:38:03] Clicked left refresh button using method 1
+[2025-06-11 05:38:03] Left refresh button clicked
+[2025-06-11 05:38:08] Left panel collapsed successfully.
+[2025-06-11 05:38:08] Checking for Badgateway (503) error
+[2025-06-11 05:38:08] Downloading Excel file for Andhra Pradesh(83), Dhone MVI Office - AP421( 06-MAY-2022 ), 2023
+[2025-06-11 05:38:08] Clicked Excel download button using method 1
+[2025-06-11 05:38:08] Clicked Excel download button
+[2025-06-11 05:38:12] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:38:12] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:39:12] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Dhone MVI Office - AP421( 06-MAY-2022 ).xlsx
+[2025-06-11 05:39:12] Successfully processed RTO: Dhone MVI Office - AP421( 06-MAY-2022 )
+[2025-06-11 05:39:15] 
+Processing RTO: Gajuwaka RTA - AP231( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:39:15] Checking for Badgateway (503) error
+[2025-06-11 05:39:15] Selecting RTO: Gajuwaka RTA - AP231( 06-MAY-2022 )
+[2025-06-11 05:39:15] Clicked RTO dropdown using method 1
+[2025-06-11 05:39:16] Clicked RTO option: Gajuwaka RTA - AP231( 06-MAY-2022 ) using method 1
+[2025-06-11 05:39:16] Successfully selected RTO: Gajuwaka RTA - AP231( 06-MAY-2022 )
+[2025-06-11 05:39:16] Checking for Badgateway (503) error
+[2025-06-11 05:39:16] Applying left panel filters
+[2025-06-11 05:39:17] Clicked right refresh button using method 1
+[2025-06-11 05:39:21] Opening left panel if needed
+[2025-06-11 05:39:21] Clicked left panel toggler using method 1
+[2025-06-11 05:39:21] Expanded left panel
+[2025-06-11 05:39:23] Selecting vehicle categories and fuel types
+[2025-06-11 05:39:24] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:39:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:39:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:39:26] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:39:27] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:39:27] Vehicle categories and fuel types selected
+[2025-06-11 05:39:28] Clicking left refresh button
+[2025-06-11 05:39:29] Clicked left refresh button using method 1
+[2025-06-11 05:39:29] Left refresh button clicked
+[2025-06-11 05:39:34] Left panel collapsed successfully.
+[2025-06-11 05:39:34] Checking for Badgateway (503) error
+[2025-06-11 05:39:34] Downloading Excel file for Andhra Pradesh(83), Gajuwaka RTA - AP231( 06-MAY-2022 ), 2023
+[2025-06-11 05:39:35] Clicked Excel download button using method 1
+[2025-06-11 05:39:35] Clicked Excel download button
+[2025-06-11 05:39:38] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:39:38] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:40:38] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Gajuwaka RTA - AP231( 06-MAY-2022 ).xlsx
+[2025-06-11 05:40:38] Successfully processed RTO: Gajuwaka RTA - AP231( 06-MAY-2022 )
+[2025-06-11 05:40:40] 
+Processing RTO: Gudiwada RTA - AP116( 05-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:40:40] Checking for Badgateway (503) error
+[2025-06-11 05:40:40] Selecting RTO: Gudiwada RTA - AP116( 05-MAY-2022 )
+[2025-06-11 05:40:40] Clicked RTO dropdown using method 1
+[2025-06-11 05:40:42] Clicked RTO option: Gudiwada RTA - AP116( 05-MAY-2022 ) using method 1
+[2025-06-11 05:40:42] Successfully selected RTO: Gudiwada RTA - AP116( 05-MAY-2022 )
+[2025-06-11 05:40:42] Checking for Badgateway (503) error
+[2025-06-11 05:40:42] Applying left panel filters
+[2025-06-11 05:40:42] Clicked right refresh button using method 1
+[2025-06-11 05:40:46] Opening left panel if needed
+[2025-06-11 05:40:47] Clicked left panel toggler using method 1
+[2025-06-11 05:40:47] Expanded left panel
+[2025-06-11 05:40:48] Selecting vehicle categories and fuel types
+[2025-06-11 05:40:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:40:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:40:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:40:51] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:40:52] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:40:52] Vehicle categories and fuel types selected
+[2025-06-11 05:40:53] Clicking left refresh button
+[2025-06-11 05:40:53] Clicked left refresh button using method 1
+[2025-06-11 05:40:53] Left refresh button clicked
+[2025-06-11 05:40:58] Left panel collapsed successfully.
+[2025-06-11 05:40:58] Checking for Badgateway (503) error
+[2025-06-11 05:40:58] Downloading Excel file for Andhra Pradesh(83), Gudiwada RTA - AP116( 05-MAY-2022 ), 2023
+[2025-06-11 05:40:59] Clicked Excel download button using method 1
+[2025-06-11 05:40:59] Clicked Excel download button
+[2025-06-11 05:41:02] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:41:02] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:42:02] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Gudiwada RTA - AP116( 05-MAY-2022 ).xlsx
+[2025-06-11 05:42:02] Successfully processed RTO: Gudiwada RTA - AP116( 05-MAY-2022 )
+[2025-06-11 05:42:06] 
+Processing RTO: Gudur RTA - AP226( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:42:06] Checking for Badgateway (503) error
+[2025-06-11 05:42:06] Selecting RTO: Gudur RTA - AP226( 06-MAY-2022 )
+[2025-06-11 05:42:07] Clicked RTO dropdown using method 1
+[2025-06-11 05:42:08] Clicked RTO option: Gudur RTA - AP226( 06-MAY-2022 ) using method 1
+[2025-06-11 05:42:08] Successfully selected RTO: Gudur RTA - AP226( 06-MAY-2022 )
+[2025-06-11 05:42:08] Checking for Badgateway (503) error
+[2025-06-11 05:42:08] Applying left panel filters
+[2025-06-11 05:42:09] Clicked right refresh button using method 1
+[2025-06-11 05:42:13] Opening left panel if needed
+[2025-06-11 05:42:13] Clicked left panel toggler using method 1
+[2025-06-11 05:42:13] Expanded left panel
+[2025-06-11 05:42:14] Selecting vehicle categories and fuel types
+[2025-06-11 05:42:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:42:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:42:16] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:42:17] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:42:18] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:42:18] Vehicle categories and fuel types selected
+[2025-06-11 05:42:19] Clicking left refresh button
+[2025-06-11 05:42:19] Clicked left refresh button using method 1
+[2025-06-11 05:42:19] Left refresh button clicked
+[2025-06-11 05:42:24] Left panel collapsed successfully.
+[2025-06-11 05:42:24] Checking for Badgateway (503) error
+[2025-06-11 05:42:24] Downloading Excel file for Andhra Pradesh(83), Gudur RTA - AP226( 06-MAY-2022 ), 2023
+[2025-06-11 05:42:25] Clicked Excel download button using method 1
+[2025-06-11 05:42:25] Clicked Excel download button
+[2025-06-11 05:42:28] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:42:28] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:43:28] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Gudur RTA - AP226( 06-MAY-2022 ).xlsx
+[2025-06-11 05:43:28] Successfully processed RTO: Gudur RTA - AP226( 06-MAY-2022 )
+[2025-06-11 05:43:32] 
+Processing RTO: Guntakal UO - AP202( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:43:32] Checking for Badgateway (503) error
+[2025-06-11 05:43:32] Selecting RTO: Guntakal UO - AP202( 06-MAY-2022 )
+[2025-06-11 05:43:32] Clicked RTO dropdown using method 1
+[2025-06-11 05:43:34] Clicked RTO option: Guntakal UO - AP202( 06-MAY-2022 ) using method 1
+[2025-06-11 05:43:34] Successfully selected RTO: Guntakal UO - AP202( 06-MAY-2022 )
+[2025-06-11 05:43:34] Checking for Badgateway (503) error
+[2025-06-11 05:43:34] Applying left panel filters
+[2025-06-11 05:43:34] Clicked right refresh button using method 1
+[2025-06-11 05:43:39] Opening left panel if needed
+[2025-06-11 05:43:39] Clicked left panel toggler using method 1
+[2025-06-11 05:43:39] Expanded left panel
+[2025-06-11 05:43:41] Selecting vehicle categories and fuel types
+[2025-06-11 05:43:41] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:43:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:43:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:43:44] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:43:44] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:43:45] Vehicle categories and fuel types selected
+[2025-06-11 05:43:46] Clicking left refresh button
+[2025-06-11 05:43:46] Clicked left refresh button using method 1
+[2025-06-11 05:43:46] Left refresh button clicked
+[2025-06-11 05:43:51] Left panel collapsed successfully.
+[2025-06-11 05:43:51] Checking for Badgateway (503) error
+[2025-06-11 05:43:51] Downloading Excel file for Andhra Pradesh(83), Guntakal UO - AP202( 06-MAY-2022 ), 2023
+[2025-06-11 05:43:52] Clicked Excel download button using method 1
+[2025-06-11 05:43:52] Clicked Excel download button
+[2025-06-11 05:43:56] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:43:56] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:44:56] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Guntakal UO - AP202( 06-MAY-2022 ).xlsx
+[2025-06-11 05:44:56] Successfully processed RTO: Guntakal UO - AP202( 06-MAY-2022 )
+[2025-06-11 05:45:00] 
+Processing RTO: Guntur RTA - AP7( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:45:00] Checking for Badgateway (503) error
+[2025-06-11 05:45:00] Selecting RTO: Guntur RTA - AP7( 25-APR-2022 )
+[2025-06-11 05:45:01] Clicked RTO dropdown using method 1
+[2025-06-11 05:45:02] Clicked RTO option: Guntur RTA - AP7( 25-APR-2022 ) using method 1
+[2025-06-11 05:45:02] Successfully selected RTO: Guntur RTA - AP7( 25-APR-2022 )
+[2025-06-11 05:45:02] Checking for Badgateway (503) error
+[2025-06-11 05:45:02] Applying left panel filters
+[2025-06-11 05:45:03] Clicked right refresh button using method 1
+[2025-06-11 05:45:07] Opening left panel if needed
+[2025-06-11 05:45:08] Clicked left panel toggler using method 1
+[2025-06-11 05:45:08] Expanded left panel
+[2025-06-11 05:45:09] Selecting vehicle categories and fuel types
+[2025-06-11 05:45:09] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:45:10] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:45:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:45:12] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:45:13] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:45:13] Vehicle categories and fuel types selected
+[2025-06-11 05:45:14] Clicking left refresh button
+[2025-06-11 05:45:14] Clicked left refresh button using method 1
+[2025-06-11 05:45:14] Left refresh button clicked
+[2025-06-11 05:45:19] Left panel collapsed successfully.
+[2025-06-11 05:45:19] Checking for Badgateway (503) error
+[2025-06-11 05:45:19] Downloading Excel file for Andhra Pradesh(83), Guntur RTA - AP7( 25-APR-2022 ), 2023
+[2025-06-11 05:45:20] Clicked Excel download button using method 1
+[2025-06-11 05:45:20] Clicked Excel download button
+[2025-06-11 05:45:23] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:45:23] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:46:23] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Guntur RTA - AP7( 25-APR-2022 ).xlsx
+[2025-06-11 05:46:23] Successfully processed RTO: Guntur RTA - AP7( 25-APR-2022 )
+[2025-06-11 05:46:27] 
+Processing RTO: Hindupur RTA - AP102( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:46:27] Checking for Badgateway (503) error
+[2025-06-11 05:46:27] Selecting RTO: Hindupur RTA - AP102( 25-APR-2022 )
+[2025-06-11 05:46:28] Clicked RTO dropdown using method 1
+[2025-06-11 05:46:28] Clicked RTO option: Hindupur RTA - AP102( 25-APR-2022 ) using method 1
+[2025-06-11 05:46:28] Successfully selected RTO: Hindupur RTA - AP102( 25-APR-2022 )
+[2025-06-11 05:46:28] Checking for Badgateway (503) error
+[2025-06-11 05:46:29] Applying left panel filters
+[2025-06-11 05:46:29] Clicked right refresh button using method 1
+[2025-06-11 05:46:34] Opening left panel if needed
+[2025-06-11 05:46:34] Clicked left panel toggler using method 1
+[2025-06-11 05:46:34] Expanded left panel
+[2025-06-11 05:46:35] Selecting vehicle categories and fuel types
+[2025-06-11 05:46:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:46:37] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:46:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:46:38] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:46:39] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:46:39] Vehicle categories and fuel types selected
+[2025-06-11 05:46:40] Clicking left refresh button
+[2025-06-11 05:46:40] Clicked left refresh button using method 1
+[2025-06-11 05:46:40] Left refresh button clicked
+[2025-06-11 05:46:45] Left panel collapsed successfully.
+[2025-06-11 05:46:45] Checking for Badgateway (503) error
+[2025-06-11 05:46:45] Downloading Excel file for Andhra Pradesh(83), Hindupur RTA - AP102( 25-APR-2022 ), 2023
+[2025-06-11 05:46:46] Clicked Excel download button using method 1
+[2025-06-11 05:46:46] Clicked Excel download button
+[2025-06-11 05:46:49] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:46:49] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:47:49] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Hindupur RTA - AP102( 25-APR-2022 ).xlsx
+[2025-06-11 05:47:49] Successfully processed RTO: Hindupur RTA - AP102( 25-APR-2022 )
+[2025-06-11 05:47:53] 
+Processing RTO: Itchapuram MVI Office - AP130( 12-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:47:53] Checking for Badgateway (503) error
+[2025-06-11 05:47:54] Selecting RTO: Itchapuram MVI Office - AP130( 12-MAY-2022 )
+[2025-06-11 05:47:54] Clicked RTO dropdown using method 1
+[2025-06-11 05:47:55] Clicked RTO option: Itchapuram MVI Office - AP130( 12-MAY-2022 ) using method 1
+[2025-06-11 05:47:55] Successfully selected RTO: Itchapuram MVI Office - AP130( 12-MAY-2022 )
+[2025-06-11 05:47:55] Checking for Badgateway (503) error
+[2025-06-11 05:47:55] Applying left panel filters
+[2025-06-11 05:47:56] Clicked right refresh button using method 1
+[2025-06-11 05:48:00] Opening left panel if needed
+[2025-06-11 05:48:00] Clicked left panel toggler using method 1
+[2025-06-11 05:48:00] Expanded left panel
+[2025-06-11 05:48:02] Selecting vehicle categories and fuel types
+[2025-06-11 05:48:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:48:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:48:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:48:05] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:48:06] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:48:07] Vehicle categories and fuel types selected
+[2025-06-11 05:48:08] Clicking left refresh button
+[2025-06-11 05:48:08] Clicked left refresh button using method 1
+[2025-06-11 05:48:08] Left refresh button clicked
+[2025-06-11 05:48:13] Left panel collapsed successfully.
+[2025-06-11 05:48:13] Checking for Badgateway (503) error
+[2025-06-11 05:48:13] Downloading Excel file for Andhra Pradesh(83), Itchapuram MVI Office - AP130( 12-MAY-2022 ), 2023
+[2025-06-11 05:48:13] Clicked Excel download button using method 1
+[2025-06-11 05:48:13] Clicked Excel download button
+[2025-06-11 05:48:17] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:48:17] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:49:17] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Itchapuram MVI Office - AP130( 12-MAY-2022 ).xlsx
+[2025-06-11 05:49:17] Successfully processed RTO: Itchapuram MVI Office - AP130( 12-MAY-2022 )
+[2025-06-11 05:49:22] 
+Processing RTO: Jaggayyapet UO - AP616( 05-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:49:22] Checking for Badgateway (503) error
+[2025-06-11 05:49:22] Selecting RTO: Jaggayyapet UO - AP616( 05-MAY-2022 )
+[2025-06-11 05:49:23] Clicked RTO dropdown using method 1
+[2025-06-11 05:49:24] Clicked RTO option: Jaggayyapet UO - AP616( 05-MAY-2022 ) using method 1
+[2025-06-11 05:49:24] Successfully selected RTO: Jaggayyapet UO - AP616( 05-MAY-2022 )
+[2025-06-11 05:49:24] Checking for Badgateway (503) error
+[2025-06-11 05:49:24] Applying left panel filters
+[2025-06-11 05:49:25] Clicked right refresh button using method 1
+[2025-06-11 05:49:29] Opening left panel if needed
+[2025-06-11 05:49:30] Clicked left panel toggler using method 1
+[2025-06-11 05:49:30] Expanded left panel
+[2025-06-11 05:49:31] Selecting vehicle categories and fuel types
+[2025-06-11 05:49:32] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:49:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:49:33] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:49:34] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:49:35] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:49:36] Vehicle categories and fuel types selected
+[2025-06-11 05:49:36] Clicking left refresh button
+[2025-06-11 05:49:37] Clicked left refresh button using method 1
+[2025-06-11 05:49:37] Left refresh button clicked
+[2025-06-11 05:49:42] Left panel collapsed successfully.
+[2025-06-11 05:49:42] Checking for Badgateway (503) error
+[2025-06-11 05:49:42] Downloading Excel file for Andhra Pradesh(83), Jaggayyapet UO - AP616( 05-MAY-2022 ), 2023
+[2025-06-11 05:49:43] Clicked Excel download button using method 1
+[2025-06-11 05:49:43] Clicked Excel download button
+[2025-06-11 05:49:46] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:49:46] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:50:46] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Jaggayyapet UO - AP616( 05-MAY-2022 ).xlsx
+[2025-06-11 05:50:47] Successfully processed RTO: Jaggayyapet UO - AP616( 05-MAY-2022 )
+[2025-06-11 05:50:49] 
+Processing RTO: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:50:49] Checking for Badgateway (503) error
+[2025-06-11 05:50:49] Selecting RTO: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 )
+[2025-06-11 05:50:49] Clicked RTO dropdown using method 1
+[2025-06-11 05:50:51] Clicked RTO option: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 ) using method 1
+[2025-06-11 05:50:51] Successfully selected RTO: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 )
+[2025-06-11 05:50:51] Checking for Badgateway (503) error
+[2025-06-11 05:50:52] Applying left panel filters
+[2025-06-11 05:50:53] Clicked right refresh button using method 1
+[2025-06-11 05:50:58] Opening left panel if needed
+[2025-06-11 05:50:58] Clicked left panel toggler using method 1
+[2025-06-11 05:50:58] Expanded left panel
+[2025-06-11 05:51:00] Selecting vehicle categories and fuel types
+[2025-06-11 05:51:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:51:01] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:51:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:51:03] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:51:04] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:51:04] Vehicle categories and fuel types selected
+[2025-06-11 05:51:05] Clicking left refresh button
+[2025-06-11 05:51:05] Clicked left refresh button using method 1
+[2025-06-11 05:51:05] Left refresh button clicked
+[2025-06-11 05:51:11] Left panel collapsed successfully.
+[2025-06-11 05:51:11] Checking for Badgateway (503) error
+[2025-06-11 05:51:11] Downloading Excel file for Andhra Pradesh(83), JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 ), 2023
+[2025-06-11 05:51:11] Clicked Excel download button using method 1
+[2025-06-11 05:51:11] Clicked Excel download button
+[2025-06-11 05:51:15] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:51:15] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:52:15] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 ).xlsx
+[2025-06-11 05:52:15] Successfully processed RTO: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 )
+[2025-06-11 05:52:19] 
+Processing RTO: Kalyandurg RTO office - AP702( 04-DEC-2024 ) (Attempt 1)
+[2025-06-11 05:52:19] Checking for Badgateway (503) error
+[2025-06-11 05:52:19] Selecting RTO: Kalyandurg RTO office - AP702( 04-DEC-2024 )
+[2025-06-11 05:52:20] Clicked RTO dropdown using method 1
+[2025-06-11 05:52:21] Clicked RTO option: Kalyandurg RTO office - AP702( 04-DEC-2024 ) using method 1
+[2025-06-11 05:52:21] Successfully selected RTO: Kalyandurg RTO office - AP702( 04-DEC-2024 )
+[2025-06-11 05:52:21] Checking for Badgateway (503) error
+[2025-06-11 05:52:21] Applying left panel filters
+[2025-06-11 05:52:22] Clicked right refresh button using method 1
+[2025-06-11 05:52:27] Opening left panel if needed
+[2025-06-11 05:52:27] Clicked left panel toggler using method 1
+[2025-06-11 05:52:27] Expanded left panel
+[2025-06-11 05:52:29] Selecting vehicle categories and fuel types
+[2025-06-11 05:52:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:52:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:52:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:52:31] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:52:32] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:52:32] Vehicle categories and fuel types selected
+[2025-06-11 05:52:33] Clicking left refresh button
+[2025-06-11 05:52:34] Clicked left refresh button using method 1
+[2025-06-11 05:52:34] Left refresh button clicked
+[2025-06-11 05:52:38] Left panel collapsed successfully.
+[2025-06-11 05:52:38] Checking for Badgateway (503) error
+[2025-06-11 05:52:38] Downloading Excel file for Andhra Pradesh(83), Kalyandurg RTO office - AP702( 04-DEC-2024 ), 2023
+[2025-06-11 05:52:39] Clicked Excel download button using method 1
+[2025-06-11 05:52:39] Clicked Excel download button
+[2025-06-11 05:52:43] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:52:43] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:53:43] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Kalyandurg RTO office - AP702( 04-DEC-2024 ).xlsx
+[2025-06-11 05:53:43] Successfully processed RTO: Kalyandurg RTO office - AP702( 04-DEC-2024 )
+[2025-06-11 05:53:45] 
+Processing RTO: Kandukur MVI Office - AP227( 11-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:53:45] Checking for Badgateway (503) error
+[2025-06-11 05:53:45] Selecting RTO: Kandukur MVI Office - AP227( 11-MAY-2022 )
+[2025-06-11 05:53:46] Clicked RTO dropdown using method 1
+[2025-06-11 05:53:47] Clicked RTO option: Kandukur MVI Office - AP227( 11-MAY-2022 ) using method 1
+[2025-06-11 05:53:47] Successfully selected RTO: Kandukur MVI Office - AP227( 11-MAY-2022 )
+[2025-06-11 05:53:47] Checking for Badgateway (503) error
+[2025-06-11 05:53:47] Applying left panel filters
+[2025-06-11 05:53:48] Clicked right refresh button using method 1
+[2025-06-11 05:53:52] Opening left panel if needed
+[2025-06-11 05:53:53] Clicked left panel toggler using method 1
+[2025-06-11 05:53:53] Expanded left panel
+[2025-06-11 05:53:54] Selecting vehicle categories and fuel types
+[2025-06-11 05:53:54] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:53:55] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:53:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:53:57] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:53:58] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:53:58] Vehicle categories and fuel types selected
+[2025-06-11 05:53:59] Clicking left refresh button
+[2025-06-11 05:53:59] Clicked left refresh button using method 1
+[2025-06-11 05:53:59] Left refresh button clicked
+[2025-06-11 05:54:04] Left panel collapsed successfully.
+[2025-06-11 05:54:04] Checking for Badgateway (503) error
+[2025-06-11 05:54:04] Downloading Excel file for Andhra Pradesh(83), Kandukur MVI Office - AP227( 11-MAY-2022 ), 2023
+[2025-06-11 05:54:04] Clicked Excel download button using method 1
+[2025-06-11 05:54:04] Clicked Excel download button
+[2025-06-11 05:54:08] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:54:08] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:55:08] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Kandukur MVI Office - AP227( 11-MAY-2022 ).xlsx
+[2025-06-11 05:55:08] Successfully processed RTO: Kandukur MVI Office - AP227( 11-MAY-2022 )
+[2025-06-11 05:55:11] 
+Processing RTO: Kavali UO - AP326( 11-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:55:11] Checking for Badgateway (503) error
+[2025-06-11 05:55:11] Selecting RTO: Kavali UO - AP326( 11-MAY-2022 )
+[2025-06-11 05:55:12] Clicked RTO dropdown using method 1
+[2025-06-11 05:55:13] Clicked RTO option: Kavali UO - AP326( 11-MAY-2022 ) using method 1
+[2025-06-11 05:55:13] Successfully selected RTO: Kavali UO - AP326( 11-MAY-2022 )
+[2025-06-11 05:55:13] Checking for Badgateway (503) error
+[2025-06-11 05:55:13] Applying left panel filters
+[2025-06-11 05:55:14] Clicked right refresh button using method 1
+[2025-06-11 05:55:18] Opening left panel if needed
+[2025-06-11 05:55:19] Clicked left panel toggler using method 1
+[2025-06-11 05:55:19] Expanded left panel
+[2025-06-11 05:55:20] Selecting vehicle categories and fuel types
+[2025-06-11 05:55:21] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:55:22] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:55:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:55:23] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:55:24] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:55:24] Vehicle categories and fuel types selected
+[2025-06-11 05:55:25] Clicking left refresh button
+[2025-06-11 05:55:25] Clicked left refresh button using method 1
+[2025-06-11 05:55:25] Left refresh button clicked
+[2025-06-11 05:55:30] Left panel collapsed successfully.
+[2025-06-11 05:55:30] Checking for Badgateway (503) error
+[2025-06-11 05:55:30] Downloading Excel file for Andhra Pradesh(83), Kavali UO - AP326( 11-MAY-2022 ), 2023
+[2025-06-11 05:55:31] Clicked Excel download button using method 1
+[2025-06-11 05:55:31] Clicked Excel download button
+[2025-06-11 05:55:34] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:55:34] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:56:34] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Kavali UO - AP326( 11-MAY-2022 ).xlsx
+[2025-06-11 05:56:34] Successfully processed RTO: Kavali UO - AP326( 11-MAY-2022 )
+[2025-06-11 05:56:37] 
+Processing RTO: Kovvuru UO - AP337( 12-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:56:37] Checking for Badgateway (503) error
+[2025-06-11 05:56:37] Selecting RTO: Kovvuru UO - AP337( 12-MAY-2022 )
+[2025-06-11 05:56:38] Clicked RTO dropdown using method 1
+[2025-06-11 05:56:39] Clicked RTO option: Kovvuru UO - AP337( 12-MAY-2022 ) using method 1
+[2025-06-11 05:56:39] Successfully selected RTO: Kovvuru UO - AP337( 12-MAY-2022 )
+[2025-06-11 05:56:39] Checking for Badgateway (503) error
+[2025-06-11 05:56:40] Applying left panel filters
+[2025-06-11 05:56:41] Clicked right refresh button using method 1
+[2025-06-11 05:56:45] Opening left panel if needed
+[2025-06-11 05:56:46] Clicked left panel toggler using method 1
+[2025-06-11 05:56:46] Expanded left panel
+[2025-06-11 05:56:47] Selecting vehicle categories and fuel types
+[2025-06-11 05:56:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:56:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:56:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:56:50] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:56:51] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:56:51] Vehicle categories and fuel types selected
+[2025-06-11 05:56:52] Clicking left refresh button
+[2025-06-11 05:56:53] Clicked left refresh button using method 1
+[2025-06-11 05:56:53] Left refresh button clicked
+[2025-06-11 05:56:58] Left panel collapsed successfully.
+[2025-06-11 05:56:58] Checking for Badgateway (503) error
+[2025-06-11 05:56:58] Downloading Excel file for Andhra Pradesh(83), Kovvuru UO - AP337( 12-MAY-2022 ), 2023
+[2025-06-11 05:56:59] Clicked Excel download button using method 1
+[2025-06-11 05:56:59] Clicked Excel download button
+[2025-06-11 05:57:02] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:57:02] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:58:02] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Kovvuru UO - AP337( 12-MAY-2022 ).xlsx
+[2025-06-11 05:58:02] Successfully processed RTO: Kovvuru UO - AP337( 12-MAY-2022 )
+[2025-06-11 05:58:06] 
+Processing RTO: Kurnool RTA - AP21( 25-APR-2022 ) (Attempt 1)
+[2025-06-11 05:58:06] Checking for Badgateway (503) error
+[2025-06-11 05:58:06] Selecting RTO: Kurnool RTA - AP21( 25-APR-2022 )
+[2025-06-11 05:58:06] Clicked RTO dropdown using method 1
+[2025-06-11 05:58:07] Clicked RTO option: Kurnool RTA - AP21( 25-APR-2022 ) using method 1
+[2025-06-11 05:58:07] Successfully selected RTO: Kurnool RTA - AP21( 25-APR-2022 )
+[2025-06-11 05:58:07] Checking for Badgateway (503) error
+[2025-06-11 05:58:07] Applying left panel filters
+[2025-06-11 05:58:08] Clicked right refresh button using method 1
+[2025-06-11 05:58:12] Opening left panel if needed
+[2025-06-11 05:58:13] Clicked left panel toggler using method 1
+[2025-06-11 05:58:13] Expanded left panel
+[2025-06-11 05:58:14] Selecting vehicle categories and fuel types
+[2025-06-11 05:58:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-11 05:58:15] Clicked checkbox VhCatg:1 using method 2
+[2025-06-11 05:58:16] Clicked checkbox VhCatg:2 using method 2
+[2025-06-11 05:58:17] Clicked checkbox fuel:7 using method 2
+[2025-06-11 05:58:18] Clicked checkbox fuel:21 using method 2
+[2025-06-11 05:58:18] Vehicle categories and fuel types selected
+[2025-06-11 05:58:19] Clicking left refresh button
+[2025-06-11 05:58:19] Clicked left refresh button using method 1
+[2025-06-11 05:58:19] Left refresh button clicked
+[2025-06-11 05:58:25] Left panel collapsed successfully.
+[2025-06-11 05:58:25] Checking for Badgateway (503) error
+[2025-06-11 05:58:25] Downloading Excel file for Andhra Pradesh(83), Kurnool RTA - AP21( 25-APR-2022 ), 2023
+[2025-06-11 05:58:26] Clicked Excel download button using method 1
+[2025-06-11 05:58:26] Clicked Excel download button
+[2025-06-11 05:58:29] BASE_DOWNLOAD_DIR being checked: /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data
+[2025-06-11 05:58:29] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-11 05:59:29] Moving file from /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/reportTable.xlsx to /home/ubuntu/new_VahanData/VahanDataScrapper/rto_wise_data/2023/Andhra Pradesh(83)/Kurnool RTA - AP21( 25-APR-2022 ).xlsx
+[2025-06-11 05:59:29] Successfully processed RTO: Kurnool RTA - AP21( 25-APR-2022 )
+[2025-06-11 05:59:33] 
+Processing RTO: Macherla MVI Office - AP407( 06-MAY-2022 ) (Attempt 1)
+[2025-06-11 05:59:33] Checking for Badgateway (503) error
+[2025-06-11 05:59:33] Selecting RTO: Macherla MVI Office - AP407( 06-MAY-2022 )
+[2025-06-11 05:59:33] Clicked RTO dropdown using method 1

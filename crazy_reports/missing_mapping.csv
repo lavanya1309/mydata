@@ -1,0 +1,204 @@
+RTO Code,City,District
+AP41,Chilakaluripet,Guntur
+CG31,Not found,Not found
+HP12,Nalagarh,Solan
+HP14,Solan,Solan
+HP15,Solan,Solan
+HP16,Sirmaur,Sirmaur
+HP17,Paonta Sahib,Sirmaur
+HP18,Nahan,Sirmaur
+HP19,Amb,Una
+HP20,Una,Una
+HP21,Barsar,Hamirpur
+HP22,Hamirpur,Hamirpur
+HP23,Bilaspur,Bilaspur
+HP24,Bilaspur,Bilaspur
+HP25,Rekong Peo,Kinnaur
+HP28,Sarkaghat,Mandi
+HP29,Jogindernagar,Mandi
+HP31,Sundernagar,Mandi
+HP32,Gohar,Mandi
+HP33,Mandi,Mandi
+HP34,Kullu,Kullu
+HP36,Dehra,Kangra
+HP37,Palampur,Kangra
+HP38,Nurpur,Kangra
+HP39,Kangra,Kangra
+HP40,Kangra,Kangra
+HP48,Chamba,Chamba
+HP53,Baijnath,Kangra
+HP54,Jawali,Kangra
+HP55,Nadaun,Hamirpur
+HP56,Jaisinghpur,Kangra
+HP57,Chowari,Chamba
+HP58,Manali,Kullu
+HP63,Shimla,Shimla
+HP64,Solan,Solan
+HP65,Mandi,Mandi
+HP66,Kullu,Kullu
+HP67,Hamirpur,Hamirpur
+HP68,Dharamshala,Kangra
+HP71,Nahan,Sirmaur
+HP72,Una,Una
+HP73,Chamba,Chamba
+HP74,Bhoranj,Hamirpur
+HP78,Bangana,Una
+HP80,Haroli,Una
+HP82,Balh,Mandi
+HP83,Jawalaji,Kangra
+HP84,Sujanpur Tihra,Hamirpur
+HP86,Dharampur,Mandi
+HP88,Fatehpur,Kangra
+HP89,Jhandutta,Bilaspur
+HP90,Shahpur,Kangra
+HP91,Naina Devi (Swarghat),Bilaspur
+HP94,Nagrota Bagwan,Kangra
+HP96,Dheera,Kangra
+HP97,Indora,Kangra
+HP98,Kasauli,Solan
+WB75,Katwa,Purba Bardhaman
+AP221,Adoni,Kurnool
+AP205,Amalapuram,Konaseema
+AP131,Anakapalli,Anakapalli
+AP126,Atmakur,Kurnool
+AP207,Bapatla,Bapatla
+AP137,Bhimavaram,West Godavari
+AP307,Chilakaluripeta,Prakasam
+AP905,Chintoor,East Godavari
+AP127,Chirala,Prakasam
+AP427,Darsi,Prakasam
+AP231,Gajuwaka,Visakhapatnam
+AP116,Gudiwada,Krishna
+AP226,Gudur,Nellore
+AP202,Guntakal,Anantapur
+AP102,Hindupur,Anantapur
+AP130,Itchapuram,Srikakulam
+AP616,Jaggayyapet,Krishna
+AP237,Jangareddygudem,West Godavari
+AP227,Kandukur,Prakasam
+AP326,Kavali,Nellore
+AP337,Kovvuru,West Godavari
+AP407,Macherla,Prakasam
+AP405,Mandapeta,East Godavari
+AP327,Markapur,Prakasam
+AP316,Nandigama,Krishna
+AP121,Nandyal,Nandyal
+AP107,Narasaraopet,Palnadu
+AP331,Narsipatnam,Visakhapatnam
+AP416,Nuzvid,Krishna
+AP637,Palakole,West Godavari
+AP230,Palakonda,Parvathipuram Manyam
+AP303,Palamaner,Chittoor
+AP135,Parvathipuram,Parvathipuram Manyam
+AP607,Piduguralla,Palnadu
+AP204,Proddutur,YSR
+AP304,Pulivendula,YSR
+AP113,Punganur,Chittoor
+AP105,Rajahmundry,East Godavari
+AP605,Ramachandrapuram,East Godavari
+AP705,Ravulapalem,East Godavari
+AP504,Rayachoti,YSR
+AP141,Rampachodavaram,Alluri Sitharama Raju
+AP216,Machilipatnam,Krishna
+AP203,Madanapalle,Chittoor
+AP235,Salur,Parvathipuram Manyam
+AP426,Sullurpet,Nellore
+AP437,Tadepalli Gudem,West Godavari
+AP402,Tadipatri,Anantapur
+AP537,Tanuku,West Godavari
+AP707,Tenali,Guntur
+AP103,Tirupati,Chittoor
+AP305,Kathipudi,East Godavari
+AP502,Rayadurg,Anantapur
+AP516,Vuyyuru,Krishna
+HP101,Gagret,Una
+HP102,Kotli,Sirmaur
+HP100,Pachhad,Sirmaur
+OD901,Barbil,Keonjhar
+OD201,Khordha,Khordha
+OD111,Rairangpur,Mayurbhanj
+TN641,Alangudi,Pudukkottai
+TN644,Alangulam,Tirunelveli
+TN611,Ambasamuthiram,Tirunelveli
+TN612,Ambattur,Chennai
+TN628,Ambur,Vellore
+TN609,Arakkonam,Ranipet
+TN516,Arani,Tiruvannamalai
+TN592,Aranthangi,Pudukkottai
+TN632,Aravakurichi,Karur
+TN622,Aruppukottai,Virudhunagar
+TN591,Attur,Salem
+TN580,Avinashi,Tiruppur
+TN596,Batlagundu,Dindigul
+TN578,Bhavani,Erode
+TN635,Cheyyar,Tiruvannamalai
+TN544,Chidambaram,Cuddalore
+TN594,Dharapuram,Tiruppur
+TN627,Gingee,Villupuram
+TN582,Gudalore,Nilgiris
+TN514,Gudiyatham,Vellore
+TN625,Gummidipoondi,Tiruvallur
+TN527,Harur,Dharmapuri
+TN629,Illuppur,Pudukkottai
+TN615,Kallakurichi,Kallakurichi
+TN593,Kangeyam,Tiruppur
+TN602,Karaikudi,Sivaganga
+TN607,Kovilpatti,Thoothukudi
+TN585,Kulithali,Erode
+TN638,Kumarapalayam,Namakkal
+TN631,Lalkudi,Tiruchirappalli
+TN508,Madurantagam,Kanchipuram
+TN584,Manaparai,Tiruchirappalli
+TN637,Manmangalam,Tiruchirappalli
+TN588,Mannargudi,Tiruvarur
+TN589,Mayiladuthurai,Mayiladuthurai
+TN600,Melur,Madurai
+TN590,Mettur,Salem
+TN621,Musuri,Krishnagiri
+TN640,Natham,Dindigul
+TN562,Neyveli,Cuddalore
+TN595,Oddanchatram,Dindigul
+TN535,Omalur,Salem
+TN616,Palacode,Dharmapuri
+TN597,Palani,Dindigul
+TN626,Panruti,Cuddalore
+TN603,Paramakudi,Ramanathapuram
+TN517,Paramathi Vellure,Namakkal
+TN587,Pattukottai,Thanjavur
+TN511,Poonamallee,Chennai
+TN643,Rajapalayam,Virudhunagar
+TN526,Rasipuram,Namakkal
+TN610,Sankarankovil,Tirunelveli
+TN579,Sathyamangalam,Erode
+TN512,Sholinganallur,Chennai
+TN623,Sirkali,Nagapattinam
+TN604,Sivakasi,Virudhunagar
+TN614,Sriperumbudur,Kanchipuram
+TN605,Srivilliputhur,Virudhunagar
+TN620,Sulur,Coimbatore
+TN513,Tambaram,Chennai
+TN606,Thiruchendur,Thoothukudi
+TN639,Thirukalukuntram,Tiruchirappalli
+TN598,Thirumangalam,Madurai
+TN624,Thirupattur,Vellore
+TN630,Thiruthuraipoondi,Tiruvarur
+TN634,Thiruttani,Tiruvallur
+TN586,Thuraiyur,Tiruchirappalli
+TN571,Tindivanam,Villupuram
+TN583,Tiruveranbur,Tiruvarur
+TN581,Udumalpet,Tiruppur
+TN577,Ulundurpet,Kallakurichi
+TN636,Usilampatti,Madurai
+TN601,Uthamapalayam,Theni
+TN599,Vadipatti,Madurai
+TN613,Valappadi,Salem
+TN608,Valliyur,Tirunelveli
+TN515,Vaniyambadi,Vellore
+TN617,Vedachandur,Dindigul
+TN553,Virudhachalam,Cuddalore
+UP321,Lucknow,Lucknow
+HP8,Chopal,Shimla
+HP9,Theog,Shimla
+DD3,Daman,Daman
+DD2,Diu,Diu
+DD1,Silvassa,Dadra and Nagar Haveli

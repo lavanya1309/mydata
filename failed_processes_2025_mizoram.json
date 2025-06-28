@@ -1,0 +1,98 @@
+[
+    {
+        "state": "Mizoram(10)",
+        "year": "2025",
+        "failed_rtos": [
+            "LAWNGTLAI - MZ7( 10-MAY-2018 )",
+            "LUNGLEI - MZ2( 29-AUG-2017 )",
+            "MAMIT - MZ8( 29-AUG-2017 )",
+            "SAIHA - MZ3( 29-AUG-2017 )",
+            "SERCHHIP - MZ6( 29-AUG-2017 )",
+            "STATE TRANSPORT AUTHORITY - MZ99( 30-AUG-2017 )"
+        ]
+    },
+    {
+        "state": "Nagaland(9)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Odisha(39)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Puducherry(8)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Punjab(96)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Rajasthan(59)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Sikkim(9)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Tamil Nadu(148)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Tripura(9)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Uttarakhand(21)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "Uttar Pradesh(77)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "UT of DNH and DD(3)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    },
+    {
+        "state": "West Bengal(57)",
+        "year": "2025",
+        "failed_rtos": [
+            "All RTOs (configuration failed)"
+        ]
+    }
+]

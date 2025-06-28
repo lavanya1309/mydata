@@ -1,0 +1,1741 @@
+[2025-06-12 15:58:15] Loading page
+[2025-06-12 15:58:17] Page loaded
+[2025-06-12 15:58:17] 
+=== Starting RTO-wise processing ===
+[2025-06-12 15:58:17] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 15:58:17] 
+Processing state: West Bengal(57), Year: 2022
+[2025-06-12 15:58:17] 
+=== Starting RTO-wise processing for West Bengal(57), 2022 ===
+
+[2025-06-12 15:58:17] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-12 15:58:18] Clicked Y-axis dropdown using method 1
+[2025-06-12 15:58:19] Clicked Maker option using method 1
+[2025-06-12 15:58:20] Clicked X-axis dropdown using method 1
+[2025-06-12 15:58:21] Clicked Month Wise option using method 1
+[2025-06-12 15:58:21] Axis setup completed
+[2025-06-12 15:58:21] Selecting State: West Bengal(57)
+[2025-06-12 15:58:22] Clicked state dropdown label using method 1
+[2025-06-12 15:58:23] Clicked state option: West Bengal(57) using method 1
+[2025-06-12 15:58:23] Successfully selected state: West Bengal(59)
+[2025-06-12 15:58:23] Selecting Year: 2022
+[2025-06-12 15:58:24] Clicked year dropdown using method 1
+[2025-06-12 15:58:25] Clicked year option: 2022 using method 1
+[2025-06-12 15:58:25] Successfully selected year: 2022
+[2025-06-12 15:58:25] Getting list of all RTOs for the selected state
+[2025-06-12 15:58:25] Clicked RTO dropdown label using method 1
+[2025-06-12 15:58:26] Found 59 RTOs for the state
+[2025-06-12 15:58:26] 
+Processing RTO 1/59: ALIPORE RTO - WB19( 13-DEC-2016 ) (Attempt 1/2)
+[2025-06-12 15:58:26] Selecting RTO: ALIPORE RTO - WB19( 13-DEC-2016 )
+[2025-06-12 15:58:27] Clicked RTO dropdown using method 1
+[2025-06-12 15:58:28] Clicked RTO option: ALIPORE RTO - WB19( 13-DEC-2016 ) using method 1
+[2025-06-12 15:58:28] Successfully selected RTO: ALIPORE RTO - WB19( 13-DEC-2016 )
+[2025-06-12 15:58:29] Applying left panel filters
+[2025-06-12 15:58:29] Clicked right refresh button using method 1
+[2025-06-12 15:58:34] Opening left panel if needed
+[2025-06-12 15:58:34] Clicked left panel toggler using method 1
+[2025-06-12 15:58:34] Expanded left panel
+[2025-06-12 15:58:35] Selecting vehicle categories and fuel types
+[2025-06-12 15:58:36] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 15:58:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 15:58:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 15:58:38] Clicked checkbox fuel:7 using method 2
+[2025-06-12 15:58:39] Clicked checkbox fuel:21 using method 2
+[2025-06-12 15:58:39] Vehicle categories and fuel types selected
+[2025-06-12 15:58:40] Clicking left refresh button
+[2025-06-12 15:58:40] Clicked left refresh button using method 1
+[2025-06-12 15:58:40] Left refresh button clicked
+[2025-06-12 15:58:45] Left panel collapsed successfully.
+[2025-06-12 15:58:45] Downloading Excel file for West Bengal(57), ALIPORE RTO - WB19( 13-DEC-2016 ), 2022
+[2025-06-12 15:58:46] Clicked Excel download button using method 1
+[2025-06-12 15:58:46] Clicked Excel download button
+[2025-06-12 15:58:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 15:58:49] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 15:59:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\ALIPORE RTO - WB19( 13-DEC-2016 ).xlsx
+[2025-06-12 15:59:49] Successfully processed RTO: ALIPORE RTO - WB19( 13-DEC-2016 )
+[2025-06-12 15:59:49] 
+Processing RTO 2/59: ALIPURDUAR RTO - WB69( 22-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 15:59:49] Selecting RTO: ALIPURDUAR RTO - WB69( 22-FEB-2017 )
+[2025-06-12 15:59:50] Clicked RTO dropdown using method 1
+[2025-06-12 15:59:51] Clicked RTO option: ALIPURDUAR RTO - WB69( 22-FEB-2017 ) using method 1
+[2025-06-12 15:59:51] Successfully selected RTO: ALIPURDUAR RTO - WB69( 22-FEB-2017 )
+[2025-06-12 15:59:51] Applying left panel filters
+[2025-06-12 15:59:52] Clicked right refresh button using method 1
+[2025-06-12 15:59:57] Opening left panel if needed
+[2025-06-12 15:59:57] Clicked left panel toggler using method 1
+[2025-06-12 15:59:57] Expanded left panel
+[2025-06-12 15:59:59] Selecting vehicle categories and fuel types
+[2025-06-12 15:59:59] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:00:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:00:00] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:00:01] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:00:02] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:00:02] Vehicle categories and fuel types selected
+[2025-06-12 16:00:03] Clicking left refresh button
+[2025-06-12 16:00:04] Clicked left refresh button using method 1
+[2025-06-12 16:00:04] Left refresh button clicked
+[2025-06-12 16:00:09] Left panel collapsed successfully.
+[2025-06-12 16:00:09] Downloading Excel file for West Bengal(57), ALIPURDUAR RTO - WB69( 22-FEB-2017 ), 2022
+[2025-06-12 16:00:09] Clicked Excel download button using method 1
+[2025-06-12 16:00:09] Clicked Excel download button
+[2025-06-12 16:00:13] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:00:13] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:01:13] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\ALIPURDUAR RTO - WB69( 22-FEB-2017 ).xlsx
+[2025-06-12 16:01:13] Successfully processed RTO: ALIPURDUAR RTO - WB69( 22-FEB-2017 )
+[2025-06-12 16:01:13] 
+Processing RTO 3/59: ARAMBAG ARTO - WB18( 10-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 16:01:13] Selecting RTO: ARAMBAG ARTO - WB18( 10-JAN-2017 )
+[2025-06-12 16:01:13] Clicked RTO dropdown using method 1
+[2025-06-12 16:01:15] Clicked RTO option: ARAMBAG ARTO - WB18( 10-JAN-2017 ) using method 1
+[2025-06-12 16:01:15] Successfully selected RTO: ARAMBAG ARTO - WB18( 10-JAN-2017 )
+[2025-06-12 16:01:15] Applying left panel filters
+[2025-06-12 16:01:15] Clicked right refresh button using method 1
+[2025-06-12 16:01:20] Opening left panel if needed
+[2025-06-12 16:01:20] Clicked left panel toggler using method 1
+[2025-06-12 16:01:20] Expanded left panel
+[2025-06-12 16:01:22] Selecting vehicle categories and fuel types
+[2025-06-12 16:01:22] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:01:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:01:23] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:01:24] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:01:25] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:01:25] Vehicle categories and fuel types selected
+[2025-06-12 16:01:26] Clicking left refresh button
+[2025-06-12 16:01:26] Clicked left refresh button using method 1
+[2025-06-12 16:01:26] Left refresh button clicked
+[2025-06-12 16:01:31] Left panel collapsed successfully.
+[2025-06-12 16:01:31] Downloading Excel file for West Bengal(57), ARAMBAG ARTO - WB18( 10-JAN-2017 ), 2022
+[2025-06-12 16:01:32] Clicked Excel download button using method 1
+[2025-06-12 16:01:32] Clicked Excel download button
+[2025-06-12 16:01:35] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:01:35] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:02:35] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\ARAMBAG ARTO - WB18( 10-JAN-2017 ).xlsx
+[2025-06-12 16:02:35] Successfully processed RTO: ARAMBAG ARTO - WB18( 10-JAN-2017 )
+[2025-06-12 16:02:35] 
+Processing RTO 4/59: BANGAON ARTO - WB27( 17-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 16:02:35] Selecting RTO: BANGAON ARTO - WB27( 17-JAN-2017 )
+[2025-06-12 16:02:36] Clicked RTO dropdown using method 1
+[2025-06-12 16:02:37] Clicked RTO option: BANGAON ARTO - WB27( 17-JAN-2017 ) using method 1
+[2025-06-12 16:02:37] Successfully selected RTO: BANGAON ARTO - WB27( 17-JAN-2017 )
+[2025-06-12 16:02:37] Applying left panel filters
+[2025-06-12 16:02:38] Clicked right refresh button using method 1
+[2025-06-12 16:02:42] Opening left panel if needed
+[2025-06-12 16:02:42] Clicked left panel toggler using method 1
+[2025-06-12 16:02:42] Expanded left panel
+[2025-06-12 16:02:44] Selecting vehicle categories and fuel types
+[2025-06-12 16:02:44] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:02:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:02:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:02:46] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:02:47] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:02:48] Vehicle categories and fuel types selected
+[2025-06-12 16:02:49] Clicking left refresh button
+[2025-06-12 16:02:49] Clicked left refresh button using method 1
+[2025-06-12 16:02:49] Left refresh button clicked
+[2025-06-12 16:02:54] Left panel collapsed successfully.
+[2025-06-12 16:02:54] Downloading Excel file for West Bengal(57), BANGAON ARTO - WB27( 17-JAN-2017 ), 2022
+[2025-06-12 16:02:54] Clicked Excel download button using method 1
+[2025-06-12 16:02:54] Clicked Excel download button
+[2025-06-12 16:02:58] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:02:58] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:03:58] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BANGAON ARTO - WB27( 17-JAN-2017 ).xlsx
+[2025-06-12 16:03:58] Successfully processed RTO: BANGAON ARTO - WB27( 17-JAN-2017 )
+[2025-06-12 16:03:58] 
+Processing RTO 5/59: BANKURA RTO - WB67( 11-APR-2017 ) (Attempt 1/2)
+[2025-06-12 16:03:58] Selecting RTO: BANKURA RTO - WB67( 11-APR-2017 )
+[2025-06-12 16:03:58] Clicked RTO dropdown using method 1
+[2025-06-12 16:03:59] Clicked RTO option: BANKURA RTO - WB67( 11-APR-2017 ) using method 1
+[2025-06-12 16:03:59] Successfully selected RTO: BANKURA RTO - WB67( 11-APR-2017 )
+[2025-06-12 16:03:59] Applying left panel filters
+[2025-06-12 16:04:00] Clicked right refresh button using method 1
+[2025-06-12 16:04:05] Opening left panel if needed
+[2025-06-12 16:04:05] Clicked left panel toggler using method 1
+[2025-06-12 16:04:05] Expanded left panel
+[2025-06-12 16:04:06] Selecting vehicle categories and fuel types
+[2025-06-12 16:04:07] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:04:07] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:04:08] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:04:08] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:04:09] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:04:09] Vehicle categories and fuel types selected
+[2025-06-12 16:04:10] Clicking left refresh button
+[2025-06-12 16:04:10] Clicked left refresh button using method 1
+[2025-06-12 16:04:10] Left refresh button clicked
+[2025-06-12 16:04:15] Left panel collapsed successfully.
+[2025-06-12 16:04:15] Downloading Excel file for West Bengal(57), BANKURA RTO - WB67( 11-APR-2017 ), 2022
+[2025-06-12 16:04:15] Clicked Excel download button using method 1
+[2025-06-12 16:04:15] Clicked Excel download button
+[2025-06-12 16:04:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:04:19] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:05:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BANKURA RTO - WB67( 11-APR-2017 ).xlsx
+[2025-06-12 16:05:19] Successfully processed RTO: BANKURA RTO - WB67( 11-APR-2017 )
+[2025-06-12 16:05:19] 
+Processing RTO 6/59: BARASAT RTO - WB25( 17-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 16:05:19] Selecting RTO: BARASAT RTO - WB25( 17-JAN-2017 )
+[2025-06-12 16:05:19] Clicked RTO dropdown using method 1
+[2025-06-12 16:05:21] Clicked RTO option: BARASAT RTO - WB25( 17-JAN-2017 ) using method 1
+[2025-06-12 16:05:21] Successfully selected RTO: BARASAT RTO - WB25( 17-JAN-2017 )
+[2025-06-12 16:05:21] Applying left panel filters
+[2025-06-12 16:05:22] Clicked right refresh button using method 1
+[2025-06-12 16:05:27] Opening left panel if needed
+[2025-06-12 16:05:27] Clicked left panel toggler using method 1
+[2025-06-12 16:05:27] Expanded left panel
+[2025-06-12 16:05:28] Selecting vehicle categories and fuel types
+[2025-06-12 16:05:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:05:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:05:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:05:31] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:05:32] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:05:33] Vehicle categories and fuel types selected
+[2025-06-12 16:05:33] Clicking left refresh button
+[2025-06-12 16:05:34] Clicked left refresh button using method 1
+[2025-06-12 16:05:34] Left refresh button clicked
+[2025-06-12 16:05:38] Left panel collapsed successfully.
+[2025-06-12 16:05:38] Downloading Excel file for West Bengal(57), BARASAT RTO - WB25( 17-JAN-2017 ), 2022
+[2025-06-12 16:05:39] Clicked Excel download button using method 1
+[2025-06-12 16:05:39] Clicked Excel download button
+[2025-06-12 16:05:42] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:05:42] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:06:42] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BARASAT RTO - WB25( 17-JAN-2017 ).xlsx
+[2025-06-12 16:06:42] Successfully processed RTO: BARASAT RTO - WB25( 17-JAN-2017 )
+[2025-06-12 16:06:42] 
+Processing RTO 7/59: BARRACKPORE ARTO - WB23( 27-DEC-2016 ) (Attempt 1/2)
+[2025-06-12 16:06:42] Selecting RTO: BARRACKPORE ARTO - WB23( 27-DEC-2016 )
+[2025-06-12 16:06:43] Clicked RTO dropdown using method 1
+[2025-06-12 16:06:44] Clicked RTO option: BARRACKPORE ARTO - WB23( 27-DEC-2016 ) using method 1
+[2025-06-12 16:06:44] Successfully selected RTO: BARRACKPORE ARTO - WB23( 27-DEC-2016 )
+[2025-06-12 16:06:44] Applying left panel filters
+[2025-06-12 16:06:45] Clicked right refresh button using method 1
+[2025-06-12 16:06:49] Opening left panel if needed
+[2025-06-12 16:06:49] Clicked left panel toggler using method 1
+[2025-06-12 16:06:49] Expanded left panel
+[2025-06-12 16:06:51] Selecting vehicle categories and fuel types
+[2025-06-12 16:06:52] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:06:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:06:53] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:06:54] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:06:54] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:06:55] Vehicle categories and fuel types selected
+[2025-06-12 16:06:56] Clicking left refresh button
+[2025-06-12 16:06:56] Clicked left refresh button using method 1
+[2025-06-12 16:06:56] Left refresh button clicked
+[2025-06-12 16:07:01] Left panel collapsed successfully.
+[2025-06-12 16:07:01] Downloading Excel file for West Bengal(57), BARRACKPORE ARTO - WB23( 27-DEC-2016 ), 2022
+[2025-06-12 16:07:02] Clicked Excel download button using method 1
+[2025-06-12 16:07:02] Clicked Excel download button
+[2025-06-12 16:07:06] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:07:06] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:08:06] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BARRACKPORE ARTO - WB23( 27-DEC-2016 ).xlsx
+[2025-06-12 16:08:06] Successfully processed RTO: BARRACKPORE ARTO - WB23( 27-DEC-2016 )
+[2025-06-12 16:08:06] 
+Processing RTO 8/59: BARUIPUR ARTO - WB95( 31-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 16:08:06] Selecting RTO: BARUIPUR ARTO - WB95( 31-JAN-2017 )
+[2025-06-12 16:08:06] Clicked RTO dropdown using method 1
+[2025-06-12 16:08:08] Clicked RTO option: BARUIPUR ARTO - WB95( 31-JAN-2017 ) using method 1
+[2025-06-12 16:08:08] Successfully selected RTO: BARUIPUR ARTO - WB95( 31-JAN-2017 )
+[2025-06-12 16:08:08] Applying left panel filters
+[2025-06-12 16:08:08] Clicked right refresh button using method 1
+[2025-06-12 16:08:13] Opening left panel if needed
+[2025-06-12 16:08:13] Clicked left panel toggler using method 1
+[2025-06-12 16:08:13] Expanded left panel
+[2025-06-12 16:08:14] Selecting vehicle categories and fuel types
+[2025-06-12 16:08:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:08:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:08:16] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:08:17] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:08:18] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:08:18] Vehicle categories and fuel types selected
+[2025-06-12 16:08:19] Clicking left refresh button
+[2025-06-12 16:08:19] Clicked left refresh button using method 1
+[2025-06-12 16:08:19] Left refresh button clicked
+[2025-06-12 16:08:24] Left panel collapsed successfully.
+[2025-06-12 16:08:24] Downloading Excel file for West Bengal(57), BARUIPUR ARTO - WB95( 31-JAN-2017 ), 2022
+[2025-06-12 16:08:25] Clicked Excel download button using method 1
+[2025-06-12 16:08:25] Clicked Excel download button
+[2025-06-12 16:08:28] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:08:28] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:09:28] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BARUIPUR ARTO - WB95( 31-JAN-2017 ).xlsx
+[2025-06-12 16:09:28] Successfully processed RTO: BARUIPUR ARTO - WB95( 31-JAN-2017 )
+[2025-06-12 16:09:28] 
+Processing RTO 9/59: BASIRHAT ARTO - WB21( 17-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 16:09:28] Selecting RTO: BASIRHAT ARTO - WB21( 17-JAN-2017 )
+[2025-06-12 16:09:28] Clicked RTO dropdown using method 1
+[2025-06-12 16:09:30] Clicked RTO option: BASIRHAT ARTO - WB21( 17-JAN-2017 ) using method 1
+[2025-06-12 16:09:30] Successfully selected RTO: BASIRHAT ARTO - WB21( 17-JAN-2017 )
+[2025-06-12 16:09:30] Applying left panel filters
+[2025-06-12 16:09:30] Clicked right refresh button using method 1
+[2025-06-12 16:09:35] Opening left panel if needed
+[2025-06-12 16:09:35] Clicked left panel toggler using method 1
+[2025-06-12 16:09:35] Expanded left panel
+[2025-06-12 16:09:37] Selecting vehicle categories and fuel types
+[2025-06-12 16:09:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:09:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:09:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:09:40] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:09:41] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:09:41] Vehicle categories and fuel types selected
+[2025-06-12 16:09:42] Clicking left refresh button
+[2025-06-12 16:09:42] Clicked left refresh button using method 1
+[2025-06-12 16:09:42] Left refresh button clicked
+[2025-06-12 16:09:47] Left panel collapsed successfully.
+[2025-06-12 16:09:47] Downloading Excel file for West Bengal(57), BASIRHAT ARTO - WB21( 17-JAN-2017 ), 2022
+[2025-06-12 16:09:47] Clicked Excel download button using method 1
+[2025-06-12 16:09:47] Clicked Excel download button
+[2025-06-12 16:09:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:09:51] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:10:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BASIRHAT ARTO - WB21( 17-JAN-2017 ).xlsx
+[2025-06-12 16:10:51] Successfully processed RTO: BASIRHAT ARTO - WB21( 17-JAN-2017 )
+[2025-06-12 16:10:51] 
+Processing RTO 10/59: BEHALA ARTO - WB9( 27-DEC-2017 ) (Attempt 1/2)
+[2025-06-12 16:10:51] Selecting RTO: BEHALA ARTO - WB9( 27-DEC-2017 )
+[2025-06-12 16:10:52] Clicked RTO dropdown using method 1
+[2025-06-12 16:10:53] Clicked RTO option: BEHALA ARTO - WB9( 27-DEC-2017 ) using method 1
+[2025-06-12 16:10:53] Successfully selected RTO: BEHALA ARTO - WB9( 27-DEC-2017 )
+[2025-06-12 16:10:53] Applying left panel filters
+[2025-06-12 16:10:54] Clicked right refresh button using method 1
+[2025-06-12 16:10:59] Opening left panel if needed
+[2025-06-12 16:10:59] Clicked left panel toggler using method 1
+[2025-06-12 16:10:59] Expanded left panel
+[2025-06-12 16:11:00] Selecting vehicle categories and fuel types
+[2025-06-12 16:11:01] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:11:02] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:11:03] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:11:04] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:11:05] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:11:05] Vehicle categories and fuel types selected
+[2025-06-12 16:11:06] Clicking left refresh button
+[2025-06-12 16:11:06] Clicked left refresh button using method 1
+[2025-06-12 16:11:06] Left refresh button clicked
+[2025-06-12 16:11:11] Left panel collapsed successfully.
+[2025-06-12 16:11:11] Downloading Excel file for West Bengal(57), BEHALA ARTO - WB9( 27-DEC-2017 ), 2022
+[2025-06-12 16:11:11] Clicked Excel download button using method 1
+[2025-06-12 16:11:11] Clicked Excel download button
+[2025-06-12 16:11:14] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:11:14] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:12:14] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BEHALA ARTO - WB9( 27-DEC-2017 ).xlsx
+[2025-06-12 16:12:14] Successfully processed RTO: BEHALA ARTO - WB9( 27-DEC-2017 )
+[2025-06-12 16:12:14] 
+Processing RTO 11/59: BIRBHUM RTO - WB53( 28-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 16:12:14] Selecting RTO: BIRBHUM RTO - WB53( 28-FEB-2017 )
+[2025-06-12 16:12:15] Clicked RTO dropdown using method 1
+[2025-06-12 16:12:16] Clicked RTO option: BIRBHUM RTO - WB53( 28-FEB-2017 ) using method 1
+[2025-06-12 16:12:16] Successfully selected RTO: BIRBHUM RTO - WB53( 28-FEB-2017 )
+[2025-06-12 16:12:16] Applying left panel filters
+[2025-06-12 16:12:17] Clicked right refresh button using method 1
+[2025-06-12 16:12:21] Opening left panel if needed
+[2025-06-12 16:12:21] Clicked left panel toggler using method 1
+[2025-06-12 16:12:21] Expanded left panel
+[2025-06-12 16:12:23] Selecting vehicle categories and fuel types
+[2025-06-12 16:12:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:12:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:12:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:12:25] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:12:26] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:12:27] Vehicle categories and fuel types selected
+[2025-06-12 16:12:27] Clicking left refresh button
+[2025-06-12 16:12:28] Clicked left refresh button using method 1
+[2025-06-12 16:12:28] Left refresh button clicked
+[2025-06-12 16:12:33] Left panel collapsed successfully.
+[2025-06-12 16:12:33] Downloading Excel file for West Bengal(57), BIRBHUM RTO - WB53( 28-FEB-2017 ), 2022
+[2025-06-12 16:12:33] Clicked Excel download button using method 1
+[2025-06-12 16:12:33] Clicked Excel download button
+[2025-06-12 16:12:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:12:37] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:13:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BIRBHUM RTO - WB53( 28-FEB-2017 ).xlsx
+[2025-06-12 16:13:37] Successfully processed RTO: BIRBHUM RTO - WB53( 28-FEB-2017 )
+[2025-06-12 16:13:37] 
+Processing RTO 12/59: BISHNUPUR ARTO - WB87( 11-APR-2017 ) (Attempt 1/2)
+[2025-06-12 16:13:37] Selecting RTO: BISHNUPUR ARTO - WB87( 11-APR-2017 )
+[2025-06-12 16:13:37] Clicked RTO dropdown using method 1
+[2025-06-12 16:13:38] Clicked RTO option: BISHNUPUR ARTO - WB87( 11-APR-2017 ) using method 1
+[2025-06-12 16:13:38] Successfully selected RTO: BISHNUPUR ARTO - WB87( 11-APR-2017 )
+[2025-06-12 16:13:38] Applying left panel filters
+[2025-06-12 16:13:39] Clicked right refresh button using method 1
+[2025-06-12 16:13:43] Opening left panel if needed
+[2025-06-12 16:13:43] Clicked left panel toggler using method 1
+[2025-06-12 16:13:43] Expanded left panel
+[2025-06-12 16:13:45] Selecting vehicle categories and fuel types
+[2025-06-12 16:13:45] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:13:46] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:13:47] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:13:48] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:13:48] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:13:49] Vehicle categories and fuel types selected
+[2025-06-12 16:13:49] Clicking left refresh button
+[2025-06-12 16:13:50] Clicked left refresh button using method 1
+[2025-06-12 16:13:50] Left refresh button clicked
+[2025-06-12 16:13:55] Left panel collapsed successfully.
+[2025-06-12 16:13:55] Downloading Excel file for West Bengal(57), BISHNUPUR ARTO - WB87( 11-APR-2017 ), 2022
+[2025-06-12 16:13:55] Clicked Excel download button using method 1
+[2025-06-12 16:13:55] Clicked Excel download button
+[2025-06-12 16:13:59] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:13:59] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:14:59] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BISHNUPUR ARTO - WB87( 11-APR-2017 ).xlsx
+[2025-06-12 16:14:59] Successfully processed RTO: BISHNUPUR ARTO - WB87( 11-APR-2017 )
+[2025-06-12 16:14:59] 
+Processing RTO 13/59: BOLPUR ARTO - WB47( 28-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 16:14:59] Selecting RTO: BOLPUR ARTO - WB47( 28-FEB-2017 )
+[2025-06-12 16:15:00] Clicked RTO dropdown using method 1
+[2025-06-12 16:15:01] Clicked RTO option: BOLPUR ARTO - WB47( 28-FEB-2017 ) using method 1
+[2025-06-12 16:15:01] Successfully selected RTO: BOLPUR ARTO - WB47( 28-FEB-2017 )
+[2025-06-12 16:15:01] Applying left panel filters
+[2025-06-12 16:15:01] Clicked right refresh button using method 1
+[2025-06-12 16:15:06] Opening left panel if needed
+[2025-06-12 16:15:06] Clicked left panel toggler using method 1
+[2025-06-12 16:15:06] Expanded left panel
+[2025-06-12 16:15:07] Selecting vehicle categories and fuel types
+[2025-06-12 16:15:08] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:15:09] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:15:09] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:15:10] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:15:11] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:15:11] Vehicle categories and fuel types selected
+[2025-06-12 16:15:12] Clicking left refresh button
+[2025-06-12 16:15:12] Clicked left refresh button using method 1
+[2025-06-12 16:15:12] Left refresh button clicked
+[2025-06-12 16:15:17] Left panel collapsed successfully.
+[2025-06-12 16:15:17] Downloading Excel file for West Bengal(57), BOLPUR ARTO - WB47( 28-FEB-2017 ), 2022
+[2025-06-12 16:15:18] Clicked Excel download button using method 1
+[2025-06-12 16:15:18] Clicked Excel download button
+[2025-06-12 16:15:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:15:21] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:16:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BOLPUR ARTO - WB47( 28-FEB-2017 ).xlsx
+[2025-06-12 16:16:21] Successfully processed RTO: BOLPUR ARTO - WB47( 28-FEB-2017 )
+[2025-06-12 16:16:21] 
+Processing RTO 14/59: BUNIADPUR ARTO - null62( 19-MAY-2025 ) (Attempt 1/2)
+[2025-06-12 16:16:21] Selecting RTO: BUNIADPUR ARTO - null62( 19-MAY-2025 )
+[2025-06-12 16:16:21] Clicked RTO dropdown using method 1
+[2025-06-12 16:16:22] Clicked RTO option: BUNIADPUR ARTO - null62( 19-MAY-2025 ) using method 1
+[2025-06-12 16:16:23] Successfully selected RTO: BUNIADPUR ARTO - null62( 19-MAY-2025 )
+[2025-06-12 16:16:23] Applying left panel filters
+[2025-06-12 16:16:23] Clicked right refresh button using method 1
+[2025-06-12 16:16:27] Opening left panel if needed
+[2025-06-12 16:16:28] Clicked left panel toggler using method 1
+[2025-06-12 16:16:28] Expanded left panel
+[2025-06-12 16:16:29] Selecting vehicle categories and fuel types
+[2025-06-12 16:16:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:16:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:16:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:16:32] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:16:32] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:16:33] Vehicle categories and fuel types selected
+[2025-06-12 16:16:34] Clicking left refresh button
+[2025-06-12 16:16:34] Clicked left refresh button using method 1
+[2025-06-12 16:16:34] Left refresh button clicked
+[2025-06-12 16:16:39] Left panel collapsed successfully.
+[2025-06-12 16:16:39] Downloading Excel file for West Bengal(57), BUNIADPUR ARTO - null62( 19-MAY-2025 ), 2022
+[2025-06-12 16:16:40] Clicked Excel download button using method 1
+[2025-06-12 16:16:40] Clicked Excel download button
+[2025-06-12 16:16:43] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:16:43] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:17:43] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\BUNIADPUR ARTO - null62( 19-MAY-2025 ).xlsx
+[2025-06-12 16:17:43] Successfully processed RTO: BUNIADPUR ARTO - null62( 19-MAY-2025 )
+[2025-06-12 16:17:43] 
+Processing RTO 15/59: CANNING ARTO - null98( 19-MAY-2025 ) (Attempt 1/2)
+[2025-06-12 16:17:43] Selecting RTO: CANNING ARTO - null98( 19-MAY-2025 )
+[2025-06-12 16:17:44] Clicked RTO dropdown using method 1
+[2025-06-12 16:17:45] Clicked RTO option: CANNING ARTO - null98( 19-MAY-2025 ) using method 1
+[2025-06-12 16:17:45] Successfully selected RTO: CANNING ARTO - null98( 19-MAY-2025 )
+[2025-06-12 16:17:45] Applying left panel filters
+[2025-06-12 16:17:46] Clicked right refresh button using method 1
+[2025-06-12 16:17:50] Opening left panel if needed
+[2025-06-12 16:17:51] Clicked left panel toggler using method 1
+[2025-06-12 16:17:51] Expanded left panel
+[2025-06-12 16:17:52] Selecting vehicle categories and fuel types
+[2025-06-12 16:17:53] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:17:53] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:17:54] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:17:55] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:17:55] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:17:56] Vehicle categories and fuel types selected
+[2025-06-12 16:17:57] Clicking left refresh button
+[2025-06-12 16:17:57] Clicked left refresh button using method 1
+[2025-06-12 16:17:57] Left refresh button clicked
+[2025-06-12 16:18:01] Left panel collapsed successfully.
+[2025-06-12 16:18:01] Downloading Excel file for West Bengal(57), CANNING ARTO - null98( 19-MAY-2025 ), 2022
+[2025-06-12 16:18:02] Clicked Excel download button using method 1
+[2025-06-12 16:18:02] Clicked Excel download button
+[2025-06-12 16:18:05] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:18:05] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:19:05] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\CANNING ARTO - null98( 19-MAY-2025 ).xlsx
+[2025-06-12 16:19:05] Successfully processed RTO: CANNING ARTO - null98( 19-MAY-2025 )
+[2025-06-12 16:19:05] 
+Processing RTO 16/59: CHANCHOL ARTO - WB83( 23-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:19:05] Selecting RTO: CHANCHOL ARTO - WB83( 23-MAR-2017 )
+[2025-06-12 16:19:06] Clicked RTO dropdown using method 1
+[2025-06-12 16:19:07] Clicked RTO option: CHANCHOL ARTO - WB83( 23-MAR-2017 ) using method 1
+[2025-06-12 16:19:07] Successfully selected RTO: CHANCHOL ARTO - WB83( 23-MAR-2017 )
+[2025-06-12 16:19:07] Applying left panel filters
+[2025-06-12 16:19:08] Clicked right refresh button using method 1
+[2025-06-12 16:19:12] Opening left panel if needed
+[2025-06-12 16:19:12] Clicked left panel toggler using method 1
+[2025-06-12 16:19:12] Expanded left panel
+[2025-06-12 16:19:14] Selecting vehicle categories and fuel types
+[2025-06-12 16:19:14] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:19:15] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:19:16] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:19:17] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:19:17] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:19:18] Vehicle categories and fuel types selected
+[2025-06-12 16:19:18] Clicking left refresh button
+[2025-06-12 16:19:19] Clicked left refresh button using method 1
+[2025-06-12 16:19:19] Left refresh button clicked
+[2025-06-12 16:19:23] Left panel collapsed successfully.
+[2025-06-12 16:19:23] Downloading Excel file for West Bengal(57), CHANCHOL ARTO - WB83( 23-MAR-2017 ), 2022
+[2025-06-12 16:19:24] Clicked Excel download button using method 1
+[2025-06-12 16:19:24] Clicked Excel download button
+[2025-06-12 16:19:28] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:19:28] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:20:28] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\CHANCHOL ARTO - WB83( 23-MAR-2017 ).xlsx
+[2025-06-12 16:20:28] Successfully processed RTO: CHANCHOL ARTO - WB83( 23-MAR-2017 )
+[2025-06-12 16:20:28] 
+Processing RTO 17/59: CONTAI ARTO - WB31( 09-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 16:20:28] Selecting RTO: CONTAI ARTO - WB31( 09-FEB-2017 )
+[2025-06-12 16:20:28] Clicked RTO dropdown using method 1
+[2025-06-12 16:20:30] Clicked RTO option: CONTAI ARTO - WB31( 09-FEB-2017 ) using method 1
+[2025-06-12 16:20:30] Successfully selected RTO: CONTAI ARTO - WB31( 09-FEB-2017 )
+[2025-06-12 16:20:30] Applying left panel filters
+[2025-06-12 16:20:30] Clicked right refresh button using method 1
+[2025-06-12 16:20:35] Opening left panel if needed
+[2025-06-12 16:20:35] Clicked left panel toggler using method 1
+[2025-06-12 16:20:35] Expanded left panel
+[2025-06-12 16:20:37] Selecting vehicle categories and fuel types
+[2025-06-12 16:20:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:20:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:20:38] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:20:39] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:20:40] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:20:40] Vehicle categories and fuel types selected
+[2025-06-12 16:20:41] Clicking left refresh button
+[2025-06-12 16:20:41] Clicked left refresh button using method 1
+[2025-06-12 16:20:42] Left refresh button clicked
+[2025-06-12 16:20:46] Left panel collapsed successfully.
+[2025-06-12 16:20:46] Downloading Excel file for West Bengal(57), CONTAI ARTO - WB31( 09-FEB-2017 ), 2022
+[2025-06-12 16:20:47] Clicked Excel download button using method 1
+[2025-06-12 16:20:47] Clicked Excel download button
+[2025-06-12 16:20:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:20:50] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:21:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\CONTAI ARTO - WB31( 09-FEB-2017 ).xlsx
+[2025-06-12 16:21:50] Successfully processed RTO: CONTAI ARTO - WB31( 09-FEB-2017 )
+[2025-06-12 16:21:50] 
+Processing RTO 18/59: COOCHBEHAR RTO - WB63( 28-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:21:50] Selecting RTO: COOCHBEHAR RTO - WB63( 28-MAR-2017 )
+[2025-06-12 16:21:51] Clicked RTO dropdown using method 1
+[2025-06-12 16:21:52] Clicked RTO option: COOCHBEHAR RTO - WB63( 28-MAR-2017 ) using method 1
+[2025-06-12 16:21:53] Successfully selected RTO: COOCHBEHAR RTO - WB63( 28-MAR-2017 )
+[2025-06-12 16:21:53] Applying left panel filters
+[2025-06-12 16:21:53] Clicked right refresh button using method 1
+[2025-06-12 16:21:58] Opening left panel if needed
+[2025-06-12 16:21:58] Clicked left panel toggler using method 1
+[2025-06-12 16:21:58] Expanded left panel
+[2025-06-12 16:22:00] Selecting vehicle categories and fuel types
+[2025-06-12 16:22:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:22:01] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:22:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:22:03] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:22:03] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:22:04] Vehicle categories and fuel types selected
+[2025-06-12 16:22:04] Clicking left refresh button
+[2025-06-12 16:22:05] Clicked left refresh button using method 1
+[2025-06-12 16:22:05] Left refresh button clicked
+[2025-06-12 16:22:10] Left panel collapsed successfully.
+[2025-06-12 16:22:10] Downloading Excel file for West Bengal(57), COOCHBEHAR RTO - WB63( 28-MAR-2017 ), 2022
+[2025-06-12 16:22:10] Clicked Excel download button using method 1
+[2025-06-12 16:22:10] Clicked Excel download button
+[2025-06-12 16:22:14] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:22:14] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:23:14] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\COOCHBEHAR RTO - WB63( 28-MAR-2017 ).xlsx
+[2025-06-12 16:23:14] Successfully processed RTO: COOCHBEHAR RTO - WB63( 28-MAR-2017 )
+[2025-06-12 16:23:14] 
+Processing RTO 19/59: DAKSHIN DINAJPUR RTO - WB61( 06-APR-2017 ) (Attempt 1/2)
+[2025-06-12 16:23:14] Selecting RTO: DAKSHIN DINAJPUR RTO - WB61( 06-APR-2017 )
+[2025-06-12 16:23:15] Clicked RTO dropdown using method 1
+[2025-06-12 16:23:16] Clicked RTO option: DAKSHIN DINAJPUR RTO - WB61( 06-APR-2017 ) using method 1
+[2025-06-12 16:23:16] Successfully selected RTO: DAKSHIN DINAJPUR RTO - WB61( 06-APR-2017 )
+[2025-06-12 16:23:16] Applying left panel filters
+[2025-06-12 16:23:17] Clicked right refresh button using method 1
+[2025-06-12 16:23:21] Opening left panel if needed
+[2025-06-12 16:23:21] Clicked left panel toggler using method 1
+[2025-06-12 16:23:21] Expanded left panel
+[2025-06-12 16:23:23] Selecting vehicle categories and fuel types
+[2025-06-12 16:23:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:23:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:23:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:23:25] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:23:26] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:23:26] Vehicle categories and fuel types selected
+[2025-06-12 16:23:27] Clicking left refresh button
+[2025-06-12 16:23:28] Clicked left refresh button using method 1
+[2025-06-12 16:23:28] Left refresh button clicked
+[2025-06-12 16:23:33] Left panel collapsed successfully.
+[2025-06-12 16:23:33] Downloading Excel file for West Bengal(57), DAKSHIN DINAJPUR RTO - WB61( 06-APR-2017 ), 2022
+[2025-06-12 16:23:34] Clicked Excel download button using method 1
+[2025-06-12 16:23:34] Clicked Excel download button
+[2025-06-12 16:23:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:23:37] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:24:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\DAKSHIN DINAJPUR RTO - WB61( 06-APR-2017 ).xlsx
+[2025-06-12 16:24:37] Successfully processed RTO: DAKSHIN DINAJPUR RTO - WB61( 06-APR-2017 )
+[2025-06-12 16:24:37] 
+Processing RTO 20/59: DARJEELING RTO - WB76( 30-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:24:37] Selecting RTO: DARJEELING RTO - WB76( 30-MAR-2017 )
+[2025-06-12 16:24:38] Clicked RTO dropdown using method 1
+[2025-06-12 16:24:39] Clicked RTO option: DARJEELING RTO - WB76( 30-MAR-2017 ) using method 1
+[2025-06-12 16:24:39] Successfully selected RTO: DARJEELING RTO - WB76( 30-MAR-2017 )
+[2025-06-12 16:24:39] Applying left panel filters
+[2025-06-12 16:24:40] Clicked right refresh button using method 1
+[2025-06-12 16:24:44] Opening left panel if needed
+[2025-06-12 16:24:44] Clicked left panel toggler using method 1
+[2025-06-12 16:24:44] Expanded left panel
+[2025-06-12 16:24:45] Selecting vehicle categories and fuel types
+[2025-06-12 16:24:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:24:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:24:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:24:48] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:24:49] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:24:50] Vehicle categories and fuel types selected
+[2025-06-12 16:24:50] Clicking left refresh button
+[2025-06-12 16:24:51] Clicked left refresh button using method 1
+[2025-06-12 16:24:51] Left refresh button clicked
+[2025-06-12 16:24:56] Left panel collapsed successfully.
+[2025-06-12 16:24:56] Downloading Excel file for West Bengal(57), DARJEELING RTO - WB76( 30-MAR-2017 ), 2022
+[2025-06-12 16:24:56] Clicked Excel download button using method 1
+[2025-06-12 16:24:56] Clicked Excel download button
+[2025-06-12 16:25:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:25:00] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:26:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\DARJEELING RTO - WB76( 30-MAR-2017 ).xlsx
+[2025-06-12 16:26:00] Successfully processed RTO: DARJEELING RTO - WB76( 30-MAR-2017 )
+[2025-06-12 16:26:00] 
+Processing RTO 21/59: DIAMOND HARBOUR ARTO - WB97( 31-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 16:26:00] Selecting RTO: DIAMOND HARBOUR ARTO - WB97( 31-JAN-2017 )
+[2025-06-12 16:26:00] Clicked RTO dropdown using method 1
+[2025-06-12 16:26:01] Clicked RTO option: DIAMOND HARBOUR ARTO - WB97( 31-JAN-2017 ) using method 1
+[2025-06-12 16:26:01] Successfully selected RTO: DIAMOND HARBOUR ARTO - WB97( 31-JAN-2017 )
+[2025-06-12 16:26:01] Applying left panel filters
+[2025-06-12 16:26:02] Clicked right refresh button using method 1
+[2025-06-12 16:26:06] Opening left panel if needed
+[2025-06-12 16:26:07] Clicked left panel toggler using method 1
+[2025-06-12 16:26:07] Expanded left panel
+[2025-06-12 16:26:08] Selecting vehicle categories and fuel types
+[2025-06-12 16:26:09] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:26:10] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:26:10] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:26:11] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:26:12] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:26:12] Vehicle categories and fuel types selected
+[2025-06-12 16:26:13] Clicking left refresh button
+[2025-06-12 16:26:13] Clicked left refresh button using method 1
+[2025-06-12 16:26:13] Left refresh button clicked
+[2025-06-12 16:26:18] Left panel collapsed successfully.
+[2025-06-12 16:26:18] Downloading Excel file for West Bengal(57), DIAMOND HARBOUR ARTO - WB97( 31-JAN-2017 ), 2022
+[2025-06-12 16:26:18] Clicked Excel download button using method 1
+[2025-06-12 16:26:18] Clicked Excel download button
+[2025-06-12 16:26:22] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:26:22] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:27:22] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\DIAMOND HARBOUR ARTO - WB97( 31-JAN-2017 ).xlsx
+[2025-06-12 16:27:22] Successfully processed RTO: DIAMOND HARBOUR ARTO - WB97( 31-JAN-2017 )
+[2025-06-12 16:27:22] 
+Processing RTO 22/59: DURGAPORE ARTO - WB39( 21-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 16:27:22] Selecting RTO: DURGAPORE ARTO - WB39( 21-FEB-2017 )
+[2025-06-12 16:27:23] Clicked RTO dropdown using method 1
+[2025-06-12 16:27:24] Clicked RTO option: DURGAPORE ARTO - WB39( 21-FEB-2017 ) using method 1
+[2025-06-12 16:27:25] Successfully selected RTO: DURGAPORE ARTO - WB39( 21-FEB-2017 )
+[2025-06-12 16:27:25] Applying left panel filters
+[2025-06-12 16:27:25] Clicked right refresh button using method 1
+[2025-06-12 16:27:29] Opening left panel if needed
+[2025-06-12 16:27:29] Clicked left panel toggler using method 1
+[2025-06-12 16:27:29] Expanded left panel
+[2025-06-12 16:27:31] Selecting vehicle categories and fuel types
+[2025-06-12 16:27:31] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:27:32] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:27:33] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:27:34] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:27:35] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:27:35] Vehicle categories and fuel types selected
+[2025-06-12 16:27:36] Clicking left refresh button
+[2025-06-12 16:27:36] Clicked left refresh button using method 1
+[2025-06-12 16:27:36] Left refresh button clicked
+[2025-06-12 16:27:41] Left panel collapsed successfully.
+[2025-06-12 16:27:41] Downloading Excel file for West Bengal(57), DURGAPORE ARTO - WB39( 21-FEB-2017 ), 2022
+[2025-06-12 16:27:41] Clicked Excel download button using method 1
+[2025-06-12 16:27:41] Clicked Excel download button
+[2025-06-12 16:27:45] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:27:45] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:28:45] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\DURGAPORE ARTO - WB39( 21-FEB-2017 ).xlsx
+[2025-06-12 16:28:45] Successfully processed RTO: DURGAPORE ARTO - WB39( 21-FEB-2017 )
+[2025-06-12 16:28:45] 
+Processing RTO 23/59: GHATAL ARTO - WB50( 07-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:28:45] Selecting RTO: GHATAL ARTO - WB50( 07-MAR-2017 )
+[2025-06-12 16:28:46] Clicked RTO dropdown using method 1
+[2025-06-12 16:28:47] Clicked RTO option: GHATAL ARTO - WB50( 07-MAR-2017 ) using method 1
+[2025-06-12 16:28:47] Successfully selected RTO: GHATAL ARTO - WB50( 07-MAR-2017 )
+[2025-06-12 16:28:47] Applying left panel filters
+[2025-06-12 16:28:48] Clicked right refresh button using method 1
+[2025-06-12 16:28:53] Opening left panel if needed
+[2025-06-12 16:28:53] Clicked left panel toggler using method 1
+[2025-06-12 16:28:53] Expanded left panel
+[2025-06-12 16:28:54] Selecting vehicle categories and fuel types
+[2025-06-12 16:28:55] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:28:56] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:28:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:28:57] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:28:58] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:28:58] Vehicle categories and fuel types selected
+[2025-06-12 16:28:59] Clicking left refresh button
+[2025-06-12 16:28:59] Clicked left refresh button using method 1
+[2025-06-12 16:28:59] Left refresh button clicked
+[2025-06-12 16:29:05] Left panel collapsed successfully.
+[2025-06-12 16:29:05] Downloading Excel file for West Bengal(57), GHATAL ARTO - WB50( 07-MAR-2017 ), 2022
+[2025-06-12 16:29:05] Clicked Excel download button using method 1
+[2025-06-12 16:29:05] Clicked Excel download button
+[2025-06-12 16:29:09] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:29:09] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:30:09] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\GHATAL ARTO - WB50( 07-MAR-2017 ).xlsx
+[2025-06-12 16:30:09] Successfully processed RTO: GHATAL ARTO - WB50( 07-MAR-2017 )
+[2025-06-12 16:30:09] 
+Processing RTO 24/59: HALDIA ARTO - WB32( 10-JUL-2017 ) (Attempt 1/2)
+[2025-06-12 16:30:09] Selecting RTO: HALDIA ARTO - WB32( 10-JUL-2017 )
+[2025-06-12 16:30:09] Clicked RTO dropdown using method 1
+[2025-06-12 16:30:11] Clicked RTO option: HALDIA ARTO - WB32( 10-JUL-2017 ) using method 1
+[2025-06-12 16:30:11] Successfully selected RTO: HALDIA ARTO - WB32( 10-JUL-2017 )
+[2025-06-12 16:30:11] Applying left panel filters
+[2025-06-12 16:30:11] Clicked right refresh button using method 1
+[2025-06-12 16:30:16] Opening left panel if needed
+[2025-06-12 16:30:17] Clicked left panel toggler using method 1
+[2025-06-12 16:30:17] Expanded left panel
+[2025-06-12 16:30:18] Selecting vehicle categories and fuel types
+[2025-06-12 16:30:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:30:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:30:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:30:21] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:30:22] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:30:22] Vehicle categories and fuel types selected
+[2025-06-12 16:30:22] Clicking left refresh button
+[2025-06-12 16:30:23] Clicked left refresh button using method 1
+[2025-06-12 16:30:23] Left refresh button clicked
+[2025-06-12 16:30:28] Left panel collapsed successfully.
+[2025-06-12 16:30:28] Downloading Excel file for West Bengal(57), HALDIA ARTO - WB32( 10-JUL-2017 ), 2022
+[2025-06-12 16:30:28] Clicked Excel download button using method 1
+[2025-06-12 16:30:28] Clicked Excel download button
+[2025-06-12 16:30:31] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:30:31] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:31:31] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\HALDIA ARTO - WB32( 10-JUL-2017 ).xlsx
+[2025-06-12 16:31:31] Successfully processed RTO: HALDIA ARTO - WB32( 10-JUL-2017 )
+[2025-06-12 16:31:31] 
+Processing RTO 25/59: HOOGHLY RTO - WB15( 10-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 16:31:31] Selecting RTO: HOOGHLY RTO - WB15( 10-JAN-2017 )
+[2025-06-12 16:31:32] Clicked RTO dropdown using method 1
+[2025-06-12 16:31:33] Clicked RTO option: HOOGHLY RTO - WB15( 10-JAN-2017 ) using method 1
+[2025-06-12 16:31:33] Successfully selected RTO: HOOGHLY RTO - WB15( 10-JAN-2017 )
+[2025-06-12 16:31:33] Applying left panel filters
+[2025-06-12 16:31:34] Clicked right refresh button using method 1
+[2025-06-12 16:31:38] Opening left panel if needed
+[2025-06-12 16:31:38] Clicked left panel toggler using method 1
+[2025-06-12 16:31:38] Expanded left panel
+[2025-06-12 16:31:40] Selecting vehicle categories and fuel types
+[2025-06-12 16:31:40] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:31:41] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:31:42] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:31:42] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:31:43] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:31:44] Vehicle categories and fuel types selected
+[2025-06-12 16:31:44] Clicking left refresh button
+[2025-06-12 16:31:45] Clicked left refresh button using method 1
+[2025-06-12 16:31:45] Left refresh button clicked
+[2025-06-12 16:31:50] Left panel collapsed successfully.
+[2025-06-12 16:31:50] Downloading Excel file for West Bengal(57), HOOGHLY RTO - WB15( 10-JAN-2017 ), 2022
+[2025-06-12 16:31:50] Clicked Excel download button using method 1
+[2025-06-12 16:31:50] Clicked Excel download button
+[2025-06-12 16:31:54] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:31:54] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:32:54] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\HOOGHLY RTO - WB15( 10-JAN-2017 ).xlsx
+[2025-06-12 16:32:54] Successfully processed RTO: HOOGHLY RTO - WB15( 10-JAN-2017 )
+[2025-06-12 16:32:54] 
+Processing RTO 26/59: HOWRAH RTO - WB11( 20-DEC-2016 ) (Attempt 1/2)
+[2025-06-12 16:32:54] Selecting RTO: HOWRAH RTO - WB11( 20-DEC-2016 )
+[2025-06-12 16:32:55] Clicked RTO dropdown using method 1
+[2025-06-12 16:32:56] Clicked RTO option: HOWRAH RTO - WB11( 20-DEC-2016 ) using method 1
+[2025-06-12 16:32:56] Successfully selected RTO: HOWRAH RTO - WB11( 20-DEC-2016 )
+[2025-06-12 16:32:56] Applying left panel filters
+[2025-06-12 16:32:57] Clicked right refresh button using method 1
+[2025-06-12 16:33:01] Opening left panel if needed
+[2025-06-12 16:33:01] Clicked left panel toggler using method 1
+[2025-06-12 16:33:01] Expanded left panel
+[2025-06-12 16:33:02] Selecting vehicle categories and fuel types
+[2025-06-12 16:33:03] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:33:04] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:33:05] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:33:05] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:33:06] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:33:07] Vehicle categories and fuel types selected
+[2025-06-12 16:33:07] Clicking left refresh button
+[2025-06-12 16:33:08] Clicked left refresh button using method 1
+[2025-06-12 16:33:08] Left refresh button clicked
+[2025-06-12 16:33:13] Left panel collapsed successfully.
+[2025-06-12 16:33:13] Downloading Excel file for West Bengal(57), HOWRAH RTO - WB11( 20-DEC-2016 ), 2022
+[2025-06-12 16:33:13] Clicked Excel download button using method 1
+[2025-06-12 16:33:13] Clicked Excel download button
+[2025-06-12 16:33:17] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:33:17] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:34:17] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\HOWRAH RTO - WB11( 20-DEC-2016 ).xlsx
+[2025-06-12 16:34:17] Successfully processed RTO: HOWRAH RTO - WB11( 20-DEC-2016 )
+[2025-06-12 16:34:17] 
+Processing RTO 27/59: ISLAMPUR ARTO - WB91( 28-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:34:17] Selecting RTO: ISLAMPUR ARTO - WB91( 28-MAR-2017 )
+[2025-06-12 16:34:17] Clicked RTO dropdown using method 1
+[2025-06-12 16:34:19] Clicked RTO option: ISLAMPUR ARTO - WB91( 28-MAR-2017 ) using method 1
+[2025-06-12 16:34:19] Successfully selected RTO: ISLAMPUR ARTO - WB91( 28-MAR-2017 )
+[2025-06-12 16:34:19] Applying left panel filters
+[2025-06-12 16:34:20] Clicked right refresh button using method 1
+[2025-06-12 16:34:24] Opening left panel if needed
+[2025-06-12 16:34:24] Clicked left panel toggler using method 1
+[2025-06-12 16:34:24] Expanded left panel
+[2025-06-12 16:34:26] Selecting vehicle categories and fuel types
+[2025-06-12 16:34:27] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:34:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:34:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:34:29] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:34:29] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:34:30] Vehicle categories and fuel types selected
+[2025-06-12 16:34:30] Clicking left refresh button
+[2025-06-12 16:34:31] Clicked left refresh button using method 1
+[2025-06-12 16:34:31] Left refresh button clicked
+[2025-06-12 16:34:36] Left panel collapsed successfully.
+[2025-06-12 16:34:36] Downloading Excel file for West Bengal(57), ISLAMPUR ARTO - WB91( 28-MAR-2017 ), 2022
+[2025-06-12 16:34:36] Clicked Excel download button using method 1
+[2025-06-12 16:34:36] Clicked Excel download button
+[2025-06-12 16:34:39] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:34:39] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:35:39] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\ISLAMPUR ARTO - WB91( 28-MAR-2017 ).xlsx
+[2025-06-12 16:35:39] Successfully processed RTO: ISLAMPUR ARTO - WB91( 28-MAR-2017 )
+[2025-06-12 16:35:39] 
+Processing RTO 28/59: JALPAIGURI RTO - WB71( 21-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 16:35:39] Selecting RTO: JALPAIGURI RTO - WB71( 21-FEB-2017 )
+[2025-06-12 16:35:40] Clicked RTO dropdown using method 1
+[2025-06-12 16:35:41] Clicked RTO option: JALPAIGURI RTO - WB71( 21-FEB-2017 ) using method 1
+[2025-06-12 16:35:42] Successfully selected RTO: JALPAIGURI RTO - WB71( 21-FEB-2017 )
+[2025-06-12 16:35:42] Applying left panel filters
+[2025-06-12 16:35:42] Clicked right refresh button using method 1
+[2025-06-12 16:35:47] Opening left panel if needed
+[2025-06-12 16:35:47] Clicked left panel toggler using method 1
+[2025-06-12 16:35:47] Expanded left panel
+[2025-06-12 16:35:48] Selecting vehicle categories and fuel types
+[2025-06-12 16:35:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:35:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:35:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:35:51] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:35:52] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:35:53] Vehicle categories and fuel types selected
+[2025-06-12 16:35:53] Clicking left refresh button
+[2025-06-12 16:35:54] Clicked left refresh button using method 1
+[2025-06-12 16:35:54] Left refresh button clicked
+[2025-06-12 16:35:59] Left panel collapsed successfully.
+[2025-06-12 16:35:59] Downloading Excel file for West Bengal(57), JALPAIGURI RTO - WB71( 21-FEB-2017 ), 2022
+[2025-06-12 16:35:59] Clicked Excel download button using method 1
+[2025-06-12 16:35:59] Clicked Excel download button
+[2025-06-12 16:36:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:36:03] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:37:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\JALPAIGURI RTO - WB71( 21-FEB-2017 ).xlsx
+[2025-06-12 16:37:03] Successfully processed RTO: JALPAIGURI RTO - WB71( 21-FEB-2017 )
+[2025-06-12 16:37:03] 
+Processing RTO 29/59: JANGIPUR ARTO - WB93( 16-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:37:03] Selecting RTO: JANGIPUR ARTO - WB93( 16-MAR-2017 )
+[2025-06-12 16:37:03] Clicked RTO dropdown using method 1
+[2025-06-12 16:37:05] Clicked RTO option: JANGIPUR ARTO - WB93( 16-MAR-2017 ) using method 1
+[2025-06-12 16:37:05] Successfully selected RTO: JANGIPUR ARTO - WB93( 16-MAR-2017 )
+[2025-06-12 16:37:05] Applying left panel filters
+[2025-06-12 16:37:05] Clicked right refresh button using method 1
+[2025-06-12 16:37:10] Opening left panel if needed
+[2025-06-12 16:37:11] Clicked left panel toggler using method 1
+[2025-06-12 16:37:11] Expanded left panel
+[2025-06-12 16:37:12] Selecting vehicle categories and fuel types
+[2025-06-12 16:37:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:37:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:37:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:37:15] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:37:16] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:37:16] Vehicle categories and fuel types selected
+[2025-06-12 16:37:17] Clicking left refresh button
+[2025-06-12 16:37:18] Clicked left refresh button using method 1
+[2025-06-12 16:37:18] Left refresh button clicked
+[2025-06-12 16:37:22] Left panel collapsed successfully.
+[2025-06-12 16:37:22] Downloading Excel file for West Bengal(57), JANGIPUR ARTO - WB93( 16-MAR-2017 ), 2022
+[2025-06-12 16:37:23] Clicked Excel download button using method 1
+[2025-06-12 16:37:23] Clicked Excel download button
+[2025-06-12 16:37:27] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:37:27] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:38:27] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\JANGIPUR ARTO - WB93( 16-MAR-2017 ).xlsx
+[2025-06-12 16:38:27] Successfully processed RTO: JANGIPUR ARTO - WB93( 16-MAR-2017 )
+[2025-06-12 16:38:27] 
+Processing RTO 30/59: JHARGRAM RTO - WB49( 07-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:38:27] Selecting RTO: JHARGRAM RTO - WB49( 07-MAR-2017 )
+[2025-06-12 16:38:27] Clicked RTO dropdown using method 1
+[2025-06-12 16:38:28] Clicked RTO option: JHARGRAM RTO - WB49( 07-MAR-2017 ) using method 1
+[2025-06-12 16:38:28] Successfully selected RTO: JHARGRAM RTO - WB49( 07-MAR-2017 )
+[2025-06-12 16:38:28] Applying left panel filters
+[2025-06-12 16:38:29] Clicked right refresh button using method 1
+[2025-06-12 16:38:33] Opening left panel if needed
+[2025-06-12 16:38:33] Clicked left panel toggler using method 1
+[2025-06-12 16:38:33] Expanded left panel
+[2025-06-12 16:38:35] Selecting vehicle categories and fuel types
+[2025-06-12 16:38:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:38:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:38:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:38:38] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:38:38] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:38:39] Vehicle categories and fuel types selected
+[2025-06-12 16:38:40] Clicking left refresh button
+[2025-06-12 16:38:40] Clicked left refresh button using method 1
+[2025-06-12 16:38:40] Left refresh button clicked
+[2025-06-12 16:38:45] Left panel collapsed successfully.
+[2025-06-12 16:38:45] Downloading Excel file for West Bengal(57), JHARGRAM RTO - WB49( 07-MAR-2017 ), 2022
+[2025-06-12 16:38:45] Clicked Excel download button using method 1
+[2025-06-12 16:38:45] Clicked Excel download button
+[2025-06-12 16:38:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:38:49] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:39:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\JHARGRAM RTO - WB49( 07-MAR-2017 ).xlsx
+[2025-06-12 16:39:49] Successfully processed RTO: JHARGRAM RTO - WB49( 07-MAR-2017 )
+[2025-06-12 16:39:49] 
+Processing RTO 31/59: KALIMPONG RTO - WB78( 30-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:39:49] Selecting RTO: KALIMPONG RTO - WB78( 30-MAR-2017 )
+[2025-06-12 16:39:49] Clicked RTO dropdown using method 1
+[2025-06-12 16:39:50] Clicked RTO option: KALIMPONG RTO - WB78( 30-MAR-2017 ) using method 1
+[2025-06-12 16:39:51] Successfully selected RTO: KALIMPONG RTO - WB78( 30-MAR-2017 )
+[2025-06-12 16:39:51] Applying left panel filters
+[2025-06-12 16:39:51] Clicked right refresh button using method 1
+[2025-06-12 16:39:55] Opening left panel if needed
+[2025-06-12 16:39:55] Clicked left panel toggler using method 1
+[2025-06-12 16:39:55] Expanded left panel
+[2025-06-12 16:39:57] Selecting vehicle categories and fuel types
+[2025-06-12 16:39:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:39:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:39:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:40:00] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:40:01] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:40:01] Vehicle categories and fuel types selected
+[2025-06-12 16:40:02] Clicking left refresh button
+[2025-06-12 16:40:02] Clicked left refresh button using method 1
+[2025-06-12 16:40:02] Left refresh button clicked
+[2025-06-12 16:40:07] Left panel collapsed successfully.
+[2025-06-12 16:40:07] Downloading Excel file for West Bengal(57), KALIMPONG RTO - WB78( 30-MAR-2017 ), 2022
+[2025-06-12 16:40:08] Clicked Excel download button using method 1
+[2025-06-12 16:40:08] Clicked Excel download button
+[2025-06-12 16:40:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:40:11] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:41:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\KALIMPONG RTO - WB78( 30-MAR-2017 ).xlsx
+[2025-06-12 16:41:11] Successfully processed RTO: KALIMPONG RTO - WB78( 30-MAR-2017 )
+[2025-06-12 16:41:11] 
+Processing RTO 32/59: KALNA ARTO - WB43( 21-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 16:41:11] Selecting RTO: KALNA ARTO - WB43( 21-FEB-2017 )
+[2025-06-12 16:41:11] Clicked RTO dropdown using method 1
+[2025-06-12 16:41:13] Clicked RTO option: KALNA ARTO - WB43( 21-FEB-2017 ) using method 1
+[2025-06-12 16:41:13] Successfully selected RTO: KALNA ARTO - WB43( 21-FEB-2017 )
+[2025-06-12 16:41:13] Applying left panel filters
+[2025-06-12 16:41:14] Clicked right refresh button using method 1
+[2025-06-12 16:41:18] Opening left panel if needed
+[2025-06-12 16:41:18] Clicked left panel toggler using method 1
+[2025-06-12 16:41:18] Expanded left panel
+[2025-06-12 16:41:20] Selecting vehicle categories and fuel types
+[2025-06-12 16:41:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:41:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:41:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:41:22] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:41:23] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:41:23] Vehicle categories and fuel types selected
+[2025-06-12 16:41:24] Clicking left refresh button
+[2025-06-12 16:41:24] Clicked left refresh button using method 1
+[2025-06-12 16:41:24] Left refresh button clicked
+[2025-06-12 16:41:30] Left panel collapsed successfully.
+[2025-06-12 16:41:30] Downloading Excel file for West Bengal(57), KALNA ARTO - WB43( 21-FEB-2017 ), 2022
+[2025-06-12 16:41:30] Clicked Excel download button using method 1
+[2025-06-12 16:41:30] Clicked Excel download button
+[2025-06-12 16:41:34] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:41:34] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:42:34] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\KALNA ARTO - WB43( 21-FEB-2017 ).xlsx
+[2025-06-12 16:42:34] Successfully processed RTO: KALNA ARTO - WB43( 21-FEB-2017 )
+[2025-06-12 16:42:34] 
+Processing RTO 33/59: KALYANI ARTO - WB89( 16-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:42:34] Selecting RTO: KALYANI ARTO - WB89( 16-MAR-2017 )
+[2025-06-12 16:42:35] Clicked RTO dropdown using method 1
+[2025-06-12 16:42:36] Clicked RTO option: KALYANI ARTO - WB89( 16-MAR-2017 ) using method 1
+[2025-06-12 16:42:36] Successfully selected RTO: KALYANI ARTO - WB89( 16-MAR-2017 )
+[2025-06-12 16:42:36] Applying left panel filters
+[2025-06-12 16:42:37] Clicked right refresh button using method 1
+[2025-06-12 16:42:42] Opening left panel if needed
+[2025-06-12 16:42:42] Clicked left panel toggler using method 1
+[2025-06-12 16:42:42] Expanded left panel
+[2025-06-12 16:42:43] Selecting vehicle categories and fuel types
+[2025-06-12 16:42:44] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:42:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:42:45] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:42:46] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:42:46] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:42:47] Vehicle categories and fuel types selected
+[2025-06-12 16:42:47] Clicking left refresh button
+[2025-06-12 16:42:47] Clicked left refresh button using method 1
+[2025-06-12 16:42:47] Left refresh button clicked
+[2025-06-12 16:42:52] Left panel collapsed successfully.
+[2025-06-12 16:42:52] Downloading Excel file for West Bengal(57), KALYANI ARTO - WB89( 16-MAR-2017 ), 2022
+[2025-06-12 16:42:53] Clicked Excel download button using method 1
+[2025-06-12 16:42:53] Clicked Excel download button
+[2025-06-12 16:42:56] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:42:56] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:43:56] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\KALYANI ARTO - WB89( 16-MAR-2017 ).xlsx
+[2025-06-12 16:43:56] Successfully processed RTO: KALYANI ARTO - WB89( 16-MAR-2017 )
+[2025-06-12 16:43:56] 
+Processing RTO 34/59: KANDI - WB99( 11-JUL-2024 ) (Attempt 1/2)
+[2025-06-12 16:43:56] Selecting RTO: KANDI - WB99( 11-JUL-2024 )
+[2025-06-12 16:43:57] Clicked RTO dropdown using method 1
+[2025-06-12 16:43:58] Clicked RTO option: KANDI - WB99( 11-JUL-2024 ) using method 1
+[2025-06-12 16:43:58] Successfully selected RTO: KANDI - WB99( 11-JUL-2024 )
+[2025-06-12 16:43:58] Applying left panel filters
+[2025-06-12 16:43:58] Clicked right refresh button using method 1
+[2025-06-12 16:44:03] Opening left panel if needed
+[2025-06-12 16:44:03] Clicked left panel toggler using method 1
+[2025-06-12 16:44:03] Expanded left panel
+[2025-06-12 16:44:05] Selecting vehicle categories and fuel types
+[2025-06-12 16:44:05] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:44:06] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:44:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:44:07] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:44:08] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:44:09] Vehicle categories and fuel types selected
+[2025-06-12 16:44:09] Clicking left refresh button
+[2025-06-12 16:44:10] Clicked left refresh button using method 1
+[2025-06-12 16:44:10] Left refresh button clicked
+[2025-06-12 16:44:14] Left panel collapsed successfully.
+[2025-06-12 16:44:14] Downloading Excel file for West Bengal(57), KANDI - WB99( 11-JUL-2024 ), 2022
+[2025-06-12 16:44:16] Clicked Excel download button using method 1
+[2025-06-12 16:44:16] Clicked Excel download button
+[2025-06-12 16:44:20] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:44:20] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:45:20] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\KANDI - WB99( 11-JUL-2024 ).xlsx
+[2025-06-12 16:45:20] Successfully processed RTO: KANDI - WB99( 11-JUL-2024 )
+[2025-06-12 16:45:20] 
+Processing RTO 35/59: KASBA ARTO - WB5( 28-SEP-2016 ) (Attempt 1/2)
+[2025-06-12 16:45:20] Selecting RTO: KASBA ARTO - WB5( 28-SEP-2016 )
+[2025-06-12 16:45:20] Clicked RTO dropdown using method 1
+[2025-06-12 16:45:22] Clicked RTO option: KASBA ARTO - WB5( 28-SEP-2016 ) using method 1
+[2025-06-12 16:45:22] Successfully selected RTO: KASBA ARTO - WB5( 28-SEP-2016 )
+[2025-06-12 16:45:22] Applying left panel filters
+[2025-06-12 16:45:22] Clicked right refresh button using method 1
+[2025-06-12 16:45:27] Opening left panel if needed
+[2025-06-12 16:45:27] Clicked left panel toggler using method 1
+[2025-06-12 16:45:27] Expanded left panel
+[2025-06-12 16:45:28] Selecting vehicle categories and fuel types
+[2025-06-12 16:45:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:45:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:45:30] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:45:31] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:45:32] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:45:32] Vehicle categories and fuel types selected
+[2025-06-12 16:45:33] Clicking left refresh button
+[2025-06-12 16:45:33] Clicked left refresh button using method 1
+[2025-06-12 16:45:33] Left refresh button clicked
+[2025-06-12 16:45:38] Left panel collapsed successfully.
+[2025-06-12 16:45:38] Downloading Excel file for West Bengal(57), KASBA ARTO - WB5( 28-SEP-2016 ), 2022
+[2025-06-12 16:45:39] Clicked Excel download button using method 1
+[2025-06-12 16:45:39] Clicked Excel download button
+[2025-06-12 16:45:42] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:45:42] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:46:42] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\KASBA ARTO - WB5( 28-SEP-2016 ).xlsx
+[2025-06-12 16:46:42] Successfully processed RTO: KASBA ARTO - WB5( 28-SEP-2016 )
+[2025-06-12 16:46:42] 
+Processing RTO 36/59: KATWA ARTO - WB75( 04-SEP-2018 ) (Attempt 1/2)
+[2025-06-12 16:46:42] Selecting RTO: KATWA ARTO - WB75( 04-SEP-2018 )
+[2025-06-12 16:46:43] Clicked RTO dropdown using method 1
+[2025-06-12 16:46:44] Clicked RTO option: KATWA ARTO - WB75( 04-SEP-2018 ) using method 1
+[2025-06-12 16:46:44] Successfully selected RTO: KATWA ARTO - WB75( 04-SEP-2018 )
+[2025-06-12 16:46:44] Applying left panel filters
+[2025-06-12 16:46:45] Clicked right refresh button using method 1
+[2025-06-12 16:46:49] Opening left panel if needed
+[2025-06-12 16:46:49] Clicked left panel toggler using method 1
+[2025-06-12 16:46:49] Expanded left panel
+[2025-06-12 16:46:50] Selecting vehicle categories and fuel types
+[2025-06-12 16:46:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:46:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:46:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:46:53] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:46:54] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:46:54] Vehicle categories and fuel types selected
+[2025-06-12 16:46:55] Clicking left refresh button
+[2025-06-12 16:46:55] Clicked left refresh button using method 1
+[2025-06-12 16:46:55] Left refresh button clicked
+[2025-06-12 16:47:00] Left panel collapsed successfully.
+[2025-06-12 16:47:00] Downloading Excel file for West Bengal(57), KATWA ARTO - WB75( 04-SEP-2018 ), 2022
+[2025-06-12 16:47:00] Clicked Excel download button using method 1
+[2025-06-12 16:47:00] Clicked Excel download button
+[2025-06-12 16:47:04] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:47:04] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:48:04] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\KATWA ARTO - WB75( 04-SEP-2018 ).xlsx
+[2025-06-12 16:48:04] Successfully processed RTO: KATWA ARTO - WB75( 04-SEP-2018 )
+[2025-06-12 16:48:04] 
+Processing RTO 37/59: KHARAGPUR ARTO - WB35( 07-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:48:04] Selecting RTO: KHARAGPUR ARTO - WB35( 07-MAR-2017 )
+[2025-06-12 16:48:04] Clicked RTO dropdown using method 1
+[2025-06-12 16:48:06] Clicked RTO option: KHARAGPUR ARTO - WB35( 07-MAR-2017 ) using method 1
+[2025-06-12 16:48:06] Successfully selected RTO: KHARAGPUR ARTO - WB35( 07-MAR-2017 )
+[2025-06-12 16:48:06] Applying left panel filters
+[2025-06-12 16:48:06] Clicked right refresh button using method 1
+[2025-06-12 16:48:11] Opening left panel if needed
+[2025-06-12 16:48:11] Clicked left panel toggler using method 1
+[2025-06-12 16:48:11] Expanded left panel
+[2025-06-12 16:48:12] Selecting vehicle categories and fuel types
+[2025-06-12 16:48:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:48:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:48:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:48:15] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:48:16] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:48:16] Vehicle categories and fuel types selected
+[2025-06-12 16:48:17] Clicking left refresh button
+[2025-06-12 16:48:17] Clicked left refresh button using method 1
+[2025-06-12 16:48:17] Left refresh button clicked
+[2025-06-12 16:48:22] Left panel collapsed successfully.
+[2025-06-12 16:48:22] Downloading Excel file for West Bengal(57), KHARAGPUR ARTO - WB35( 07-MAR-2017 ), 2022
+[2025-06-12 16:48:23] Clicked Excel download button using method 1
+[2025-06-12 16:48:23] Clicked Excel download button
+[2025-06-12 16:48:27] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:48:27] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:49:27] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\KHARAGPUR ARTO - WB35( 07-MAR-2017 ).xlsx
+[2025-06-12 16:49:27] Successfully processed RTO: KHARAGPUR ARTO - WB35( 07-MAR-2017 )
+[2025-06-12 16:49:27] 
+Processing RTO 38/59: MALDA RTO - WB65( 21-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:49:27] Selecting RTO: MALDA RTO - WB65( 21-MAR-2017 )
+[2025-06-12 16:49:27] Clicked RTO dropdown using method 1
+[2025-06-12 16:49:28] Clicked RTO option: MALDA RTO - WB65( 21-MAR-2017 ) using method 1
+[2025-06-12 16:49:28] Successfully selected RTO: MALDA RTO - WB65( 21-MAR-2017 )
+[2025-06-12 16:49:28] Applying left panel filters
+[2025-06-12 16:49:29] Clicked right refresh button using method 1
+[2025-06-12 16:49:33] Opening left panel if needed
+[2025-06-12 16:49:33] Clicked left panel toggler using method 1
+[2025-06-12 16:49:33] Expanded left panel
+[2025-06-12 16:49:34] Selecting vehicle categories and fuel types
+[2025-06-12 16:49:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:49:35] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:49:36] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:49:37] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:49:37] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:49:38] Vehicle categories and fuel types selected
+[2025-06-12 16:49:38] Clicking left refresh button
+[2025-06-12 16:49:39] Clicked left refresh button using method 1
+[2025-06-12 16:49:39] Left refresh button clicked
+[2025-06-12 16:49:43] Left panel collapsed successfully.
+[2025-06-12 16:49:43] Downloading Excel file for West Bengal(57), MALDA RTO - WB65( 21-MAR-2017 ), 2022
+[2025-06-12 16:49:44] Clicked Excel download button using method 1
+[2025-06-12 16:49:44] Clicked Excel download button
+[2025-06-12 16:49:47] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:49:47] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:50:47] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\MALDA RTO - WB65( 21-MAR-2017 ).xlsx
+[2025-06-12 16:50:47] Successfully processed RTO: MALDA RTO - WB65( 21-MAR-2017 )
+[2025-06-12 16:50:47] 
+Processing RTO 39/59: MANBAZAR - WB80( 09-JUN-2023 ) (Attempt 1/2)
+[2025-06-12 16:50:47] Selecting RTO: MANBAZAR - WB80( 09-JUN-2023 )
+[2025-06-12 16:50:47] Clicked RTO dropdown using method 1
+[2025-06-12 16:50:49] Clicked RTO option: MANBAZAR - WB80( 09-JUN-2023 ) using method 1
+[2025-06-12 16:50:49] Successfully selected RTO: MANBAZAR - WB80( 09-JUN-2023 )
+[2025-06-12 16:50:49] Applying left panel filters
+[2025-06-12 16:50:49] Clicked right refresh button using method 1
+[2025-06-12 16:50:54] Opening left panel if needed
+[2025-06-12 16:50:54] Clicked left panel toggler using method 1
+[2025-06-12 16:50:54] Expanded left panel
+[2025-06-12 16:50:55] Selecting vehicle categories and fuel types
+[2025-06-12 16:50:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:50:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:50:57] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:50:58] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:50:59] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:50:59] Vehicle categories and fuel types selected
+[2025-06-12 16:51:00] Clicking left refresh button
+[2025-06-12 16:51:01] Clicked left refresh button using method 1
+[2025-06-12 16:51:01] Left refresh button clicked
+[2025-06-12 16:51:05] Left panel collapsed successfully.
+[2025-06-12 16:51:05] Downloading Excel file for West Bengal(57), MANBAZAR - WB80( 09-JUN-2023 ), 2022
+[2025-06-12 16:51:06] Clicked Excel download button using method 1
+[2025-06-12 16:51:06] Clicked Excel download button
+[2025-06-12 16:51:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:51:10] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:52:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\MANBAZAR - WB80( 09-JUN-2023 ).xlsx
+[2025-06-12 16:52:10] Successfully processed RTO: MANBAZAR - WB80( 09-JUN-2023 )
+[2025-06-12 16:52:10] 
+Processing RTO 40/59: MATHABHANGA ARTO - WB85( 28-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:52:10] Selecting RTO: MATHABHANGA ARTO - WB85( 28-MAR-2017 )
+[2025-06-12 16:52:10] Clicked RTO dropdown using method 1
+[2025-06-12 16:52:11] Clicked RTO option: MATHABHANGA ARTO - WB85( 28-MAR-2017 ) using method 1
+[2025-06-12 16:52:12] Successfully selected RTO: MATHABHANGA ARTO - WB85( 28-MAR-2017 )
+[2025-06-12 16:52:12] Applying left panel filters
+[2025-06-12 16:52:12] Clicked right refresh button using method 1
+[2025-06-12 16:52:16] Opening left panel if needed
+[2025-06-12 16:52:16] Clicked left panel toggler using method 1
+[2025-06-12 16:52:16] Expanded left panel
+[2025-06-12 16:52:18] Selecting vehicle categories and fuel types
+[2025-06-12 16:52:18] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:52:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:52:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:52:20] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:52:21] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:52:22] Vehicle categories and fuel types selected
+[2025-06-12 16:52:22] Clicking left refresh button
+[2025-06-12 16:52:23] Clicked left refresh button using method 1
+[2025-06-12 16:52:23] Left refresh button clicked
+[2025-06-12 16:52:27] Left panel collapsed successfully.
+[2025-06-12 16:52:27] Downloading Excel file for West Bengal(57), MATHABHANGA ARTO - WB85( 28-MAR-2017 ), 2022
+[2025-06-12 16:52:28] Clicked Excel download button using method 1
+[2025-06-12 16:52:28] Clicked Excel download button
+[2025-06-12 16:52:32] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:52:32] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:53:32] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\MATHABHANGA ARTO - WB85( 28-MAR-2017 ).xlsx
+[2025-06-12 16:53:32] Successfully processed RTO: MATHABHANGA ARTO - WB85( 28-MAR-2017 )
+[2025-06-12 16:53:32] 
+Processing RTO 41/59: MURSHIDABAD RTO - WB57( 23-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:53:32] Selecting RTO: MURSHIDABAD RTO - WB57( 23-MAR-2017 )
+[2025-06-12 16:53:32] Clicked RTO dropdown using method 1
+[2025-06-12 16:53:33] Clicked RTO option: MURSHIDABAD RTO - WB57( 23-MAR-2017 ) using method 1
+[2025-06-12 16:53:33] Successfully selected RTO: MURSHIDABAD RTO - WB57( 23-MAR-2017 )
+[2025-06-12 16:53:33] Applying left panel filters
+[2025-06-12 16:53:34] Clicked right refresh button using method 1
+[2025-06-12 16:53:38] Opening left panel if needed
+[2025-06-12 16:53:38] Clicked left panel toggler using method 1
+[2025-06-12 16:53:38] Expanded left panel
+[2025-06-12 16:53:40] Selecting vehicle categories and fuel types
+[2025-06-12 16:53:40] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:53:41] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:53:42] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:53:42] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:53:43] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:53:43] Vehicle categories and fuel types selected
+[2025-06-12 16:53:44] Clicking left refresh button
+[2025-06-12 16:53:44] Clicked left refresh button using method 1
+[2025-06-12 16:53:44] Left refresh button clicked
+[2025-06-12 16:53:49] Left panel collapsed successfully.
+[2025-06-12 16:53:49] Downloading Excel file for West Bengal(57), MURSHIDABAD RTO - WB57( 23-MAR-2017 ), 2022
+[2025-06-12 16:53:50] Clicked Excel download button using method 1
+[2025-06-12 16:53:50] Clicked Excel download button
+[2025-06-12 16:53:54] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:53:54] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:54:54] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\MURSHIDABAD RTO - WB57( 23-MAR-2017 ).xlsx
+[2025-06-12 16:54:54] Successfully processed RTO: MURSHIDABAD RTO - WB57( 23-MAR-2017 )
+[2025-06-12 16:54:54] 
+Processing RTO 42/59: NADIA RTO - WB51( 06-APR-2017 ) (Attempt 1/2)
+[2025-06-12 16:54:54] Selecting RTO: NADIA RTO - WB51( 06-APR-2017 )
+[2025-06-12 16:54:54] Clicked RTO dropdown using method 1
+[2025-06-12 16:54:55] Clicked RTO option: NADIA RTO - WB51( 06-APR-2017 ) using method 1
+[2025-06-12 16:54:55] Successfully selected RTO: NADIA RTO - WB51( 06-APR-2017 )
+[2025-06-12 16:54:55] Applying left panel filters
+[2025-06-12 16:54:56] Clicked right refresh button using method 1
+[2025-06-12 16:55:00] Opening left panel if needed
+[2025-06-12 16:55:00] Clicked left panel toggler using method 1
+[2025-06-12 16:55:00] Expanded left panel
+[2025-06-12 16:55:02] Selecting vehicle categories and fuel types
+[2025-06-12 16:55:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:55:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:55:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:55:05] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:55:05] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:55:06] Vehicle categories and fuel types selected
+[2025-06-12 16:55:07] Clicking left refresh button
+[2025-06-12 16:55:07] Clicked left refresh button using method 1
+[2025-06-12 16:55:07] Left refresh button clicked
+[2025-06-12 16:55:13] Left panel collapsed successfully.
+[2025-06-12 16:55:13] Downloading Excel file for West Bengal(57), NADIA RTO - WB51( 06-APR-2017 ), 2022
+[2025-06-12 16:55:13] Clicked Excel download button using method 1
+[2025-06-12 16:55:13] Clicked Excel download button
+[2025-06-12 16:55:17] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:55:17] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:56:17] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\NADIA RTO - WB51( 06-APR-2017 ).xlsx
+[2025-06-12 16:56:17] Successfully processed RTO: NADIA RTO - WB51( 06-APR-2017 )
+[2025-06-12 16:56:17] 
+Processing RTO 43/59: PASCHIM BURDWAN RTO - WB37( 04-APR-2017 ) (Attempt 1/2)
+[2025-06-12 16:56:17] Selecting RTO: PASCHIM BURDWAN RTO - WB37( 04-APR-2017 )
+[2025-06-12 16:56:17] Clicked RTO dropdown using method 1
+[2025-06-12 16:56:19] Clicked RTO option: PASCHIM BURDWAN RTO - WB37( 04-APR-2017 ) using method 1
+[2025-06-12 16:56:19] Successfully selected RTO: PASCHIM BURDWAN RTO - WB37( 04-APR-2017 )
+[2025-06-12 16:56:19] Applying left panel filters
+[2025-06-12 16:56:20] Clicked right refresh button using method 1
+[2025-06-12 16:56:24] Opening left panel if needed
+[2025-06-12 16:56:24] Clicked left panel toggler using method 1
+[2025-06-12 16:56:24] Expanded left panel
+[2025-06-12 16:56:26] Selecting vehicle categories and fuel types
+[2025-06-12 16:56:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:56:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:56:27] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:56:28] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:56:29] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:56:29] Vehicle categories and fuel types selected
+[2025-06-12 16:56:30] Clicking left refresh button
+[2025-06-12 16:56:30] Clicked left refresh button using method 1
+[2025-06-12 16:56:30] Left refresh button clicked
+[2025-06-12 16:56:35] Left panel collapsed successfully.
+[2025-06-12 16:56:35] Downloading Excel file for West Bengal(57), PASCHIM BURDWAN RTO - WB37( 04-APR-2017 ), 2022
+[2025-06-12 16:56:36] Clicked Excel download button using method 1
+[2025-06-12 16:56:36] Clicked Excel download button
+[2025-06-12 16:56:39] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:56:39] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:57:39] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\PASCHIM BURDWAN RTO - WB37( 04-APR-2017 ).xlsx
+[2025-06-12 16:57:39] Successfully processed RTO: PASCHIM BURDWAN RTO - WB37( 04-APR-2017 )
+[2025-06-12 16:57:39] 
+Processing RTO 44/59: PASCHIM MIDNAPORE RTO - WB33( 07-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 16:57:39] Selecting RTO: PASCHIM MIDNAPORE RTO - WB33( 07-MAR-2017 )
+[2025-06-12 16:57:40] Clicked RTO dropdown using method 1
+[2025-06-12 16:57:41] Clicked RTO option: PASCHIM MIDNAPORE RTO - WB33( 07-MAR-2017 ) using method 1
+[2025-06-12 16:57:41] Successfully selected RTO: PASCHIM MIDNAPORE RTO - WB33( 07-MAR-2017 )
+[2025-06-12 16:57:41] Applying left panel filters
+[2025-06-12 16:57:41] Clicked right refresh button using method 1
+[2025-06-12 16:57:46] Opening left panel if needed
+[2025-06-12 16:57:46] Clicked left panel toggler using method 1
+[2025-06-12 16:57:46] Expanded left panel
+[2025-06-12 16:57:47] Selecting vehicle categories and fuel types
+[2025-06-12 16:57:48] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:57:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:57:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:57:50] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:57:51] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:57:51] Vehicle categories and fuel types selected
+[2025-06-12 16:57:52] Clicking left refresh button
+[2025-06-12 16:57:52] Clicked left refresh button using method 1
+[2025-06-12 16:57:52] Left refresh button clicked
+[2025-06-12 16:57:57] Left panel collapsed successfully.
+[2025-06-12 16:57:57] Downloading Excel file for West Bengal(57), PASCHIM MIDNAPORE RTO - WB33( 07-MAR-2017 ), 2022
+[2025-06-12 16:57:58] Clicked Excel download button using method 1
+[2025-06-12 16:57:58] Clicked Excel download button
+[2025-06-12 16:58:01] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:58:01] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 16:59:01] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\PASCHIM MIDNAPORE RTO - WB33( 07-MAR-2017 ).xlsx
+[2025-06-12 16:59:01] Successfully processed RTO: PASCHIM MIDNAPORE RTO - WB33( 07-MAR-2017 )
+[2025-06-12 16:59:01] 
+Processing RTO 45/59: PURBA BURDWAN RTO - WB41( 21-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 16:59:01] Selecting RTO: PURBA BURDWAN RTO - WB41( 21-FEB-2017 )
+[2025-06-12 16:59:02] Clicked RTO dropdown using method 1
+[2025-06-12 16:59:03] Clicked RTO option: PURBA BURDWAN RTO - WB41( 21-FEB-2017 ) using method 1
+[2025-06-12 16:59:03] Successfully selected RTO: PURBA BURDWAN RTO - WB41( 21-FEB-2017 )
+[2025-06-12 16:59:03] Applying left panel filters
+[2025-06-12 16:59:04] Clicked right refresh button using method 1
+[2025-06-12 16:59:08] Opening left panel if needed
+[2025-06-12 16:59:08] Clicked left panel toggler using method 1
+[2025-06-12 16:59:08] Expanded left panel
+[2025-06-12 16:59:10] Selecting vehicle categories and fuel types
+[2025-06-12 16:59:11] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 16:59:12] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 16:59:13] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 16:59:13] Clicked checkbox fuel:7 using method 2
+[2025-06-12 16:59:14] Clicked checkbox fuel:21 using method 2
+[2025-06-12 16:59:15] Vehicle categories and fuel types selected
+[2025-06-12 16:59:15] Clicking left refresh button
+[2025-06-12 16:59:16] Clicked left refresh button using method 1
+[2025-06-12 16:59:16] Left refresh button clicked
+[2025-06-12 16:59:21] Left panel collapsed successfully.
+[2025-06-12 16:59:21] Downloading Excel file for West Bengal(57), PURBA BURDWAN RTO - WB41( 21-FEB-2017 ), 2022
+[2025-06-12 16:59:21] Clicked Excel download button using method 1
+[2025-06-12 16:59:21] Clicked Excel download button
+[2025-06-12 16:59:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 16:59:25] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:00:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\PURBA BURDWAN RTO - WB41( 21-FEB-2017 ).xlsx
+[2025-06-12 17:00:25] Successfully processed RTO: PURBA BURDWAN RTO - WB41( 21-FEB-2017 )
+[2025-06-12 17:00:25] 
+Processing RTO 46/59: PURULIA RTO - WB55( 16-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 17:00:25] Selecting RTO: PURULIA RTO - WB55( 16-FEB-2017 )
+[2025-06-12 17:00:27] Clicked RTO dropdown using method 1
+[2025-06-12 17:00:28] Clicked RTO option: PURULIA RTO - WB55( 16-FEB-2017 ) using method 1
+[2025-06-12 17:00:29] Successfully selected RTO: PURULIA RTO - WB55( 16-FEB-2017 )
+[2025-06-12 17:00:29] Applying left panel filters
+[2025-06-12 17:00:29] Clicked right refresh button using method 1
+[2025-06-12 17:00:33] Opening left panel if needed
+[2025-06-12 17:00:33] Clicked left panel toggler using method 1
+[2025-06-12 17:00:33] Expanded left panel
+[2025-06-12 17:00:35] Selecting vehicle categories and fuel types
+[2025-06-12 17:00:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:00:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:00:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:00:38] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:00:39] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:00:39] Vehicle categories and fuel types selected
+[2025-06-12 17:00:40] Clicking left refresh button
+[2025-06-12 17:00:40] Clicked left refresh button using method 1
+[2025-06-12 17:00:40] Left refresh button clicked
+[2025-06-12 17:00:45] Left panel collapsed successfully.
+[2025-06-12 17:00:45] Downloading Excel file for West Bengal(57), PURULIA RTO - WB55( 16-FEB-2017 ), 2022
+[2025-06-12 17:00:46] Clicked Excel download button using method 1
+[2025-06-12 17:00:46] Clicked Excel download button
+[2025-06-12 17:00:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:00:50] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:01:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\PURULIA RTO - WB55( 16-FEB-2017 ).xlsx
+[2025-06-12 17:01:50] Successfully processed RTO: PURULIA RTO - WB55( 16-FEB-2017 )
+[2025-06-12 17:01:50] 
+Processing RTO 47/59: PVD KOLKATA - WB1( 25-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 17:01:50] Selecting RTO: PVD KOLKATA - WB1( 25-JAN-2017 )
+[2025-06-12 17:01:50] Clicked RTO dropdown using method 1
+[2025-06-12 17:01:52] Clicked RTO option: PVD KOLKATA - WB1( 25-JAN-2017 ) using method 1
+[2025-06-12 17:01:52] Successfully selected RTO: PVD KOLKATA - WB1( 25-JAN-2017 )
+[2025-06-12 17:01:52] Applying left panel filters
+[2025-06-12 17:01:52] Clicked right refresh button using method 1
+[2025-06-12 17:01:57] Opening left panel if needed
+[2025-06-12 17:01:57] Clicked left panel toggler using method 1
+[2025-06-12 17:01:57] Expanded left panel
+[2025-06-12 17:01:58] Selecting vehicle categories and fuel types
+[2025-06-12 17:01:59] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:02:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:02:00] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:02:01] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:02:02] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:02:02] Vehicle categories and fuel types selected
+[2025-06-12 17:02:03] Clicking left refresh button
+[2025-06-12 17:02:04] Clicked left refresh button using method 1
+[2025-06-12 17:02:04] Left refresh button clicked
+[2025-06-12 17:02:08] Left panel collapsed successfully.
+[2025-06-12 17:02:08] Downloading Excel file for West Bengal(57), PVD KOLKATA - WB1( 25-JAN-2017 ), 2022
+[2025-06-12 17:02:09] Clicked Excel download button using method 1
+[2025-06-12 17:02:09] Clicked Excel download button
+[2025-06-12 17:02:13] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:02:13] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:03:13] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\PVD KOLKATA - WB1( 25-JAN-2017 ).xlsx
+[2025-06-12 17:03:13] Successfully processed RTO: PVD KOLKATA - WB1( 25-JAN-2017 )
+[2025-06-12 17:03:13] 
+Processing RTO 48/59: RAGHUNATHPUR ARTO - WB81( 16-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 17:03:13] Selecting RTO: RAGHUNATHPUR ARTO - WB81( 16-FEB-2017 )
+[2025-06-12 17:03:13] Clicked RTO dropdown using method 1
+[2025-06-12 17:03:14] Clicked RTO option: RAGHUNATHPUR ARTO - WB81( 16-FEB-2017 ) using method 1
+[2025-06-12 17:03:15] Successfully selected RTO: RAGHUNATHPUR ARTO - WB81( 16-FEB-2017 )
+[2025-06-12 17:03:15] Applying left panel filters
+[2025-06-12 17:03:15] Clicked right refresh button using method 1
+[2025-06-12 17:03:20] Opening left panel if needed
+[2025-06-12 17:03:21] Clicked left panel toggler using method 1
+[2025-06-12 17:03:21] Expanded left panel
+[2025-06-12 17:03:22] Selecting vehicle categories and fuel types
+[2025-06-12 17:03:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:03:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:03:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:03:25] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:03:26] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:03:27] Vehicle categories and fuel types selected
+[2025-06-12 17:03:28] Clicking left refresh button
+[2025-06-12 17:03:28] Clicked left refresh button using method 1
+[2025-06-12 17:03:28] Left refresh button clicked
+[2025-06-12 17:03:33] Left panel collapsed successfully.
+[2025-06-12 17:03:33] Downloading Excel file for West Bengal(57), RAGHUNATHPUR ARTO - WB81( 16-FEB-2017 ), 2022
+[2025-06-12 17:03:34] Clicked Excel download button using method 1
+[2025-06-12 17:03:34] Clicked Excel download button
+[2025-06-12 17:03:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:03:37] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:04:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\RAGHUNATHPUR ARTO - WB81( 16-FEB-2017 ).xlsx
+[2025-06-12 17:04:37] Successfully processed RTO: RAGHUNATHPUR ARTO - WB81( 16-FEB-2017 )
+[2025-06-12 17:04:37] 
+Processing RTO 49/59: RAMPURHAT ARTO - WB45( 28-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 17:04:37] Selecting RTO: RAMPURHAT ARTO - WB45( 28-FEB-2017 )
+[2025-06-12 17:04:38] Clicked RTO dropdown using method 1
+[2025-06-12 17:04:39] Clicked RTO option: RAMPURHAT ARTO - WB45( 28-FEB-2017 ) using method 1
+[2025-06-12 17:04:39] Successfully selected RTO: RAMPURHAT ARTO - WB45( 28-FEB-2017 )
+[2025-06-12 17:04:39] Applying left panel filters
+[2025-06-12 17:04:40] Clicked right refresh button using method 1
+[2025-06-12 17:04:44] Opening left panel if needed
+[2025-06-12 17:04:45] Clicked left panel toggler using method 1
+[2025-06-12 17:04:45] Expanded left panel
+[2025-06-12 17:04:46] Selecting vehicle categories and fuel types
+[2025-06-12 17:04:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:04:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:04:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:04:49] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:04:50] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:04:50] Vehicle categories and fuel types selected
+[2025-06-12 17:04:51] Clicking left refresh button
+[2025-06-12 17:04:52] Clicked left refresh button using method 1
+[2025-06-12 17:04:52] Left refresh button clicked
+[2025-06-12 17:04:56] Left panel collapsed successfully.
+[2025-06-12 17:04:56] Downloading Excel file for West Bengal(57), RAMPURHAT ARTO - WB45( 28-FEB-2017 ), 2022
+[2025-06-12 17:04:57] Clicked Excel download button using method 1
+[2025-06-12 17:04:57] Clicked Excel download button
+[2025-06-12 17:05:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:05:00] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:06:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\RAMPURHAT ARTO - WB45( 28-FEB-2017 ).xlsx
+[2025-06-12 17:06:01] Successfully processed RTO: RAMPURHAT ARTO - WB45( 28-FEB-2017 )
+[2025-06-12 17:06:01] 
+Processing RTO 50/59: SALTLAKE ARTO - WB7( 03-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 17:06:01] Selecting RTO: SALTLAKE ARTO - WB7( 03-JAN-2017 )
+[2025-06-12 17:06:01] Clicked RTO dropdown using method 1
+[2025-06-12 17:06:02] Clicked RTO option: SALTLAKE ARTO - WB7( 03-JAN-2017 ) using method 1
+[2025-06-12 17:06:03] Successfully selected RTO: SALTLAKE ARTO - WB7( 03-JAN-2017 )
+[2025-06-12 17:06:03] Applying left panel filters
+[2025-06-12 17:06:03] Clicked right refresh button using method 1
+[2025-06-12 17:06:08] Opening left panel if needed
+[2025-06-12 17:06:08] Clicked left panel toggler using method 1
+[2025-06-12 17:06:08] Expanded left panel
+[2025-06-12 17:06:09] Selecting vehicle categories and fuel types
+[2025-06-12 17:06:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:06:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:06:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:06:12] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:06:13] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:06:13] Vehicle categories and fuel types selected
+[2025-06-12 17:06:14] Clicking left refresh button
+[2025-06-12 17:06:15] Clicked left refresh button using method 1
+[2025-06-12 17:06:15] Left refresh button clicked
+[2025-06-12 17:06:19] Left panel collapsed successfully.
+[2025-06-12 17:06:19] Downloading Excel file for West Bengal(57), SALTLAKE ARTO - WB7( 03-JAN-2017 ), 2022
+[2025-06-12 17:06:20] Clicked Excel download button using method 1
+[2025-06-12 17:06:20] Clicked Excel download button
+[2025-06-12 17:06:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:06:23] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:07:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\SALTLAKE ARTO - WB7( 03-JAN-2017 ).xlsx
+[2025-06-12 17:07:23] Successfully processed RTO: SALTLAKE ARTO - WB7( 03-JAN-2017 )
+[2025-06-12 17:07:23] 
+Processing RTO 51/59: SILIGURI ARTO - WB73( 30-MAR-2017 ) (Attempt 1/2)
+[2025-06-12 17:07:23] Selecting RTO: SILIGURI ARTO - WB73( 30-MAR-2017 )
+[2025-06-12 17:07:24] Clicked RTO dropdown using method 1
+[2025-06-12 17:07:25] Clicked RTO option: SILIGURI ARTO - WB73( 30-MAR-2017 ) using method 1
+[2025-06-12 17:07:26] Successfully selected RTO: SILIGURI ARTO - WB73( 30-MAR-2017 )
+[2025-06-12 17:07:26] Applying left panel filters
+[2025-06-12 17:07:26] Clicked right refresh button using method 1
+[2025-06-12 17:07:30] Opening left panel if needed
+[2025-06-12 17:07:31] Clicked left panel toggler using method 1
+[2025-06-12 17:07:31] Expanded left panel
+[2025-06-12 17:07:32] Selecting vehicle categories and fuel types
+[2025-06-12 17:07:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:07:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:07:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:07:35] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:07:35] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:07:36] Vehicle categories and fuel types selected
+[2025-06-12 17:07:37] Clicking left refresh button
+[2025-06-12 17:07:37] Clicked left refresh button using method 1
+[2025-06-12 17:07:37] Left refresh button clicked
+[2025-06-12 17:07:42] Left panel collapsed successfully.
+[2025-06-12 17:07:42] Downloading Excel file for West Bengal(57), SILIGURI ARTO - WB73( 30-MAR-2017 ), 2022
+[2025-06-12 17:07:43] Clicked Excel download button using method 1
+[2025-06-12 17:07:43] Clicked Excel download button
+[2025-06-12 17:07:46] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:07:46] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:08:46] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\SILIGURI ARTO - WB73( 30-MAR-2017 ).xlsx
+[2025-06-12 17:08:46] Successfully processed RTO: SILIGURI ARTO - WB73( 30-MAR-2017 )
+[2025-06-12 17:08:46] 
+Processing RTO 52/59: SRIRAMPUR ARTO - WB17( 10-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 17:08:46] Selecting RTO: SRIRAMPUR ARTO - WB17( 10-JAN-2017 )
+[2025-06-12 17:08:47] Clicked RTO dropdown using method 1
+[2025-06-12 17:08:48] Clicked RTO option: SRIRAMPUR ARTO - WB17( 10-JAN-2017 ) using method 1
+[2025-06-12 17:08:49] Successfully selected RTO: SRIRAMPUR ARTO - WB17( 10-JAN-2017 )
+[2025-06-12 17:08:49] Applying left panel filters
+[2025-06-12 17:08:49] Clicked right refresh button using method 1
+[2025-06-12 17:08:54] Opening left panel if needed
+[2025-06-12 17:08:54] Clicked left panel toggler using method 1
+[2025-06-12 17:08:54] Expanded left panel
+[2025-06-12 17:08:56] Selecting vehicle categories and fuel types
+[2025-06-12 17:08:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:08:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:08:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:08:59] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:09:00] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:09:00] Vehicle categories and fuel types selected
+[2025-06-12 17:09:01] Clicking left refresh button
+[2025-06-12 17:09:01] Clicked left refresh button using method 1
+[2025-06-12 17:09:01] Left refresh button clicked
+[2025-06-12 17:09:06] Left panel collapsed successfully.
+[2025-06-12 17:09:06] Downloading Excel file for West Bengal(57), SRIRAMPUR ARTO - WB17( 10-JAN-2017 ), 2022
+[2025-06-12 17:09:06] Clicked Excel download button using method 1
+[2025-06-12 17:09:06] Clicked Excel download button
+[2025-06-12 17:09:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:09:10] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:10:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\SRIRAMPUR ARTO - WB17( 10-JAN-2017 ).xlsx
+[2025-06-12 17:10:10] Successfully processed RTO: SRIRAMPUR ARTO - WB17( 10-JAN-2017 )
+[2025-06-12 17:10:10] 
+Processing RTO 53/59: STA-Durgapur - WB997( 08-MAR-2019 ) (Attempt 1/2)
+[2025-06-12 17:10:10] Selecting RTO: STA-Durgapur - WB997( 08-MAR-2019 )
+[2025-06-12 17:10:11] Clicked RTO dropdown using method 1
+[2025-06-12 17:10:12] Clicked RTO option: STA-Durgapur - WB997( 08-MAR-2019 ) using method 1
+[2025-06-12 17:10:12] Successfully selected RTO: STA-Durgapur - WB997( 08-MAR-2019 )
+[2025-06-12 17:10:12] Applying left panel filters
+[2025-06-12 17:10:13] Clicked right refresh button using method 1
+[2025-06-12 17:10:17] Opening left panel if needed
+[2025-06-12 17:10:18] Clicked left panel toggler using method 1
+[2025-06-12 17:10:18] Expanded left panel
+[2025-06-12 17:10:19] Selecting vehicle categories and fuel types
+[2025-06-12 17:10:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:10:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:10:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:10:21] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:10:22] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:10:23] Vehicle categories and fuel types selected
+[2025-06-12 17:10:23] Clicking left refresh button
+[2025-06-12 17:10:24] Clicked left refresh button using method 1
+[2025-06-12 17:10:24] Left refresh button clicked
+[2025-06-12 17:10:29] Left panel collapsed successfully.
+[2025-06-12 17:10:29] Downloading Excel file for West Bengal(57), STA-Durgapur - WB997( 08-MAR-2019 ), 2022
+[2025-06-12 17:10:29] Clicked Excel download button using method 1
+[2025-06-12 17:10:29] Clicked Excel download button
+[2025-06-12 17:10:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:10:33] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:11:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\STA-Durgapur - WB997( 08-MAR-2019 ).xlsx
+[2025-06-12 17:11:33] Successfully processed RTO: STA-Durgapur - WB997( 08-MAR-2019 )
+[2025-06-12 17:11:33] 
+Processing RTO 54/59: STA-North Bengal (Siliguri) - WB998( 13-MAR-2019 ) (Attempt 1/2)
+[2025-06-12 17:11:33] Selecting RTO: STA-North Bengal (Siliguri) - WB998( 13-MAR-2019 )
+[2025-06-12 17:11:33] Clicked RTO dropdown using method 1
+[2025-06-12 17:11:34] Clicked RTO option: STA-North Bengal (Siliguri) - WB998( 13-MAR-2019 ) using method 1
+[2025-06-12 17:11:35] Successfully selected RTO: STA-North Bengal (Siliguri) - WB998( 13-MAR-2019 )
+[2025-06-12 17:11:35] Applying left panel filters
+[2025-06-12 17:11:35] Clicked right refresh button using method 1
+[2025-06-12 17:11:40] Opening left panel if needed
+[2025-06-12 17:11:40] Clicked left panel toggler using method 1
+[2025-06-12 17:11:40] Expanded left panel
+[2025-06-12 17:11:42] Selecting vehicle categories and fuel types
+[2025-06-12 17:11:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:11:43] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:11:44] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:11:44] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:11:45] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:11:45] Vehicle categories and fuel types selected
+[2025-06-12 17:11:46] Clicking left refresh button
+[2025-06-12 17:11:47] Clicked left refresh button using method 1
+[2025-06-12 17:11:47] Left refresh button clicked
+[2025-06-12 17:11:52] Left panel collapsed successfully.
+[2025-06-12 17:11:52] Downloading Excel file for West Bengal(57), STA-North Bengal (Siliguri) - WB998( 13-MAR-2019 ), 2022
+[2025-06-12 17:11:52] Clicked Excel download button using method 1
+[2025-06-12 17:11:52] Clicked Excel download button
+[2025-06-12 17:11:56] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:11:56] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:12:56] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\STA-North Bengal (Siliguri) - WB998( 13-MAR-2019 ).xlsx
+[2025-06-12 17:12:56] Successfully processed RTO: STA-North Bengal (Siliguri) - WB998( 13-MAR-2019 )
+[2025-06-12 17:12:56] 
+Processing RTO 55/59: STA WEST BENGAL - WB999( 08-AUG-2018 ) (Attempt 1/2)
+[2025-06-12 17:12:56] Selecting RTO: STA WEST BENGAL - WB999( 08-AUG-2018 )
+[2025-06-12 17:12:56] Clicked RTO dropdown using method 1
+[2025-06-12 17:12:58] Clicked RTO option: STA WEST BENGAL - WB999( 08-AUG-2018 ) using method 1
+[2025-06-12 17:12:58] Successfully selected RTO: STA WEST BENGAL - WB999( 08-AUG-2018 )
+[2025-06-12 17:12:58] Applying left panel filters
+[2025-06-12 17:12:59] Clicked right refresh button using method 1
+[2025-06-12 17:13:03] Opening left panel if needed
+[2025-06-12 17:13:03] Clicked left panel toggler using method 1
+[2025-06-12 17:13:03] Expanded left panel
+[2025-06-12 17:13:05] Selecting vehicle categories and fuel types
+[2025-06-12 17:13:05] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:13:06] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:13:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:13:08] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:13:09] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:13:09] Vehicle categories and fuel types selected
+[2025-06-12 17:13:10] Clicking left refresh button
+[2025-06-12 17:13:10] Clicked left refresh button using method 1
+[2025-06-12 17:13:10] Left refresh button clicked
+[2025-06-12 17:13:15] Left panel collapsed successfully.
+[2025-06-12 17:13:15] Downloading Excel file for West Bengal(57), STA WEST BENGAL - WB999( 08-AUG-2018 ), 2022
+[2025-06-12 17:13:15] Clicked Excel download button using method 1
+[2025-06-12 17:13:15] Clicked Excel download button
+[2025-06-12 17:13:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:13:19] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:14:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\STA WEST BENGAL - WB999( 08-AUG-2018 ).xlsx
+[2025-06-12 17:14:19] Successfully processed RTO: STA WEST BENGAL - WB999( 08-AUG-2018 )
+[2025-06-12 17:14:19] 
+Processing RTO 56/59: TAMLUK RTO - WB29( 09-FEB-2017 ) (Attempt 1/2)
+[2025-06-12 17:14:19] Selecting RTO: TAMLUK RTO - WB29( 09-FEB-2017 )
+[2025-06-12 17:14:20] Clicked RTO dropdown using method 1
+[2025-06-12 17:14:21] Clicked RTO option: TAMLUK RTO - WB29( 09-FEB-2017 ) using method 1
+[2025-06-12 17:14:21] Successfully selected RTO: TAMLUK RTO - WB29( 09-FEB-2017 )
+[2025-06-12 17:14:21] Applying left panel filters
+[2025-06-12 17:14:21] Clicked right refresh button using method 1
+[2025-06-12 17:14:26] Opening left panel if needed
+[2025-06-12 17:14:26] Clicked left panel toggler using method 1
+[2025-06-12 17:14:26] Expanded left panel
+[2025-06-12 17:14:28] Selecting vehicle categories and fuel types
+[2025-06-12 17:14:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:14:29] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:14:30] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:14:31] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:14:32] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:14:32] Vehicle categories and fuel types selected
+[2025-06-12 17:14:33] Clicking left refresh button
+[2025-06-12 17:14:33] Clicked left refresh button using method 1
+[2025-06-12 17:14:33] Left refresh button clicked
+[2025-06-12 17:14:38] Left panel collapsed successfully.
+[2025-06-12 17:14:38] Downloading Excel file for West Bengal(57), TAMLUK RTO - WB29( 09-FEB-2017 ), 2022
+[2025-06-12 17:14:39] Clicked Excel download button using method 1
+[2025-06-12 17:14:39] Clicked Excel download button
+[2025-06-12 17:14:43] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:14:43] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:15:43] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\TAMLUK RTO - WB29( 09-FEB-2017 ).xlsx
+[2025-06-12 17:15:43] Successfully processed RTO: TAMLUK RTO - WB29( 09-FEB-2017 )
+[2025-06-12 17:15:43] 
+Processing RTO 57/59: TEHATTA ARTO - WB52( 08-JUL-2020 ) (Attempt 1/2)
+[2025-06-12 17:15:43] Selecting RTO: TEHATTA ARTO - WB52( 08-JUL-2020 )
+[2025-06-12 17:15:43] Clicked RTO dropdown using method 1
+[2025-06-12 17:15:45] Clicked RTO option: TEHATTA ARTO - WB52( 08-JUL-2020 ) using method 1
+[2025-06-12 17:15:45] Successfully selected RTO: TEHATTA ARTO - WB52( 08-JUL-2020 )
+[2025-06-12 17:15:45] Applying left panel filters
+[2025-06-12 17:15:46] Clicked right refresh button using method 1
+[2025-06-12 17:15:50] Opening left panel if needed
+[2025-06-12 17:15:51] Clicked left panel toggler using method 1
+[2025-06-12 17:15:51] Expanded left panel
+[2025-06-12 17:15:52] Selecting vehicle categories and fuel types
+[2025-06-12 17:15:52] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:15:53] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:15:54] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:15:54] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:15:55] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:15:56] Vehicle categories and fuel types selected
+[2025-06-12 17:15:56] Clicking left refresh button
+[2025-06-12 17:15:57] Clicked left refresh button using method 1
+[2025-06-12 17:15:57] Left refresh button clicked
+[2025-06-12 17:16:01] Left panel collapsed successfully.
+[2025-06-12 17:16:01] Downloading Excel file for West Bengal(57), TEHATTA ARTO - WB52( 08-JUL-2020 ), 2022
+[2025-06-12 17:16:02] Clicked Excel download button using method 1
+[2025-06-12 17:16:02] Clicked Excel download button
+[2025-06-12 17:16:05] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:16:05] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:17:05] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\TEHATTA ARTO - WB52( 08-JUL-2020 ).xlsx
+[2025-06-12 17:17:05] Successfully processed RTO: TEHATTA ARTO - WB52( 08-JUL-2020 )
+[2025-06-12 17:17:05] 
+Processing RTO 58/59: ULUBERIA ARTO - WB13( 25-JAN-2017 ) (Attempt 1/2)
+[2025-06-12 17:17:05] Selecting RTO: ULUBERIA ARTO - WB13( 25-JAN-2017 )
+[2025-06-12 17:17:05] Clicked RTO dropdown using method 1
+[2025-06-12 17:17:07] Clicked RTO option: ULUBERIA ARTO - WB13( 25-JAN-2017 ) using method 1
+[2025-06-12 17:17:07] Successfully selected RTO: ULUBERIA ARTO - WB13( 25-JAN-2017 )
+[2025-06-12 17:17:07] Applying left panel filters
+[2025-06-12 17:17:07] Clicked right refresh button using method 1
+[2025-06-12 17:17:12] Opening left panel if needed
+[2025-06-12 17:17:12] Clicked left panel toggler using method 1
+[2025-06-12 17:17:12] Expanded left panel
+[2025-06-12 17:17:14] Selecting vehicle categories and fuel types
+[2025-06-12 17:17:14] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:17:15] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:17:16] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:17:17] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:17:18] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:17:18] Vehicle categories and fuel types selected
+[2025-06-12 17:17:19] Clicking left refresh button
+[2025-06-12 17:17:19] Clicked left refresh button using method 1
+[2025-06-12 17:17:19] Left refresh button clicked
+[2025-06-12 17:17:24] Left panel collapsed successfully.
+[2025-06-12 17:17:24] Downloading Excel file for West Bengal(57), ULUBERIA ARTO - WB13( 25-JAN-2017 ), 2022
+[2025-06-12 17:17:24] Clicked Excel download button using method 1
+[2025-06-12 17:17:24] Clicked Excel download button
+[2025-06-12 17:17:28] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:17:28] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:18:28] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\ULUBERIA ARTO - WB13( 25-JAN-2017 ).xlsx
+[2025-06-12 17:18:28] Successfully processed RTO: ULUBERIA ARTO - WB13( 25-JAN-2017 )
+[2025-06-12 17:18:28] 
+Processing RTO 59/59: UTTAR DINAJPUR RTO - WB59( 04-APR-2017 ) (Attempt 1/2)
+[2025-06-12 17:18:28] Selecting RTO: UTTAR DINAJPUR RTO - WB59( 04-APR-2017 )
+[2025-06-12 17:18:29] Clicked RTO dropdown using method 1
+[2025-06-12 17:18:30] Clicked RTO option: UTTAR DINAJPUR RTO - WB59( 04-APR-2017 ) using method 1
+[2025-06-12 17:18:30] Successfully selected RTO: UTTAR DINAJPUR RTO - WB59( 04-APR-2017 )
+[2025-06-12 17:18:30] Applying left panel filters
+[2025-06-12 17:18:31] Clicked right refresh button using method 1
+[2025-06-12 17:18:35] Opening left panel if needed
+[2025-06-12 17:18:36] Clicked left panel toggler using method 1
+[2025-06-12 17:18:36] Expanded left panel
+[2025-06-12 17:18:37] Selecting vehicle categories and fuel types
+[2025-06-12 17:18:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 17:18:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 17:18:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 17:18:40] Clicked checkbox fuel:7 using method 2
+[2025-06-12 17:18:40] Clicked checkbox fuel:21 using method 2
+[2025-06-12 17:18:41] Vehicle categories and fuel types selected
+[2025-06-12 17:18:41] Clicking left refresh button
+[2025-06-12 17:18:42] Clicked left refresh button using method 1
+[2025-06-12 17:18:42] Left refresh button clicked
+[2025-06-12 17:18:47] Left panel collapsed successfully.
+[2025-06-12 17:18:47] Downloading Excel file for West Bengal(57), UTTAR DINAJPUR RTO - WB59( 04-APR-2017 ), 2022
+[2025-06-12 17:18:47] Clicked Excel download button using method 1
+[2025-06-12 17:18:47] Clicked Excel download button
+[2025-06-12 17:18:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-12 17:18:51] Inside_wait_for_download_and_rename for West_Bengal
+[2025-06-12 17:19:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\West Bengal(57)\UTTAR DINAJPUR RTO - WB59( 04-APR-2017 ).xlsx
+[2025-06-12 17:19:51] Successfully processed RTO: UTTAR DINAJPUR RTO - WB59( 04-APR-2017 )
+[2025-06-12 17:19:51] 
+=== Processing completed for West Bengal(57) ===
+

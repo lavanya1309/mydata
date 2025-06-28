@@ -1,0 +1,2159 @@
+[2025-06-13 09:26:47] Loading page
+[2025-06-13 09:26:49] Page loaded
+[2025-06-13 09:26:49] 
+=== Starting RTO-wise processing ===
+[2025-06-13 09:26:49] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:26:49] 
+Processing state: Karnataka(68), Year: 2024
+[2025-06-13 09:26:49] 
+=== Starting RTO-wise processing for Karnataka(68), 2024 ===
+
+[2025-06-13 09:26:49] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-13 09:26:49] Clicked Y-axis dropdown using method 1
+[2025-06-13 09:26:50] Clicked Maker option using method 1
+[2025-06-13 09:26:52] Clicked X-axis dropdown using method 1
+[2025-06-13 09:26:53] Clicked Month Wise option using method 1
+[2025-06-13 09:26:54] Axis setup completed
+[2025-06-13 09:26:54] Selecting State: Karnataka(68)
+[2025-06-13 09:26:54] Clicked state dropdown label using method 1
+[2025-06-13 09:26:55] Clicked state option: Karnataka(68) using method 1
+[2025-06-13 09:26:56] Successfully selected state: Karnataka(68)
+[2025-06-13 09:26:56] Selecting Year: 2024
+[2025-06-13 09:26:57] Clicked year dropdown using method 1
+[2025-06-13 09:26:58] Clicked year option: 2024 using method 1
+[2025-06-13 09:26:58] Successfully selected year: 2024
+[2025-06-13 09:26:58] Getting list of all RTOs for the selected state
+[2025-06-13 09:26:58] Clicked RTO dropdown label using method 1
+[2025-06-13 09:27:00] Found 68 RTOs for the state
+[2025-06-13 09:27:00] 
+Processing RTO 1/68: ATHANI ARTO - KA71( 03-AUG-2020 ) (Attempt 1/2)
+[2025-06-13 09:27:00] Selecting RTO: ATHANI ARTO - KA71( 03-AUG-2020 )
+[2025-06-13 09:27:00] Clicked RTO dropdown using method 1
+[2025-06-13 09:27:01] Clicked RTO option: ATHANI ARTO - KA71( 03-AUG-2020 ) using method 1
+[2025-06-13 09:27:02] Successfully selected RTO: ATHANI ARTO - KA71( 03-AUG-2020 )
+[2025-06-13 09:27:02] Applying left panel filters
+[2025-06-13 09:27:02] Clicked right refresh button using method 1
+[2025-06-13 09:27:07] Opening left panel if needed
+[2025-06-13 09:27:07] Clicked left panel toggler using method 1
+[2025-06-13 09:27:07] Expanded left panel
+[2025-06-13 09:27:08] Selecting vehicle categories and fuel types
+[2025-06-13 09:27:08] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:27:09] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:27:10] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:27:10] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:27:11] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:27:12] Vehicle categories and fuel types selected
+[2025-06-13 09:27:12] Clicking left refresh button
+[2025-06-13 09:27:13] Clicked left refresh button using method 1
+[2025-06-13 09:27:13] Left refresh button clicked
+[2025-06-13 09:27:18] Left panel collapsed successfully.
+[2025-06-13 09:27:18] Downloading Excel file for Karnataka(68), ATHANI ARTO - KA71( 03-AUG-2020 ), 2024
+[2025-06-13 09:27:19] Clicked Excel download button using method 1
+[2025-06-13 09:27:19] Clicked Excel download button
+[2025-06-13 09:27:22] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:27:22] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:28:22] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\ATHANI ARTO - KA71( 03-AUG-2020 ).xlsx
+[2025-06-13 09:28:22] Successfully processed RTO: ATHANI ARTO - KA71( 03-AUG-2020 )
+[2025-06-13 09:28:22] 
+Processing RTO 2/68: BAGALKOT RTO - KA29( 29-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 09:28:22] Selecting RTO: BAGALKOT RTO - KA29( 29-SEP-2018 )
+[2025-06-13 09:28:23] Clicked RTO dropdown using method 1
+[2025-06-13 09:28:24] Clicked RTO option: BAGALKOT RTO - KA29( 29-SEP-2018 ) using method 1
+[2025-06-13 09:28:24] Successfully selected RTO: BAGALKOT RTO - KA29( 29-SEP-2018 )
+[2025-06-13 09:28:24] Applying left panel filters
+[2025-06-13 09:28:25] Clicked right refresh button using method 1
+[2025-06-13 09:28:29] Opening left panel if needed
+[2025-06-13 09:28:30] Clicked left panel toggler using method 1
+[2025-06-13 09:28:30] Expanded left panel
+[2025-06-13 09:28:31] Selecting vehicle categories and fuel types
+[2025-06-13 09:28:31] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:28:32] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:28:33] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:28:33] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:28:34] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:28:34] Vehicle categories and fuel types selected
+[2025-06-13 09:28:35] Clicking left refresh button
+[2025-06-13 09:28:36] Clicked left refresh button using method 1
+[2025-06-13 09:28:36] Left refresh button clicked
+[2025-06-13 09:28:41] Left panel collapsed successfully.
+[2025-06-13 09:28:41] Downloading Excel file for Karnataka(68), BAGALKOT RTO - KA29( 29-SEP-2018 ), 2024
+[2025-06-13 09:28:42] Clicked Excel download button using method 1
+[2025-06-13 09:28:42] Clicked Excel download button
+[2025-06-13 09:28:45] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:28:45] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:29:45] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BAGALKOT RTO - KA29( 29-SEP-2018 ).xlsx
+[2025-06-13 09:29:45] Successfully processed RTO: BAGALKOT RTO - KA29( 29-SEP-2018 )
+[2025-06-13 09:29:45] 
+Processing RTO 3/68: BAILHONGAL RTO - KA24( 13-AUG-2018 ) (Attempt 1/2)
+[2025-06-13 09:29:45] Selecting RTO: BAILHONGAL RTO - KA24( 13-AUG-2018 )
+[2025-06-13 09:29:46] Clicked RTO dropdown using method 1
+[2025-06-13 09:29:47] Clicked RTO option: BAILHONGAL RTO - KA24( 13-AUG-2018 ) using method 1
+[2025-06-13 09:29:47] Successfully selected RTO: BAILHONGAL RTO - KA24( 13-AUG-2018 )
+[2025-06-13 09:29:47] Applying left panel filters
+[2025-06-13 09:29:48] Clicked right refresh button using method 1
+[2025-06-13 09:29:53] Opening left panel if needed
+[2025-06-13 09:29:53] Clicked left panel toggler using method 1
+[2025-06-13 09:29:53] Expanded left panel
+[2025-06-13 09:29:54] Selecting vehicle categories and fuel types
+[2025-06-13 09:29:54] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:29:55] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:29:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:29:57] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:29:58] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:29:58] Vehicle categories and fuel types selected
+[2025-06-13 09:29:59] Clicking left refresh button
+[2025-06-13 09:29:59] Clicked left refresh button using method 1
+[2025-06-13 09:29:59] Left refresh button clicked
+[2025-06-13 09:30:04] Left panel collapsed successfully.
+[2025-06-13 09:30:04] Downloading Excel file for Karnataka(68), BAILHONGAL RTO - KA24( 13-AUG-2018 ), 2024
+[2025-06-13 09:30:05] Clicked Excel download button using method 1
+[2025-06-13 09:30:05] Clicked Excel download button
+[2025-06-13 09:30:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:30:08] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:31:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BAILHONGAL RTO - KA24( 13-AUG-2018 ).xlsx
+[2025-06-13 09:31:08] Successfully processed RTO: BAILHONGAL RTO - KA24( 13-AUG-2018 )
+[2025-06-13 09:31:08] 
+Processing RTO 4/68: BANTWALA ARTO - KA70( 03-MAR-2018 ) (Attempt 1/2)
+[2025-06-13 09:31:08] Selecting RTO: BANTWALA ARTO - KA70( 03-MAR-2018 )
+[2025-06-13 09:31:08] Clicked RTO dropdown using method 1
+[2025-06-13 09:31:10] Clicked RTO option: BANTWALA ARTO - KA70( 03-MAR-2018 ) using method 1
+[2025-06-13 09:31:10] Successfully selected RTO: BANTWALA ARTO - KA70( 03-MAR-2018 )
+[2025-06-13 09:31:10] Applying left panel filters
+[2025-06-13 09:31:10] Clicked right refresh button using method 1
+[2025-06-13 09:31:14] Opening left panel if needed
+[2025-06-13 09:31:15] Clicked left panel toggler using method 1
+[2025-06-13 09:31:15] Expanded left panel
+[2025-06-13 09:31:16] Selecting vehicle categories and fuel types
+[2025-06-13 09:31:17] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:31:17] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:31:18] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:31:19] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:31:19] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:31:20] Vehicle categories and fuel types selected
+[2025-06-13 09:31:21] Clicking left refresh button
+[2025-06-13 09:31:21] Clicked left refresh button using method 1
+[2025-06-13 09:31:21] Left refresh button clicked
+[2025-06-13 09:31:26] Left panel collapsed successfully.
+[2025-06-13 09:31:26] Downloading Excel file for Karnataka(68), BANTWALA ARTO - KA70( 03-MAR-2018 ), 2024
+[2025-06-13 09:31:26] Clicked Excel download button using method 1
+[2025-06-13 09:31:26] Clicked Excel download button
+[2025-06-13 09:31:30] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:31:30] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:32:30] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BANTWALA ARTO - KA70( 03-MAR-2018 ).xlsx
+[2025-06-13 09:32:30] Successfully processed RTO: BANTWALA ARTO - KA70( 03-MAR-2018 )
+[2025-06-13 09:32:30] 
+Processing RTO 5/68: BASAVAKALYAN ARTO - KA56( 01-AUG-2018 ) (Attempt 1/2)
+[2025-06-13 09:32:30] Selecting RTO: BASAVAKALYAN ARTO - KA56( 01-AUG-2018 )
+[2025-06-13 09:32:30] Clicked RTO dropdown using method 1
+[2025-06-13 09:32:31] Clicked RTO option: BASAVAKALYAN ARTO - KA56( 01-AUG-2018 ) using method 1
+[2025-06-13 09:32:32] Successfully selected RTO: BASAVAKALYAN ARTO - KA56( 01-AUG-2018 )
+[2025-06-13 09:32:32] Applying left panel filters
+[2025-06-13 09:32:32] Clicked right refresh button using method 1
+[2025-06-13 09:32:36] Opening left panel if needed
+[2025-06-13 09:32:37] Clicked left panel toggler using method 1
+[2025-06-13 09:32:37] Expanded left panel
+[2025-06-13 09:32:38] Selecting vehicle categories and fuel types
+[2025-06-13 09:32:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:32:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:32:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:32:41] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:32:41] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:32:42] Vehicle categories and fuel types selected
+[2025-06-13 09:32:42] Clicking left refresh button
+[2025-06-13 09:32:43] Clicked left refresh button using method 1
+[2025-06-13 09:32:43] Left refresh button clicked
+[2025-06-13 09:32:47] Left panel collapsed successfully.
+[2025-06-13 09:32:47] Downloading Excel file for Karnataka(68), BASAVAKALYAN ARTO - KA56( 01-AUG-2018 ), 2024
+[2025-06-13 09:32:48] Clicked Excel download button using method 1
+[2025-06-13 09:32:48] Clicked Excel download button
+[2025-06-13 09:32:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:32:51] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:33:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BASAVAKALYAN ARTO - KA56( 01-AUG-2018 ).xlsx
+[2025-06-13 09:33:51] Successfully processed RTO: BASAVAKALYAN ARTO - KA56( 01-AUG-2018 )
+[2025-06-13 09:33:51] 
+Processing RTO 6/68: BELLARY RTO - KA34( 31-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 09:33:51] Selecting RTO: BELLARY RTO - KA34( 31-JUL-2018 )
+[2025-06-13 09:33:52] Clicked RTO dropdown using method 1
+[2025-06-13 09:33:53] Clicked RTO option: BELLARY RTO - KA34( 31-JUL-2018 ) using method 1
+[2025-06-13 09:33:53] Successfully selected RTO: BELLARY RTO - KA34( 31-JUL-2018 )
+[2025-06-13 09:33:53] Applying left panel filters
+[2025-06-13 09:33:53] Clicked right refresh button using method 1
+[2025-06-13 09:33:58] Opening left panel if needed
+[2025-06-13 09:33:58] Clicked left panel toggler using method 1
+[2025-06-13 09:33:58] Expanded left panel
+[2025-06-13 09:33:59] Selecting vehicle categories and fuel types
+[2025-06-13 09:34:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:34:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:34:01] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:34:02] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:34:03] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:34:03] Vehicle categories and fuel types selected
+[2025-06-13 09:34:04] Clicking left refresh button
+[2025-06-13 09:34:04] Clicked left refresh button using method 1
+[2025-06-13 09:34:04] Left refresh button clicked
+[2025-06-13 09:34:09] Left panel collapsed successfully.
+[2025-06-13 09:34:09] Downloading Excel file for Karnataka(68), BELLARY RTO - KA34( 31-JUL-2018 ), 2024
+[2025-06-13 09:34:10] Clicked Excel download button using method 1
+[2025-06-13 09:34:10] Clicked Excel download button
+[2025-06-13 09:34:13] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:34:13] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:35:13] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BELLARY RTO - KA34( 31-JUL-2018 ).xlsx
+[2025-06-13 09:35:13] Successfully processed RTO: BELLARY RTO - KA34( 31-JUL-2018 )
+[2025-06-13 09:35:13] 
+Processing RTO 7/68: BENGALURU CENTRAL RTO - KA1( 21-JAN-2019 ) (Attempt 1/2)
+[2025-06-13 09:35:13] Selecting RTO: BENGALURU CENTRAL RTO - KA1( 21-JAN-2019 )
+[2025-06-13 09:35:14] Clicked RTO dropdown using method 1
+[2025-06-13 09:35:15] Clicked RTO option: BENGALURU CENTRAL RTO - KA1( 21-JAN-2019 ) using method 1
+[2025-06-13 09:35:15] Successfully selected RTO: BENGALURU CENTRAL RTO - KA1( 21-JAN-2019 )
+[2025-06-13 09:35:15] Applying left panel filters
+[2025-06-13 09:35:16] Clicked right refresh button using method 1
+[2025-06-13 09:35:20] Opening left panel if needed
+[2025-06-13 09:35:20] Clicked left panel toggler using method 1
+[2025-06-13 09:35:20] Expanded left panel
+[2025-06-13 09:35:22] Selecting vehicle categories and fuel types
+[2025-06-13 09:35:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:35:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:35:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:35:25] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:35:26] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:35:26] Vehicle categories and fuel types selected
+[2025-06-13 09:35:27] Clicking left refresh button
+[2025-06-13 09:35:27] Clicked left refresh button using method 1
+[2025-06-13 09:35:27] Left refresh button clicked
+[2025-06-13 09:35:32] Left panel collapsed successfully.
+[2025-06-13 09:35:32] Downloading Excel file for Karnataka(68), BENGALURU CENTRAL RTO - KA1( 21-JAN-2019 ), 2024
+[2025-06-13 09:35:32] Clicked Excel download button using method 1
+[2025-06-13 09:35:32] Clicked Excel download button
+[2025-06-13 09:35:36] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:35:36] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:36:36] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BENGALURU CENTRAL RTO - KA1( 21-JAN-2019 ).xlsx
+[2025-06-13 09:36:36] Successfully processed RTO: BENGALURU CENTRAL RTO - KA1( 21-JAN-2019 )
+[2025-06-13 09:36:36] 
+Processing RTO 8/68: BENGALURU EAST RTO - KA3( 04-FEB-2019 ) (Attempt 1/2)
+[2025-06-13 09:36:36] Selecting RTO: BENGALURU EAST RTO - KA3( 04-FEB-2019 )
+[2025-06-13 09:36:36] Clicked RTO dropdown using method 1
+[2025-06-13 09:36:37] Clicked RTO option: BENGALURU EAST RTO - KA3( 04-FEB-2019 ) using method 1
+[2025-06-13 09:36:38] Successfully selected RTO: BENGALURU EAST RTO - KA3( 04-FEB-2019 )
+[2025-06-13 09:36:38] Applying left panel filters
+[2025-06-13 09:36:38] Clicked right refresh button using method 1
+[2025-06-13 09:36:42] Opening left panel if needed
+[2025-06-13 09:36:42] Clicked left panel toggler using method 1
+[2025-06-13 09:36:42] Expanded left panel
+[2025-06-13 09:36:44] Selecting vehicle categories and fuel types
+[2025-06-13 09:36:45] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:36:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:36:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:36:47] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:36:48] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:36:48] Vehicle categories and fuel types selected
+[2025-06-13 09:36:49] Clicking left refresh button
+[2025-06-13 09:36:49] Clicked left refresh button using method 1
+[2025-06-13 09:36:49] Left refresh button clicked
+[2025-06-13 09:36:54] Left panel collapsed successfully.
+[2025-06-13 09:36:54] Downloading Excel file for Karnataka(68), BENGALURU EAST RTO - KA3( 04-FEB-2019 ), 2024
+[2025-06-13 09:36:54] Clicked Excel download button using method 1
+[2025-06-13 09:36:54] Clicked Excel download button
+[2025-06-13 09:36:58] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:36:58] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:37:58] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BENGALURU EAST RTO - KA3( 04-FEB-2019 ).xlsx
+[2025-06-13 09:37:58] Successfully processed RTO: BENGALURU EAST RTO - KA3( 04-FEB-2019 )
+[2025-06-13 09:37:58] 
+Processing RTO 9/68: BENGALURU NORTH RTO - KA4( 28-JAN-2019 ) (Attempt 1/2)
+[2025-06-13 09:37:58] Selecting RTO: BENGALURU NORTH RTO - KA4( 28-JAN-2019 )
+[2025-06-13 09:37:58] Clicked RTO dropdown using method 1
+[2025-06-13 09:37:59] Clicked RTO option: BENGALURU NORTH RTO - KA4( 28-JAN-2019 ) using method 1
+[2025-06-13 09:38:00] Successfully selected RTO: BENGALURU NORTH RTO - KA4( 28-JAN-2019 )
+[2025-06-13 09:38:00] Applying left panel filters
+[2025-06-13 09:38:00] Clicked right refresh button using method 1
+[2025-06-13 09:38:04] Opening left panel if needed
+[2025-06-13 09:38:04] Clicked left panel toggler using method 1
+[2025-06-13 09:38:04] Expanded left panel
+[2025-06-13 09:38:05] Selecting vehicle categories and fuel types
+[2025-06-13 09:38:06] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:38:06] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:38:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:38:08] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:38:09] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:38:09] Vehicle categories and fuel types selected
+[2025-06-13 09:38:10] Clicking left refresh button
+[2025-06-13 09:38:10] Clicked left refresh button using method 1
+[2025-06-13 09:38:10] Left refresh button clicked
+[2025-06-13 09:38:15] Left panel collapsed successfully.
+[2025-06-13 09:38:15] Downloading Excel file for Karnataka(68), BENGALURU NORTH RTO - KA4( 28-JAN-2019 ), 2024
+[2025-06-13 09:38:15] Clicked Excel download button using method 1
+[2025-06-13 09:38:15] Clicked Excel download button
+[2025-06-13 09:38:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:38:19] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:39:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BENGALURU NORTH RTO - KA4( 28-JAN-2019 ).xlsx
+[2025-06-13 09:39:19] Successfully processed RTO: BENGALURU NORTH RTO - KA4( 28-JAN-2019 )
+[2025-06-13 09:39:19] 
+Processing RTO 10/68: BENGALURU SOUTH RTO - KA5( 07-JAN-2019 ) (Attempt 1/2)
+[2025-06-13 09:39:19] Selecting RTO: BENGALURU SOUTH RTO - KA5( 07-JAN-2019 )
+[2025-06-13 09:39:19] Clicked RTO dropdown using method 1
+[2025-06-13 09:39:20] Clicked RTO option: BENGALURU SOUTH RTO - KA5( 07-JAN-2019 ) using method 1
+[2025-06-13 09:39:21] Successfully selected RTO: BENGALURU SOUTH RTO - KA5( 07-JAN-2019 )
+[2025-06-13 09:39:21] Applying left panel filters
+[2025-06-13 09:39:21] Clicked right refresh button using method 1
+[2025-06-13 09:39:26] Opening left panel if needed
+[2025-06-13 09:39:26] Clicked left panel toggler using method 1
+[2025-06-13 09:39:26] Expanded left panel
+[2025-06-13 09:39:28] Selecting vehicle categories and fuel types
+[2025-06-13 09:39:28] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:39:29] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:39:30] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:39:31] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:39:32] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:39:32] Vehicle categories and fuel types selected
+[2025-06-13 09:39:32] Clicking left refresh button
+[2025-06-13 09:39:33] Clicked left refresh button using method 1
+[2025-06-13 09:39:33] Left refresh button clicked
+[2025-06-13 09:39:38] Left panel collapsed successfully.
+[2025-06-13 09:39:38] Downloading Excel file for Karnataka(68), BENGALURU SOUTH RTO - KA5( 07-JAN-2019 ), 2024
+[2025-06-13 09:39:38] Clicked Excel download button using method 1
+[2025-06-13 09:39:38] Clicked Excel download button
+[2025-06-13 09:39:42] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:39:42] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:40:42] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BENGALURU SOUTH RTO - KA5( 07-JAN-2019 ).xlsx
+[2025-06-13 09:40:42] Successfully processed RTO: BENGALURU SOUTH RTO - KA5( 07-JAN-2019 )
+[2025-06-13 09:40:42] 
+Processing RTO 11/68: BENGALURU WEST RTO - KA2( 26-DEC-2018 ) (Attempt 1/2)
+[2025-06-13 09:40:42] Selecting RTO: BENGALURU WEST RTO - KA2( 26-DEC-2018 )
+[2025-06-13 09:40:43] Clicked RTO dropdown using method 1
+[2025-06-13 09:40:44] Clicked RTO option: BENGALURU WEST RTO - KA2( 26-DEC-2018 ) using method 1
+[2025-06-13 09:40:44] Successfully selected RTO: BENGALURU WEST RTO - KA2( 26-DEC-2018 )
+[2025-06-13 09:40:44] Applying left panel filters
+[2025-06-13 09:40:45] Clicked right refresh button using method 1
+[2025-06-13 09:40:49] Opening left panel if needed
+[2025-06-13 09:40:49] Clicked left panel toggler using method 1
+[2025-06-13 09:40:49] Expanded left panel
+[2025-06-13 09:40:51] Selecting vehicle categories and fuel types
+[2025-06-13 09:40:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:40:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:40:53] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:40:53] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:40:54] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:40:54] Vehicle categories and fuel types selected
+[2025-06-13 09:40:55] Clicking left refresh button
+[2025-06-13 09:40:55] Clicked left refresh button using method 1
+[2025-06-13 09:40:55] Left refresh button clicked
+[2025-06-13 09:41:00] Left panel collapsed successfully.
+[2025-06-13 09:41:00] Downloading Excel file for Karnataka(68), BENGALURU WEST RTO - KA2( 26-DEC-2018 ), 2024
+[2025-06-13 09:41:00] Clicked Excel download button using method 1
+[2025-06-13 09:41:00] Clicked Excel download button
+[2025-06-13 09:41:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:41:03] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:42:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BENGALURU WEST RTO - KA2( 26-DEC-2018 ).xlsx
+[2025-06-13 09:42:03] Successfully processed RTO: BENGALURU WEST RTO - KA2( 26-DEC-2018 )
+[2025-06-13 09:42:03] 
+Processing RTO 12/68: BHALKI ARTO - KA39( 31-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 09:42:03] Selecting RTO: BHALKI ARTO - KA39( 31-JUL-2018 )
+[2025-06-13 09:42:04] Clicked RTO dropdown using method 1
+[2025-06-13 09:42:05] Clicked RTO option: BHALKI ARTO - KA39( 31-JUL-2018 ) using method 1
+[2025-06-13 09:42:06] Successfully selected RTO: BHALKI ARTO - KA39( 31-JUL-2018 )
+[2025-06-13 09:42:06] Applying left panel filters
+[2025-06-13 09:42:06] Clicked right refresh button using method 1
+[2025-06-13 09:42:11] Opening left panel if needed
+[2025-06-13 09:42:11] Clicked left panel toggler using method 1
+[2025-06-13 09:42:11] Expanded left panel
+[2025-06-13 09:42:13] Selecting vehicle categories and fuel types
+[2025-06-13 09:42:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:42:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:42:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:42:15] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:42:16] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:42:17] Vehicle categories and fuel types selected
+[2025-06-13 09:42:17] Clicking left refresh button
+[2025-06-13 09:42:18] Clicked left refresh button using method 1
+[2025-06-13 09:42:18] Left refresh button clicked
+[2025-06-13 09:42:23] Left panel collapsed successfully.
+[2025-06-13 09:42:23] Downloading Excel file for Karnataka(68), BHALKI ARTO - KA39( 31-JUL-2018 ), 2024
+[2025-06-13 09:42:23] Clicked Excel download button using method 1
+[2025-06-13 09:42:23] Clicked Excel download button
+[2025-06-13 09:42:27] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:42:27] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:43:27] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BHALKI ARTO - KA39( 31-JUL-2018 ).xlsx
+[2025-06-13 09:43:27] Successfully processed RTO: BHALKI ARTO - KA39( 31-JUL-2018 )
+[2025-06-13 09:43:27] 
+Processing RTO 13/68: BIDAR RTO - KA38( 01-AUG-2018 ) (Attempt 1/2)
+[2025-06-13 09:43:27] Selecting RTO: BIDAR RTO - KA38( 01-AUG-2018 )
+[2025-06-13 09:43:27] Clicked RTO dropdown using method 1
+[2025-06-13 09:43:28] Clicked RTO option: BIDAR RTO - KA38( 01-AUG-2018 ) using method 1
+[2025-06-13 09:43:28] Successfully selected RTO: BIDAR RTO - KA38( 01-AUG-2018 )
+[2025-06-13 09:43:28] Applying left panel filters
+[2025-06-13 09:43:29] Clicked right refresh button using method 1
+[2025-06-13 09:43:33] Opening left panel if needed
+[2025-06-13 09:43:34] Clicked left panel toggler using method 1
+[2025-06-13 09:43:34] Expanded left panel
+[2025-06-13 09:43:35] Selecting vehicle categories and fuel types
+[2025-06-13 09:43:36] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:43:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:43:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:43:38] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:43:39] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:43:39] Vehicle categories and fuel types selected
+[2025-06-13 09:43:40] Clicking left refresh button
+[2025-06-13 09:43:40] Clicked left refresh button using method 1
+[2025-06-13 09:43:40] Left refresh button clicked
+[2025-06-13 09:43:45] Left panel collapsed successfully.
+[2025-06-13 09:43:45] Downloading Excel file for Karnataka(68), BIDAR RTO - KA38( 01-AUG-2018 ), 2024
+[2025-06-13 09:43:46] Clicked Excel download button using method 1
+[2025-06-13 09:43:46] Clicked Excel download button
+[2025-06-13 09:43:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:43:49] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:44:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BIDAR RTO - KA38( 01-AUG-2018 ).xlsx
+[2025-06-13 09:44:49] Successfully processed RTO: BIDAR RTO - KA38( 01-AUG-2018 )
+[2025-06-13 09:44:49] 
+Processing RTO 14/68: BIJAPUR RTO - KA28( 29-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 09:44:49] Selecting RTO: BIJAPUR RTO - KA28( 29-SEP-2018 )
+[2025-06-13 09:44:50] Clicked RTO dropdown using method 1
+[2025-06-13 09:44:51] Clicked RTO option: BIJAPUR RTO - KA28( 29-SEP-2018 ) using method 1
+[2025-06-13 09:44:51] Successfully selected RTO: BIJAPUR RTO - KA28( 29-SEP-2018 )
+[2025-06-13 09:44:51] Applying left panel filters
+[2025-06-13 09:44:51] Clicked right refresh button using method 1
+[2025-06-13 09:44:56] Opening left panel if needed
+[2025-06-13 09:44:56] Clicked left panel toggler using method 1
+[2025-06-13 09:44:56] Expanded left panel
+[2025-06-13 09:44:58] Selecting vehicle categories and fuel types
+[2025-06-13 09:44:58] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:44:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:44:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:45:00] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:45:01] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:45:01] Vehicle categories and fuel types selected
+[2025-06-13 09:45:02] Clicking left refresh button
+[2025-06-13 09:45:02] Clicked left refresh button using method 1
+[2025-06-13 09:45:02] Left refresh button clicked
+[2025-06-13 09:45:07] Left panel collapsed successfully.
+[2025-06-13 09:45:07] Downloading Excel file for Karnataka(68), BIJAPUR RTO - KA28( 29-SEP-2018 ), 2024
+[2025-06-13 09:45:08] Clicked Excel download button using method 1
+[2025-06-13 09:45:08] Clicked Excel download button
+[2025-06-13 09:45:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:45:11] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:46:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\BIJAPUR RTO - KA28( 29-SEP-2018 ).xlsx
+[2025-06-13 09:46:11] Successfully processed RTO: BIJAPUR RTO - KA28( 29-SEP-2018 )
+[2025-06-13 09:46:11] 
+Processing RTO 15/68: CHAMARAJANAGAR RTO - KA10( 23-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 09:46:11] Selecting RTO: CHAMARAJANAGAR RTO - KA10( 23-JUL-2018 )
+[2025-06-13 09:46:11] Clicked RTO dropdown using method 1
+[2025-06-13 09:46:13] Clicked RTO option: CHAMARAJANAGAR RTO - KA10( 23-JUL-2018 ) using method 1
+[2025-06-13 09:46:13] Successfully selected RTO: CHAMARAJANAGAR RTO - KA10( 23-JUL-2018 )
+[2025-06-13 09:46:13] Applying left panel filters
+[2025-06-13 09:46:13] Clicked right refresh button using method 1
+[2025-06-13 09:46:18] Opening left panel if needed
+[2025-06-13 09:46:18] Clicked left panel toggler using method 1
+[2025-06-13 09:46:18] Expanded left panel
+[2025-06-13 09:46:20] Selecting vehicle categories and fuel types
+[2025-06-13 09:46:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:46:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:46:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:46:22] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:46:23] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:46:24] Vehicle categories and fuel types selected
+[2025-06-13 09:46:24] Clicking left refresh button
+[2025-06-13 09:46:25] Clicked left refresh button using method 1
+[2025-06-13 09:46:25] Left refresh button clicked
+[2025-06-13 09:46:29] Left panel collapsed successfully.
+[2025-06-13 09:46:29] Downloading Excel file for Karnataka(68), CHAMARAJANAGAR RTO - KA10( 23-JUL-2018 ), 2024
+[2025-06-13 09:46:30] Clicked Excel download button using method 1
+[2025-06-13 09:46:30] Clicked Excel download button
+[2025-06-13 09:46:34] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:46:34] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:47:34] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\CHAMARAJANAGAR RTO - KA10( 23-JUL-2018 ).xlsx
+[2025-06-13 09:47:34] Successfully processed RTO: CHAMARAJANAGAR RTO - KA10( 23-JUL-2018 )
+[2025-06-13 09:47:34] 
+Processing RTO 16/68: CHANDAPURA, BENGALURU RTO - KA59( 08-FEB-2018 ) (Attempt 1/2)
+[2025-06-13 09:47:34] Selecting RTO: CHANDAPURA, BENGALURU RTO - KA59( 08-FEB-2018 )
+[2025-06-13 09:47:34] Clicked RTO dropdown using method 1
+[2025-06-13 09:47:35] Clicked RTO option: CHANDAPURA, BENGALURU RTO - KA59( 08-FEB-2018 ) using method 1
+[2025-06-13 09:47:35] Successfully selected RTO: CHANDAPURA, BENGALURU RTO - KA59( 08-FEB-2018 )
+[2025-06-13 09:47:35] Applying left panel filters
+[2025-06-13 09:47:36] Clicked right refresh button using method 1
+[2025-06-13 09:47:40] Opening left panel if needed
+[2025-06-13 09:47:40] Clicked left panel toggler using method 1
+[2025-06-13 09:47:40] Expanded left panel
+[2025-06-13 09:47:42] Selecting vehicle categories and fuel types
+[2025-06-13 09:47:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:47:43] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:47:44] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:47:44] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:47:45] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:47:46] Vehicle categories and fuel types selected
+[2025-06-13 09:47:47] Clicking left refresh button
+[2025-06-13 09:47:47] Clicked left refresh button using method 1
+[2025-06-13 09:47:47] Left refresh button clicked
+[2025-06-13 09:47:51] Left panel collapsed successfully.
+[2025-06-13 09:47:51] Downloading Excel file for Karnataka(68), CHANDAPURA, BENGALURU RTO - KA59( 08-FEB-2018 ), 2024
+[2025-06-13 09:47:52] Clicked Excel download button using method 1
+[2025-06-13 09:47:52] Clicked Excel download button
+[2025-06-13 09:47:56] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:47:56] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:48:56] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\CHANDAPURA, BENGALURU RTO - KA59( 08-FEB-2018 ).xlsx
+[2025-06-13 09:48:56] Successfully processed RTO: CHANDAPURA, BENGALURU RTO - KA59( 08-FEB-2018 )
+[2025-06-13 09:48:56] 
+Processing RTO 17/68: CHICKABALLAPUR RTO - KA40( 27-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 09:48:56] Selecting RTO: CHICKABALLAPUR RTO - KA40( 27-JUN-2018 )
+[2025-06-13 09:48:56] Clicked RTO dropdown using method 1
+[2025-06-13 09:48:57] Clicked RTO option: CHICKABALLAPUR RTO - KA40( 27-JUN-2018 ) using method 1
+[2025-06-13 09:48:58] Successfully selected RTO: CHICKABALLAPUR RTO - KA40( 27-JUN-2018 )
+[2025-06-13 09:48:58] Applying left panel filters
+[2025-06-13 09:48:58] Clicked right refresh button using method 1
+[2025-06-13 09:49:03] Opening left panel if needed
+[2025-06-13 09:49:03] Clicked left panel toggler using method 1
+[2025-06-13 09:49:03] Expanded left panel
+[2025-06-13 09:49:05] Selecting vehicle categories and fuel types
+[2025-06-13 09:49:05] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:49:05] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:49:06] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:49:07] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:49:08] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:49:08] Vehicle categories and fuel types selected
+[2025-06-13 09:49:09] Clicking left refresh button
+[2025-06-13 09:49:09] Clicked left refresh button using method 1
+[2025-06-13 09:49:09] Left refresh button clicked
+[2025-06-13 09:49:14] Left panel collapsed successfully.
+[2025-06-13 09:49:14] Downloading Excel file for Karnataka(68), CHICKABALLAPUR RTO - KA40( 27-JUN-2018 ), 2024
+[2025-06-13 09:49:14] Clicked Excel download button using method 1
+[2025-06-13 09:49:14] Clicked Excel download button
+[2025-06-13 09:49:18] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:49:18] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:50:18] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\CHICKABALLAPUR RTO - KA40( 27-JUN-2018 ).xlsx
+[2025-06-13 09:50:18] Successfully processed RTO: CHICKABALLAPUR RTO - KA40( 27-JUN-2018 )
+[2025-06-13 09:50:18] 
+Processing RTO 18/68: CHIKAMANGLUR RTO - KA18( 12-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 09:50:18] Selecting RTO: CHIKAMANGLUR RTO - KA18( 12-JUN-2018 )
+[2025-06-13 09:50:18] Clicked RTO dropdown using method 1
+[2025-06-13 09:50:19] Clicked RTO option: CHIKAMANGLUR RTO - KA18( 12-JUN-2018 ) using method 1
+[2025-06-13 09:50:20] Successfully selected RTO: CHIKAMANGLUR RTO - KA18( 12-JUN-2018 )
+[2025-06-13 09:50:20] Applying left panel filters
+[2025-06-13 09:50:20] Clicked right refresh button using method 1
+[2025-06-13 09:50:24] Opening left panel if needed
+[2025-06-13 09:50:25] Clicked left panel toggler using method 1
+[2025-06-13 09:50:25] Expanded left panel
+[2025-06-13 09:50:26] Selecting vehicle categories and fuel types
+[2025-06-13 09:50:27] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:50:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:50:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:50:29] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:50:30] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:50:30] Vehicle categories and fuel types selected
+[2025-06-13 09:50:31] Clicking left refresh button
+[2025-06-13 09:50:31] Clicked left refresh button using method 1
+[2025-06-13 09:50:31] Left refresh button clicked
+[2025-06-13 09:50:36] Left panel collapsed successfully.
+[2025-06-13 09:50:36] Downloading Excel file for Karnataka(68), CHIKAMANGLUR RTO - KA18( 12-JUN-2018 ), 2024
+[2025-06-13 09:50:36] Clicked Excel download button using method 1
+[2025-06-13 09:50:36] Clicked Excel download button
+[2025-06-13 09:50:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:50:40] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:51:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\CHIKAMANGLUR RTO - KA18( 12-JUN-2018 ).xlsx
+[2025-06-13 09:51:40] Successfully processed RTO: CHIKAMANGLUR RTO - KA18( 12-JUN-2018 )
+[2025-06-13 09:51:40] 
+Processing RTO 19/68: CHIKKODI RTO - KA23( 22-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 09:51:40] Selecting RTO: CHIKKODI RTO - KA23( 22-SEP-2018 )
+[2025-06-13 09:51:40] Clicked RTO dropdown using method 1
+[2025-06-13 09:51:41] Clicked RTO option: CHIKKODI RTO - KA23( 22-SEP-2018 ) using method 1
+[2025-06-13 09:51:42] Successfully selected RTO: CHIKKODI RTO - KA23( 22-SEP-2018 )
+[2025-06-13 09:51:42] Applying left panel filters
+[2025-06-13 09:51:42] Clicked right refresh button using method 1
+[2025-06-13 09:51:47] Opening left panel if needed
+[2025-06-13 09:51:47] Clicked left panel toggler using method 1
+[2025-06-13 09:51:47] Expanded left panel
+[2025-06-13 09:51:48] Selecting vehicle categories and fuel types
+[2025-06-13 09:51:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:51:49] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:51:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:51:51] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:51:52] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:51:52] Vehicle categories and fuel types selected
+[2025-06-13 09:51:53] Clicking left refresh button
+[2025-06-13 09:51:54] Clicked left refresh button using method 1
+[2025-06-13 09:51:54] Left refresh button clicked
+[2025-06-13 09:51:59] Left panel collapsed successfully.
+[2025-06-13 09:51:59] Downloading Excel file for Karnataka(68), CHIKKODI RTO - KA23( 22-SEP-2018 ), 2024
+[2025-06-13 09:52:00] Clicked Excel download button using method 1
+[2025-06-13 09:52:00] Clicked Excel download button
+[2025-06-13 09:52:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:52:03] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:53:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\CHIKKODI RTO - KA23( 22-SEP-2018 ).xlsx
+[2025-06-13 09:53:03] Successfully processed RTO: CHIKKODI RTO - KA23( 22-SEP-2018 )
+[2025-06-13 09:53:03] 
+Processing RTO 20/68: CHINTAMANI ARTO - KA67( 16-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 09:53:03] Selecting RTO: CHINTAMANI ARTO - KA67( 16-JUL-2018 )
+[2025-06-13 09:53:03] Clicked RTO dropdown using method 1
+[2025-06-13 09:53:05] Clicked RTO option: CHINTAMANI ARTO - KA67( 16-JUL-2018 ) using method 1
+[2025-06-13 09:53:05] Successfully selected RTO: CHINTAMANI ARTO - KA67( 16-JUL-2018 )
+[2025-06-13 09:53:05] Applying left panel filters
+[2025-06-13 09:53:05] Clicked right refresh button using method 1
+[2025-06-13 09:53:10] Opening left panel if needed
+[2025-06-13 09:53:10] Clicked left panel toggler using method 1
+[2025-06-13 09:53:10] Expanded left panel
+[2025-06-13 09:53:11] Selecting vehicle categories and fuel types
+[2025-06-13 09:53:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:53:13] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:53:13] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:53:14] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:53:15] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:53:15] Vehicle categories and fuel types selected
+[2025-06-13 09:53:16] Clicking left refresh button
+[2025-06-13 09:53:17] Clicked left refresh button using method 1
+[2025-06-13 09:53:17] Left refresh button clicked
+[2025-06-13 09:53:21] Left panel collapsed successfully.
+[2025-06-13 09:53:21] Downloading Excel file for Karnataka(68), CHINTAMANI ARTO - KA67( 16-JUL-2018 ), 2024
+[2025-06-13 09:53:22] Clicked Excel download button using method 1
+[2025-06-13 09:53:22] Clicked Excel download button
+[2025-06-13 09:53:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:53:25] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:54:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\CHINTAMANI ARTO - KA67( 16-JUL-2018 ).xlsx
+[2025-06-13 09:54:25] Successfully processed RTO: CHINTAMANI ARTO - KA67( 16-JUL-2018 )
+[2025-06-13 09:54:25] 
+Processing RTO 21/68: CHITRADURGA RTO - KA16( 09-AUG-2018 ) (Attempt 1/2)
+[2025-06-13 09:54:25] Selecting RTO: CHITRADURGA RTO - KA16( 09-AUG-2018 )
+[2025-06-13 09:54:26] Clicked RTO dropdown using method 1
+[2025-06-13 09:54:27] Clicked RTO option: CHITRADURGA RTO - KA16( 09-AUG-2018 ) using method 1
+[2025-06-13 09:54:28] Successfully selected RTO: CHITRADURGA RTO - KA16( 09-AUG-2018 )
+[2025-06-13 09:54:28] Applying left panel filters
+[2025-06-13 09:54:28] Clicked right refresh button using method 1
+[2025-06-13 09:54:33] Opening left panel if needed
+[2025-06-13 09:54:33] Clicked left panel toggler using method 1
+[2025-06-13 09:54:33] Expanded left panel
+[2025-06-13 09:54:35] Selecting vehicle categories and fuel types
+[2025-06-13 09:54:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:54:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:54:36] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:54:37] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:54:37] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:54:38] Vehicle categories and fuel types selected
+[2025-06-13 09:54:39] Clicking left refresh button
+[2025-06-13 09:54:39] Clicked left refresh button using method 1
+[2025-06-13 09:54:39] Left refresh button clicked
+[2025-06-13 09:54:44] Left panel collapsed successfully.
+[2025-06-13 09:54:44] Downloading Excel file for Karnataka(68), CHITRADURGA RTO - KA16( 09-AUG-2018 ), 2024
+[2025-06-13 09:54:45] Clicked Excel download button using method 1
+[2025-06-13 09:54:45] Clicked Excel download button
+[2025-06-13 09:54:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:54:49] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:55:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\CHITRADURGA RTO - KA16( 09-AUG-2018 ).xlsx
+[2025-06-13 09:55:49] Successfully processed RTO: CHITRADURGA RTO - KA16( 09-AUG-2018 )
+[2025-06-13 09:55:49] 
+Processing RTO 22/68: DANDELI ARTO - KA65( 28-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 09:55:49] Selecting RTO: DANDELI ARTO - KA65( 28-SEP-2018 )
+[2025-06-13 09:55:49] Clicked RTO dropdown using method 1
+[2025-06-13 09:55:50] Clicked RTO option: DANDELI ARTO - KA65( 28-SEP-2018 ) using method 1
+[2025-06-13 09:55:51] Successfully selected RTO: DANDELI ARTO - KA65( 28-SEP-2018 )
+[2025-06-13 09:55:51] Applying left panel filters
+[2025-06-13 09:55:51] Clicked right refresh button using method 1
+[2025-06-13 09:55:55] Opening left panel if needed
+[2025-06-13 09:55:55] Clicked left panel toggler using method 1
+[2025-06-13 09:55:55] Expanded left panel
+[2025-06-13 09:55:57] Selecting vehicle categories and fuel types
+[2025-06-13 09:55:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:55:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:55:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:55:59] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:56:00] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:56:00] Vehicle categories and fuel types selected
+[2025-06-13 09:56:01] Clicking left refresh button
+[2025-06-13 09:56:01] Clicked left refresh button using method 1
+[2025-06-13 09:56:01] Left refresh button clicked
+[2025-06-13 09:56:06] Left panel collapsed successfully.
+[2025-06-13 09:56:06] Downloading Excel file for Karnataka(68), DANDELI ARTO - KA65( 28-SEP-2018 ), 2024
+[2025-06-13 09:56:07] Clicked Excel download button using method 1
+[2025-06-13 09:56:07] Clicked Excel download button
+[2025-06-13 09:56:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:56:10] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:57:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\DANDELI ARTO - KA65( 28-SEP-2018 ).xlsx
+[2025-06-13 09:57:10] Successfully processed RTO: DANDELI ARTO - KA65( 28-SEP-2018 )
+[2025-06-13 09:57:10] 
+Processing RTO 23/68: DAVANAGERE RTO - KA17( 02-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 09:57:10] Selecting RTO: DAVANAGERE RTO - KA17( 02-JUL-2018 )
+[2025-06-13 09:57:10] Clicked RTO dropdown using method 1
+[2025-06-13 09:57:12] Clicked RTO option: DAVANAGERE RTO - KA17( 02-JUL-2018 ) using method 1
+[2025-06-13 09:57:12] Successfully selected RTO: DAVANAGERE RTO - KA17( 02-JUL-2018 )
+[2025-06-13 09:57:12] Applying left panel filters
+[2025-06-13 09:57:12] Clicked right refresh button using method 1
+[2025-06-13 09:57:17] Opening left panel if needed
+[2025-06-13 09:57:17] Clicked left panel toggler using method 1
+[2025-06-13 09:57:17] Expanded left panel
+[2025-06-13 09:57:18] Selecting vehicle categories and fuel types
+[2025-06-13 09:57:18] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:57:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:57:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:57:20] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:57:21] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:57:21] Vehicle categories and fuel types selected
+[2025-06-13 09:57:22] Clicking left refresh button
+[2025-06-13 09:57:22] Clicked left refresh button using method 1
+[2025-06-13 09:57:22] Left refresh button clicked
+[2025-06-13 09:57:27] Left panel collapsed successfully.
+[2025-06-13 09:57:27] Downloading Excel file for Karnataka(68), DAVANAGERE RTO - KA17( 02-JUL-2018 ), 2024
+[2025-06-13 09:57:27] Clicked Excel download button using method 1
+[2025-06-13 09:57:27] Clicked Excel download button
+[2025-06-13 09:57:31] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:57:31] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:58:31] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\DAVANAGERE RTO - KA17( 02-JUL-2018 ).xlsx
+[2025-06-13 09:58:31] Successfully processed RTO: DAVANAGERE RTO - KA17( 02-JUL-2018 )
+[2025-06-13 09:58:31] 
+Processing RTO 24/68: DEVANAHALLI ARTO - KA43( 28-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 09:58:31] Selecting RTO: DEVANAHALLI ARTO - KA43( 28-JUN-2018 )
+[2025-06-13 09:58:32] Clicked RTO dropdown using method 1
+[2025-06-13 09:58:33] Clicked RTO option: DEVANAHALLI ARTO - KA43( 28-JUN-2018 ) using method 1
+[2025-06-13 09:58:33] Successfully selected RTO: DEVANAHALLI ARTO - KA43( 28-JUN-2018 )
+[2025-06-13 09:58:33] Applying left panel filters
+[2025-06-13 09:58:33] Clicked right refresh button using method 1
+[2025-06-13 09:58:37] Opening left panel if needed
+[2025-06-13 09:58:37] Clicked left panel toggler using method 1
+[2025-06-13 09:58:37] Expanded left panel
+[2025-06-13 09:58:39] Selecting vehicle categories and fuel types
+[2025-06-13 09:58:39] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 09:58:40] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 09:58:41] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 09:58:41] Clicked checkbox fuel:7 using method 2
+[2025-06-13 09:58:42] Clicked checkbox fuel:21 using method 2
+[2025-06-13 09:58:42] Vehicle categories and fuel types selected
+[2025-06-13 09:58:43] Clicking left refresh button
+[2025-06-13 09:58:43] Clicked left refresh button using method 1
+[2025-06-13 09:58:43] Left refresh button clicked
+[2025-06-13 09:58:48] Left panel collapsed successfully.
+[2025-06-13 09:58:48] Downloading Excel file for Karnataka(68), DEVANAHALLI ARTO - KA43( 28-JUN-2018 ), 2024
+[2025-06-13 09:58:48] Clicked Excel download button using method 1
+[2025-06-13 09:58:48] Clicked Excel download button
+[2025-06-13 09:58:52] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 09:58:52] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 09:59:52] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\DEVANAHALLI ARTO - KA43( 28-JUN-2018 ).xlsx
+[2025-06-13 09:59:52] Successfully processed RTO: DEVANAHALLI ARTO - KA43( 28-JUN-2018 )
+[2025-06-13 09:59:52] 
+Processing RTO 25/68: DHARWAD EAST RTO - KA63( 25-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 09:59:52] Selecting RTO: DHARWAD EAST RTO - KA63( 25-SEP-2018 )
+[2025-06-13 09:59:52] Clicked RTO dropdown using method 1
+[2025-06-13 09:59:53] Clicked RTO option: DHARWAD EAST RTO - KA63( 25-SEP-2018 ) using method 1
+[2025-06-13 09:59:53] Successfully selected RTO: DHARWAD EAST RTO - KA63( 25-SEP-2018 )
+[2025-06-13 09:59:53] Applying left panel filters
+[2025-06-13 09:59:54] Clicked right refresh button using method 1
+[2025-06-13 09:59:58] Opening left panel if needed
+[2025-06-13 09:59:58] Clicked left panel toggler using method 1
+[2025-06-13 09:59:58] Expanded left panel
+[2025-06-13 10:00:00] Selecting vehicle categories and fuel types
+[2025-06-13 10:00:01] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:00:01] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:00:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:00:03] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:00:04] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:00:04] Vehicle categories and fuel types selected
+[2025-06-13 10:00:05] Clicking left refresh button
+[2025-06-13 10:00:05] Clicked left refresh button using method 1
+[2025-06-13 10:00:05] Left refresh button clicked
+[2025-06-13 10:00:09] Left panel collapsed successfully.
+[2025-06-13 10:00:09] Downloading Excel file for Karnataka(68), DHARWAD EAST RTO - KA63( 25-SEP-2018 ), 2024
+[2025-06-13 10:00:10] Clicked Excel download button using method 1
+[2025-06-13 10:00:10] Clicked Excel download button
+[2025-06-13 10:00:13] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:00:13] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:01:13] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\DHARWAD EAST RTO - KA63( 25-SEP-2018 ).xlsx
+[2025-06-13 10:01:13] Successfully processed RTO: DHARWAD EAST RTO - KA63( 25-SEP-2018 )
+[2025-06-13 10:01:13] 
+Processing RTO 26/68: DHARWAD WEST RTO - KA25( 25-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 10:01:13] Selecting RTO: DHARWAD WEST RTO - KA25( 25-SEP-2018 )
+[2025-06-13 10:01:13] Clicked RTO dropdown using method 1
+[2025-06-13 10:01:15] Clicked RTO option: DHARWAD WEST RTO - KA25( 25-SEP-2018 ) using method 1
+[2025-06-13 10:01:15] Successfully selected RTO: DHARWAD WEST RTO - KA25( 25-SEP-2018 )
+[2025-06-13 10:01:15] Applying left panel filters
+[2025-06-13 10:01:16] Clicked right refresh button using method 1
+[2025-06-13 10:01:20] Opening left panel if needed
+[2025-06-13 10:01:20] Clicked left panel toggler using method 1
+[2025-06-13 10:01:20] Expanded left panel
+[2025-06-13 10:01:22] Selecting vehicle categories and fuel types
+[2025-06-13 10:01:22] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:01:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:01:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:01:24] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:01:25] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:01:26] Vehicle categories and fuel types selected
+[2025-06-13 10:01:26] Clicking left refresh button
+[2025-06-13 10:01:27] Clicked left refresh button using method 1
+[2025-06-13 10:01:27] Left refresh button clicked
+[2025-06-13 10:01:31] Left panel collapsed successfully.
+[2025-06-13 10:01:31] Downloading Excel file for Karnataka(68), DHARWAD WEST RTO - KA25( 25-SEP-2018 ), 2024
+[2025-06-13 10:01:32] Clicked Excel download button using method 1
+[2025-06-13 10:01:32] Clicked Excel download button
+[2025-06-13 10:01:35] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:01:35] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:02:35] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\DHARWAD WEST RTO - KA25( 25-SEP-2018 ).xlsx
+[2025-06-13 10:02:35] Successfully processed RTO: DHARWAD WEST RTO - KA25( 25-SEP-2018 )
+[2025-06-13 10:02:35] 
+Processing RTO 27/68: ELECTRONIC CITY RTO - KA51( 31-DEC-2018 ) (Attempt 1/2)
+[2025-06-13 10:02:35] Selecting RTO: ELECTRONIC CITY RTO - KA51( 31-DEC-2018 )
+[2025-06-13 10:02:36] Clicked RTO dropdown using method 1
+[2025-06-13 10:02:37] Clicked RTO option: ELECTRONIC CITY RTO - KA51( 31-DEC-2018 ) using method 1
+[2025-06-13 10:02:37] Successfully selected RTO: ELECTRONIC CITY RTO - KA51( 31-DEC-2018 )
+[2025-06-13 10:02:37] Applying left panel filters
+[2025-06-13 10:02:38] Clicked right refresh button using method 1
+[2025-06-13 10:02:43] Opening left panel if needed
+[2025-06-13 10:02:43] Clicked left panel toggler using method 1
+[2025-06-13 10:02:43] Expanded left panel
+[2025-06-13 10:02:45] Selecting vehicle categories and fuel types
+[2025-06-13 10:02:45] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:02:46] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:02:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:02:47] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:02:48] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:02:48] Vehicle categories and fuel types selected
+[2025-06-13 10:02:49] Clicking left refresh button
+[2025-06-13 10:02:50] Clicked left refresh button using method 1
+[2025-06-13 10:02:50] Left refresh button clicked
+[2025-06-13 10:02:54] Left panel collapsed successfully.
+[2025-06-13 10:02:54] Downloading Excel file for Karnataka(68), ELECTRONIC CITY RTO - KA51( 31-DEC-2018 ), 2024
+[2025-06-13 10:02:54] Clicked Excel download button using method 1
+[2025-06-13 10:02:54] Clicked Excel download button
+[2025-06-13 10:02:58] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:02:58] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:03:58] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\ELECTRONIC CITY RTO - KA51( 31-DEC-2018 ).xlsx
+[2025-06-13 10:03:58] Successfully processed RTO: ELECTRONIC CITY RTO - KA51( 31-DEC-2018 )
+[2025-06-13 10:03:58] 
+Processing RTO 28/68: GADAG RTO - KA26( 25-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 10:03:58] Selecting RTO: GADAG RTO - KA26( 25-SEP-2018 )
+[2025-06-13 10:03:58] Clicked RTO dropdown using method 1
+[2025-06-13 10:04:00] Clicked RTO option: GADAG RTO - KA26( 25-SEP-2018 ) using method 1
+[2025-06-13 10:04:00] Successfully selected RTO: GADAG RTO - KA26( 25-SEP-2018 )
+[2025-06-13 10:04:00] Applying left panel filters
+[2025-06-13 10:04:01] Clicked right refresh button using method 1
+[2025-06-13 10:04:05] Opening left panel if needed
+[2025-06-13 10:04:05] Clicked left panel toggler using method 1
+[2025-06-13 10:04:05] Expanded left panel
+[2025-06-13 10:04:07] Selecting vehicle categories and fuel types
+[2025-06-13 10:04:07] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:04:08] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:04:09] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:04:09] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:04:10] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:04:10] Vehicle categories and fuel types selected
+[2025-06-13 10:04:11] Clicking left refresh button
+[2025-06-13 10:04:12] Clicked left refresh button using method 1
+[2025-06-13 10:04:12] Left refresh button clicked
+[2025-06-13 10:04:17] Left panel collapsed successfully.
+[2025-06-13 10:04:17] Downloading Excel file for Karnataka(68), GADAG RTO - KA26( 25-SEP-2018 ), 2024
+[2025-06-13 10:04:18] Clicked Excel download button using method 1
+[2025-06-13 10:04:18] Clicked Excel download button
+[2025-06-13 10:04:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:04:21] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:05:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\GADAG RTO - KA26( 25-SEP-2018 ).xlsx
+[2025-06-13 10:05:21] Successfully processed RTO: GADAG RTO - KA26( 25-SEP-2018 )
+[2025-06-13 10:05:21] 
+Processing RTO 29/68: GOKAK ARTO - KA49( 25-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 10:05:21] Selecting RTO: GOKAK ARTO - KA49( 25-SEP-2018 )
+[2025-06-13 10:05:21] Clicked RTO dropdown using method 1
+[2025-06-13 10:05:23] Clicked RTO option: GOKAK ARTO - KA49( 25-SEP-2018 ) using method 1
+[2025-06-13 10:05:23] Successfully selected RTO: GOKAK ARTO - KA49( 25-SEP-2018 )
+[2025-06-13 10:05:23] Applying left panel filters
+[2025-06-13 10:05:23] Clicked right refresh button using method 1
+[2025-06-13 10:05:27] Opening left panel if needed
+[2025-06-13 10:05:27] Clicked left panel toggler using method 1
+[2025-06-13 10:05:27] Expanded left panel
+[2025-06-13 10:05:29] Selecting vehicle categories and fuel types
+[2025-06-13 10:05:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:05:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:05:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:05:31] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:05:32] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:05:32] Vehicle categories and fuel types selected
+[2025-06-13 10:05:33] Clicking left refresh button
+[2025-06-13 10:05:34] Clicked left refresh button using method 1
+[2025-06-13 10:05:34] Left refresh button clicked
+[2025-06-13 10:05:38] Left panel collapsed successfully.
+[2025-06-13 10:05:38] Downloading Excel file for Karnataka(68), GOKAK ARTO - KA49( 25-SEP-2018 ), 2024
+[2025-06-13 10:05:39] Clicked Excel download button using method 1
+[2025-06-13 10:05:39] Clicked Excel download button
+[2025-06-13 10:05:42] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:05:42] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:06:42] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\GOKAK ARTO - KA49( 25-SEP-2018 ).xlsx
+[2025-06-13 10:06:42] Successfully processed RTO: GOKAK ARTO - KA49( 25-SEP-2018 )
+[2025-06-13 10:06:42] 
+Processing RTO 30/68: HASSAN RTO - KA13( 09-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:06:42] Selecting RTO: HASSAN RTO - KA13( 09-JUL-2018 )
+[2025-06-13 10:06:43] Clicked RTO dropdown using method 1
+[2025-06-13 10:06:44] Clicked RTO option: HASSAN RTO - KA13( 09-JUL-2018 ) using method 1
+[2025-06-13 10:06:44] Successfully selected RTO: HASSAN RTO - KA13( 09-JUL-2018 )
+[2025-06-13 10:06:44] Applying left panel filters
+[2025-06-13 10:06:44] Clicked right refresh button using method 1
+[2025-06-13 10:06:49] Opening left panel if needed
+[2025-06-13 10:06:49] Clicked left panel toggler using method 1
+[2025-06-13 10:06:49] Expanded left panel
+[2025-06-13 10:06:50] Selecting vehicle categories and fuel types
+[2025-06-13 10:06:50] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:06:51] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:06:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:06:53] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:06:53] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:06:54] Vehicle categories and fuel types selected
+[2025-06-13 10:06:55] Clicking left refresh button
+[2025-06-13 10:06:55] Clicked left refresh button using method 1
+[2025-06-13 10:06:55] Left refresh button clicked
+[2025-06-13 10:07:00] Left panel collapsed successfully.
+[2025-06-13 10:07:00] Downloading Excel file for Karnataka(68), HASSAN RTO - KA13( 09-JUL-2018 ), 2024
+[2025-06-13 10:07:00] Clicked Excel download button using method 1
+[2025-06-13 10:07:00] Clicked Excel download button
+[2025-06-13 10:07:04] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:07:04] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:08:04] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\HASSAN RTO - KA13( 09-JUL-2018 ).xlsx
+[2025-06-13 10:08:04] Successfully processed RTO: HASSAN RTO - KA13( 09-JUL-2018 )
+[2025-06-13 10:08:04] 
+Processing RTO 31/68: HAVERI RTO - KA27( 23-MAR-2018 ) (Attempt 1/2)
+[2025-06-13 10:08:04] Selecting RTO: HAVERI RTO - KA27( 23-MAR-2018 )
+[2025-06-13 10:08:04] Clicked RTO dropdown using method 1
+[2025-06-13 10:08:05] Clicked RTO option: HAVERI RTO - KA27( 23-MAR-2018 ) using method 1
+[2025-06-13 10:08:05] Successfully selected RTO: HAVERI RTO - KA27( 23-MAR-2018 )
+[2025-06-13 10:08:05] Applying left panel filters
+[2025-06-13 10:08:06] Clicked right refresh button using method 1
+[2025-06-13 10:08:10] Opening left panel if needed
+[2025-06-13 10:08:10] Clicked left panel toggler using method 1
+[2025-06-13 10:08:10] Expanded left panel
+[2025-06-13 10:08:12] Selecting vehicle categories and fuel types
+[2025-06-13 10:08:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:08:13] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:08:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:08:14] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:08:15] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:08:15] Vehicle categories and fuel types selected
+[2025-06-13 10:08:16] Clicking left refresh button
+[2025-06-13 10:08:16] Clicked left refresh button using method 1
+[2025-06-13 10:08:16] Left refresh button clicked
+[2025-06-13 10:08:21] Left panel collapsed successfully.
+[2025-06-13 10:08:21] Downloading Excel file for Karnataka(68), HAVERI RTO - KA27( 23-MAR-2018 ), 2024
+[2025-06-13 10:08:22] Clicked Excel download button using method 1
+[2025-06-13 10:08:22] Clicked Excel download button
+[2025-06-13 10:08:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:08:25] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:09:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\HAVERI RTO - KA27( 23-MAR-2018 ).xlsx
+[2025-06-13 10:09:25] Successfully processed RTO: HAVERI RTO - KA27( 23-MAR-2018 )
+[2025-06-13 10:09:25] 
+Processing RTO 32/68: HONNAVAR ARTO - KA47( 29-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 10:09:25] Selecting RTO: HONNAVAR ARTO - KA47( 29-SEP-2018 )
+[2025-06-13 10:09:25] Clicked RTO dropdown using method 1
+[2025-06-13 10:09:26] Clicked RTO option: HONNAVAR ARTO - KA47( 29-SEP-2018 ) using method 1
+[2025-06-13 10:09:26] Successfully selected RTO: HONNAVAR ARTO - KA47( 29-SEP-2018 )
+[2025-06-13 10:09:26] Applying left panel filters
+[2025-06-13 10:09:27] Clicked right refresh button using method 1
+[2025-06-13 10:09:32] Opening left panel if needed
+[2025-06-13 10:09:32] Clicked left panel toggler using method 1
+[2025-06-13 10:09:32] Expanded left panel
+[2025-06-13 10:09:33] Selecting vehicle categories and fuel types
+[2025-06-13 10:09:34] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:09:34] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:09:35] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:09:36] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:09:36] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:09:37] Vehicle categories and fuel types selected
+[2025-06-13 10:09:38] Clicking left refresh button
+[2025-06-13 10:09:38] Clicked left refresh button using method 1
+[2025-06-13 10:09:38] Left refresh button clicked
+[2025-06-13 10:09:43] Left panel collapsed successfully.
+[2025-06-13 10:09:43] Downloading Excel file for Karnataka(68), HONNAVAR ARTO - KA47( 29-SEP-2018 ), 2024
+[2025-06-13 10:09:43] Clicked Excel download button using method 1
+[2025-06-13 10:09:43] Clicked Excel download button
+[2025-06-13 10:09:47] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:09:47] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:10:47] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\HONNAVAR ARTO - KA47( 29-SEP-2018 ).xlsx
+[2025-06-13 10:10:47] Successfully processed RTO: HONNAVAR ARTO - KA47( 29-SEP-2018 )
+[2025-06-13 10:10:47] 
+Processing RTO 33/68: HOSPET RTO - KA35( 28-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:10:47] Selecting RTO: HOSPET RTO - KA35( 28-JUL-2018 )
+[2025-06-13 10:10:47] Clicked RTO dropdown using method 1
+[2025-06-13 10:10:49] Clicked RTO option: HOSPET RTO - KA35( 28-JUL-2018 ) using method 1
+[2025-06-13 10:10:49] Successfully selected RTO: HOSPET RTO - KA35( 28-JUL-2018 )
+[2025-06-13 10:10:49] Applying left panel filters
+[2025-06-13 10:10:49] Clicked right refresh button using method 1
+[2025-06-13 10:10:54] Opening left panel if needed
+[2025-06-13 10:10:54] Clicked left panel toggler using method 1
+[2025-06-13 10:10:54] Expanded left panel
+[2025-06-13 10:10:55] Selecting vehicle categories and fuel types
+[2025-06-13 10:10:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:10:56] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:10:57] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:10:58] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:10:59] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:10:59] Vehicle categories and fuel types selected
+[2025-06-13 10:11:00] Clicking left refresh button
+[2025-06-13 10:11:00] Clicked left refresh button using method 1
+[2025-06-13 10:11:00] Left refresh button clicked
+[2025-06-13 10:11:04] Left panel collapsed successfully.
+[2025-06-13 10:11:04] Downloading Excel file for Karnataka(68), HOSPET RTO - KA35( 28-JUL-2018 ), 2024
+[2025-06-13 10:11:05] Clicked Excel download button using method 1
+[2025-06-13 10:11:05] Clicked Excel download button
+[2025-06-13 10:11:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:11:08] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:12:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\HOSPET RTO - KA35( 28-JUL-2018 ).xlsx
+[2025-06-13 10:12:08] Successfully processed RTO: HOSPET RTO - KA35( 28-JUL-2018 )
+[2025-06-13 10:12:08] 
+Processing RTO 34/68: HUNSUR ARTO - KA45( 11-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:12:08] Selecting RTO: HUNSUR ARTO - KA45( 11-JUL-2018 )
+[2025-06-13 10:12:09] Clicked RTO dropdown using method 1
+[2025-06-13 10:12:10] Clicked RTO option: HUNSUR ARTO - KA45( 11-JUL-2018 ) using method 1
+[2025-06-13 10:12:11] Successfully selected RTO: HUNSUR ARTO - KA45( 11-JUL-2018 )
+[2025-06-13 10:12:11] Applying left panel filters
+[2025-06-13 10:12:11] Clicked right refresh button using method 1
+[2025-06-13 10:12:15] Opening left panel if needed
+[2025-06-13 10:12:15] Clicked left panel toggler using method 1
+[2025-06-13 10:12:15] Expanded left panel
+[2025-06-13 10:12:17] Selecting vehicle categories and fuel types
+[2025-06-13 10:12:17] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:12:18] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:12:19] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:12:20] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:12:20] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:12:20] Vehicle categories and fuel types selected
+[2025-06-13 10:12:21] Clicking left refresh button
+[2025-06-13 10:12:22] Clicked left refresh button using method 1
+[2025-06-13 10:12:22] Left refresh button clicked
+[2025-06-13 10:12:26] Left panel collapsed successfully.
+[2025-06-13 10:12:26] Downloading Excel file for Karnataka(68), HUNSUR ARTO - KA45( 11-JUL-2018 ), 2024
+[2025-06-13 10:12:27] Clicked Excel download button using method 1
+[2025-06-13 10:12:27] Clicked Excel download button
+[2025-06-13 10:12:31] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:12:31] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:13:31] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\HUNSUR ARTO - KA45( 11-JUL-2018 ).xlsx
+[2025-06-13 10:13:31] Successfully processed RTO: HUNSUR ARTO - KA45( 11-JUL-2018 )
+[2025-06-13 10:13:31] 
+Processing RTO 35/68: JAMKHANDI ARTO - KA48( 21-DEC-2018 ) (Attempt 1/2)
+[2025-06-13 10:13:31] Selecting RTO: JAMKHANDI ARTO - KA48( 21-DEC-2018 )
+[2025-06-13 10:13:31] Clicked RTO dropdown using method 1
+[2025-06-13 10:13:32] Clicked RTO option: JAMKHANDI ARTO - KA48( 21-DEC-2018 ) using method 1
+[2025-06-13 10:13:33] Successfully selected RTO: JAMKHANDI ARTO - KA48( 21-DEC-2018 )
+[2025-06-13 10:13:33] Applying left panel filters
+[2025-06-13 10:13:33] Clicked right refresh button using method 1
+[2025-06-13 10:13:38] Opening left panel if needed
+[2025-06-13 10:13:38] Clicked left panel toggler using method 1
+[2025-06-13 10:13:38] Expanded left panel
+[2025-06-13 10:13:40] Selecting vehicle categories and fuel types
+[2025-06-13 10:13:40] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:13:41] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:13:42] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:13:42] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:13:43] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:13:44] Vehicle categories and fuel types selected
+[2025-06-13 10:13:44] Clicking left refresh button
+[2025-06-13 10:13:45] Clicked left refresh button using method 1
+[2025-06-13 10:13:45] Left refresh button clicked
+[2025-06-13 10:13:49] Left panel collapsed successfully.
+[2025-06-13 10:13:49] Downloading Excel file for Karnataka(68), JAMKHANDI ARTO - KA48( 21-DEC-2018 ), 2024
+[2025-06-13 10:13:50] Clicked Excel download button using method 1
+[2025-06-13 10:13:50] Clicked Excel download button
+[2025-06-13 10:13:53] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:13:53] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:14:53] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\JAMKHANDI ARTO - KA48( 21-DEC-2018 ).xlsx
+[2025-06-13 10:14:53] Successfully processed RTO: JAMKHANDI ARTO - KA48( 21-DEC-2018 )
+[2025-06-13 10:14:53] 
+Processing RTO 36/68: JNANABHARATHI RTO - KA41( 24-JAN-2019 ) (Attempt 1/2)
+[2025-06-13 10:14:53] Selecting RTO: JNANABHARATHI RTO - KA41( 24-JAN-2019 )
+[2025-06-13 10:14:54] Clicked RTO dropdown using method 1
+[2025-06-13 10:14:55] Clicked RTO option: JNANABHARATHI RTO - KA41( 24-JAN-2019 ) using method 1
+[2025-06-13 10:14:55] Successfully selected RTO: JNANABHARATHI RTO - KA41( 24-JAN-2019 )
+[2025-06-13 10:14:55] Applying left panel filters
+[2025-06-13 10:14:56] Clicked right refresh button using method 1
+[2025-06-13 10:15:00] Opening left panel if needed
+[2025-06-13 10:15:00] Clicked left panel toggler using method 1
+[2025-06-13 10:15:00] Expanded left panel
+[2025-06-13 10:15:02] Selecting vehicle categories and fuel types
+[2025-06-13 10:15:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:15:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:15:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:15:04] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:15:05] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:15:06] Vehicle categories and fuel types selected
+[2025-06-13 10:15:06] Clicking left refresh button
+[2025-06-13 10:15:07] Clicked left refresh button using method 1
+[2025-06-13 10:15:07] Left refresh button clicked
+[2025-06-13 10:15:11] Left panel collapsed successfully.
+[2025-06-13 10:15:11] Downloading Excel file for Karnataka(68), JNANABHARATHI RTO - KA41( 24-JAN-2019 ), 2024
+[2025-06-13 10:15:12] Clicked Excel download button using method 1
+[2025-06-13 10:15:12] Clicked Excel download button
+[2025-06-13 10:15:16] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:15:16] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:16:16] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\JNANABHARATHI RTO - KA41( 24-JAN-2019 ).xlsx
+[2025-06-13 10:16:16] Successfully processed RTO: JNANABHARATHI RTO - KA41( 24-JAN-2019 )
+[2025-06-13 10:16:16] 
+Processing RTO 37/68: KALABURAGI RTO - KA32( 25-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:16:16] Selecting RTO: KALABURAGI RTO - KA32( 25-JUL-2018 )
+[2025-06-13 10:16:16] Clicked RTO dropdown using method 1
+[2025-06-13 10:16:17] Clicked RTO option: KALABURAGI RTO - KA32( 25-JUL-2018 ) using method 1
+[2025-06-13 10:16:18] Successfully selected RTO: KALABURAGI RTO - KA32( 25-JUL-2018 )
+[2025-06-13 10:16:18] Applying left panel filters
+[2025-06-13 10:16:18] Clicked right refresh button using method 1
+[2025-06-13 10:16:23] Opening left panel if needed
+[2025-06-13 10:16:23] Clicked left panel toggler using method 1
+[2025-06-13 10:16:23] Expanded left panel
+[2025-06-13 10:16:24] Selecting vehicle categories and fuel types
+[2025-06-13 10:16:24] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:16:25] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:16:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:16:26] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:16:27] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:16:27] Vehicle categories and fuel types selected
+[2025-06-13 10:16:27] Clicking left refresh button
+[2025-06-13 10:16:28] Clicked left refresh button using method 1
+[2025-06-13 10:16:28] Left refresh button clicked
+[2025-06-13 10:16:33] Left panel collapsed successfully.
+[2025-06-13 10:16:33] Downloading Excel file for Karnataka(68), KALABURAGI RTO - KA32( 25-JUL-2018 ), 2024
+[2025-06-13 10:16:33] Clicked Excel download button using method 1
+[2025-06-13 10:16:33] Clicked Excel download button
+[2025-06-13 10:16:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:16:37] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:17:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\KALABURAGI RTO - KA32( 25-JUL-2018 ).xlsx
+[2025-06-13 10:17:37] Successfully processed RTO: KALABURAGI RTO - KA32( 25-JUL-2018 )
+[2025-06-13 10:17:37] 
+Processing RTO 38/68: KARWAR RTO - KA30( 29-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 10:17:37] Selecting RTO: KARWAR RTO - KA30( 29-SEP-2018 )
+[2025-06-13 10:17:38] Clicked RTO dropdown using method 1
+[2025-06-13 10:17:39] Clicked RTO option: KARWAR RTO - KA30( 29-SEP-2018 ) using method 1
+[2025-06-13 10:17:39] Successfully selected RTO: KARWAR RTO - KA30( 29-SEP-2018 )
+[2025-06-13 10:17:39] Applying left panel filters
+[2025-06-13 10:17:40] Clicked right refresh button using method 1
+[2025-06-13 10:17:44] Opening left panel if needed
+[2025-06-13 10:17:44] Clicked left panel toggler using method 1
+[2025-06-13 10:17:44] Expanded left panel
+[2025-06-13 10:17:46] Selecting vehicle categories and fuel types
+[2025-06-13 10:17:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:17:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:17:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:17:49] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:17:49] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:17:50] Vehicle categories and fuel types selected
+[2025-06-13 10:17:51] Clicking left refresh button
+[2025-06-13 10:17:51] Clicked left refresh button using method 1
+[2025-06-13 10:17:51] Left refresh button clicked
+[2025-06-13 10:17:56] Left panel collapsed successfully.
+[2025-06-13 10:17:56] Downloading Excel file for Karnataka(68), KARWAR RTO - KA30( 29-SEP-2018 ), 2024
+[2025-06-13 10:17:57] Clicked Excel download button using method 1
+[2025-06-13 10:17:57] Clicked Excel download button
+[2025-06-13 10:18:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:18:00] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:19:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\KARWAR RTO - KA30( 29-SEP-2018 ).xlsx
+[2025-06-13 10:19:00] Successfully processed RTO: KARWAR RTO - KA30( 29-SEP-2018 )
+[2025-06-13 10:19:00] 
+Processing RTO 39/68: K G F ARTO - KA8( 21-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 10:19:00] Selecting RTO: K G F ARTO - KA8( 21-JUN-2018 )
+[2025-06-13 10:19:00] Clicked RTO dropdown using method 1
+[2025-06-13 10:19:01] Clicked RTO option: K G F ARTO - KA8( 21-JUN-2018 ) using method 1
+[2025-06-13 10:19:02] Successfully selected RTO: K G F ARTO - KA8( 21-JUN-2018 )
+[2025-06-13 10:19:02] Applying left panel filters
+[2025-06-13 10:19:02] Clicked right refresh button using method 1
+[2025-06-13 10:19:07] Opening left panel if needed
+[2025-06-13 10:19:07] Clicked left panel toggler using method 1
+[2025-06-13 10:19:07] Expanded left panel
+[2025-06-13 10:19:09] Selecting vehicle categories and fuel types
+[2025-06-13 10:19:09] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:19:10] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:19:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:19:12] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:19:12] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:19:13] Vehicle categories and fuel types selected
+[2025-06-13 10:19:13] Clicking left refresh button
+[2025-06-13 10:19:14] Clicked left refresh button using method 1
+[2025-06-13 10:19:14] Left refresh button clicked
+[2025-06-13 10:19:19] Left panel collapsed successfully.
+[2025-06-13 10:19:19] Downloading Excel file for Karnataka(68), K G F ARTO - KA8( 21-JUN-2018 ), 2024
+[2025-06-13 10:19:19] Clicked Excel download button using method 1
+[2025-06-13 10:19:19] Clicked Excel download button
+[2025-06-13 10:19:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:19:23] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:20:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\K G F ARTO - KA8( 21-JUN-2018 ).xlsx
+[2025-06-13 10:20:23] Successfully processed RTO: K G F ARTO - KA8( 21-JUN-2018 )
+[2025-06-13 10:20:23] 
+Processing RTO 40/68: KOLAR RTO - KA7( 21-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 10:20:23] Selecting RTO: KOLAR RTO - KA7( 21-JUN-2018 )
+[2025-06-13 10:20:24] Clicked RTO dropdown using method 1
+[2025-06-13 10:20:25] Clicked RTO option: KOLAR RTO - KA7( 21-JUN-2018 ) using method 1
+[2025-06-13 10:20:25] Successfully selected RTO: KOLAR RTO - KA7( 21-JUN-2018 )
+[2025-06-13 10:20:25] Applying left panel filters
+[2025-06-13 10:20:26] Clicked right refresh button using method 1
+[2025-06-13 10:20:30] Opening left panel if needed
+[2025-06-13 10:20:30] Clicked left panel toggler using method 1
+[2025-06-13 10:20:30] Expanded left panel
+[2025-06-13 10:20:31] Selecting vehicle categories and fuel types
+[2025-06-13 10:20:32] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:20:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:20:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:20:34] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:20:35] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:20:35] Vehicle categories and fuel types selected
+[2025-06-13 10:20:36] Clicking left refresh button
+[2025-06-13 10:20:36] Clicked left refresh button using method 1
+[2025-06-13 10:20:36] Left refresh button clicked
+[2025-06-13 10:20:41] Left panel collapsed successfully.
+[2025-06-13 10:20:41] Downloading Excel file for Karnataka(68), KOLAR RTO - KA7( 21-JUN-2018 ), 2024
+[2025-06-13 10:20:42] Clicked Excel download button using method 1
+[2025-06-13 10:20:42] Clicked Excel download button
+[2025-06-13 10:20:46] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:20:46] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:21:46] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\KOLAR RTO - KA7( 21-JUN-2018 ).xlsx
+[2025-06-13 10:21:46] Successfully processed RTO: KOLAR RTO - KA7( 21-JUN-2018 )
+[2025-06-13 10:21:46] 
+Processing RTO 41/68: KOPPAL RTO - KA37( 02-AUG-2018 ) (Attempt 1/2)
+[2025-06-13 10:21:46] Selecting RTO: KOPPAL RTO - KA37( 02-AUG-2018 )
+[2025-06-13 10:21:46] Clicked RTO dropdown using method 1
+[2025-06-13 10:21:47] Clicked RTO option: KOPPAL RTO - KA37( 02-AUG-2018 ) using method 1
+[2025-06-13 10:21:48] Successfully selected RTO: KOPPAL RTO - KA37( 02-AUG-2018 )
+[2025-06-13 10:21:48] Applying left panel filters
+[2025-06-13 10:21:48] Clicked right refresh button using method 1
+[2025-06-13 10:21:53] Opening left panel if needed
+[2025-06-13 10:21:53] Clicked left panel toggler using method 1
+[2025-06-13 10:21:53] Expanded left panel
+[2025-06-13 10:21:55] Selecting vehicle categories and fuel types
+[2025-06-13 10:21:55] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:21:56] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:21:57] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:21:57] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:21:58] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:21:59] Vehicle categories and fuel types selected
+[2025-06-13 10:21:59] Clicking left refresh button
+[2025-06-13 10:22:00] Clicked left refresh button using method 1
+[2025-06-13 10:22:00] Left refresh button clicked
+[2025-06-13 10:22:05] Left panel collapsed successfully.
+[2025-06-13 10:22:05] Downloading Excel file for Karnataka(68), KOPPAL RTO - KA37( 02-AUG-2018 ), 2024
+[2025-06-13 10:22:05] Clicked Excel download button using method 1
+[2025-06-13 10:22:05] Clicked Excel download button
+[2025-06-13 10:22:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:22:08] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:23:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\KOPPAL RTO - KA37( 02-AUG-2018 ).xlsx
+[2025-06-13 10:23:08] Successfully processed RTO: KOPPAL RTO - KA37( 02-AUG-2018 )
+[2025-06-13 10:23:08] 
+Processing RTO 42/68: KRISHNARAJAPURAM RTO - KA53( 06-FEB-2019 ) (Attempt 1/2)
+[2025-06-13 10:23:08] Selecting RTO: KRISHNARAJAPURAM RTO - KA53( 06-FEB-2019 )
+[2025-06-13 10:23:09] Clicked RTO dropdown using method 1
+[2025-06-13 10:23:10] Clicked RTO option: KRISHNARAJAPURAM RTO - KA53( 06-FEB-2019 ) using method 1
+[2025-06-13 10:23:10] Successfully selected RTO: KRISHNARAJAPURAM RTO - KA53( 06-FEB-2019 )
+[2025-06-13 10:23:10] Applying left panel filters
+[2025-06-13 10:23:11] Clicked right refresh button using method 1
+[2025-06-13 10:23:16] Opening left panel if needed
+[2025-06-13 10:23:16] Clicked left panel toggler using method 1
+[2025-06-13 10:23:16] Expanded left panel
+[2025-06-13 10:23:17] Selecting vehicle categories and fuel types
+[2025-06-13 10:23:18] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:23:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:23:19] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:23:20] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:23:21] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:23:21] Vehicle categories and fuel types selected
+[2025-06-13 10:23:22] Clicking left refresh button
+[2025-06-13 10:23:22] Clicked left refresh button using method 1
+[2025-06-13 10:23:22] Left refresh button clicked
+[2025-06-13 10:23:27] Left panel collapsed successfully.
+[2025-06-13 10:23:27] Downloading Excel file for Karnataka(68), KRISHNARAJAPURAM RTO - KA53( 06-FEB-2019 ), 2024
+[2025-06-13 10:23:28] Clicked Excel download button using method 1
+[2025-06-13 10:23:28] Clicked Excel download button
+[2025-06-13 10:23:31] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:23:31] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:24:31] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\KRISHNARAJAPURAM RTO - KA53( 06-FEB-2019 ).xlsx
+[2025-06-13 10:24:31] Successfully processed RTO: KRISHNARAJAPURAM RTO - KA53( 06-FEB-2019 )
+[2025-06-13 10:24:31] 
+Processing RTO 43/68: MADHUGIRI, TUMAKURU ARTO - KA64( 22-FEB-2019 ) (Attempt 1/2)
+[2025-06-13 10:24:31] Selecting RTO: MADHUGIRI, TUMAKURU ARTO - KA64( 22-FEB-2019 )
+[2025-06-13 10:24:31] Clicked RTO dropdown using method 1
+[2025-06-13 10:24:32] Clicked RTO option: MADHUGIRI, TUMAKURU ARTO - KA64( 22-FEB-2019 ) using method 1
+[2025-06-13 10:24:32] Successfully selected RTO: MADHUGIRI, TUMAKURU ARTO - KA64( 22-FEB-2019 )
+[2025-06-13 10:24:32] Applying left panel filters
+[2025-06-13 10:24:33] Clicked right refresh button using method 1
+[2025-06-13 10:24:37] Opening left panel if needed
+[2025-06-13 10:24:37] Clicked left panel toggler using method 1
+[2025-06-13 10:24:37] Expanded left panel
+[2025-06-13 10:24:38] Selecting vehicle categories and fuel types
+[2025-06-13 10:24:39] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:24:40] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:24:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:24:41] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:24:42] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:24:42] Vehicle categories and fuel types selected
+[2025-06-13 10:24:43] Clicking left refresh button
+[2025-06-13 10:24:43] Clicked left refresh button using method 1
+[2025-06-13 10:24:43] Left refresh button clicked
+[2025-06-13 10:24:48] Left panel collapsed successfully.
+[2025-06-13 10:24:48] Downloading Excel file for Karnataka(68), MADHUGIRI, TUMAKURU ARTO - KA64( 22-FEB-2019 ), 2024
+[2025-06-13 10:24:48] Clicked Excel download button using method 1
+[2025-06-13 10:24:48] Clicked Excel download button
+[2025-06-13 10:24:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:24:51] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:25:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\MADHUGIRI, TUMAKURU ARTO - KA64( 22-FEB-2019 ).xlsx
+[2025-06-13 10:25:51] Successfully processed RTO: MADHUGIRI, TUMAKURU ARTO - KA64( 22-FEB-2019 )
+[2025-06-13 10:25:51] 
+Processing RTO 44/68: MADIKERI RTO - KA12( 23-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:25:51] Selecting RTO: MADIKERI RTO - KA12( 23-JUL-2018 )
+[2025-06-13 10:25:52] Clicked RTO dropdown using method 1
+[2025-06-13 10:25:53] Clicked RTO option: MADIKERI RTO - KA12( 23-JUL-2018 ) using method 1
+[2025-06-13 10:25:53] Successfully selected RTO: MADIKERI RTO - KA12( 23-JUL-2018 )
+[2025-06-13 10:25:53] Applying left panel filters
+[2025-06-13 10:25:53] Clicked right refresh button using method 1
+[2025-06-13 10:25:58] Opening left panel if needed
+[2025-06-13 10:25:58] Clicked left panel toggler using method 1
+[2025-06-13 10:25:58] Expanded left panel
+[2025-06-13 10:25:59] Selecting vehicle categories and fuel types
+[2025-06-13 10:26:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:26:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:26:01] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:26:02] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:26:03] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:26:03] Vehicle categories and fuel types selected
+[2025-06-13 10:26:04] Clicking left refresh button
+[2025-06-13 10:26:04] Clicked left refresh button using method 1
+[2025-06-13 10:26:04] Left refresh button clicked
+[2025-06-13 10:26:09] Left panel collapsed successfully.
+[2025-06-13 10:26:09] Downloading Excel file for Karnataka(68), MADIKERI RTO - KA12( 23-JUL-2018 ), 2024
+[2025-06-13 10:26:10] Clicked Excel download button using method 1
+[2025-06-13 10:26:10] Clicked Excel download button
+[2025-06-13 10:26:13] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:26:13] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:27:13] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\MADIKERI RTO - KA12( 23-JUL-2018 ).xlsx
+[2025-06-13 10:27:13] Successfully processed RTO: MADIKERI RTO - KA12( 23-JUL-2018 )
+[2025-06-13 10:27:13] 
+Processing RTO 45/68: MANDYA RTO - KA11( 21-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:27:13] Selecting RTO: MANDYA RTO - KA11( 21-JUL-2018 )
+[2025-06-13 10:27:14] Clicked RTO dropdown using method 1
+[2025-06-13 10:27:15] Clicked RTO option: MANDYA RTO - KA11( 21-JUL-2018 ) using method 1
+[2025-06-13 10:27:15] Successfully selected RTO: MANDYA RTO - KA11( 21-JUL-2018 )
+[2025-06-13 10:27:15] Applying left panel filters
+[2025-06-13 10:27:16] Clicked right refresh button using method 1
+[2025-06-13 10:27:20] Opening left panel if needed
+[2025-06-13 10:27:20] Clicked left panel toggler using method 1
+[2025-06-13 10:27:20] Expanded left panel
+[2025-06-13 10:27:22] Selecting vehicle categories and fuel types
+[2025-06-13 10:27:22] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:27:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:27:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:27:24] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:27:25] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:27:26] Vehicle categories and fuel types selected
+[2025-06-13 10:27:26] Clicking left refresh button
+[2025-06-13 10:27:27] Clicked left refresh button using method 1
+[2025-06-13 10:27:27] Left refresh button clicked
+[2025-06-13 10:27:31] Left panel collapsed successfully.
+[2025-06-13 10:27:31] Downloading Excel file for Karnataka(68), MANDYA RTO - KA11( 21-JUL-2018 ), 2024
+[2025-06-13 10:27:31] Clicked Excel download button using method 1
+[2025-06-13 10:27:31] Clicked Excel download button
+[2025-06-13 10:27:35] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:27:35] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:28:35] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\MANDYA RTO - KA11( 21-JUL-2018 ).xlsx
+[2025-06-13 10:28:35] Successfully processed RTO: MANDYA RTO - KA11( 21-JUL-2018 )
+[2025-06-13 10:28:35] 
+Processing RTO 46/68: MANGALORE RTO - KA19( 27-MAR-2018 ) (Attempt 1/2)
+[2025-06-13 10:28:35] Selecting RTO: MANGALORE RTO - KA19( 27-MAR-2018 )
+[2025-06-13 10:28:35] Clicked RTO dropdown using method 1
+[2025-06-13 10:28:36] Clicked RTO option: MANGALORE RTO - KA19( 27-MAR-2018 ) using method 1
+[2025-06-13 10:28:37] Successfully selected RTO: MANGALORE RTO - KA19( 27-MAR-2018 )
+[2025-06-13 10:28:37] Applying left panel filters
+[2025-06-13 10:28:37] Clicked right refresh button using method 1
+[2025-06-13 10:28:42] Opening left panel if needed
+[2025-06-13 10:28:42] Clicked left panel toggler using method 1
+[2025-06-13 10:28:42] Expanded left panel
+[2025-06-13 10:28:43] Selecting vehicle categories and fuel types
+[2025-06-13 10:28:44] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:28:44] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:28:45] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:28:46] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:28:46] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:28:47] Vehicle categories and fuel types selected
+[2025-06-13 10:28:48] Clicking left refresh button
+[2025-06-13 10:28:48] Clicked left refresh button using method 1
+[2025-06-13 10:28:48] Left refresh button clicked
+[2025-06-13 10:28:53] Left panel collapsed successfully.
+[2025-06-13 10:28:53] Downloading Excel file for Karnataka(68), MANGALORE RTO - KA19( 27-MAR-2018 ), 2024
+[2025-06-13 10:28:54] Clicked Excel download button using method 1
+[2025-06-13 10:28:54] Clicked Excel download button
+[2025-06-13 10:28:57] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:28:57] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:29:57] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\MANGALORE RTO - KA19( 27-MAR-2018 ).xlsx
+[2025-06-13 10:29:57] Successfully processed RTO: MANGALORE RTO - KA19( 27-MAR-2018 )
+[2025-06-13 10:29:57] 
+Processing RTO 47/68: MYSURU EAST RTO - KA55( 12-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:29:57] Selecting RTO: MYSURU EAST RTO - KA55( 12-JUL-2018 )
+[2025-06-13 10:29:58] Clicked RTO dropdown using method 1
+[2025-06-13 10:29:59] Clicked RTO option: MYSURU EAST RTO - KA55( 12-JUL-2018 ) using method 1
+[2025-06-13 10:29:59] Successfully selected RTO: MYSURU EAST RTO - KA55( 12-JUL-2018 )
+[2025-06-13 10:29:59] Applying left panel filters
+[2025-06-13 10:30:00] Clicked right refresh button using method 1
+[2025-06-13 10:30:04] Opening left panel if needed
+[2025-06-13 10:30:05] Clicked left panel toggler using method 1
+[2025-06-13 10:30:05] Expanded left panel
+[2025-06-13 10:30:06] Selecting vehicle categories and fuel types
+[2025-06-13 10:30:06] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:30:07] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:30:08] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:30:08] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:30:09] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:30:10] Vehicle categories and fuel types selected
+[2025-06-13 10:30:10] Clicking left refresh button
+[2025-06-13 10:30:11] Clicked left refresh button using method 1
+[2025-06-13 10:30:11] Left refresh button clicked
+[2025-06-13 10:30:15] Left panel collapsed successfully.
+[2025-06-13 10:30:15] Downloading Excel file for Karnataka(68), MYSURU EAST RTO - KA55( 12-JUL-2018 ), 2024
+[2025-06-13 10:30:16] Clicked Excel download button using method 1
+[2025-06-13 10:30:16] Clicked Excel download button
+[2025-06-13 10:30:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:30:19] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:31:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\MYSURU EAST RTO - KA55( 12-JUL-2018 ).xlsx
+[2025-06-13 10:31:19] Successfully processed RTO: MYSURU EAST RTO - KA55( 12-JUL-2018 )
+[2025-06-13 10:31:19] 
+Processing RTO 48/68: MYSURU WEST RTO - KA9( 12-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:31:19] Selecting RTO: MYSURU WEST RTO - KA9( 12-JUL-2018 )
+[2025-06-13 10:31:20] Clicked RTO dropdown using method 1
+[2025-06-13 10:31:21] Clicked RTO option: MYSURU WEST RTO - KA9( 12-JUL-2018 ) using method 1
+[2025-06-13 10:31:22] Successfully selected RTO: MYSURU WEST RTO - KA9( 12-JUL-2018 )
+[2025-06-13 10:31:22] Applying left panel filters
+[2025-06-13 10:31:22] Clicked right refresh button using method 1
+[2025-06-13 10:31:26] Opening left panel if needed
+[2025-06-13 10:31:26] Clicked left panel toggler using method 1
+[2025-06-13 10:31:26] Expanded left panel
+[2025-06-13 10:31:28] Selecting vehicle categories and fuel types
+[2025-06-13 10:31:28] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:31:29] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:31:30] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:31:30] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:31:31] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:31:32] Vehicle categories and fuel types selected
+[2025-06-13 10:31:32] Clicking left refresh button
+[2025-06-13 10:31:33] Clicked left refresh button using method 1
+[2025-06-13 10:31:33] Left refresh button clicked
+[2025-06-13 10:31:38] Left panel collapsed successfully.
+[2025-06-13 10:31:38] Downloading Excel file for Karnataka(68), MYSURU WEST RTO - KA9( 12-JUL-2018 ), 2024
+[2025-06-13 10:31:39] Clicked Excel download button using method 1
+[2025-06-13 10:31:39] Clicked Excel download button
+[2025-06-13 10:31:42] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:31:42] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:32:42] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\MYSURU WEST RTO - KA9( 12-JUL-2018 ).xlsx
+[2025-06-13 10:32:42] Successfully processed RTO: MYSURU WEST RTO - KA9( 12-JUL-2018 )
+[2025-06-13 10:32:42] 
+Processing RTO 49/68: NAGAMANGALA RTO - KA54( 23-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:32:42] Selecting RTO: NAGAMANGALA RTO - KA54( 23-JUL-2018 )
+[2025-06-13 10:32:42] Clicked RTO dropdown using method 1
+[2025-06-13 10:32:43] Clicked RTO option: NAGAMANGALA RTO - KA54( 23-JUL-2018 ) using method 1
+[2025-06-13 10:32:44] Successfully selected RTO: NAGAMANGALA RTO - KA54( 23-JUL-2018 )
+[2025-06-13 10:32:44] Applying left panel filters
+[2025-06-13 10:32:44] Clicked right refresh button using method 1
+[2025-06-13 10:32:48] Opening left panel if needed
+[2025-06-13 10:32:48] Clicked left panel toggler using method 1
+[2025-06-13 10:32:48] Expanded left panel
+[2025-06-13 10:32:50] Selecting vehicle categories and fuel types
+[2025-06-13 10:32:50] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:32:51] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:32:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:32:52] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:32:53] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:32:53] Vehicle categories and fuel types selected
+[2025-06-13 10:32:54] Clicking left refresh button
+[2025-06-13 10:32:55] Clicked left refresh button using method 1
+[2025-06-13 10:32:55] Left refresh button clicked
+[2025-06-13 10:32:59] Left panel collapsed successfully.
+[2025-06-13 10:32:59] Downloading Excel file for Karnataka(68), NAGAMANGALA RTO - KA54( 23-JUL-2018 ), 2024
+[2025-06-13 10:33:00] Clicked Excel download button using method 1
+[2025-06-13 10:33:00] Clicked Excel download button
+[2025-06-13 10:33:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:33:03] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:34:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\NAGAMANGALA RTO - KA54( 23-JUL-2018 ).xlsx
+[2025-06-13 10:34:03] Successfully processed RTO: NAGAMANGALA RTO - KA54( 23-JUL-2018 )
+[2025-06-13 10:34:03] 
+Processing RTO 50/68: NELAMANGALA RTO - KA52( 13-AUG-2018 ) (Attempt 1/2)
+[2025-06-13 10:34:03] Selecting RTO: NELAMANGALA RTO - KA52( 13-AUG-2018 )
+[2025-06-13 10:34:03] Clicked RTO dropdown using method 1
+[2025-06-13 10:34:05] Clicked RTO option: NELAMANGALA RTO - KA52( 13-AUG-2018 ) using method 1
+[2025-06-13 10:34:05] Successfully selected RTO: NELAMANGALA RTO - KA52( 13-AUG-2018 )
+[2025-06-13 10:34:05] Applying left panel filters
+[2025-06-13 10:34:05] Clicked right refresh button using method 1
+[2025-06-13 10:34:10] Opening left panel if needed
+[2025-06-13 10:34:10] Clicked left panel toggler using method 1
+[2025-06-13 10:34:10] Expanded left panel
+[2025-06-13 10:34:11] Selecting vehicle categories and fuel types
+[2025-06-13 10:34:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:34:13] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:34:13] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:34:14] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:34:15] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:34:15] Vehicle categories and fuel types selected
+[2025-06-13 10:34:16] Clicking left refresh button
+[2025-06-13 10:34:17] Clicked left refresh button using method 1
+[2025-06-13 10:34:17] Left refresh button clicked
+[2025-06-13 10:34:22] Left panel collapsed successfully.
+[2025-06-13 10:34:22] Downloading Excel file for Karnataka(68), NELAMANGALA RTO - KA52( 13-AUG-2018 ), 2024
+[2025-06-13 10:34:22] Clicked Excel download button using method 1
+[2025-06-13 10:34:22] Clicked Excel download button
+[2025-06-13 10:34:26] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:34:26] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:35:26] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\NELAMANGALA RTO - KA52( 13-AUG-2018 ).xlsx
+[2025-06-13 10:35:26] Successfully processed RTO: NELAMANGALA RTO - KA52( 13-AUG-2018 )
+[2025-06-13 10:35:26] 
+Processing RTO 51/68: PUTTUR RTO - KA21( 27-MAR-2018 ) (Attempt 1/2)
+[2025-06-13 10:35:26] Selecting RTO: PUTTUR RTO - KA21( 27-MAR-2018 )
+[2025-06-13 10:35:26] Clicked RTO dropdown using method 1
+[2025-06-13 10:35:27] Clicked RTO option: PUTTUR RTO - KA21( 27-MAR-2018 ) using method 1
+[2025-06-13 10:35:28] Successfully selected RTO: PUTTUR RTO - KA21( 27-MAR-2018 )
+[2025-06-13 10:35:28] Applying left panel filters
+[2025-06-13 10:35:28] Clicked right refresh button using method 1
+[2025-06-13 10:35:32] Opening left panel if needed
+[2025-06-13 10:35:32] Clicked left panel toggler using method 1
+[2025-06-13 10:35:32] Expanded left panel
+[2025-06-13 10:35:34] Selecting vehicle categories and fuel types
+[2025-06-13 10:35:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:35:35] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:35:36] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:35:37] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:35:38] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:35:38] Vehicle categories and fuel types selected
+[2025-06-13 10:35:39] Clicking left refresh button
+[2025-06-13 10:35:39] Clicked left refresh button using method 1
+[2025-06-13 10:35:39] Left refresh button clicked
+[2025-06-13 10:35:45] Left panel collapsed successfully.
+[2025-06-13 10:35:45] Downloading Excel file for Karnataka(68), PUTTUR RTO - KA21( 27-MAR-2018 ), 2024
+[2025-06-13 10:35:45] Clicked Excel download button using method 1
+[2025-06-13 10:35:45] Clicked Excel download button
+[2025-06-13 10:35:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:35:49] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:36:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\PUTTUR RTO - KA21( 27-MAR-2018 ).xlsx
+[2025-06-13 10:36:49] Successfully processed RTO: PUTTUR RTO - KA21( 27-MAR-2018 )
+[2025-06-13 10:36:49] 
+Processing RTO 52/68: RAICHUR RTO - KA36( 27-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:36:49] Selecting RTO: RAICHUR RTO - KA36( 27-JUL-2018 )
+[2025-06-13 10:36:50] Clicked RTO dropdown using method 1
+[2025-06-13 10:36:51] Clicked RTO option: RAICHUR RTO - KA36( 27-JUL-2018 ) using method 1
+[2025-06-13 10:36:51] Successfully selected RTO: RAICHUR RTO - KA36( 27-JUL-2018 )
+[2025-06-13 10:36:51] Applying left panel filters
+[2025-06-13 10:36:52] Clicked right refresh button using method 1
+[2025-06-13 10:36:56] Opening left panel if needed
+[2025-06-13 10:36:56] Clicked left panel toggler using method 1
+[2025-06-13 10:36:56] Expanded left panel
+[2025-06-13 10:36:58] Selecting vehicle categories and fuel types
+[2025-06-13 10:36:58] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:36:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:36:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:37:00] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:37:01] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:37:01] Vehicle categories and fuel types selected
+[2025-06-13 10:37:02] Clicking left refresh button
+[2025-06-13 10:37:02] Clicked left refresh button using method 1
+[2025-06-13 10:37:02] Left refresh button clicked
+[2025-06-13 10:37:06] Left panel collapsed successfully.
+[2025-06-13 10:37:06] Downloading Excel file for Karnataka(68), RAICHUR RTO - KA36( 27-JUL-2018 ), 2024
+[2025-06-13 10:37:07] Clicked Excel download button using method 1
+[2025-06-13 10:37:07] Clicked Excel download button
+[2025-06-13 10:37:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:37:11] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:38:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\RAICHUR RTO - KA36( 27-JUL-2018 ).xlsx
+[2025-06-13 10:38:11] Successfully processed RTO: RAICHUR RTO - KA36( 27-JUL-2018 )
+[2025-06-13 10:38:11] 
+Processing RTO 53/68: RAMANAGAR RTO - KA42( 02-JAN-2018 ) (Attempt 1/2)
+[2025-06-13 10:38:11] Selecting RTO: RAMANAGAR RTO - KA42( 02-JAN-2018 )
+[2025-06-13 10:38:11] Clicked RTO dropdown using method 1
+[2025-06-13 10:38:12] Clicked RTO option: RAMANAGAR RTO - KA42( 02-JAN-2018 ) using method 1
+[2025-06-13 10:38:13] Successfully selected RTO: RAMANAGAR RTO - KA42( 02-JAN-2018 )
+[2025-06-13 10:38:13] Applying left panel filters
+[2025-06-13 10:38:13] Clicked right refresh button using method 1
+[2025-06-13 10:38:18] Opening left panel if needed
+[2025-06-13 10:38:18] Clicked left panel toggler using method 1
+[2025-06-13 10:38:18] Expanded left panel
+[2025-06-13 10:38:20] Selecting vehicle categories and fuel types
+[2025-06-13 10:38:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:38:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:38:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:38:23] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:38:23] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:38:24] Vehicle categories and fuel types selected
+[2025-06-13 10:38:25] Clicking left refresh button
+[2025-06-13 10:38:25] Clicked left refresh button using method 1
+[2025-06-13 10:38:25] Left refresh button clicked
+[2025-06-13 10:38:30] Left panel collapsed successfully.
+[2025-06-13 10:38:30] Downloading Excel file for Karnataka(68), RAMANAGAR RTO - KA42( 02-JAN-2018 ), 2024
+[2025-06-13 10:38:30] Clicked Excel download button using method 1
+[2025-06-13 10:38:30] Clicked Excel download button
+[2025-06-13 10:38:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:38:33] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:39:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\RAMANAGAR RTO - KA42( 02-JAN-2018 ).xlsx
+[2025-06-13 10:39:33] Successfully processed RTO: RAMANAGAR RTO - KA42( 02-JAN-2018 )
+[2025-06-13 10:39:33] 
+Processing RTO 54/68: RAMDURGA ARTO - KA69( 19-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:39:33] Selecting RTO: RAMDURGA ARTO - KA69( 19-JUL-2018 )
+[2025-06-13 10:39:34] Clicked RTO dropdown using method 1
+[2025-06-13 10:39:35] Clicked RTO option: RAMDURGA ARTO - KA69( 19-JUL-2018 ) using method 1
+[2025-06-13 10:39:35] Successfully selected RTO: RAMDURGA ARTO - KA69( 19-JUL-2018 )
+[2025-06-13 10:39:35] Applying left panel filters
+[2025-06-13 10:39:36] Clicked right refresh button using method 1
+[2025-06-13 10:39:41] Opening left panel if needed
+[2025-06-13 10:39:41] Clicked left panel toggler using method 1
+[2025-06-13 10:39:41] Expanded left panel
+[2025-06-13 10:39:43] Selecting vehicle categories and fuel types
+[2025-06-13 10:39:43] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:39:44] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:39:45] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:39:45] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:39:46] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:39:46] Vehicle categories and fuel types selected
+[2025-06-13 10:39:47] Clicking left refresh button
+[2025-06-13 10:39:48] Clicked left refresh button using method 1
+[2025-06-13 10:39:48] Left refresh button clicked
+[2025-06-13 10:39:53] Left panel collapsed successfully.
+[2025-06-13 10:39:53] Downloading Excel file for Karnataka(68), RAMDURGA ARTO - KA69( 19-JUL-2018 ), 2024
+[2025-06-13 10:39:53] Clicked Excel download button using method 1
+[2025-06-13 10:39:53] Clicked Excel download button
+[2025-06-13 10:39:56] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:39:56] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:40:56] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\RAMDURGA ARTO - KA69( 19-JUL-2018 ).xlsx
+[2025-06-13 10:40:56] Successfully processed RTO: RAMDURGA ARTO - KA69( 19-JUL-2018 )
+[2025-06-13 10:40:56] 
+Processing RTO 55/68: RANIBENNUR ARTO - KA68( 24-FEB-2018 ) (Attempt 1/2)
+[2025-06-13 10:40:56] Selecting RTO: RANIBENNUR ARTO - KA68( 24-FEB-2018 )
+[2025-06-13 10:40:57] Clicked RTO dropdown using method 1
+[2025-06-13 10:40:58] Clicked RTO option: RANIBENNUR ARTO - KA68( 24-FEB-2018 ) using method 1
+[2025-06-13 10:40:58] Successfully selected RTO: RANIBENNUR ARTO - KA68( 24-FEB-2018 )
+[2025-06-13 10:40:58] Applying left panel filters
+[2025-06-13 10:40:59] Clicked right refresh button using method 1
+[2025-06-13 10:41:03] Opening left panel if needed
+[2025-06-13 10:41:04] Clicked left panel toggler using method 1
+[2025-06-13 10:41:04] Expanded left panel
+[2025-06-13 10:41:05] Selecting vehicle categories and fuel types
+[2025-06-13 10:41:05] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:41:06] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:41:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:41:08] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:41:09] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:41:09] Vehicle categories and fuel types selected
+[2025-06-13 10:41:10] Clicking left refresh button
+[2025-06-13 10:41:10] Clicked left refresh button using method 1
+[2025-06-13 10:41:10] Left refresh button clicked
+[2025-06-13 10:41:15] Left panel collapsed successfully.
+[2025-06-13 10:41:15] Downloading Excel file for Karnataka(68), RANIBENNUR ARTO - KA68( 24-FEB-2018 ), 2024
+[2025-06-13 10:41:15] Clicked Excel download button using method 1
+[2025-06-13 10:41:15] Clicked Excel download button
+[2025-06-13 10:41:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:41:19] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:42:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\RANIBENNUR ARTO - KA68( 24-FEB-2018 ).xlsx
+[2025-06-13 10:42:19] Successfully processed RTO: RANIBENNUR ARTO - KA68( 24-FEB-2018 )
+[2025-06-13 10:42:19] 
+Processing RTO 56/68: REGIONAL TRANSPORT OFFICE BELAGAVI - KA22( 20-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 10:42:19] Selecting RTO: REGIONAL TRANSPORT OFFICE BELAGAVI - KA22( 20-SEP-2018 )
+[2025-06-13 10:42:19] Clicked RTO dropdown using method 1
+[2025-06-13 10:42:20] Clicked RTO option: REGIONAL TRANSPORT OFFICE BELAGAVI - KA22( 20-SEP-2018 ) using method 1
+[2025-06-13 10:42:21] Successfully selected RTO: REGIONAL TRANSPORT OFFICE BELAGAVI - KA22( 20-SEP-2018 )
+[2025-06-13 10:42:21] Applying left panel filters
+[2025-06-13 10:42:21] Clicked right refresh button using method 1
+[2025-06-13 10:42:25] Opening left panel if needed
+[2025-06-13 10:42:25] Clicked left panel toggler using method 1
+[2025-06-13 10:42:25] Expanded left panel
+[2025-06-13 10:42:27] Selecting vehicle categories and fuel types
+[2025-06-13 10:42:27] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:42:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:42:29] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:42:29] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:42:30] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:42:30] Vehicle categories and fuel types selected
+[2025-06-13 10:42:31] Clicking left refresh button
+[2025-06-13 10:42:32] Clicked left refresh button using method 1
+[2025-06-13 10:42:32] Left refresh button clicked
+[2025-06-13 10:42:36] Left panel collapsed successfully.
+[2025-06-13 10:42:36] Downloading Excel file for Karnataka(68), REGIONAL TRANSPORT OFFICE BELAGAVI - KA22( 20-SEP-2018 ), 2024
+[2025-06-13 10:42:37] Clicked Excel download button using method 1
+[2025-06-13 10:42:37] Clicked Excel download button
+[2025-06-13 10:42:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:42:40] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:43:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\REGIONAL TRANSPORT OFFICE BELAGAVI - KA22( 20-SEP-2018 ).xlsx
+[2025-06-13 10:43:40] Successfully processed RTO: REGIONAL TRANSPORT OFFICE BELAGAVI - KA22( 20-SEP-2018 )
+[2025-06-13 10:43:40] 
+Processing RTO 57/68: SAGAR ARTO - KA15( 29-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 10:43:40] Selecting RTO: SAGAR ARTO - KA15( 29-JUN-2018 )
+[2025-06-13 10:43:41] Clicked RTO dropdown using method 1
+[2025-06-13 10:43:42] Clicked RTO option: SAGAR ARTO - KA15( 29-JUN-2018 ) using method 1
+[2025-06-13 10:43:42] Successfully selected RTO: SAGAR ARTO - KA15( 29-JUN-2018 )
+[2025-06-13 10:43:42] Applying left panel filters
+[2025-06-13 10:43:43] Clicked right refresh button using method 1
+[2025-06-13 10:43:47] Opening left panel if needed
+[2025-06-13 10:43:48] Clicked left panel toggler using method 1
+[2025-06-13 10:43:48] Expanded left panel
+[2025-06-13 10:43:49] Selecting vehicle categories and fuel types
+[2025-06-13 10:43:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:43:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:43:51] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:43:52] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:43:53] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:43:53] Vehicle categories and fuel types selected
+[2025-06-13 10:43:53] Clicking left refresh button
+[2025-06-13 10:43:54] Clicked left refresh button using method 1
+[2025-06-13 10:43:54] Left refresh button clicked
+[2025-06-13 10:43:59] Left panel collapsed successfully.
+[2025-06-13 10:43:59] Downloading Excel file for Karnataka(68), SAGAR ARTO - KA15( 29-JUN-2018 ), 2024
+[2025-06-13 10:43:59] Clicked Excel download button using method 1
+[2025-06-13 10:43:59] Clicked Excel download button
+[2025-06-13 10:44:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:44:03] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:45:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\SAGAR ARTO - KA15( 29-JUN-2018 ).xlsx
+[2025-06-13 10:45:03] Successfully processed RTO: SAGAR ARTO - KA15( 29-JUN-2018 )
+[2025-06-13 10:45:03] 
+Processing RTO 58/68: SAKALESHPURA ARTO - KA46( 09-JUL-2018 ) (Attempt 1/2)
+[2025-06-13 10:45:03] Selecting RTO: SAKALESHPURA ARTO - KA46( 09-JUL-2018 )
+[2025-06-13 10:45:03] Clicked RTO dropdown using method 1
+[2025-06-13 10:45:04] Clicked RTO option: SAKALESHPURA ARTO - KA46( 09-JUL-2018 ) using method 1
+[2025-06-13 10:45:05] Successfully selected RTO: SAKALESHPURA ARTO - KA46( 09-JUL-2018 )
+[2025-06-13 10:45:05] Applying left panel filters
+[2025-06-13 10:45:05] Clicked right refresh button using method 1
+[2025-06-13 10:45:10] Opening left panel if needed
+[2025-06-13 10:45:10] Clicked left panel toggler using method 1
+[2025-06-13 10:45:10] Expanded left panel
+[2025-06-13 10:45:11] Selecting vehicle categories and fuel types
+[2025-06-13 10:45:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:45:13] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:45:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:45:14] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:45:15] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:45:15] Vehicle categories and fuel types selected
+[2025-06-13 10:45:16] Clicking left refresh button
+[2025-06-13 10:45:16] Clicked left refresh button using method 1
+[2025-06-13 10:45:16] Left refresh button clicked
+[2025-06-13 10:45:22] Left panel collapsed successfully.
+[2025-06-13 10:45:22] Downloading Excel file for Karnataka(68), SAKALESHPURA ARTO - KA46( 09-JUL-2018 ), 2024
+[2025-06-13 10:45:22] Clicked Excel download button using method 1
+[2025-06-13 10:45:22] Clicked Excel download button
+[2025-06-13 10:45:26] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:45:26] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:46:26] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\SAKALESHPURA ARTO - KA46( 09-JUL-2018 ).xlsx
+[2025-06-13 10:46:26] Successfully processed RTO: SAKALESHPURA ARTO - KA46( 09-JUL-2018 )
+[2025-06-13 10:46:26] 
+Processing RTO 59/68: SHIMOGA RTO - KA14( 29-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 10:46:26] Selecting RTO: SHIMOGA RTO - KA14( 29-JUN-2018 )
+[2025-06-13 10:46:27] Clicked RTO dropdown using method 1
+[2025-06-13 10:46:28] Clicked RTO option: SHIMOGA RTO - KA14( 29-JUN-2018 ) using method 1
+[2025-06-13 10:46:28] Successfully selected RTO: SHIMOGA RTO - KA14( 29-JUN-2018 )
+[2025-06-13 10:46:28] Applying left panel filters
+[2025-06-13 10:46:29] Clicked right refresh button using method 1
+[2025-06-13 10:46:33] Opening left panel if needed
+[2025-06-13 10:46:34] Clicked left panel toggler using method 1
+[2025-06-13 10:46:34] Expanded left panel
+[2025-06-13 10:46:35] Selecting vehicle categories and fuel types
+[2025-06-13 10:46:36] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:46:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:46:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:46:38] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:46:38] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:46:39] Vehicle categories and fuel types selected
+[2025-06-13 10:46:39] Clicking left refresh button
+[2025-06-13 10:46:40] Clicked left refresh button using method 1
+[2025-06-13 10:46:40] Left refresh button clicked
+[2025-06-13 10:46:44] Left panel collapsed successfully.
+[2025-06-13 10:46:44] Downloading Excel file for Karnataka(68), SHIMOGA RTO - KA14( 29-JUN-2018 ), 2024
+[2025-06-13 10:46:45] Clicked Excel download button using method 1
+[2025-06-13 10:46:45] Clicked Excel download button
+[2025-06-13 10:46:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:46:49] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:47:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\SHIMOGA RTO - KA14( 29-JUN-2018 ).xlsx
+[2025-06-13 10:47:49] Successfully processed RTO: SHIMOGA RTO - KA14( 29-JUN-2018 )
+[2025-06-13 10:47:49] 
+Processing RTO 60/68: SIRSI RTO - KA31( 29-SEP-2018 ) (Attempt 1/2)
+[2025-06-13 10:47:49] Selecting RTO: SIRSI RTO - KA31( 29-SEP-2018 )
+[2025-06-13 10:47:49] Clicked RTO dropdown using method 1
+[2025-06-13 10:47:50] Clicked RTO option: SIRSI RTO - KA31( 29-SEP-2018 ) using method 1
+[2025-06-13 10:47:50] Successfully selected RTO: SIRSI RTO - KA31( 29-SEP-2018 )
+[2025-06-13 10:47:50] Applying left panel filters
+[2025-06-13 10:47:51] Clicked right refresh button using method 1
+[2025-06-13 10:47:55] Opening left panel if needed
+[2025-06-13 10:47:56] Clicked left panel toggler using method 1
+[2025-06-13 10:47:56] Expanded left panel
+[2025-06-13 10:47:57] Selecting vehicle categories and fuel types
+[2025-06-13 10:47:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:47:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:47:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:47:59] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:48:00] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:48:01] Vehicle categories and fuel types selected
+[2025-06-13 10:48:01] Clicking left refresh button
+[2025-06-13 10:48:02] Clicked left refresh button using method 1
+[2025-06-13 10:48:02] Left refresh button clicked
+[2025-06-13 10:48:06] Left panel collapsed successfully.
+[2025-06-13 10:48:06] Downloading Excel file for Karnataka(68), SIRSI RTO - KA31( 29-SEP-2018 ), 2024
+[2025-06-13 10:53:07] Clicked Excel download button using method 1
+[2025-06-13 10:53:07] Clicked Excel download button
+[2025-06-13 10:53:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:53:10] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:54:10] Download timeout - file not found
+[2025-06-13 10:54:10] Failed to download Excel
+[2025-06-13 10:54:10] Attempt 1 failed for RTO: SIRSI RTO - KA31( 29-SEP-2018 )
+[2025-06-13 10:54:10] Attempting to recover...
+[2025-06-13 10:54:10] Attempting to recover state...
+[2025-06-13 10:54:10] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-13 10:54:11] Clicked Y-axis dropdown using method 1
+[2025-06-13 10:54:12] Clicked Maker option using method 1
+[2025-06-13 10:54:13] Clicked X-axis dropdown using method 1
+[2025-06-13 10:54:15] Clicked Month Wise option using method 1
+[2025-06-13 10:54:15] Axis setup completed
+[2025-06-13 10:54:15] Selecting State: Karnataka(68)
+[2025-06-13 10:54:16] Clicked state dropdown label using method 1
+[2025-06-13 10:54:17] Clicked state option: Karnataka(68) using method 1
+[2025-06-13 10:54:18] Successfully selected state: Karnataka(68)
+[2025-06-13 10:54:18] Selecting Year: 2024
+[2025-06-13 10:54:18] Clicked year dropdown using method 1
+[2025-06-13 10:54:19] Clicked year option: 2024 using method 1
+[2025-06-13 10:54:19] Successfully selected year: 2024
+[2025-06-13 10:54:19] Successfully recovered state
+[2025-06-13 10:54:19] 
+Processing RTO 60/68: SIRSI RTO - KA31( 29-SEP-2018 ) (Attempt 2/2)
+[2025-06-13 10:54:19] Selecting RTO: SIRSI RTO - KA31( 29-SEP-2018 )
+[2025-06-13 10:54:20] Clicked RTO dropdown using method 1
+[2025-06-13 10:54:21] Clicked RTO option: SIRSI RTO - KA31( 29-SEP-2018 ) using method 1
+[2025-06-13 10:54:21] Successfully selected RTO: SIRSI RTO - KA31( 29-SEP-2018 )
+[2025-06-13 10:54:21] Applying left panel filters
+[2025-06-13 10:54:22] Clicked right refresh button using method 1
+[2025-06-13 10:54:26] Opening left panel if needed
+[2025-06-13 10:54:26] Error in open_left_panel: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="filterLayout-toggler"]"}
+  (Session info: chrome=137.0.7151.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x313783+63299]
+	GetHandleVerifier [0x0x3137c4+63364]
+	(No symbol) [0x0x141113]
+	(No symbol) [0x0x18987e]
+	(No symbol) [0x0x189c1b]
+	(No symbol) [0x0x1d2212]
+	(No symbol) [0x0x1ae5c4]
+	(No symbol) [0x0x1cfa4a]
+	(No symbol) [0x0x1ae376]
+	(No symbol) [0x0x17d6e0]
+	(No symbol) [0x0x17e544]
+	GetHandleVerifier [0x0x56e073+2531379]
+	GetHandleVerifier [0x0x569372+2511666]
+	GetHandleVerifier [0x0x339efa+220858]
+	GetHandleVerifier [0x0x32a548+156936]
+	GetHandleVerifier [0x0x330c7d+183357]
+	GetHandleVerifier [0x0x31b6e8+95912]
+	GetHandleVerifier [0x0x31b890+96336]
+	GetHandleVerifier [0x0x30666a+9770]
+	BaseThreadInitThunk [0x0x764c7ba9+25]
+	RtlInitializeExceptionChain [0x0x77b1bb3b+107]
+	RtlClearBits [0x0x77b1babf+191]
+	(No symbol) [0x0]
+
+[2025-06-13 10:54:27] Selecting vehicle categories and fuel types
+[2025-06-13 10:54:27] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:54:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:54:29] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:54:29] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:54:30] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:54:30] Vehicle categories and fuel types selected
+[2025-06-13 10:54:31] Clicking left refresh button
+[2025-06-13 10:54:32] Clicked left refresh button using method 2
+[2025-06-13 10:54:32] Left refresh button clicked
+[2025-06-13 10:54:35] Collapse button not visible; panel might already be closed.
+[2025-06-13 10:54:35] Downloading Excel file for Karnataka(68), SIRSI RTO - KA31( 29-SEP-2018 ), 2024
+[2025-06-13 10:54:36] Clicked Excel download button using method 2
+[2025-06-13 10:54:36] Clicked Excel download button
+[2025-06-13 10:54:39] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:54:39] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:55:39] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\SIRSI RTO - KA31( 29-SEP-2018 ).xlsx
+[2025-06-13 10:55:39] Successfully processed RTO: SIRSI RTO - KA31( 29-SEP-2018 )
+[2025-06-13 10:55:39] 
+Processing RTO 61/68: STATE TRANSPORT AUTHORITY - KA99( 15-APR-2021 ) (Attempt 1/2)
+[2025-06-13 10:55:39] Selecting RTO: STATE TRANSPORT AUTHORITY - KA99( 15-APR-2021 )
+[2025-06-13 10:55:40] Clicked RTO dropdown using method 1
+[2025-06-13 10:55:41] Clicked RTO option: STATE TRANSPORT AUTHORITY - KA99( 15-APR-2021 ) using method 2
+[2025-06-13 10:55:41] Successfully selected RTO: STATE TRANSPORT AUTHORITY - KA99( 15-APR-2021 )
+[2025-06-13 10:55:41] Applying left panel filters
+[2025-06-13 10:55:42] Clicked right refresh button using method 1
+[2025-06-13 10:55:46] Opening left panel if needed
+[2025-06-13 10:55:46] Error in open_left_panel: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="filterLayout-toggler"]"}
+  (Session info: chrome=137.0.7151.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x313783+63299]
+	GetHandleVerifier [0x0x3137c4+63364]
+	(No symbol) [0x0x141113]
+	(No symbol) [0x0x18987e]
+	(No symbol) [0x0x189c1b]
+	(No symbol) [0x0x1d2212]
+	(No symbol) [0x0x1ae5c4]
+	(No symbol) [0x0x1cfa4a]
+	(No symbol) [0x0x1ae376]
+	(No symbol) [0x0x17d6e0]
+	(No symbol) [0x0x17e544]
+	GetHandleVerifier [0x0x56e073+2531379]
+	GetHandleVerifier [0x0x569372+2511666]
+	GetHandleVerifier [0x0x339efa+220858]
+	GetHandleVerifier [0x0x32a548+156936]
+	GetHandleVerifier [0x0x330c7d+183357]
+	GetHandleVerifier [0x0x31b6e8+95912]
+	GetHandleVerifier [0x0x31b890+96336]
+	GetHandleVerifier [0x0x30666a+9770]
+	BaseThreadInitThunk [0x0x764c7ba9+25]
+	RtlInitializeExceptionChain [0x0x77b1bb3b+107]
+	RtlClearBits [0x0x77b1babf+191]
+	(No symbol) [0x0]
+
+[2025-06-13 10:55:47] Selecting vehicle categories and fuel types
+[2025-06-13 10:55:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:55:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:55:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:55:50] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:55:50] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:55:51] Vehicle categories and fuel types selected
+[2025-06-13 10:55:51] Clicking left refresh button
+[2025-06-13 10:55:52] Clicked left refresh button using method 2
+[2025-06-13 10:55:52] Left refresh button clicked
+[2025-06-13 10:55:56] Collapse button not visible; panel might already be closed.
+[2025-06-13 10:55:56] Downloading Excel file for Karnataka(68), STATE TRANSPORT AUTHORITY - KA99( 15-APR-2021 ), 2024
+[2025-06-13 10:55:56] Clicked Excel download button using method 2
+[2025-06-13 10:55:56] Clicked Excel download button
+[2025-06-13 10:56:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:56:00] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:57:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\STATE TRANSPORT AUTHORITY - KA99( 15-APR-2021 ).xlsx
+[2025-06-13 10:57:00] Successfully processed RTO: STATE TRANSPORT AUTHORITY - KA99( 15-APR-2021 )
+[2025-06-13 10:57:00] 
+Processing RTO 62/68: STU AND AUTORIKSHAW, SHANTHINAGAR RTO - KA57( 26-APR-2021 ) (Attempt 1/2)
+[2025-06-13 10:57:00] Selecting RTO: STU AND AUTORIKSHAW, SHANTHINAGAR RTO - KA57( 26-APR-2021 )
+[2025-06-13 10:57:00] Clicked RTO dropdown using method 1
+[2025-06-13 10:57:02] Clicked RTO option: STU AND AUTORIKSHAW, SHANTHINAGAR RTO - KA57( 26-APR-2021 ) using method 2
+[2025-06-13 10:57:02] Successfully selected RTO: STU AND AUTORIKSHAW, SHANTHINAGAR RTO - KA57( 26-APR-2021 )
+[2025-06-13 10:57:02] Applying left panel filters
+[2025-06-13 10:57:02] Clicked right refresh button using method 1
+[2025-06-13 10:57:07] Opening left panel if needed
+[2025-06-13 10:57:07] Error in open_left_panel: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="filterLayout-toggler"]"}
+  (Session info: chrome=137.0.7151.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x313783+63299]
+	GetHandleVerifier [0x0x3137c4+63364]
+	(No symbol) [0x0x141113]
+	(No symbol) [0x0x18987e]
+	(No symbol) [0x0x189c1b]
+	(No symbol) [0x0x1d2212]
+	(No symbol) [0x0x1ae5c4]
+	(No symbol) [0x0x1cfa4a]
+	(No symbol) [0x0x1ae376]
+	(No symbol) [0x0x17d6e0]
+	(No symbol) [0x0x17e544]
+	GetHandleVerifier [0x0x56e073+2531379]
+	GetHandleVerifier [0x0x569372+2511666]
+	GetHandleVerifier [0x0x339efa+220858]
+	GetHandleVerifier [0x0x32a548+156936]
+	GetHandleVerifier [0x0x330c7d+183357]
+	GetHandleVerifier [0x0x31b6e8+95912]
+	GetHandleVerifier [0x0x31b890+96336]
+	GetHandleVerifier [0x0x30666a+9770]
+	BaseThreadInitThunk [0x0x764c7ba9+25]
+	RtlInitializeExceptionChain [0x0x77b1bb3b+107]
+	RtlClearBits [0x0x77b1babf+191]
+	(No symbol) [0x0]
+
+[2025-06-13 10:57:08] Selecting vehicle categories and fuel types
+[2025-06-13 10:57:09] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:57:09] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:57:10] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:57:11] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:57:12] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:57:12] Vehicle categories and fuel types selected
+[2025-06-13 10:57:13] Clicking left refresh button
+[2025-06-13 10:57:13] Clicked left refresh button using method 2
+[2025-06-13 10:57:13] Left refresh button clicked
+[2025-06-13 10:57:17] Collapse button not visible; panel might already be closed.
+[2025-06-13 10:57:17] Downloading Excel file for Karnataka(68), STU AND AUTORIKSHAW, SHANTHINAGAR RTO - KA57( 26-APR-2021 ), 2024
+[2025-06-13 10:57:18] Clicked Excel download button using method 2
+[2025-06-13 10:57:18] Clicked Excel download button
+[2025-06-13 10:57:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:57:21] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:58:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\STU AND AUTORIKSHAW, SHANTHINAGAR RTO - KA57( 26-APR-2021 ).xlsx
+[2025-06-13 10:58:21] Successfully processed RTO: STU AND AUTORIKSHAW, SHANTHINAGAR RTO - KA57( 26-APR-2021 )
+[2025-06-13 10:58:21] 
+Processing RTO 63/68: TARIKERE, CHIKKAMAGALURU ARTO - KA66( 12-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 10:58:21] Selecting RTO: TARIKERE, CHIKKAMAGALURU ARTO - KA66( 12-JUN-2018 )
+[2025-06-13 10:58:22] Clicked RTO dropdown using method 1
+[2025-06-13 10:58:23] Clicked RTO option: TARIKERE, CHIKKAMAGALURU ARTO - KA66( 12-JUN-2018 ) using method 2
+[2025-06-13 10:58:23] Successfully selected RTO: TARIKERE, CHIKKAMAGALURU ARTO - KA66( 12-JUN-2018 )
+[2025-06-13 10:58:23] Applying left panel filters
+[2025-06-13 10:58:24] Clicked right refresh button using method 1
+[2025-06-13 10:58:28] Opening left panel if needed
+[2025-06-13 10:58:28] Error in open_left_panel: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="filterLayout-toggler"]"}
+  (Session info: chrome=137.0.7151.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x313783+63299]
+	GetHandleVerifier [0x0x3137c4+63364]
+	(No symbol) [0x0x141113]
+	(No symbol) [0x0x18987e]
+	(No symbol) [0x0x189c1b]
+	(No symbol) [0x0x1d2212]
+	(No symbol) [0x0x1ae5c4]
+	(No symbol) [0x0x1cfa4a]
+	(No symbol) [0x0x1ae376]
+	(No symbol) [0x0x17d6e0]
+	(No symbol) [0x0x17e544]
+	GetHandleVerifier [0x0x56e073+2531379]
+	GetHandleVerifier [0x0x569372+2511666]
+	GetHandleVerifier [0x0x339efa+220858]
+	GetHandleVerifier [0x0x32a548+156936]
+	GetHandleVerifier [0x0x330c7d+183357]
+	GetHandleVerifier [0x0x31b6e8+95912]
+	GetHandleVerifier [0x0x31b890+96336]
+	GetHandleVerifier [0x0x30666a+9770]
+	BaseThreadInitThunk [0x0x764c7ba9+25]
+	RtlInitializeExceptionChain [0x0x77b1bb3b+107]
+	RtlClearBits [0x0x77b1babf+191]
+	(No symbol) [0x0]
+
+[2025-06-13 10:58:28] Selecting vehicle categories and fuel types
+[2025-06-13 10:58:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:58:29] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:58:30] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:58:31] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:58:32] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:58:33] Vehicle categories and fuel types selected
+[2025-06-13 10:58:33] Clicking left refresh button
+[2025-06-13 10:58:33] Clicked left refresh button using method 2
+[2025-06-13 10:58:33] Left refresh button clicked
+[2025-06-13 10:58:37] Collapse button not visible; panel might already be closed.
+[2025-06-13 10:58:37] Downloading Excel file for Karnataka(68), TARIKERE, CHIKKAMAGALURU ARTO - KA66( 12-JUN-2018 ), 2024
+[2025-06-13 10:58:38] Clicked Excel download button using method 2
+[2025-06-13 10:58:38] Clicked Excel download button
+[2025-06-13 10:58:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 10:58:41] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 10:59:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\TARIKERE, CHIKKAMAGALURU ARTO - KA66( 12-JUN-2018 ).xlsx
+[2025-06-13 10:59:41] Successfully processed RTO: TARIKERE, CHIKKAMAGALURU ARTO - KA66( 12-JUN-2018 )
+[2025-06-13 10:59:41] 
+Processing RTO 64/68: TIPTUR ARTO - KA44( 28-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 10:59:41] Selecting RTO: TIPTUR ARTO - KA44( 28-JUN-2018 )
+[2025-06-13 10:59:41] Clicked RTO dropdown using method 1
+[2025-06-13 10:59:43] Clicked RTO option: TIPTUR ARTO - KA44( 28-JUN-2018 ) using method 2
+[2025-06-13 10:59:43] Successfully selected RTO: TIPTUR ARTO - KA44( 28-JUN-2018 )
+[2025-06-13 10:59:43] Applying left panel filters
+[2025-06-13 10:59:44] Clicked right refresh button using method 1
+[2025-06-13 10:59:48] Opening left panel if needed
+[2025-06-13 10:59:48] Error in open_left_panel: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="filterLayout-toggler"]"}
+  (Session info: chrome=137.0.7151.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x313783+63299]
+	GetHandleVerifier [0x0x3137c4+63364]
+	(No symbol) [0x0x141113]
+	(No symbol) [0x0x18987e]
+	(No symbol) [0x0x189c1b]
+	(No symbol) [0x0x1d2212]
+	(No symbol) [0x0x1ae5c4]
+	(No symbol) [0x0x1cfa4a]
+	(No symbol) [0x0x1ae376]
+	(No symbol) [0x0x17d6e0]
+	(No symbol) [0x0x17e544]
+	GetHandleVerifier [0x0x56e073+2531379]
+	GetHandleVerifier [0x0x569372+2511666]
+	GetHandleVerifier [0x0x339efa+220858]
+	GetHandleVerifier [0x0x32a548+156936]
+	GetHandleVerifier [0x0x330c7d+183357]
+	GetHandleVerifier [0x0x31b6e8+95912]
+	GetHandleVerifier [0x0x31b890+96336]
+	GetHandleVerifier [0x0x30666a+9770]
+	BaseThreadInitThunk [0x0x764c7ba9+25]
+	RtlInitializeExceptionChain [0x0x77b1bb3b+107]
+	RtlClearBits [0x0x77b1babf+191]
+	(No symbol) [0x0]
+
+[2025-06-13 10:59:48] Selecting vehicle categories and fuel types
+[2025-06-13 10:59:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 10:59:49] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 10:59:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 10:59:51] Clicked checkbox fuel:7 using method 2
+[2025-06-13 10:59:52] Clicked checkbox fuel:21 using method 2
+[2025-06-13 10:59:52] Vehicle categories and fuel types selected
+[2025-06-13 10:59:53] Clicking left refresh button
+[2025-06-13 10:59:53] Clicked left refresh button using method 2
+[2025-06-13 10:59:53] Left refresh button clicked
+[2025-06-13 10:59:57] Collapse button not visible; panel might already be closed.
+[2025-06-13 10:59:57] Downloading Excel file for Karnataka(68), TIPTUR ARTO - KA44( 28-JUN-2018 ), 2024
+[2025-06-13 10:59:57] Clicked Excel download button using method 2
+[2025-06-13 10:59:57] Clicked Excel download button
+[2025-06-13 11:00:01] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 11:00:01] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 11:01:01] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\TIPTUR ARTO - KA44( 28-JUN-2018 ).xlsx
+[2025-06-13 11:01:01] Successfully processed RTO: TIPTUR ARTO - KA44( 28-JUN-2018 )
+[2025-06-13 11:01:01] 
+Processing RTO 65/68: TUMKUR RTO - KA6( 25-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 11:01:01] Selecting RTO: TUMKUR RTO - KA6( 25-JUN-2018 )
+[2025-06-13 11:01:01] Clicked RTO dropdown using method 1
+[2025-06-13 11:01:03] Clicked RTO option: TUMKUR RTO - KA6( 25-JUN-2018 ) using method 2
+[2025-06-13 11:01:03] Successfully selected RTO: TUMKUR RTO - KA6( 25-JUN-2018 )
+[2025-06-13 11:01:03] Applying left panel filters
+[2025-06-13 11:01:03] Clicked right refresh button using method 1
+[2025-06-13 11:01:08] Opening left panel if needed
+[2025-06-13 11:01:08] Error in open_left_panel: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="filterLayout-toggler"]"}
+  (Session info: chrome=137.0.7151.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x313783+63299]
+	GetHandleVerifier [0x0x3137c4+63364]
+	(No symbol) [0x0x141113]
+	(No symbol) [0x0x18987e]
+	(No symbol) [0x0x189c1b]
+	(No symbol) [0x0x1d2212]
+	(No symbol) [0x0x1ae5c4]
+	(No symbol) [0x0x1cfa4a]
+	(No symbol) [0x0x1ae376]
+	(No symbol) [0x0x17d6e0]
+	(No symbol) [0x0x17e544]
+	GetHandleVerifier [0x0x56e073+2531379]
+	GetHandleVerifier [0x0x569372+2511666]
+	GetHandleVerifier [0x0x339efa+220858]
+	GetHandleVerifier [0x0x32a548+156936]
+	GetHandleVerifier [0x0x330c7d+183357]
+	GetHandleVerifier [0x0x31b6e8+95912]
+	GetHandleVerifier [0x0x31b890+96336]
+	GetHandleVerifier [0x0x30666a+9770]
+	BaseThreadInitThunk [0x0x764c7ba9+25]
+	RtlInitializeExceptionChain [0x0x77b1bb3b+107]
+	RtlClearBits [0x0x77b1babf+191]
+	(No symbol) [0x0]
+
+[2025-06-13 11:01:08] Selecting vehicle categories and fuel types
+[2025-06-13 11:01:09] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 11:01:10] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 11:01:10] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 11:01:11] Clicked checkbox fuel:7 using method 2
+[2025-06-13 11:01:12] Clicked checkbox fuel:21 using method 2
+[2025-06-13 11:01:13] Vehicle categories and fuel types selected
+[2025-06-13 11:01:13] Clicking left refresh button
+[2025-06-13 11:01:14] Clicked left refresh button using method 2
+[2025-06-13 11:01:14] Left refresh button clicked
+[2025-06-13 11:01:18] Collapse button not visible; panel might already be closed.
+[2025-06-13 11:01:18] Downloading Excel file for Karnataka(68), TUMKUR RTO - KA6( 25-JUN-2018 ), 2024
+[2025-06-13 11:01:18] Clicked Excel download button using method 2
+[2025-06-13 11:01:18] Clicked Excel download button
+[2025-06-13 11:01:22] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-13 11:01:22] Inside_wait_for_download_and_rename for Karnataka
+[2025-06-13 11:02:22] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Karnataka(68)\TUMKUR RTO - KA6( 25-JUN-2018 ).xlsx
+[2025-06-13 11:02:22] Successfully processed RTO: TUMKUR RTO - KA6( 25-JUN-2018 )
+[2025-06-13 11:02:22] 
+Processing RTO 66/68: UDUPI RTO - KA20( 14-JUN-2018 ) (Attempt 1/2)
+[2025-06-13 11:02:22] Selecting RTO: UDUPI RTO - KA20( 14-JUN-2018 )
+[2025-06-13 11:02:22] Clicked RTO dropdown using method 1
+[2025-06-13 11:02:23] Clicked RTO option: UDUPI RTO - KA20( 14-JUN-2018 ) using method 2
+[2025-06-13 11:02:24] Successfully selected RTO: UDUPI RTO - KA20( 14-JUN-2018 )
+[2025-06-13 11:02:24] Applying left panel filters
+[2025-06-13 11:02:24] Clicked right refresh button using method 1
+[2025-06-13 11:02:28] Opening left panel if needed
+[2025-06-13 11:02:28] Error in open_left_panel: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="filterLayout-toggler"]"}
+  (Session info: chrome=137.0.7151.104); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x313783+63299]
+	GetHandleVerifier [0x0x3137c4+63364]
+	(No symbol) [0x0x141113]
+	(No symbol) [0x0x18987e]
+	(No symbol) [0x0x189c1b]
+	(No symbol) [0x0x1d2212]
+	(No symbol) [0x0x1ae5c4]
+	(No symbol) [0x0x1cfa4a]
+	(No symbol) [0x0x1ae376]
+	(No symbol) [0x0x17d6e0]
+	(No symbol) [0x0x17e544]
+	GetHandleVerifier [0x0x56e073+2531379]
+	GetHandleVerifier [0x0x569372+2511666]
+	GetHandleVerifier [0x0x339efa+220858]
+	GetHandleVerifier [0x0x32a548+156936]
+	GetHandleVerifier [0x0x330c7d+183357]
+	GetHandleVerifier [0x0x31b6e8+95912]
+	GetHandleVerifier [0x0x31b890+96336]
+	GetHandleVerifier [0x0x30666a+9770]
+	BaseThreadInitThunk [0x0x764c7ba9+25]
+	RtlInitializeExceptionChain [0x0x77b1bb3b+107]
+	RtlClearBits [0x0x77b1babf+191]
+	(No symbol) [0x0]
+
+[2025-06-13 11:02:29] Selecting vehicle categories and fuel types
+[2025-06-13 11:02:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-13 11:02:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-13 11:02:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-13 11:02:32] Clicked checkbox fuel:7 using method 2
+[2025-06-13 11:02:32] Clicked checkbox fuel:21 using method 2
+[2025-06-13 11:02:33] Vehicle categories and fuel types selected
+[2025-06-13 11:02:34] Clicking left refresh button
+[2025-06-13 11:02:34] Clicked left refresh button using method 2
+[2025-06-13 11:02:34] Left refresh button clicked
+[2025-06-13 11:02:38] Collapse button not visible; panel might already be closed.
+[2025-06-13 11:02:38] Downloading Excel file for Karnataka(68), UDUPI RTO - KA20( 14-JUN-2018 ), 2024
+[2025-06-13 11:02:38] Clicked Excel download button using method 2
+[2025-06-13 11:02:38] Clicked Excel download button

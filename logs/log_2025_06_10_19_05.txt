@@ -1,0 +1,60 @@
+[2025-06-10 19:05:27] Loading page
+[2025-06-10 19:05:31] Page loaded
+[2025-06-10 19:05:31] 
+=== Starting RTO-wise processing ===
+[2025-06-10 19:05:31] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-10 19:05:31] 
+Processing state: Haryana(98), Year: 2023
+[2025-06-10 19:05:31] 
+=== Starting RTO-wise processing for Haryana(98), 2023 ===
+[2025-06-10 19:05:31] Checking for Badgateway (503) error
+[2025-06-10 19:05:31] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 19:05:31] Clicked Y-axis dropdown using method 1
+[2025-06-10 19:05:32] Clicked Maker option using method 1
+[2025-06-10 19:05:33] Clicked X-axis dropdown using method 1
+[2025-06-10 19:05:35] Clicked Month Wise option using method 1
+[2025-06-10 19:05:35] Axis setup completed
+[2025-06-10 19:05:35] Checking for Badgateway (503) error
+[2025-06-10 19:05:35] Selecting State: Haryana(98)
+[2025-06-10 19:05:36] Clicked state dropdown label using method 1
+[2025-06-10 19:05:37] Clicked state option: Haryana(98) using method 1
+[2025-06-10 19:05:38] Successfully selected state: Haryana(98)
+[2025-06-10 19:05:38] Checking for Badgateway (503) error
+[2025-06-10 19:05:38] Selecting Year: 2023
+[2025-06-10 19:05:38] Clicked year dropdown using method 1
+[2025-06-10 19:05:39] Clicked year option: 2023 using method 1
+[2025-06-10 19:05:39] Successfully selected year: 2023
+[2025-06-10 19:05:39] Checking for Badgateway (503) error
+[2025-06-10 19:05:39] Getting list of all RTOs for the selected state
+[2025-06-10 19:05:40] Clicked RTO dropdown label using method 1
+[2025-06-10 19:05:42] Found 178 RTOs for the state
+[2025-06-10 19:05:42] 
+Processing RTO: AMBALA CITY - HR1( 27-APR-2017 ) (Attempt 1)
+[2025-06-10 19:05:42] Checking for Badgateway (503) error
+[2025-06-10 19:05:42] Selecting RTO: AMBALA CITY - HR1( 27-APR-2017 )
+[2025-06-10 19:05:42] Clicked RTO dropdown using method 1
+[2025-06-10 19:05:44] Clicked RTO option: AMBALA CITY - HR1( 27-APR-2017 ) using method 1
+[2025-06-10 19:05:44] Successfully selected RTO: AMBALA CITY - HR1( 27-APR-2017 )
+[2025-06-10 19:05:44] Checking for Badgateway (503) error
+[2025-06-10 19:05:44] Applying left panel filters
+[2025-06-10 19:05:44] Clicked right refresh button using method 1
+[2025-06-10 19:05:49] Opening left panel if needed
+[2025-06-10 19:05:49] Clicked left panel toggler using method 1
+[2025-06-10 19:05:49] Expanded left panel
+[2025-06-10 19:05:51] Selecting vehicle categories and fuel types
+[2025-06-10 19:05:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 19:05:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 19:05:53] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 19:05:54] Clicked checkbox fuel:7 using method 2
+[2025-06-10 19:05:54] Clicked checkbox fuel:21 using method 2
+[2025-06-10 19:05:55] Vehicle categories and fuel types selected
+[2025-06-10 19:05:56] Clicking left refresh button
+[2025-06-10 19:05:56] Clicked left refresh button using method 1
+[2025-06-10 19:05:56] Left refresh button clicked
+[2025-06-10 19:06:01] Left panel collapsed successfully.
+[2025-06-10 19:06:01] Checking for Badgateway (503) error
+[2025-06-10 19:06:01] Downloading Excel file for Haryana(98), AMBALA CITY - HR1( 27-APR-2017 ), 2023
+[2025-06-10 19:06:03] Clicked Excel download button using method 2
+[2025-06-10 19:06:03] Clicked Excel download button
+[2025-06-10 19:06:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-10 19:06:07] Inside_wait_for_download_and_rename for Haryana

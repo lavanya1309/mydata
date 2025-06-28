@@ -1,0 +1,4126 @@
+[2025-06-10 00:40:27] Loading page
+[2025-06-10 00:40:29] Page loaded
+[2025-06-10 00:40:29] 
+=== Starting RTO-wise processing ===
+[2025-06-10 00:40:29] 
+Processing state: Assam(33), Year: 2022
+[2025-06-10 00:40:29] 
+=== Starting RTO-wise processing for Assam(33), 2022 ===
+[2025-06-10 00:40:29] Checking for Badgateway (503) error
+[2025-06-10 00:40:29] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 00:40:30] Clicked Y-axis dropdown using method 1
+[2025-06-10 00:40:31] Clicked Maker option using method 1
+[2025-06-10 00:40:32] Clicked X-axis dropdown using method 1
+[2025-06-10 00:40:33] Clicked Month Wise option using method 1
+[2025-06-10 00:40:34] Axis setup completed
+[2025-06-10 00:40:34] Checking for Badgateway (503) error
+[2025-06-10 00:40:34] Selecting State: Assam(33)
+[2025-06-10 00:40:35] Clicked state dropdown label using method 1
+[2025-06-10 00:40:36] Clicked state option: Assam(33) using method 1
+[2025-06-10 00:40:37] Successfully selected state: Assam(33)
+[2025-06-10 00:40:37] Checking for Badgateway (503) error
+[2025-06-10 00:40:37] Selecting Year: 2022
+[2025-06-10 00:40:37] Clicked year dropdown using method 1
+[2025-06-10 00:40:38] Clicked year option: 2022 using method 1
+[2025-06-10 00:40:38] Successfully selected year: 2022
+[2025-06-10 00:40:38] Checking for Badgateway (503) error
+[2025-06-10 00:40:38] Getting list of all RTOs for the selected state
+[2025-06-10 00:40:39] Clicked RTO dropdown label using method 1
+[2025-06-10 00:40:40] Found 36 RTOs for the state
+[2025-06-10 00:40:40] 
+Processing RTO: BARPETA - AS15( 29-DEC-2016 ) (Attempt 1)
+[2025-06-10 00:40:40] Checking for Badgateway (503) error
+[2025-06-10 00:40:40] Selecting RTO: BARPETA - AS15( 29-DEC-2016 )
+[2025-06-10 00:40:41] Clicked RTO dropdown using method 1
+[2025-06-10 00:40:42] Clicked RTO option: BARPETA - AS15( 29-DEC-2016 ) using method 1
+[2025-06-10 00:40:42] Successfully selected RTO: BARPETA - AS15( 29-DEC-2016 )
+[2025-06-10 00:40:42] Checking for Badgateway (503) error
+[2025-06-10 00:40:42] Applying left panel filters
+[2025-06-10 00:40:43] Clicked right refresh button using method 1
+[2025-06-10 00:40:48] Opening left panel if needed
+[2025-06-10 00:40:48] Clicked left panel toggler using method 1
+[2025-06-10 00:40:48] Expanded left panel
+[2025-06-10 00:40:49] Selecting vehicle categories and fuel types
+[2025-06-10 00:40:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:40:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:40:51] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:40:52] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:40:53] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:40:53] Vehicle categories and fuel types selected
+[2025-06-10 00:40:54] Clicking left refresh button
+[2025-06-10 00:40:54] Clicked left refresh button using method 1
+[2025-06-10 00:40:54] Left refresh button clicked
+[2025-06-10 00:40:59] Left panel collapsed successfully.
+[2025-06-10 00:40:59] Checking for Badgateway (503) error
+[2025-06-10 00:40:59] Downloading Excel file for Assam(33), BARPETA - AS15( 29-DEC-2016 ), 2022
+[2025-06-10 00:41:00] Clicked Excel download button using method 1
+[2025-06-10 00:41:00] Clicked Excel download button
+[2025-06-10 00:41:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:41:03] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:42:03] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:42:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\BARPETA - AS15( 29-DEC-2016 ).xlsx
+[2025-06-10 00:42:03] Successfully processed RTO: BARPETA - AS15( 29-DEC-2016 )
+[2025-06-10 00:42:05] 
+Processing RTO: BASKA - AS28( 13-NOV-2017 ) (Attempt 1)
+[2025-06-10 00:42:05] Checking for Badgateway (503) error
+[2025-06-10 00:42:06] Selecting RTO: BASKA - AS28( 13-NOV-2017 )
+[2025-06-10 00:42:07] Clicked RTO dropdown using method 1
+[2025-06-10 00:42:08] Clicked RTO option: BASKA - AS28( 13-NOV-2017 ) using method 1
+[2025-06-10 00:42:08] Successfully selected RTO: BASKA - AS28( 13-NOV-2017 )
+[2025-06-10 00:42:08] Checking for Badgateway (503) error
+[2025-06-10 00:42:08] Applying left panel filters
+[2025-06-10 00:42:09] Clicked right refresh button using method 1
+[2025-06-10 00:42:13] Opening left panel if needed
+[2025-06-10 00:42:13] Clicked left panel toggler using method 1
+[2025-06-10 00:42:13] Expanded left panel
+[2025-06-10 00:42:15] Selecting vehicle categories and fuel types
+[2025-06-10 00:42:16] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:42:17] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:42:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:42:18] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:42:19] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:42:19] Vehicle categories and fuel types selected
+[2025-06-10 00:42:20] Clicking left refresh button
+[2025-06-10 00:42:20] Clicked left refresh button using method 1
+[2025-06-10 00:42:20] Left refresh button clicked
+[2025-06-10 00:42:25] Left panel collapsed successfully.
+[2025-06-10 00:42:25] Checking for Badgateway (503) error
+[2025-06-10 00:42:25] Downloading Excel file for Assam(33), BASKA - AS28( 13-NOV-2017 ), 2022
+[2025-06-10 00:42:26] Clicked Excel download button using method 1
+[2025-06-10 00:42:26] Clicked Excel download button
+[2025-06-10 00:42:30] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:42:30] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:43:30] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:43:30] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\BASKA - AS28( 13-NOV-2017 ).xlsx
+[2025-06-10 00:43:30] Successfully processed RTO: BASKA - AS28( 13-NOV-2017 )
+[2025-06-10 00:43:34] 
+Processing RTO: BISWANATH CHARIALI - AS32( 08-AUG-2019 ) (Attempt 1)
+[2025-06-10 00:43:34] Checking for Badgateway (503) error
+[2025-06-10 00:43:34] Selecting RTO: BISWANATH CHARIALI - AS32( 08-AUG-2019 )
+[2025-06-10 00:43:35] Clicked RTO dropdown using method 1
+[2025-06-10 00:43:36] Clicked RTO option: BISWANATH CHARIALI - AS32( 08-AUG-2019 ) using method 1
+[2025-06-10 00:43:36] Successfully selected RTO: BISWANATH CHARIALI - AS32( 08-AUG-2019 )
+[2025-06-10 00:43:36] Checking for Badgateway (503) error
+[2025-06-10 00:43:36] Applying left panel filters
+[2025-06-10 00:43:37] Clicked right refresh button using method 1
+[2025-06-10 00:43:41] Opening left panel if needed
+[2025-06-10 00:43:41] Clicked left panel toggler using method 1
+[2025-06-10 00:43:41] Expanded left panel
+[2025-06-10 00:43:43] Selecting vehicle categories and fuel types
+[2025-06-10 00:43:43] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:43:44] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:43:45] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:43:45] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:43:46] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:43:46] Vehicle categories and fuel types selected
+[2025-06-10 00:43:47] Clicking left refresh button
+[2025-06-10 00:43:47] Clicked left refresh button using method 1
+[2025-06-10 00:43:47] Left refresh button clicked
+[2025-06-10 00:43:52] Left panel collapsed successfully.
+[2025-06-10 00:43:52] Checking for Badgateway (503) error
+[2025-06-10 00:43:52] Downloading Excel file for Assam(33), BISWANATH CHARIALI - AS32( 08-AUG-2019 ), 2022
+[2025-06-10 00:43:53] Clicked Excel download button using method 1
+[2025-06-10 00:43:53] Clicked Excel download button
+[2025-06-10 00:43:56] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:43:56] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:44:56] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:44:56] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\BISWANATH CHARIALI - AS32( 08-AUG-2019 ).xlsx
+[2025-06-10 00:44:56] Successfully processed RTO: BISWANATH CHARIALI - AS32( 08-AUG-2019 )
+[2025-06-10 00:45:01] 
+Processing RTO: BONGAIGAON - AS19( 24-APR-2017 ) (Attempt 1)
+[2025-06-10 00:45:01] Checking for Badgateway (503) error
+[2025-06-10 00:45:01] Selecting RTO: BONGAIGAON - AS19( 24-APR-2017 )
+[2025-06-10 00:45:01] Clicked RTO dropdown using method 1
+[2025-06-10 00:45:03] Clicked RTO option: BONGAIGAON - AS19( 24-APR-2017 ) using method 1
+[2025-06-10 00:45:03] Successfully selected RTO: BONGAIGAON - AS19( 24-APR-2017 )
+[2025-06-10 00:45:03] Checking for Badgateway (503) error
+[2025-06-10 00:45:03] Applying left panel filters
+[2025-06-10 00:45:03] Clicked right refresh button using method 1
+[2025-06-10 00:45:08] Opening left panel if needed
+[2025-06-10 00:45:08] Clicked left panel toggler using method 1
+[2025-06-10 00:45:08] Expanded left panel
+[2025-06-10 00:45:10] Selecting vehicle categories and fuel types
+[2025-06-10 00:45:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:45:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:45:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:45:13] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:45:14] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:45:14] Vehicle categories and fuel types selected
+[2025-06-10 00:45:15] Clicking left refresh button
+[2025-06-10 00:45:15] Clicked left refresh button using method 1
+[2025-06-10 00:45:15] Left refresh button clicked
+[2025-06-10 00:45:20] Left panel collapsed successfully.
+[2025-06-10 00:45:20] Checking for Badgateway (503) error
+[2025-06-10 00:45:20] Downloading Excel file for Assam(33), BONGAIGAON - AS19( 24-APR-2017 ), 2022
+[2025-06-10 00:45:21] Clicked Excel download button using method 1
+[2025-06-10 00:45:21] Clicked Excel download button
+[2025-06-10 00:45:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:45:25] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:46:25] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:46:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\BONGAIGAON - AS19( 24-APR-2017 ).xlsx
+[2025-06-10 00:46:25] Successfully processed RTO: BONGAIGAON - AS19( 24-APR-2017 )
+[2025-06-10 00:46:30] 
+Processing RTO: CACHAR - AS11( 05-MAY-2017 ) (Attempt 1)
+[2025-06-10 00:46:30] Checking for Badgateway (503) error
+[2025-06-10 00:46:30] Selecting RTO: CACHAR - AS11( 05-MAY-2017 )
+[2025-06-10 00:46:30] Clicked RTO dropdown using method 1
+[2025-06-10 00:46:31] Clicked RTO option: CACHAR - AS11( 05-MAY-2017 ) using method 1
+[2025-06-10 00:46:31] Successfully selected RTO: CACHAR - AS11( 05-MAY-2017 )
+[2025-06-10 00:46:31] Checking for Badgateway (503) error
+[2025-06-10 00:46:32] Applying left panel filters
+[2025-06-10 00:46:32] Clicked right refresh button using method 1
+[2025-06-10 00:46:37] Opening left panel if needed
+[2025-06-10 00:46:37] Clicked left panel toggler using method 1
+[2025-06-10 00:46:37] Expanded left panel
+[2025-06-10 00:46:38] Selecting vehicle categories and fuel types
+[2025-06-10 00:46:39] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:46:40] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:46:41] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:46:42] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:46:42] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:46:43] Vehicle categories and fuel types selected
+[2025-06-10 00:46:44] Clicking left refresh button
+[2025-06-10 00:46:44] Clicked left refresh button using method 1
+[2025-06-10 00:46:44] Left refresh button clicked
+[2025-06-10 00:46:49] Left panel collapsed successfully.
+[2025-06-10 00:46:49] Checking for Badgateway (503) error
+[2025-06-10 00:46:49] Downloading Excel file for Assam(33), CACHAR - AS11( 05-MAY-2017 ), 2022
+[2025-06-10 00:46:50] Clicked Excel download button using method 1
+[2025-06-10 00:46:50] Clicked Excel download button
+[2025-06-10 00:46:53] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:46:53] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:47:53] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:47:53] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\CACHAR - AS11( 05-MAY-2017 ).xlsx
+[2025-06-10 00:47:53] Successfully processed RTO: CACHAR - AS11( 05-MAY-2017 )
+[2025-06-10 00:47:58] 
+Processing RTO: CHARAIDEO - AS33( 17-JAN-2020 ) (Attempt 1)
+[2025-06-10 00:47:58] Checking for Badgateway (503) error
+[2025-06-10 00:47:58] Selecting RTO: CHARAIDEO - AS33( 17-JAN-2020 )
+[2025-06-10 00:47:58] Clicked RTO dropdown using method 1
+[2025-06-10 00:47:59] Clicked RTO option: CHARAIDEO - AS33( 17-JAN-2020 ) using method 1
+[2025-06-10 00:47:59] Successfully selected RTO: CHARAIDEO - AS33( 17-JAN-2020 )
+[2025-06-10 00:47:59] Checking for Badgateway (503) error
+[2025-06-10 00:47:59] Applying left panel filters
+[2025-06-10 00:48:00] Clicked right refresh button using method 1
+[2025-06-10 00:48:05] Opening left panel if needed
+[2025-06-10 00:48:05] Clicked left panel toggler using method 1
+[2025-06-10 00:48:05] Expanded left panel
+[2025-06-10 00:48:07] Selecting vehicle categories and fuel types
+[2025-06-10 00:48:07] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:48:08] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:48:09] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:48:10] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:48:11] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:48:11] Vehicle categories and fuel types selected
+[2025-06-10 00:48:12] Clicking left refresh button
+[2025-06-10 00:48:12] Clicked left refresh button using method 1
+[2025-06-10 00:48:12] Left refresh button clicked
+[2025-06-10 00:48:17] Left panel collapsed successfully.
+[2025-06-10 00:48:17] Checking for Badgateway (503) error
+[2025-06-10 00:48:17] Downloading Excel file for Assam(33), CHARAIDEO - AS33( 17-JAN-2020 ), 2022
+[2025-06-10 00:48:18] Clicked Excel download button using method 1
+[2025-06-10 00:48:18] Clicked Excel download button
+[2025-06-10 00:48:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:48:21] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:49:21] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:49:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\CHARAIDEO - AS33( 17-JAN-2020 ).xlsx
+[2025-06-10 00:49:21] Successfully processed RTO: CHARAIDEO - AS33( 17-JAN-2020 )
+[2025-06-10 00:49:24] 
+Processing RTO: CHIRANG - AS26( 25-SEP-2017 ) (Attempt 1)
+[2025-06-10 00:49:24] Checking for Badgateway (503) error
+[2025-06-10 00:49:24] Selecting RTO: CHIRANG - AS26( 25-SEP-2017 )
+[2025-06-10 00:49:24] Clicked RTO dropdown using method 1
+[2025-06-10 00:49:26] Clicked RTO option: CHIRANG - AS26( 25-SEP-2017 ) using method 1
+[2025-06-10 00:49:26] Successfully selected RTO: CHIRANG - AS26( 25-SEP-2017 )
+[2025-06-10 00:49:26] Checking for Badgateway (503) error
+[2025-06-10 00:49:26] Applying left panel filters
+[2025-06-10 00:49:26] Clicked right refresh button using method 1
+[2025-06-10 00:49:31] Opening left panel if needed
+[2025-06-10 00:49:31] Clicked left panel toggler using method 1
+[2025-06-10 00:49:31] Expanded left panel
+[2025-06-10 00:49:32] Selecting vehicle categories and fuel types
+[2025-06-10 00:49:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:49:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:49:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:49:35] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:49:36] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:49:36] Vehicle categories and fuel types selected
+[2025-06-10 00:49:37] Clicking left refresh button
+[2025-06-10 00:49:37] Clicked left refresh button using method 1
+[2025-06-10 00:49:37] Left refresh button clicked
+[2025-06-10 00:49:42] Left panel collapsed successfully.
+[2025-06-10 00:49:42] Checking for Badgateway (503) error
+[2025-06-10 00:49:42] Downloading Excel file for Assam(33), CHIRANG - AS26( 25-SEP-2017 ), 2022
+[2025-06-10 00:49:43] Clicked Excel download button using method 1
+[2025-06-10 00:49:43] Clicked Excel download button
+[2025-06-10 00:49:47] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:49:47] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:50:47] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:50:47] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\CHIRANG - AS26( 25-SEP-2017 ).xlsx
+[2025-06-10 00:50:47] Successfully processed RTO: CHIRANG - AS26( 25-SEP-2017 )
+[2025-06-10 00:50:49] 
+Processing RTO: DARRANG - AS13( 04-MAY-2018 ) (Attempt 1)
+[2025-06-10 00:50:49] Checking for Badgateway (503) error
+[2025-06-10 00:50:49] Selecting RTO: DARRANG - AS13( 04-MAY-2018 )
+[2025-06-10 00:50:50] Clicked RTO dropdown using method 1
+[2025-06-10 00:50:51] Clicked RTO option: DARRANG - AS13( 04-MAY-2018 ) using method 1
+[2025-06-10 00:50:51] Successfully selected RTO: DARRANG - AS13( 04-MAY-2018 )
+[2025-06-10 00:50:51] Checking for Badgateway (503) error
+[2025-06-10 00:50:51] Applying left panel filters
+[2025-06-10 00:50:51] Clicked right refresh button using method 1
+[2025-06-10 00:50:56] Opening left panel if needed
+[2025-06-10 00:50:56] Clicked left panel toggler using method 1
+[2025-06-10 00:50:56] Expanded left panel
+[2025-06-10 00:50:58] Selecting vehicle categories and fuel types
+[2025-06-10 00:50:58] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:50:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:51:00] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:51:01] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:51:02] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:51:02] Vehicle categories and fuel types selected
+[2025-06-10 00:51:03] Clicking left refresh button
+[2025-06-10 00:51:03] Clicked left refresh button using method 1
+[2025-06-10 00:51:03] Left refresh button clicked
+[2025-06-10 00:51:08] Left panel collapsed successfully.
+[2025-06-10 00:51:08] Checking for Badgateway (503) error
+[2025-06-10 00:51:08] Downloading Excel file for Assam(33), DARRANG - AS13( 04-MAY-2018 ), 2022
+[2025-06-10 00:51:08] Clicked Excel download button using method 1
+[2025-06-10 00:51:08] Clicked Excel download button
+[2025-06-10 00:51:12] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:51:12] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:52:12] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:52:12] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\DARRANG - AS13( 04-MAY-2018 ).xlsx
+[2025-06-10 00:52:12] Successfully processed RTO: DARRANG - AS13( 04-MAY-2018 )
+[2025-06-10 00:52:16] 
+Processing RTO: DHEMAJI - AS22( 05-OCT-2017 ) (Attempt 1)
+[2025-06-10 00:52:16] Checking for Badgateway (503) error
+[2025-06-10 00:52:16] Selecting RTO: DHEMAJI - AS22( 05-OCT-2017 )
+[2025-06-10 00:52:16] Clicked RTO dropdown using method 1
+[2025-06-10 00:52:18] Clicked RTO option: DHEMAJI - AS22( 05-OCT-2017 ) using method 1
+[2025-06-10 00:52:18] Successfully selected RTO: DHEMAJI - AS22( 05-OCT-2017 )
+[2025-06-10 00:52:18] Checking for Badgateway (503) error
+[2025-06-10 00:52:18] Applying left panel filters
+[2025-06-10 00:52:18] Clicked right refresh button using method 1
+[2025-06-10 00:52:23] Opening left panel if needed
+[2025-06-10 00:52:23] Clicked left panel toggler using method 1
+[2025-06-10 00:52:23] Expanded left panel
+[2025-06-10 00:52:25] Selecting vehicle categories and fuel types
+[2025-06-10 00:52:25] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:52:26] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:52:27] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:52:27] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:52:28] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:52:28] Vehicle categories and fuel types selected
+[2025-06-10 00:52:29] Clicking left refresh button
+[2025-06-10 00:52:30] Clicked left refresh button using method 1
+[2025-06-10 00:52:30] Left refresh button clicked
+[2025-06-10 00:52:35] Left panel collapsed successfully.
+[2025-06-10 00:52:35] Checking for Badgateway (503) error
+[2025-06-10 00:52:35] Downloading Excel file for Assam(33), DHEMAJI - AS22( 05-OCT-2017 ), 2022
+[2025-06-10 00:52:35] Clicked Excel download button using method 1
+[2025-06-10 00:52:35] Clicked Excel download button
+[2025-06-10 00:52:38] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:52:38] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:53:38] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:53:38] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\DHEMAJI - AS22( 05-OCT-2017 ).xlsx
+[2025-06-10 00:53:38] Successfully processed RTO: DHEMAJI - AS22( 05-OCT-2017 )
+[2025-06-10 00:53:42] 
+Processing RTO: DHUBRI - AS17( 05-MAY-2017 ) (Attempt 1)
+[2025-06-10 00:53:42] Checking for Badgateway (503) error
+[2025-06-10 00:53:42] Selecting RTO: DHUBRI - AS17( 05-MAY-2017 )
+[2025-06-10 00:53:42] Clicked RTO dropdown using method 1
+[2025-06-10 00:53:43] Clicked RTO option: DHUBRI - AS17( 05-MAY-2017 ) using method 1
+[2025-06-10 00:53:43] Successfully selected RTO: DHUBRI - AS17( 05-MAY-2017 )
+[2025-06-10 00:53:43] Checking for Badgateway (503) error
+[2025-06-10 00:53:43] Applying left panel filters
+[2025-06-10 00:53:44] Clicked right refresh button using method 1
+[2025-06-10 00:53:49] Opening left panel if needed
+[2025-06-10 00:53:49] Clicked left panel toggler using method 1
+[2025-06-10 00:53:49] Expanded left panel
+[2025-06-10 00:53:50] Selecting vehicle categories and fuel types
+[2025-06-10 00:53:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:53:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:53:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:53:53] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:53:54] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:53:55] Vehicle categories and fuel types selected
+[2025-06-10 00:53:56] Clicking left refresh button
+[2025-06-10 00:53:56] Clicked left refresh button using method 1
+[2025-06-10 00:53:56] Left refresh button clicked
+[2025-06-10 00:54:01] Left panel collapsed successfully.
+[2025-06-10 00:54:01] Checking for Badgateway (503) error
+[2025-06-10 00:54:01] Downloading Excel file for Assam(33), DHUBRI - AS17( 05-MAY-2017 ), 2022
+[2025-06-10 00:54:02] Clicked Excel download button using method 1
+[2025-06-10 00:54:02] Clicked Excel download button
+[2025-06-10 00:54:05] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:54:05] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:55:05] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:55:05] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\DHUBRI - AS17( 05-MAY-2017 ).xlsx
+[2025-06-10 00:55:05] Successfully processed RTO: DHUBRI - AS17( 05-MAY-2017 )
+[2025-06-10 00:55:08] 
+Processing RTO: DIBRUGARH - AS6( 16-FEB-2017 ) (Attempt 1)
+[2025-06-10 00:55:08] Checking for Badgateway (503) error
+[2025-06-10 00:55:08] Selecting RTO: DIBRUGARH - AS6( 16-FEB-2017 )
+[2025-06-10 00:55:09] Clicked RTO dropdown using method 1
+[2025-06-10 00:55:10] Clicked RTO option: DIBRUGARH - AS6( 16-FEB-2017 ) using method 1
+[2025-06-10 00:55:10] Successfully selected RTO: DIBRUGARH - AS6( 16-FEB-2017 )
+[2025-06-10 00:55:10] Checking for Badgateway (503) error
+[2025-06-10 00:55:10] Applying left panel filters
+[2025-06-10 00:55:10] Clicked right refresh button using method 1
+[2025-06-10 00:55:14] Opening left panel if needed
+[2025-06-10 00:55:14] Clicked left panel toggler using method 1
+[2025-06-10 00:55:14] Expanded left panel
+[2025-06-10 00:55:15] Selecting vehicle categories and fuel types
+[2025-06-10 00:55:16] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:55:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:55:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:55:18] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:55:19] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:55:19] Vehicle categories and fuel types selected
+[2025-06-10 00:55:20] Clicking left refresh button
+[2025-06-10 00:55:20] Clicked left refresh button using method 1
+[2025-06-10 00:55:20] Left refresh button clicked
+[2025-06-10 00:55:25] Left panel collapsed successfully.
+[2025-06-10 00:55:25] Checking for Badgateway (503) error
+[2025-06-10 00:55:25] Downloading Excel file for Assam(33), DIBRUGARH - AS6( 16-FEB-2017 ), 2022
+[2025-06-10 00:55:25] Clicked Excel download button using method 1
+[2025-06-10 00:55:25] Clicked Excel download button
+[2025-06-10 00:55:28] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:55:28] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:56:28] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:56:28] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\DIBRUGARH - AS6( 16-FEB-2017 ).xlsx
+[2025-06-10 00:56:28] Successfully processed RTO: DIBRUGARH - AS6( 16-FEB-2017 )
+[2025-06-10 00:56:33] 
+Processing RTO: DIMA HASAO - AS8( 18-APR-2017 ) (Attempt 1)
+[2025-06-10 00:56:33] Checking for Badgateway (503) error
+[2025-06-10 00:56:33] Selecting RTO: DIMA HASAO - AS8( 18-APR-2017 )
+[2025-06-10 00:56:33] Clicked RTO dropdown using method 1
+[2025-06-10 00:56:35] Clicked RTO option: DIMA HASAO - AS8( 18-APR-2017 ) using method 1
+[2025-06-10 00:56:35] Successfully selected RTO: DIMA HASAO - AS8( 18-APR-2017 )
+[2025-06-10 00:56:35] Checking for Badgateway (503) error
+[2025-06-10 00:56:35] Applying left panel filters
+[2025-06-10 00:56:35] Clicked right refresh button using method 1
+[2025-06-10 00:56:39] Opening left panel if needed
+[2025-06-10 00:56:39] Clicked left panel toggler using method 1
+[2025-06-10 00:56:39] Expanded left panel
+[2025-06-10 00:56:41] Selecting vehicle categories and fuel types
+[2025-06-10 00:56:41] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:56:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:56:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:56:44] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:56:44] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:56:45] Vehicle categories and fuel types selected
+[2025-06-10 00:56:46] Clicking left refresh button
+[2025-06-10 00:56:46] Clicked left refresh button using method 1
+[2025-06-10 00:56:46] Left refresh button clicked
+[2025-06-10 00:56:51] Left panel collapsed successfully.
+[2025-06-10 00:56:51] Checking for Badgateway (503) error
+[2025-06-10 00:56:51] Downloading Excel file for Assam(33), DIMA HASAO - AS8( 18-APR-2017 ), 2022
+[2025-06-10 00:56:51] Clicked Excel download button using method 1
+[2025-06-10 00:56:51] Clicked Excel download button
+[2025-06-10 00:56:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:56:55] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:57:55] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:57:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\DIMA HASAO - AS8( 18-APR-2017 ).xlsx
+[2025-06-10 00:57:55] Successfully processed RTO: DIMA HASAO - AS8( 18-APR-2017 )
+[2025-06-10 00:57:58] 
+Processing RTO: GOALPARA - AS18( 09-NOV-2016 ) (Attempt 1)
+[2025-06-10 00:57:58] Checking for Badgateway (503) error
+[2025-06-10 00:57:58] Selecting RTO: GOALPARA - AS18( 09-NOV-2016 )
+[2025-06-10 00:57:59] Clicked RTO dropdown using method 1
+[2025-06-10 00:58:00] Clicked RTO option: GOALPARA - AS18( 09-NOV-2016 ) using method 1
+[2025-06-10 00:58:00] Successfully selected RTO: GOALPARA - AS18( 09-NOV-2016 )
+[2025-06-10 00:58:00] Checking for Badgateway (503) error
+[2025-06-10 00:58:00] Applying left panel filters
+[2025-06-10 00:58:00] Clicked right refresh button using method 1
+[2025-06-10 00:58:04] Opening left panel if needed
+[2025-06-10 00:58:04] Clicked left panel toggler using method 1
+[2025-06-10 00:58:04] Expanded left panel
+[2025-06-10 00:58:06] Selecting vehicle categories and fuel types
+[2025-06-10 00:58:06] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:58:07] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:58:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:58:08] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:58:09] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:58:09] Vehicle categories and fuel types selected
+[2025-06-10 00:58:10] Clicking left refresh button
+[2025-06-10 00:58:10] Clicked left refresh button using method 1
+[2025-06-10 00:58:10] Left refresh button clicked
+[2025-06-10 00:58:15] Left panel collapsed successfully.
+[2025-06-10 00:58:15] Checking for Badgateway (503) error
+[2025-06-10 00:58:15] Downloading Excel file for Assam(33), GOALPARA - AS18( 09-NOV-2016 ), 2022
+[2025-06-10 00:58:15] Clicked Excel download button using method 1
+[2025-06-10 00:58:15] Clicked Excel download button
+[2025-06-10 00:58:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:58:19] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 00:59:19] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 00:59:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\GOALPARA - AS18( 09-NOV-2016 ).xlsx
+[2025-06-10 00:59:19] Successfully processed RTO: GOALPARA - AS18( 09-NOV-2016 )
+[2025-06-10 00:59:23] 
+Processing RTO: GOLAGHAT - AS5( 03-MAY-2017 ) (Attempt 1)
+[2025-06-10 00:59:23] Checking for Badgateway (503) error
+[2025-06-10 00:59:23] Selecting RTO: GOLAGHAT - AS5( 03-MAY-2017 )
+[2025-06-10 00:59:23] Clicked RTO dropdown using method 1
+[2025-06-10 00:59:25] Clicked RTO option: GOLAGHAT - AS5( 03-MAY-2017 ) using method 1
+[2025-06-10 00:59:25] Successfully selected RTO: GOLAGHAT - AS5( 03-MAY-2017 )
+[2025-06-10 00:59:25] Checking for Badgateway (503) error
+[2025-06-10 00:59:25] Applying left panel filters
+[2025-06-10 00:59:25] Clicked right refresh button using method 1
+[2025-06-10 00:59:29] Opening left panel if needed
+[2025-06-10 00:59:29] Clicked left panel toggler using method 1
+[2025-06-10 00:59:29] Expanded left panel
+[2025-06-10 00:59:31] Selecting vehicle categories and fuel types
+[2025-06-10 00:59:31] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 00:59:32] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 00:59:32] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 00:59:33] Clicked checkbox fuel:7 using method 2
+[2025-06-10 00:59:34] Clicked checkbox fuel:21 using method 2
+[2025-06-10 00:59:34] Vehicle categories and fuel types selected
+[2025-06-10 00:59:35] Clicking left refresh button
+[2025-06-10 00:59:35] Clicked left refresh button using method 1
+[2025-06-10 00:59:35] Left refresh button clicked
+[2025-06-10 00:59:40] Left panel collapsed successfully.
+[2025-06-10 00:59:40] Checking for Badgateway (503) error
+[2025-06-10 00:59:40] Downloading Excel file for Assam(33), GOLAGHAT - AS5( 03-MAY-2017 ), 2022
+[2025-06-10 00:59:41] Clicked Excel download button using method 1
+[2025-06-10 00:59:41] Clicked Excel download button
+[2025-06-10 00:59:44] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 00:59:44] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 01:00:44] Target directory verified/created: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)
+[2025-06-10 01:00:44] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022\Assam(33)\GOLAGHAT - AS5( 03-MAY-2017 ).xlsx
+[2025-06-10 01:00:44] Successfully processed RTO: GOLAGHAT - AS5( 03-MAY-2017 )
+[2025-06-10 01:00:47] 
+Processing RTO: HAILAKANDI - AS24( 11-MAR-2019 ) (Attempt 1)
+[2025-06-10 01:00:47] Checking for Badgateway (503) error
+[2025-06-10 01:00:47] Selecting RTO: HAILAKANDI - AS24( 11-MAR-2019 )
+[2025-06-10 01:00:48] Clicked RTO dropdown using method 1
+[2025-06-10 01:00:48] Clicked RTO option: HAILAKANDI - AS24( 11-MAR-2019 ) using method 1
+[2025-06-10 01:00:48] Successfully selected RTO: HAILAKANDI - AS24( 11-MAR-2019 )
+[2025-06-10 01:00:48] Checking for Badgateway (503) error
+[2025-06-10 01:00:48] Applying left panel filters
+[2025-06-10 01:00:49] Clicked right refresh button using method 1
+[2025-06-10 01:00:54] Opening left panel if needed
+[2025-06-10 01:00:54] Clicked left panel toggler using method 1
+[2025-06-10 01:00:54] Expanded left panel
+[2025-06-10 01:00:55] Selecting vehicle categories and fuel types
+[2025-06-10 01:00:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-10 01:00:56] Clicked checkbox VhCatg:1 using method 2
+[2025-06-10 01:00:57] Clicked checkbox VhCatg:2 using method 2
+[2025-06-10 01:00:58] Clicked checkbox fuel:7 using method 2
+[2025-06-10 01:00:59] Clicked checkbox fuel:21 using method 2
+[2025-06-10 01:00:59] Vehicle categories and fuel types selected
+[2025-06-10 01:01:00] Clicking left refresh button
+[2025-06-10 01:01:00] Clicked left refresh button using method 1
+[2025-06-10 01:01:00] Left refresh button clicked
+[2025-06-10 01:01:05] Left panel collapsed successfully.
+[2025-06-10 01:01:05] Checking for Badgateway (503) error
+[2025-06-10 01:01:05] Downloading Excel file for Assam(33), HAILAKANDI - AS24( 11-MAR-2019 ), 2022
+[2025-06-10 01:01:05] Clicked Excel download button using method 1
+[2025-06-10 01:01:05] Clicked Excel download button
+[2025-06-10 01:01:09] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-10 01:01:09] Inside_wait_for_download_and_rename for Assam
+[2025-06-10 01:02:09] Download timeout - file not found
+[2025-06-10 01:02:09] Error processing RTO HAILAKANDI - AS24( 11-MAR-2019 ): Download failed
+[2025-06-10 01:02:09] Checking for Badgateway (503) error
+[2025-06-10 01:02:09] 
+Processing RTO: HAILAKANDI - AS24( 11-MAR-2019 ) (Attempt 2)
+[2025-06-10 01:02:09] Checking for Badgateway (503) error
+[2025-06-10 01:02:09] Selecting RTO: HAILAKANDI - AS24( 11-MAR-2019 )
+[2025-06-10 01:02:19] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:02:19] Error processing RTO HAILAKANDI - AS24( 11-MAR-2019 ): RTO selection failed
+[2025-06-10 01:02:19] Checking for Badgateway (503) error
+[2025-06-10 01:02:23] 
+Processing RTO: HOJAI - AS31( 09-DEC-2019 ) (Attempt 1)
+[2025-06-10 01:02:23] Checking for Badgateway (503) error
+[2025-06-10 01:02:23] Selecting RTO: HOJAI - AS31( 09-DEC-2019 )
+[2025-06-10 01:02:33] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:02:33] Error processing RTO HOJAI - AS31( 09-DEC-2019 ): RTO selection failed
+[2025-06-10 01:02:33] Checking for Badgateway (503) error
+[2025-06-10 01:02:33] 
+Processing RTO: HOJAI - AS31( 09-DEC-2019 ) (Attempt 2)
+[2025-06-10 01:02:33] Checking for Badgateway (503) error
+[2025-06-10 01:02:33] Selecting RTO: HOJAI - AS31( 09-DEC-2019 )
+[2025-06-10 01:02:43] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:02:43] Error processing RTO HOJAI - AS31( 09-DEC-2019 ): RTO selection failed
+[2025-06-10 01:02:43] Checking for Badgateway (503) error
+[2025-06-10 01:02:47] 
+Processing RTO: JORHAT - AS3( 25-APR-2017 ) (Attempt 1)
+[2025-06-10 01:02:47] Checking for Badgateway (503) error
+[2025-06-10 01:02:47] Selecting RTO: JORHAT - AS3( 25-APR-2017 )
+[2025-06-10 01:02:57] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:02:57] Error processing RTO JORHAT - AS3( 25-APR-2017 ): RTO selection failed
+[2025-06-10 01:02:57] Checking for Badgateway (503) error
+[2025-06-10 01:02:57] 
+Processing RTO: JORHAT - AS3( 25-APR-2017 ) (Attempt 2)
+[2025-06-10 01:02:57] Checking for Badgateway (503) error
+[2025-06-10 01:02:57] Selecting RTO: JORHAT - AS3( 25-APR-2017 )
+[2025-06-10 01:03:08] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:03:08] Error processing RTO JORHAT - AS3( 25-APR-2017 ): RTO selection failed
+[2025-06-10 01:03:08] Checking for Badgateway (503) error
+[2025-06-10 01:03:12] 
+Processing RTO: KAMRUP - AS1( 17-NOV-2016 ) (Attempt 1)
+[2025-06-10 01:03:12] Checking for Badgateway (503) error
+[2025-06-10 01:03:12] Selecting RTO: KAMRUP - AS1( 17-NOV-2016 )
+[2025-06-10 01:03:22] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:03:22] Error processing RTO KAMRUP - AS1( 17-NOV-2016 ): RTO selection failed
+[2025-06-10 01:03:22] Checking for Badgateway (503) error
+[2025-06-10 01:03:22] 
+Processing RTO: KAMRUP - AS1( 17-NOV-2016 ) (Attempt 2)
+[2025-06-10 01:03:22] Checking for Badgateway (503) error
+[2025-06-10 01:03:22] Selecting RTO: KAMRUP - AS1( 17-NOV-2016 )
+[2025-06-10 01:03:32] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:03:32] Error processing RTO KAMRUP - AS1( 17-NOV-2016 ): RTO selection failed
+[2025-06-10 01:03:32] Checking for Badgateway (503) error
+[2025-06-10 01:03:36] 
+Processing RTO: KAMRUP(RURAL) - AS25( 24-NOV-2016 ) (Attempt 1)
+[2025-06-10 01:03:36] Checking for Badgateway (503) error
+[2025-06-10 01:03:36] Selecting RTO: KAMRUP(RURAL) - AS25( 24-NOV-2016 )
+[2025-06-10 01:03:46] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:03:46] Error processing RTO KAMRUP(RURAL) - AS25( 24-NOV-2016 ): RTO selection failed
+[2025-06-10 01:03:46] Checking for Badgateway (503) error
+[2025-06-10 01:03:46] 
+Processing RTO: KAMRUP(RURAL) - AS25( 24-NOV-2016 ) (Attempt 2)
+[2025-06-10 01:03:46] Checking for Badgateway (503) error
+[2025-06-10 01:03:46] Selecting RTO: KAMRUP(RURAL) - AS25( 24-NOV-2016 )
+[2025-06-10 01:03:56] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:03:56] Error processing RTO KAMRUP(RURAL) - AS25( 24-NOV-2016 ): RTO selection failed
+[2025-06-10 01:03:56] Checking for Badgateway (503) error
+[2025-06-10 01:04:00] 
+Processing RTO: KARBI ANGLONG - AS9( 09-APR-2019 ) (Attempt 1)
+[2025-06-10 01:04:00] Checking for Badgateway (503) error
+[2025-06-10 01:04:00] Selecting RTO: KARBI ANGLONG - AS9( 09-APR-2019 )
+[2025-06-10 01:04:10] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:04:10] Error processing RTO KARBI ANGLONG - AS9( 09-APR-2019 ): RTO selection failed
+[2025-06-10 01:04:10] Checking for Badgateway (503) error
+[2025-06-10 01:04:10] 
+Processing RTO: KARBI ANGLONG - AS9( 09-APR-2019 ) (Attempt 2)
+[2025-06-10 01:04:10] Checking for Badgateway (503) error
+[2025-06-10 01:04:10] Selecting RTO: KARBI ANGLONG - AS9( 09-APR-2019 )
+[2025-06-10 01:04:20] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:04:20] Error processing RTO KARBI ANGLONG - AS9( 09-APR-2019 ): RTO selection failed
+[2025-06-10 01:04:20] Checking for Badgateway (503) error
+[2025-06-10 01:04:25] 
+Processing RTO: KARIMGANJ - AS10( 20-JUL-2017 ) (Attempt 1)
+[2025-06-10 01:04:25] Checking for Badgateway (503) error
+[2025-06-10 01:04:25] Selecting RTO: KARIMGANJ - AS10( 20-JUL-2017 )
+[2025-06-10 01:04:35] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:04:35] Error processing RTO KARIMGANJ - AS10( 20-JUL-2017 ): RTO selection failed
+[2025-06-10 01:04:35] Checking for Badgateway (503) error
+[2025-06-10 01:04:35] 
+Processing RTO: KARIMGANJ - AS10( 20-JUL-2017 ) (Attempt 2)
+[2025-06-10 01:04:35] Checking for Badgateway (503) error
+[2025-06-10 01:04:35] Selecting RTO: KARIMGANJ - AS10( 20-JUL-2017 )
+[2025-06-10 01:04:45] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:04:45] Error processing RTO KARIMGANJ - AS10( 20-JUL-2017 ): RTO selection failed
+[2025-06-10 01:04:45] Checking for Badgateway (503) error
+[2025-06-10 01:04:48] 
+Processing RTO: KOKRAJHAR - AS16( 24-APR-2017 ) (Attempt 1)
+[2025-06-10 01:04:48] Checking for Badgateway (503) error
+[2025-06-10 01:04:48] Selecting RTO: KOKRAJHAR - AS16( 24-APR-2017 )
+[2025-06-10 01:04:58] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:04:58] Error processing RTO KOKRAJHAR - AS16( 24-APR-2017 ): RTO selection failed
+[2025-06-10 01:04:58] Checking for Badgateway (503) error
+[2025-06-10 01:04:58] 
+Processing RTO: KOKRAJHAR - AS16( 24-APR-2017 ) (Attempt 2)
+[2025-06-10 01:04:58] Checking for Badgateway (503) error
+[2025-06-10 01:04:58] Selecting RTO: KOKRAJHAR - AS16( 24-APR-2017 )
+[2025-06-10 01:05:08] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:05:08] Error processing RTO KOKRAJHAR - AS16( 24-APR-2017 ): RTO selection failed
+[2025-06-10 01:05:08] Checking for Badgateway (503) error
+[2025-06-10 01:05:12] 
+Processing RTO: LAKHIMPUR - AS7( 05-OCT-2017 ) (Attempt 1)
+[2025-06-10 01:05:12] Checking for Badgateway (503) error
+[2025-06-10 01:05:12] Selecting RTO: LAKHIMPUR - AS7( 05-OCT-2017 )
+[2025-06-10 01:05:22] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:05:22] Error processing RTO LAKHIMPUR - AS7( 05-OCT-2017 ): RTO selection failed
+[2025-06-10 01:05:22] Checking for Badgateway (503) error
+[2025-06-10 01:05:22] 
+Processing RTO: LAKHIMPUR - AS7( 05-OCT-2017 ) (Attempt 2)
+[2025-06-10 01:05:22] Checking for Badgateway (503) error
+[2025-06-10 01:05:22] Selecting RTO: LAKHIMPUR - AS7( 05-OCT-2017 )
+[2025-06-10 01:05:32] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:05:32] Error processing RTO LAKHIMPUR - AS7( 05-OCT-2017 ): RTO selection failed
+[2025-06-10 01:05:32] Checking for Badgateway (503) error
+[2025-06-10 01:05:35] 
+Processing RTO: MAJULI - AS29( 09-JUL-2019 ) (Attempt 1)
+[2025-06-10 01:05:35] Checking for Badgateway (503) error
+[2025-06-10 01:05:35] Selecting RTO: MAJULI - AS29( 09-JUL-2019 )
+[2025-06-10 01:05:45] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:05:45] Error processing RTO MAJULI - AS29( 09-JUL-2019 ): RTO selection failed
+[2025-06-10 01:05:45] Checking for Badgateway (503) error
+[2025-06-10 01:05:45] 
+Processing RTO: MAJULI - AS29( 09-JUL-2019 ) (Attempt 2)
+[2025-06-10 01:05:45] Checking for Badgateway (503) error
+[2025-06-10 01:05:45] Selecting RTO: MAJULI - AS29( 09-JUL-2019 )
+[2025-06-10 01:05:55] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:05:55] Error processing RTO MAJULI - AS29( 09-JUL-2019 ): RTO selection failed
+[2025-06-10 01:05:55] Checking for Badgateway (503) error
+[2025-06-10 01:05:57] 
+Processing RTO: MORIGAON - AS21( 07-APR-2018 ) (Attempt 1)
+[2025-06-10 01:05:57] Checking for Badgateway (503) error
+[2025-06-10 01:05:57] Selecting RTO: MORIGAON - AS21( 07-APR-2018 )
+[2025-06-10 01:06:07] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:06:07] Error processing RTO MORIGAON - AS21( 07-APR-2018 ): RTO selection failed
+[2025-06-10 01:06:07] Checking for Badgateway (503) error
+[2025-06-10 01:06:07] 
+Processing RTO: MORIGAON - AS21( 07-APR-2018 ) (Attempt 2)
+[2025-06-10 01:06:07] Checking for Badgateway (503) error
+[2025-06-10 01:06:07] Selecting RTO: MORIGAON - AS21( 07-APR-2018 )
+[2025-06-10 01:06:17] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:06:17] Error processing RTO MORIGAON - AS21( 07-APR-2018 ): RTO selection failed
+[2025-06-10 01:06:17] Checking for Badgateway (503) error
+[2025-06-10 01:06:19] 
+Processing RTO: NAGAON - AS2( 19-APR-2017 ) (Attempt 1)
+[2025-06-10 01:06:19] Checking for Badgateway (503) error
+[2025-06-10 01:06:19] Selecting RTO: NAGAON - AS2( 19-APR-2017 )
+[2025-06-10 01:06:30] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:06:30] Error processing RTO NAGAON - AS2( 19-APR-2017 ): RTO selection failed
+[2025-06-10 01:06:30] Checking for Badgateway (503) error
+[2025-06-10 01:06:30] 
+Processing RTO: NAGAON - AS2( 19-APR-2017 ) (Attempt 2)
+[2025-06-10 01:06:30] Checking for Badgateway (503) error
+[2025-06-10 01:06:30] Selecting RTO: NAGAON - AS2( 19-APR-2017 )
+[2025-06-10 01:06:40] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:06:40] Error processing RTO NAGAON - AS2( 19-APR-2017 ): RTO selection failed
+[2025-06-10 01:06:40] Checking for Badgateway (503) error
+[2025-06-10 01:06:42] 
+Processing RTO: NALBARI - AS14( 15-DEC-2016 ) (Attempt 1)
+[2025-06-10 01:06:42] Checking for Badgateway (503) error
+[2025-06-10 01:06:42] Selecting RTO: NALBARI - AS14( 15-DEC-2016 )
+[2025-06-10 01:06:53] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:06:53] Error processing RTO NALBARI - AS14( 15-DEC-2016 ): RTO selection failed
+[2025-06-10 01:06:53] Checking for Badgateway (503) error
+[2025-06-10 01:06:53] 
+Processing RTO: NALBARI - AS14( 15-DEC-2016 ) (Attempt 2)
+[2025-06-10 01:06:53] Checking for Badgateway (503) error
+[2025-06-10 01:06:53] Selecting RTO: NALBARI - AS14( 15-DEC-2016 )
+[2025-06-10 01:07:03] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:07:03] Error processing RTO NALBARI - AS14( 15-DEC-2016 ): RTO selection failed
+[2025-06-10 01:07:03] Checking for Badgateway (503) error
+[2025-06-10 01:07:06] 
+Processing RTO: NIAIMT,CACHAR - AS200( 21-OCT-2019 ) (Attempt 1)
+[2025-06-10 01:07:06] Checking for Badgateway (503) error
+[2025-06-10 01:07:06] Selecting RTO: NIAIMT,CACHAR - AS200( 21-OCT-2019 )
+[2025-06-10 01:07:16] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:07:16] Error processing RTO NIAIMT,CACHAR - AS200( 21-OCT-2019 ): RTO selection failed
+[2025-06-10 01:07:16] Checking for Badgateway (503) error
+[2025-06-10 01:07:16] 
+Processing RTO: NIAIMT,CACHAR - AS200( 21-OCT-2019 ) (Attempt 2)
+[2025-06-10 01:07:16] Checking for Badgateway (503) error
+[2025-06-10 01:07:16] Selecting RTO: NIAIMT,CACHAR - AS200( 21-OCT-2019 )
+[2025-06-10 01:07:27] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:07:27] Error processing RTO NIAIMT,CACHAR - AS200( 21-OCT-2019 ): RTO selection failed
+[2025-06-10 01:07:27] Checking for Badgateway (503) error
+[2025-06-10 01:07:29] 
+Processing RTO: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 ) (Attempt 1)
+[2025-06-10 01:07:29] Checking for Badgateway (503) error
+[2025-06-10 01:07:29] Selecting RTO: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 )
+[2025-06-10 01:07:39] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:07:39] Error processing RTO NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 ): RTO selection failed
+[2025-06-10 01:07:39] Checking for Badgateway (503) error
+[2025-06-10 01:07:39] 
+Processing RTO: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 ) (Attempt 2)
+[2025-06-10 01:07:39] Checking for Badgateway (503) error
+[2025-06-10 01:07:39] Selecting RTO: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 )
+[2025-06-10 01:07:49] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:07:49] Error processing RTO NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 ): RTO selection failed
+[2025-06-10 01:07:49] Checking for Badgateway (503) error
+[2025-06-10 01:07:54] 
+Processing RTO: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 ) (Attempt 1)
+[2025-06-10 01:07:54] Checking for Badgateway (503) error
+[2025-06-10 01:07:54] Selecting RTO: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 )
+[2025-06-10 01:08:04] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:08:04] Error processing RTO NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 ): RTO selection failed
+[2025-06-10 01:08:04] Checking for Badgateway (503) error
+[2025-06-10 01:08:04] 
+Processing RTO: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 ) (Attempt 2)
+[2025-06-10 01:08:04] Checking for Badgateway (503) error
+[2025-06-10 01:08:04] Selecting RTO: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 )
+[2025-06-10 01:08:14] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:08:14] Error processing RTO NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 ): RTO selection failed
+[2025-06-10 01:08:14] Checking for Badgateway (503) error
+[2025-06-10 01:08:18] 
+Processing RTO: SIVASAGAR - AS4( 02-MAY-2017 ) (Attempt 1)
+[2025-06-10 01:08:18] Checking for Badgateway (503) error
+[2025-06-10 01:08:18] Selecting RTO: SIVASAGAR - AS4( 02-MAY-2017 )
+[2025-06-10 01:08:29] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:08:29] Error processing RTO SIVASAGAR - AS4( 02-MAY-2017 ): RTO selection failed
+[2025-06-10 01:08:29] Checking for Badgateway (503) error
+[2025-06-10 01:08:29] 
+Processing RTO: SIVASAGAR - AS4( 02-MAY-2017 ) (Attempt 2)
+[2025-06-10 01:08:29] Checking for Badgateway (503) error
+[2025-06-10 01:08:29] Selecting RTO: SIVASAGAR - AS4( 02-MAY-2017 )
+[2025-06-10 01:08:39] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:08:39] Error processing RTO SIVASAGAR - AS4( 02-MAY-2017 ): RTO selection failed
+[2025-06-10 01:08:39] Checking for Badgateway (503) error
+[2025-06-10 01:08:43] 
+Processing RTO: SONITPUR - AS12( 05-JAN-2017 ) (Attempt 1)
+[2025-06-10 01:08:43] Checking for Badgateway (503) error
+[2025-06-10 01:08:43] Selecting RTO: SONITPUR - AS12( 05-JAN-2017 )
+[2025-06-10 01:08:53] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:08:53] Error processing RTO SONITPUR - AS12( 05-JAN-2017 ): RTO selection failed
+[2025-06-10 01:08:53] Checking for Badgateway (503) error
+[2025-06-10 01:08:53] 
+Processing RTO: SONITPUR - AS12( 05-JAN-2017 ) (Attempt 2)
+[2025-06-10 01:08:53] Checking for Badgateway (503) error
+[2025-06-10 01:08:53] Selecting RTO: SONITPUR - AS12( 05-JAN-2017 )
+[2025-06-10 01:09:03] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:09:03] Error processing RTO SONITPUR - AS12( 05-JAN-2017 ): RTO selection failed
+[2025-06-10 01:09:03] Checking for Badgateway (503) error
+[2025-06-10 01:09:06] 
+Processing RTO: SOUTH SALMARA - AS34( 20-DEC-2019 ) (Attempt 1)
+[2025-06-10 01:09:06] Checking for Badgateway (503) error
+[2025-06-10 01:09:06] Selecting RTO: SOUTH SALMARA - AS34( 20-DEC-2019 )
+[2025-06-10 01:09:16] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:09:16] Error processing RTO SOUTH SALMARA - AS34( 20-DEC-2019 ): RTO selection failed
+[2025-06-10 01:09:16] Checking for Badgateway (503) error
+[2025-06-10 01:09:16] 
+Processing RTO: SOUTH SALMARA - AS34( 20-DEC-2019 ) (Attempt 2)
+[2025-06-10 01:09:16] Checking for Badgateway (503) error
+[2025-06-10 01:09:16] Selecting RTO: SOUTH SALMARA - AS34( 20-DEC-2019 )
+[2025-06-10 01:09:26] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:09:26] Error processing RTO SOUTH SALMARA - AS34( 20-DEC-2019 ): RTO selection failed
+[2025-06-10 01:09:26] Checking for Badgateway (503) error
+[2025-06-10 01:09:30] 
+Processing RTO: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 ) (Attempt 1)
+[2025-06-10 01:09:30] Checking for Badgateway (503) error
+[2025-06-10 01:09:30] Selecting RTO: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 )
+[2025-06-10 01:09:40] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:09:40] Error processing RTO STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 ): RTO selection failed
+[2025-06-10 01:09:40] Checking for Badgateway (503) error
+[2025-06-10 01:09:40] 
+Processing RTO: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 ) (Attempt 2)
+[2025-06-10 01:09:40] Checking for Badgateway (503) error
+[2025-06-10 01:09:40] Selecting RTO: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 )
+[2025-06-10 01:09:50] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:09:50] Error processing RTO STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 ): RTO selection failed
+[2025-06-10 01:09:50] Checking for Badgateway (503) error
+[2025-06-10 01:09:53] 
+Processing RTO: TINSUKIA - AS23( 23-FEB-2017 ) (Attempt 1)
+[2025-06-10 01:09:53] Checking for Badgateway (503) error
+[2025-06-10 01:09:53] Selecting RTO: TINSUKIA - AS23( 23-FEB-2017 )
+[2025-06-10 01:10:03] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:10:03] Error processing RTO TINSUKIA - AS23( 23-FEB-2017 ): RTO selection failed
+[2025-06-10 01:10:03] Checking for Badgateway (503) error
+[2025-06-10 01:10:03] 
+Processing RTO: TINSUKIA - AS23( 23-FEB-2017 ) (Attempt 2)
+[2025-06-10 01:10:03] Checking for Badgateway (503) error
+[2025-06-10 01:10:03] Selecting RTO: TINSUKIA - AS23( 23-FEB-2017 )
+[2025-06-10 01:10:13] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:10:13] Error processing RTO TINSUKIA - AS23( 23-FEB-2017 ): RTO selection failed
+[2025-06-10 01:10:13] Checking for Badgateway (503) error
+[2025-06-10 01:10:15] 
+Processing RTO: UDALGURI - AS27( 17-AUG-2017 ) (Attempt 1)
+[2025-06-10 01:10:15] Checking for Badgateway (503) error
+[2025-06-10 01:10:15] Selecting RTO: UDALGURI - AS27( 17-AUG-2017 )
+[2025-06-10 01:10:25] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:10:25] Error processing RTO UDALGURI - AS27( 17-AUG-2017 ): RTO selection failed
+[2025-06-10 01:10:25] Checking for Badgateway (503) error
+[2025-06-10 01:10:25] 
+Processing RTO: UDALGURI - AS27( 17-AUG-2017 ) (Attempt 2)
+[2025-06-10 01:10:25] Checking for Badgateway (503) error
+[2025-06-10 01:10:25] Selecting RTO: UDALGURI - AS27( 17-AUG-2017 )
+[2025-06-10 01:10:35] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:10:35] Error processing RTO UDALGURI - AS27( 17-AUG-2017 ): RTO selection failed
+[2025-06-10 01:10:35] Checking for Badgateway (503) error
+[2025-06-10 01:10:40] 
+Processing state: Bihar(48), Year: 2022
+[2025-06-10 01:10:40] 
+=== Starting RTO-wise processing for Bihar(48), 2022 ===
+[2025-06-10 01:10:40] Checking for Badgateway (503) error
+[2025-06-10 01:10:40] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:11:10] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:11:10] Failed to setup axis configuration
+[2025-06-10 01:11:10] 
+Processing state: Chhattisgarh(31), Year: 2022
+[2025-06-10 01:11:10] 
+=== Starting RTO-wise processing for Chhattisgarh(31), 2022 ===
+[2025-06-10 01:11:10] Checking for Badgateway (503) error
+[2025-06-10 01:11:10] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:11:40] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:11:40] Failed to setup axis configuration
+[2025-06-10 01:11:40] 
+Processing state: Delhi(16), Year: 2022
+[2025-06-10 01:11:40] 
+=== Starting RTO-wise processing for Delhi(16), 2022 ===
+[2025-06-10 01:11:40] Checking for Badgateway (503) error
+[2025-06-10 01:11:40] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:12:11] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:12:11] Failed to setup axis configuration
+[2025-06-10 01:12:11] 
+Processing state: Goa(13), Year: 2022
+[2025-06-10 01:12:11] 
+=== Starting RTO-wise processing for Goa(13), 2022 ===
+[2025-06-10 01:12:11] Checking for Badgateway (503) error
+[2025-06-10 01:12:11] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:12:41] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:12:41] Failed to setup axis configuration
+[2025-06-10 01:12:41] 
+Processing state: Gujarat(37), Year: 2022
+[2025-06-10 01:12:41] 
+=== Starting RTO-wise processing for Gujarat(37), 2022 ===
+[2025-06-10 01:12:41] Checking for Badgateway (503) error
+[2025-06-10 01:12:41] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:13:11] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:13:11] Failed to setup axis configuration
+[2025-06-10 01:13:11] 
+Processing state: Haryana(98), Year: 2022
+[2025-06-10 01:13:11] 
+=== Starting RTO-wise processing for Haryana(98), 2022 ===
+[2025-06-10 01:13:11] Checking for Badgateway (503) error
+[2025-06-10 01:13:11] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:13:42] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:13:42] Failed to setup axis configuration
+[2025-06-10 01:13:42] 
+Processing state: Himachal Pradesh(96), Year: 2022
+[2025-06-10 01:13:42] 
+=== Starting RTO-wise processing for Himachal Pradesh(96), 2022 ===
+[2025-06-10 01:13:42] Checking for Badgateway (503) error
+[2025-06-10 01:13:42] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:14:12] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:14:12] Failed to setup axis configuration
+[2025-06-10 01:14:12] 
+Processing state: Jammu and Kashmir(21), Year: 2022
+[2025-06-10 01:14:12] 
+=== Starting RTO-wise processing for Jammu and Kashmir(21), 2022 ===
+[2025-06-10 01:14:12] Checking for Badgateway (503) error
+[2025-06-10 01:14:12] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:14:42] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:14:42] Failed to setup axis configuration
+[2025-06-10 01:14:42] 
+Processing state: Jharkhand(25), Year: 2022
+[2025-06-10 01:14:42] 
+=== Starting RTO-wise processing for Jharkhand(25), 2022 ===
+[2025-06-10 01:14:42] Checking for Badgateway (503) error
+[2025-06-10 01:14:42] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:15:13] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:15:13] Failed to setup axis configuration
+[2025-06-10 01:15:13] 
+Processing state: Karnataka(68), Year: 2022
+[2025-06-10 01:15:13] 
+=== Starting RTO-wise processing for Karnataka(68), 2022 ===
+[2025-06-10 01:15:13] Checking for Badgateway (503) error
+[2025-06-10 01:15:13] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:15:43] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:15:43] Failed to setup axis configuration
+[2025-06-10 01:15:43] 
+Processing state: Kerala(87), Year: 2022
+[2025-06-10 01:15:43] 
+=== Starting RTO-wise processing for Kerala(87), 2022 ===
+[2025-06-10 01:15:43] Checking for Badgateway (503) error
+[2025-06-10 01:15:43] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:16:13] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:16:13] Failed to setup axis configuration
+[2025-06-10 01:16:13] 
+Processing state: Ladakh(3), Year: 2022
+[2025-06-10 01:16:13] 
+=== Starting RTO-wise processing for Ladakh(3), 2022 ===
+[2025-06-10 01:16:13] Checking for Badgateway (503) error
+[2025-06-10 01:16:13] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:16:44] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:16:44] Failed to setup axis configuration
+[2025-06-10 01:16:44] 
+Processing state: Lakshadweep(5), Year: 2022
+[2025-06-10 01:16:44] 
+=== Starting RTO-wise processing for Lakshadweep(5), 2022 ===
+[2025-06-10 01:16:44] Checking for Badgateway (503) error
+[2025-06-10 01:16:44] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:17:14] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:17:14] Failed to setup axis configuration
+[2025-06-10 01:17:14] 
+Processing state: Madhya Pradesh(53), Year: 2022
+[2025-06-10 01:17:14] 
+=== Starting RTO-wise processing for Madhya Pradesh(53), 2022 ===
+[2025-06-10 01:17:14] Checking for Badgateway (503) error
+[2025-06-10 01:17:14] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:17:44] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:17:44] Failed to setup axis configuration
+[2025-06-10 01:17:44] 
+Processing state: Maharashtra(57), Year: 2022
+[2025-06-10 01:17:44] 
+=== Starting RTO-wise processing for Maharashtra(57), 2022 ===
+[2025-06-10 01:17:44] Checking for Badgateway (503) error
+[2025-06-10 01:17:44] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:18:15] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:18:15] Failed to setup axis configuration
+[2025-06-10 01:18:15] 
+Processing state: Manipur(13), Year: 2022
+[2025-06-10 01:18:15] 
+=== Starting RTO-wise processing for Manipur(13), 2022 ===
+[2025-06-10 01:18:15] Checking for Badgateway (503) error
+[2025-06-10 01:18:15] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:18:45] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:18:45] Failed to setup axis configuration
+[2025-06-10 01:18:45] 
+Processing state: Meghalaya(13), Year: 2022
+[2025-06-10 01:18:45] 
+=== Starting RTO-wise processing for Meghalaya(13), 2022 ===
+[2025-06-10 01:18:45] Checking for Badgateway (503) error
+[2025-06-10 01:18:45] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:19:15] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:19:15] Failed to setup axis configuration
+[2025-06-10 01:19:15] 
+Processing state: Mizoram(10), Year: 2022
+[2025-06-10 01:19:15] 
+=== Starting RTO-wise processing for Mizoram(10), 2022 ===
+[2025-06-10 01:19:15] Checking for Badgateway (503) error
+[2025-06-10 01:19:15] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:19:46] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:19:46] Failed to setup axis configuration
+[2025-06-10 01:19:46] 
+Processing state: Nagaland(9), Year: 2022
+[2025-06-10 01:19:46] 
+=== Starting RTO-wise processing for Nagaland(9), 2022 ===
+[2025-06-10 01:19:46] Checking for Badgateway (503) error
+[2025-06-10 01:19:46] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:20:16] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:20:16] Failed to setup axis configuration
+[2025-06-10 01:20:16] 
+Processing state: Odisha(39), Year: 2022
+[2025-06-10 01:20:16] 
+=== Starting RTO-wise processing for Odisha(39), 2022 ===
+[2025-06-10 01:20:16] Checking for Badgateway (503) error
+[2025-06-10 01:20:16] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:20:46] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:20:46] Failed to setup axis configuration
+[2025-06-10 01:20:46] 
+Processing state: Puducherry(8), Year: 2022
+[2025-06-10 01:20:46] 
+=== Starting RTO-wise processing for Puducherry(8), 2022 ===
+[2025-06-10 01:20:46] Checking for Badgateway (503) error
+[2025-06-10 01:20:46] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:21:17] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:21:17] Failed to setup axis configuration
+[2025-06-10 01:21:17] 
+Processing state: Punjab(96), Year: 2022
+[2025-06-10 01:21:17] 
+=== Starting RTO-wise processing for Punjab(96), 2022 ===
+[2025-06-10 01:21:17] Checking for Badgateway (503) error
+[2025-06-10 01:21:17] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:21:47] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:21:47] Failed to setup axis configuration
+[2025-06-10 01:21:47] 
+Processing state: Rajasthan(59), Year: 2022
+[2025-06-10 01:21:47] 
+=== Starting RTO-wise processing for Rajasthan(59), 2022 ===
+[2025-06-10 01:21:47] Checking for Badgateway (503) error
+[2025-06-10 01:21:47] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:22:18] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:22:18] Failed to setup axis configuration
+[2025-06-10 01:22:18] 
+Processing state: Sikkim(9), Year: 2022
+[2025-06-10 01:22:18] 
+=== Starting RTO-wise processing for Sikkim(9), 2022 ===
+[2025-06-10 01:22:18] Checking for Badgateway (503) error
+[2025-06-10 01:22:18] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:22:48] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:22:48] Failed to setup axis configuration
+[2025-06-10 01:22:48] 
+Processing state: Tamil Nadu(148), Year: 2022
+[2025-06-10 01:22:48] 
+=== Starting RTO-wise processing for Tamil Nadu(148), 2022 ===
+[2025-06-10 01:22:48] Checking for Badgateway (503) error
+[2025-06-10 01:22:48] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:23:18] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:23:18] Failed to setup axis configuration
+[2025-06-10 01:23:18] 
+Processing state: Tripura(9), Year: 2022
+[2025-06-10 01:23:18] 
+=== Starting RTO-wise processing for Tripura(9), 2022 ===
+[2025-06-10 01:23:18] Checking for Badgateway (503) error
+[2025-06-10 01:23:18] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:23:49] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:23:49] Failed to setup axis configuration
+[2025-06-10 01:23:49] 
+Processing state: Uttarakhand(21), Year: 2022
+[2025-06-10 01:23:49] 
+=== Starting RTO-wise processing for Uttarakhand(21), 2022 ===
+[2025-06-10 01:23:49] Checking for Badgateway (503) error
+[2025-06-10 01:23:49] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:24:19] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:24:19] Failed to setup axis configuration
+[2025-06-10 01:24:19] 
+Processing state: Uttar Pradesh(77), Year: 2022
+[2025-06-10 01:24:19] 
+=== Starting RTO-wise processing for Uttar Pradesh(77), 2022 ===
+[2025-06-10 01:24:19] Checking for Badgateway (503) error
+[2025-06-10 01:24:19] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:24:49] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:24:49] Failed to setup axis configuration
+[2025-06-10 01:24:49] 
+Processing state: UT of DNH and DD(3), Year: 2022
+[2025-06-10 01:24:49] 
+=== Starting RTO-wise processing for UT of DNH and DD(3), 2022 ===
+[2025-06-10 01:24:49] Checking for Badgateway (503) error
+[2025-06-10 01:24:49] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:25:19] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:25:19] Failed to setup axis configuration
+[2025-06-10 01:25:19] 
+Processing state: West Bengal(57), Year: 2022
+[2025-06-10 01:25:19] 
+=== Starting RTO-wise processing for West Bengal(57), 2022 ===
+[2025-06-10 01:25:19] Checking for Badgateway (503) error
+[2025-06-10 01:25:20] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:25:50] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:25:50] Failed to setup axis configuration
+[2025-06-10 01:25:50] 
+Processing state: Haryana(98), Year: 2023
+[2025-06-10 01:25:50] 
+=== Starting RTO-wise processing for Haryana(98), 2023 ===
+[2025-06-10 01:25:50] Checking for Badgateway (503) error
+[2025-06-10 01:25:50] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:26:20] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:26:20] Failed to setup axis configuration
+[2025-06-10 01:26:20] 
+Processing state: Tamil Nadu(148), Year: 2023
+[2025-06-10 01:26:20] 
+=== Starting RTO-wise processing for Tamil Nadu(148), 2023 ===
+[2025-06-10 01:26:20] Checking for Badgateway (503) error
+[2025-06-10 01:26:20] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:26:51] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:26:51] Failed to setup axis configuration
+[2025-06-10 01:26:51] 
+Processing state: Andaman & Nicobar Island(3), Year: 2025
+[2025-06-10 01:26:51] 
+=== Starting RTO-wise processing for Andaman & Nicobar Island(3), 2025 ===
+[2025-06-10 01:26:51] Checking for Badgateway (503) error
+[2025-06-10 01:26:51] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:27:21] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:27:21] Failed to setup axis configuration
+[2025-06-10 01:27:21] 
+Processing state: Andhra Pradesh(83), Year: 2025
+[2025-06-10 01:27:21] 
+=== Starting RTO-wise processing for Andhra Pradesh(83), 2025 ===
+[2025-06-10 01:27:21] Checking for Badgateway (503) error
+[2025-06-10 01:27:21] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:27:51] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:27:51] Failed to setup axis configuration
+[2025-06-10 01:27:51] 
+Processing state: Arunachal Pradesh(29), Year: 2025
+[2025-06-10 01:27:51] 
+=== Starting RTO-wise processing for Arunachal Pradesh(29), 2025 ===
+[2025-06-10 01:27:51] Checking for Badgateway (503) error
+[2025-06-10 01:27:51] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:28:22] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:28:22] Failed to setup axis configuration
+[2025-06-10 01:28:22] 
+Processing state: Assam(33), Year: 2025
+[2025-06-10 01:28:22] 
+=== Starting RTO-wise processing for Assam(33), 2025 ===
+[2025-06-10 01:28:22] Checking for Badgateway (503) error
+[2025-06-10 01:28:22] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:28:52] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:28:52] Failed to setup axis configuration
+[2025-06-10 01:28:52] 
+Processing state: Bihar(48), Year: 2025
+[2025-06-10 01:28:52] 
+=== Starting RTO-wise processing for Bihar(48), 2025 ===
+[2025-06-10 01:28:52] Checking for Badgateway (503) error
+[2025-06-10 01:28:52] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:29:22] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:29:22] Failed to setup axis configuration
+[2025-06-10 01:29:22] 
+Processing state: Chhattisgarh(31), Year: 2025
+[2025-06-10 01:29:22] 
+=== Starting RTO-wise processing for Chhattisgarh(31), 2025 ===
+[2025-06-10 01:29:22] Checking for Badgateway (503) error
+[2025-06-10 01:29:22] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:29:53] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:29:53] Failed to setup axis configuration
+[2025-06-10 01:29:53] 
+Processing state: Delhi(16), Year: 2025
+[2025-06-10 01:29:53] 
+=== Starting RTO-wise processing for Delhi(16), 2025 ===
+[2025-06-10 01:29:53] Checking for Badgateway (503) error
+[2025-06-10 01:29:53] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:30:23] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:30:23] Failed to setup axis configuration
+[2025-06-10 01:30:23] 
+Processing state: Goa(13), Year: 2025
+[2025-06-10 01:30:23] 
+=== Starting RTO-wise processing for Goa(13), 2025 ===
+[2025-06-10 01:30:23] Checking for Badgateway (503) error
+[2025-06-10 01:30:23] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:30:53] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:30:53] Failed to setup axis configuration
+[2025-06-10 01:30:53] 
+Processing state: Gujarat(37), Year: 2025
+[2025-06-10 01:30:53] 
+=== Starting RTO-wise processing for Gujarat(37), 2025 ===
+[2025-06-10 01:30:53] Checking for Badgateway (503) error
+[2025-06-10 01:30:53] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:31:24] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:31:24] Failed to setup axis configuration
+[2025-06-10 01:31:24] 
+Processing state: Haryana(98), Year: 2025
+[2025-06-10 01:31:24] 
+=== Starting RTO-wise processing for Haryana(98), 2025 ===
+[2025-06-10 01:31:24] Checking for Badgateway (503) error
+[2025-06-10 01:31:24] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:31:54] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:31:54] Failed to setup axis configuration
+[2025-06-10 01:31:54] 
+Processing state: Himachal Pradesh(96), Year: 2025
+[2025-06-10 01:31:54] 
+=== Starting RTO-wise processing for Himachal Pradesh(96), 2025 ===
+[2025-06-10 01:31:54] Checking for Badgateway (503) error
+[2025-06-10 01:31:54] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:32:24] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:32:24] Failed to setup axis configuration
+[2025-06-10 01:32:24] 
+Processing state: Jammu and Kashmir(21), Year: 2025
+[2025-06-10 01:32:24] 
+=== Starting RTO-wise processing for Jammu and Kashmir(21), 2025 ===
+[2025-06-10 01:32:24] Checking for Badgateway (503) error
+[2025-06-10 01:32:24] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:32:55] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:32:55] Failed to setup axis configuration
+[2025-06-10 01:32:55] 
+Processing state: Jharkhand(25), Year: 2025
+[2025-06-10 01:32:55] 
+=== Starting RTO-wise processing for Jharkhand(25), 2025 ===
+[2025-06-10 01:32:55] Checking for Badgateway (503) error
+[2025-06-10 01:32:55] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:33:25] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:33:25] Failed to setup axis configuration
+[2025-06-10 01:33:25] 
+Processing state: Karnataka(68), Year: 2025
+[2025-06-10 01:33:25] 
+=== Starting RTO-wise processing for Karnataka(68), 2025 ===
+[2025-06-10 01:33:25] Checking for Badgateway (503) error
+[2025-06-10 01:33:25] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:33:55] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:33:55] Failed to setup axis configuration
+[2025-06-10 01:33:55] 
+Processing state: Kerala(87), Year: 2025
+[2025-06-10 01:33:55] 
+=== Starting RTO-wise processing for Kerala(87), 2025 ===
+[2025-06-10 01:33:55] Checking for Badgateway (503) error
+[2025-06-10 01:33:55] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:34:26] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:34:26] Failed to setup axis configuration
+[2025-06-10 01:34:26] 
+Processing state: Ladakh(3), Year: 2025
+[2025-06-10 01:34:26] 
+=== Starting RTO-wise processing for Ladakh(3), 2025 ===
+[2025-06-10 01:34:26] Checking for Badgateway (503) error
+[2025-06-10 01:34:26] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:34:56] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:34:56] Failed to setup axis configuration
+[2025-06-10 01:34:56] 
+Processing state: Lakshadweep(5), Year: 2025
+[2025-06-10 01:34:56] 
+=== Starting RTO-wise processing for Lakshadweep(5), 2025 ===
+[2025-06-10 01:34:56] Checking for Badgateway (503) error
+[2025-06-10 01:34:56] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:35:26] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:35:26] Failed to setup axis configuration
+[2025-06-10 01:35:26] 
+Processing state: Madhya Pradesh(53), Year: 2025
+[2025-06-10 01:35:26] 
+=== Starting RTO-wise processing for Madhya Pradesh(53), 2025 ===
+[2025-06-10 01:35:26] Checking for Badgateway (503) error
+[2025-06-10 01:35:26] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:35:57] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:35:57] Failed to setup axis configuration
+[2025-06-10 01:35:57] 
+Processing state: Maharashtra(57), Year: 2025
+[2025-06-10 01:35:57] 
+=== Starting RTO-wise processing for Maharashtra(57), 2025 ===
+[2025-06-10 01:35:57] Checking for Badgateway (503) error
+[2025-06-10 01:35:57] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:36:27] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:36:27] Failed to setup axis configuration
+[2025-06-10 01:36:27] 
+Processing state: Manipur(13), Year: 2025
+[2025-06-10 01:36:27] 
+=== Starting RTO-wise processing for Manipur(13), 2025 ===
+[2025-06-10 01:36:27] Checking for Badgateway (503) error
+[2025-06-10 01:36:27] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:36:57] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:36:57] Failed to setup axis configuration
+[2025-06-10 01:36:57] 
+Processing state: Meghalaya(13), Year: 2025
+[2025-06-10 01:36:57] 
+=== Starting RTO-wise processing for Meghalaya(13), 2025 ===
+[2025-06-10 01:36:57] Checking for Badgateway (503) error
+[2025-06-10 01:36:57] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:37:28] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:37:28] Failed to setup axis configuration
+[2025-06-10 01:37:28] 
+Processing state: Mizoram(10), Year: 2025
+[2025-06-10 01:37:28] 
+=== Starting RTO-wise processing for Mizoram(10), 2025 ===
+[2025-06-10 01:37:28] Checking for Badgateway (503) error
+[2025-06-10 01:37:28] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:37:58] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:37:58] Failed to setup axis configuration
+[2025-06-10 01:37:58] 
+Processing state: Nagaland(9), Year: 2025
+[2025-06-10 01:37:58] 
+=== Starting RTO-wise processing for Nagaland(9), 2025 ===
+[2025-06-10 01:37:58] Checking for Badgateway (503) error
+[2025-06-10 01:37:58] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:38:28] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:38:28] Failed to setup axis configuration
+[2025-06-10 01:38:28] 
+Processing state: Odisha(39), Year: 2025
+[2025-06-10 01:38:28] 
+=== Starting RTO-wise processing for Odisha(39), 2025 ===
+[2025-06-10 01:38:28] Checking for Badgateway (503) error
+[2025-06-10 01:38:28] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:38:59] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:38:59] Failed to setup axis configuration
+[2025-06-10 01:38:59] 
+Processing state: Puducherry(8), Year: 2025
+[2025-06-10 01:38:59] 
+=== Starting RTO-wise processing for Puducherry(8), 2025 ===
+[2025-06-10 01:38:59] Checking for Badgateway (503) error
+[2025-06-10 01:38:59] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:39:29] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:39:29] Failed to setup axis configuration
+[2025-06-10 01:39:29] 
+Processing state: Punjab(96), Year: 2025
+[2025-06-10 01:39:29] 
+=== Starting RTO-wise processing for Punjab(96), 2025 ===
+[2025-06-10 01:39:29] Checking for Badgateway (503) error
+[2025-06-10 01:39:29] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:39:59] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:39:59] Failed to setup axis configuration
+[2025-06-10 01:39:59] 
+Processing state: Rajasthan(59), Year: 2025
+[2025-06-10 01:39:59] 
+=== Starting RTO-wise processing for Rajasthan(59), 2025 ===
+[2025-06-10 01:39:59] Checking for Badgateway (503) error
+[2025-06-10 01:40:00] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:40:30] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:40:30] Failed to setup axis configuration
+[2025-06-10 01:40:30] 
+Processing state: Sikkim(9), Year: 2025
+[2025-06-10 01:40:30] 
+=== Starting RTO-wise processing for Sikkim(9), 2025 ===
+[2025-06-10 01:40:30] Checking for Badgateway (503) error
+[2025-06-10 01:40:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:41:00] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:41:00] Failed to setup axis configuration
+[2025-06-10 01:41:00] 
+Processing state: Tamil Nadu(148), Year: 2025
+[2025-06-10 01:41:00] 
+=== Starting RTO-wise processing for Tamil Nadu(148), 2025 ===
+[2025-06-10 01:41:00] Checking for Badgateway (503) error
+[2025-06-10 01:41:00] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:41:31] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:41:31] Failed to setup axis configuration
+[2025-06-10 01:41:31] 
+Processing state: Tripura(9), Year: 2025
+[2025-06-10 01:41:31] 
+=== Starting RTO-wise processing for Tripura(9), 2025 ===
+[2025-06-10 01:41:31] Checking for Badgateway (503) error
+[2025-06-10 01:41:31] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:42:01] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:42:01] Failed to setup axis configuration
+[2025-06-10 01:42:01] 
+Processing state: Uttarakhand(21), Year: 2025
+[2025-06-10 01:42:01] 
+=== Starting RTO-wise processing for Uttarakhand(21), 2025 ===
+[2025-06-10 01:42:01] Checking for Badgateway (503) error
+[2025-06-10 01:42:01] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:42:31] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:42:31] Failed to setup axis configuration
+[2025-06-10 01:42:31] 
+Processing state: Uttar Pradesh(77), Year: 2025
+[2025-06-10 01:42:31] 
+=== Starting RTO-wise processing for Uttar Pradesh(77), 2025 ===
+[2025-06-10 01:42:31] Checking for Badgateway (503) error
+[2025-06-10 01:42:31] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:43:02] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:43:02] Failed to setup axis configuration
+[2025-06-10 01:43:02] 
+Processing state: UT of DNH and DD(3), Year: 2025
+[2025-06-10 01:43:02] 
+=== Starting RTO-wise processing for UT of DNH and DD(3), 2025 ===
+[2025-06-10 01:43:02] Checking for Badgateway (503) error
+[2025-06-10 01:43:02] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:43:32] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:43:32] Failed to setup axis configuration
+[2025-06-10 01:43:32] 
+Processing state: West Bengal(57), Year: 2025
+[2025-06-10 01:43:32] 
+=== Starting RTO-wise processing for West Bengal(57), 2025 ===
+[2025-06-10 01:43:32] Checking for Badgateway (503) error
+[2025-06-10 01:43:32] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-10 01:44:02] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xce3763+63299]
+	GetHandleVerifier [0x0xce37a4+63364]
+	(No symbol) [0x0xb11113]
+	(No symbol) [0x0xb5987e]
+	(No symbol) [0x0xb59c1b]
+	(No symbol) [0x0xba2212]
+	(No symbol) [0x0xb7e5c4]
+	(No symbol) [0x0xb9fa4a]
+	(No symbol) [0x0xb7e376]
+	(No symbol) [0x0xb4d6e0]
+	(No symbol) [0x0xb4e544]
+	GetHandleVerifier [0x0xf3e033+2531347]
+	GetHandleVerifier [0x0xf39332+2511634]
+	GetHandleVerifier [0x0xd09eda+220858]
+	GetHandleVerifier [0x0xcfa528+156936]
+	GetHandleVerifier [0x0xd00c5d+183357]
+	GetHandleVerifier [0x0xceb6c8+95912]
+	GetHandleVerifier [0x0xceb870+96336]
+	GetHandleVerifier [0x0xcd664a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-10 01:44:02] Failed to setup axis configuration
+[2025-06-10 01:44:02] 
+=== Processing Summary (Failed) ===
+[2025-06-10 01:44:02] Failed to process 22 RTOs in Assam(33) (2022):
+[2025-06-10 01:44:02]   - HAILAKANDI - AS24( 11-MAR-2019 )
+[2025-06-10 01:44:02]   - HOJAI - AS31( 09-DEC-2019 )
+[2025-06-10 01:44:02]   - JORHAT - AS3( 25-APR-2017 )
+[2025-06-10 01:44:02]   - KAMRUP - AS1( 17-NOV-2016 )
+[2025-06-10 01:44:02]   - KAMRUP(RURAL) - AS25( 24-NOV-2016 )
+[2025-06-10 01:44:02]   - KARBI ANGLONG - AS9( 09-APR-2019 )
+[2025-06-10 01:44:02]   - KARIMGANJ - AS10( 20-JUL-2017 )
+[2025-06-10 01:44:02]   - KOKRAJHAR - AS16( 24-APR-2017 )
+[2025-06-10 01:44:02]   - LAKHIMPUR - AS7( 05-OCT-2017 )
+[2025-06-10 01:44:02]   - MAJULI - AS29( 09-JUL-2019 )
+[2025-06-10 01:44:02]   - MORIGAON - AS21( 07-APR-2018 )
+[2025-06-10 01:44:02]   - NAGAON - AS2( 19-APR-2017 )
+[2025-06-10 01:44:02]   - NALBARI - AS14( 15-DEC-2016 )
+[2025-06-10 01:44:02]   - NIAIMT,CACHAR - AS200( 21-OCT-2019 )
+[2025-06-10 01:44:02]   - NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 )
+[2025-06-10 01:44:02]   - NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 )
+[2025-06-10 01:44:02]   - SIVASAGAR - AS4( 02-MAY-2017 )
+[2025-06-10 01:44:02]   - SONITPUR - AS12( 05-JAN-2017 )
+[2025-06-10 01:44:02]   - SOUTH SALMARA - AS34( 20-DEC-2019 )
+[2025-06-10 01:44:02]   - STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 )
+[2025-06-10 01:44:02]   - TINSUKIA - AS23( 23-FEB-2017 )
+[2025-06-10 01:44:02]   - UDALGURI - AS27( 17-AUG-2017 )
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Bihar(48) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Chhattisgarh(31) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Delhi(16) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Goa(13) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Gujarat(37) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Haryana(98) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Himachal Pradesh(96) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Jammu and Kashmir(21) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Jharkhand(25) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Karnataka(68) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Kerala(87) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Ladakh(3) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Lakshadweep(5) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Madhya Pradesh(53) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Maharashtra(57) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Manipur(13) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Meghalaya(13) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Mizoram(10) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Nagaland(9) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Odisha(39) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Puducherry(8) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Punjab(96) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Rajasthan(59) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Sikkim(9) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Tamil Nadu(148) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Tripura(9) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Uttarakhand(21) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Uttar Pradesh(77) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in UT of DNH and DD(3) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in West Bengal(57) (2022):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Haryana(98) (2023):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Tamil Nadu(148) (2023):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Andaman & Nicobar Island(3) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Andhra Pradesh(83) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Arunachal Pradesh(29) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Assam(33) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Bihar(48) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Chhattisgarh(31) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Delhi(16) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Goa(13) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Gujarat(37) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Haryana(98) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Himachal Pradesh(96) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Jammu and Kashmir(21) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Jharkhand(25) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Karnataka(68) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Kerala(87) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Ladakh(3) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Lakshadweep(5) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Madhya Pradesh(53) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Maharashtra(57) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Manipur(13) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Meghalaya(13) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Mizoram(10) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Nagaland(9) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Odisha(39) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Puducherry(8) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Punjab(96) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Rajasthan(59) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Sikkim(9) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Tamil Nadu(148) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Tripura(9) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Uttarakhand(21) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in Uttar Pradesh(77) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in UT of DNH and DD(3) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)
+[2025-06-10 01:44:02] Failed to process 1 RTOs in West Bengal(57) (2025):
+[2025-06-10 01:44:02]   - All RTOs (axis setup failed)

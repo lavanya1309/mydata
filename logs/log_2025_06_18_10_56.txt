@@ -1,0 +1,2 @@
+[2025-06-18 10:56:23] Loading page
+[2025-06-18 10:58:23] Error loading page: HTTPConnectionPool(host='localhost', port=56161): Read timed out. (read timeout=120)

@@ -1,0 +1,18 @@
+[2025-06-26 12:41:40] Loading page
+[2025-06-26 12:41:43] Page loaded
+[2025-06-26 12:41:43] 
+=== Starting RTO-wise processing ===
+[2025-06-26 12:41:43] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2022
+[2025-06-26 12:41:43] 
+Processing state: Andaman & Nicobar Island(3), Year: 2022
+[2025-06-26 12:41:43] 
+=== Starting RTO-wise processing for Andaman & Nicobar Island(3), 2022 ===
+
+[2025-06-26 12:41:43] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-26 12:41:44] Clicked Y-axis dropdown using method 1
+[2025-06-26 12:41:45] Clicked Maker option using method 1
+[2025-06-26 12:41:46] Clicked X-axis dropdown using method 1
+[2025-06-26 12:41:47] Clicked Month Wise option using method 1
+[2025-06-26 12:41:48] Axis setup completed
+[2025-06-26 12:41:48] Selecting State: Andaman & Nicobar Island(3)
+[2025-06-26 12:41:48] Clicked state dropdown label using method 1

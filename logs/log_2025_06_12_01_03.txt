@@ -1,0 +1,76 @@
+[2025-06-12 01:03:41] Loading page
+[2025-06-12 01:03:41] Page loaded
+[2025-06-12 01:03:41] 
+=== Starting RTO-wise processing ===
+[2025-06-12 01:03:41] 
+Processing state: Tamil Nadu(148), Year: 2024
+[2025-06-12 01:03:41] 
+=== Starting RTO-wise processing for Tamil Nadu(148), 2024 ===
+[2025-06-12 01:03:41] Checking for Badgateway (503) error
+[2025-06-12 01:03:41] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-12 01:04:11] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x383783+63299]
+	GetHandleVerifier [0x0x3837c4+63364]
+	(No symbol) [0x0x1b1113]
+	(No symbol) [0x0x1f987e]
+	(No symbol) [0x0x1f9c1b]
+	(No symbol) [0x0x242212]
+	(No symbol) [0x0x21e5c4]
+	(No symbol) [0x0x23fa4a]
+	(No symbol) [0x0x21e376]
+	(No symbol) [0x0x1ed6e0]
+	(No symbol) [0x0x1ee544]
+	GetHandleVerifier [0x0x5de073+2531379]
+	GetHandleVerifier [0x0x5d9372+2511666]
+	GetHandleVerifier [0x0x3a9efa+220858]
+	GetHandleVerifier [0x0x39a548+156936]
+	GetHandleVerifier [0x0x3a0c7d+183357]
+	GetHandleVerifier [0x0x38b6e8+95912]
+	GetHandleVerifier [0x0x38b890+96336]
+	GetHandleVerifier [0x0x37666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+	(No symbol) [0x0]
+
+[2025-06-12 01:04:11] Failed to setup axis configuration
+[2025-06-12 01:04:11] 
+Processing state: Karnataka(68), Year: 2024
+[2025-06-12 01:04:11] 
+=== Starting RTO-wise processing for Karnataka(68), 2024 ===
+[2025-06-12 01:04:11] Checking for Badgateway (503) error
+[2025-06-12 01:04:11] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-12 01:04:42] Error in setup_axis: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x383783+63299]
+	GetHandleVerifier [0x0x3837c4+63364]
+	(No symbol) [0x0x1b1113]
+	(No symbol) [0x0x1f987e]
+	(No symbol) [0x0x1f9c1b]
+	(No symbol) [0x0x242212]
+	(No symbol) [0x0x21e5c4]
+	(No symbol) [0x0x23fa4a]
+	(No symbol) [0x0x21e376]
+	(No symbol) [0x0x1ed6e0]
+	(No symbol) [0x0x1ee544]
+	GetHandleVerifier [0x0x5de073+2531379]
+	GetHandleVerifier [0x0x5d9372+2511666]
+	GetHandleVerifier [0x0x3a9efa+220858]
+	GetHandleVerifier [0x0x39a548+156936]
+	GetHandleVerifier [0x0x3a0c7d+183357]
+	GetHandleVerifier [0x0x38b6e8+95912]
+	GetHandleVerifier [0x0x38b890+96336]
+	GetHandleVerifier [0x0x37666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+	(No symbol) [0x0]
+
+[2025-06-12 01:04:42] Failed to setup axis configuration
+[2025-06-12 01:04:42] 
+=== Processing Summary (Failed) ===
+[2025-06-12 01:04:42] Failed to process 1 RTOs in Tamil Nadu(148) (2024):
+[2025-06-12 01:04:42]   - All RTOs (axis setup failed)
+[2025-06-12 01:04:42] Failed to process 1 RTOs in Karnataka(68) (2024):
+[2025-06-12 01:04:42]   - All RTOs (axis setup failed)

@@ -1,0 +1,53 @@
+[2025-06-12 13:04:55] Loading page
+[2025-06-12 13:04:57] Page loaded
+[2025-06-12 13:04:57] 
+=== Starting RTO-wise processing ===
+[2025-06-12 13:04:57] 
+Processing state: Tripura(9), Year: 2023
+[2025-06-12 13:04:57] 
+=== Starting RTO-wise processing for Tripura(9), 2023 ===
+
+[2025-06-12 13:04:57] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-12 13:04:57] Clicked Y-axis dropdown using method 1
+[2025-06-12 13:04:58] Clicked Maker option using method 1
+[2025-06-12 13:05:00] Clicked X-axis dropdown using method 1
+[2025-06-12 13:05:01] Clicked Month Wise option using method 1
+[2025-06-12 13:05:02] Axis setup completed
+[2025-06-12 13:05:02] Selecting State: Tripura(9)
+[2025-06-12 13:05:02] Clicked state dropdown label using method 1
+[2025-06-12 13:05:03] Clicked state option: Tripura(9) using method 1
+[2025-06-12 13:05:03] Successfully selected state: Tripura(9)
+[2025-06-12 13:05:04] Selecting Year: 2023
+[2025-06-12 13:05:04] Clicked year dropdown using method 1
+[2025-06-12 13:05:05] Clicked year option: 2023 using method 1
+[2025-06-12 13:05:05] Successfully selected year: 2023
+[2025-06-12 13:05:05] Getting list of all RTOs for the selected state
+[2025-06-12 13:05:05] Clicked RTO dropdown label using method 1
+[2025-06-12 13:05:06] Found 9 RTOs for the state
+[2025-06-12 13:05:06] 
+Processing RTO 1/9: DHALAI DTO - TR4( 22-DEC-2016 ) (Attempt 1/2)
+[2025-06-12 13:05:06] Selecting RTO: DHALAI DTO - TR4( 22-DEC-2016 )
+[2025-06-12 13:05:07] Clicked RTO dropdown using method 1
+[2025-06-12 13:05:08] Clicked RTO option: DHALAI DTO - TR4( 22-DEC-2016 ) using method 1
+[2025-06-12 13:05:09] Successfully selected RTO: DHALAI DTO - TR4( 22-DEC-2016 )
+[2025-06-12 13:05:09] Applying left panel filters
+[2025-06-12 13:05:09] Clicked right refresh button using method 1
+[2025-06-12 13:05:14] Opening left panel if needed
+[2025-06-12 13:05:14] Clicked left panel toggler using method 1
+[2025-06-12 13:05:14] Expanded left panel
+[2025-06-12 13:05:16] Selecting vehicle categories and fuel types
+[2025-06-12 13:05:16] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 13:05:17] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 13:05:18] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 13:05:18] Clicked checkbox fuel:7 using method 2
+[2025-06-12 13:05:19] Clicked checkbox fuel:21 using method 2
+[2025-06-12 13:05:19] Vehicle categories and fuel types selected
+[2025-06-12 13:05:20] Clicking left refresh button
+[2025-06-12 13:05:21] Clicked left refresh button using method 1
+[2025-06-12 13:05:21] Left refresh button clicked
+[2025-06-12 13:05:25] Left panel collapsed successfully.
+[2025-06-12 13:05:25] Downloading Excel file for Tripura(9), DHALAI DTO - TR4( 22-DEC-2016 ), 2023
+[2025-06-12 13:05:26] Clicked Excel download button using method 1
+[2025-06-12 13:05:26] Clicked Excel download button
+[2025-06-12 13:05:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data
+[2025-06-12 13:05:29] Inside_wait_for_download_and_rename for Tripura

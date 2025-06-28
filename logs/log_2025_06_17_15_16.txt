@@ -1,0 +1,3098 @@
+[2025-06-17 15:16:10] Loading page
+[2025-06-17 15:16:13] Page loaded
+[2025-06-17 15:16:13] 
+=== Starting RTO-wise processing ===
+[2025-06-17 15:16:13] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:16:13] 
+Processing state: Assam(33), Year: 2023
+[2025-06-17 15:16:13] 
+=== Starting RTO-wise processing for Assam(33), 2023 ===
+
+[2025-06-17 15:16:13] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 15:16:14] Clicked Y-axis dropdown using method 1
+[2025-06-17 15:16:15] Clicked Maker option using method 1
+[2025-06-17 15:16:16] Clicked X-axis dropdown using method 1
+[2025-06-17 15:16:17] Clicked Month Wise option using method 1
+[2025-06-17 15:16:18] Axis setup completed
+[2025-06-17 15:16:18] Selecting State: Assam(33)
+[2025-06-17 15:16:18] Clicked state dropdown label using method 1
+[2025-06-17 15:16:19] Clicked state option: Assam(33) using method 1
+[2025-06-17 15:16:20] Successfully selected state: Assam(33)
+[2025-06-17 15:16:20] Selecting Year: 2023
+[2025-06-17 15:16:20] Clicked year dropdown using method 1
+[2025-06-17 15:16:22] Clicked year option: 2023 using method 1
+[2025-06-17 15:16:22] Successfully selected year: 2023
+[2025-06-17 15:16:22] Getting list of all RTOs for the selected state
+[2025-06-17 15:16:22] Clicked RTO dropdown label using method 1
+[2025-06-17 15:16:24] Found 36 RTOs for the state
+[2025-06-17 15:16:24] 
+Processing RTO 1/36: BARPETA - AS15( 29-DEC-2016 ) (Attempt 1/2)
+[2025-06-17 15:16:24] Selecting RTO: BARPETA - AS15( 29-DEC-2016 )
+[2025-06-17 15:16:24] Clicked RTO dropdown using method 1
+[2025-06-17 15:16:26] Clicked RTO option: BARPETA - AS15( 29-DEC-2016 ) using method 1
+[2025-06-17 15:16:26] Successfully selected RTO: BARPETA - AS15( 29-DEC-2016 )
+[2025-06-17 15:16:26] Applying left panel filters
+[2025-06-17 15:16:27] Clicked right refresh button using method 1
+[2025-06-17 15:16:31] Opening left panel if needed
+[2025-06-17 15:16:31] Clicked left panel toggler using method 1
+[2025-06-17 15:16:31] Expanded left panel
+[2025-06-17 15:16:33] Selecting vehicle categories and fuel types
+[2025-06-17 15:16:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:16:34] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:16:35] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:16:36] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:16:37] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:16:37] Vehicle categories and fuel types selected
+[2025-06-17 15:16:38] Clicking left refresh button
+[2025-06-17 15:16:38] Clicked left refresh button using method 1
+[2025-06-17 15:16:38] Left refresh button clicked
+[2025-06-17 15:16:43] Left panel collapsed successfully.
+[2025-06-17 15:16:43] Downloading Excel file for Assam(33), BARPETA - AS15( 29-DEC-2016 ), 2023
+[2025-06-17 15:16:44] Clicked Excel download button using method 1
+[2025-06-17 15:16:44] Clicked Excel download button
+[2025-06-17 15:16:48] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:16:48] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:17:48] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\BARPETA - AS15( 29-DEC-2016 ).xlsx
+[2025-06-17 15:17:48] Successfully processed RTO: BARPETA - AS15( 29-DEC-2016 )
+[2025-06-17 15:17:48] 
+Processing RTO 2/36: BASKA - AS28( 13-NOV-2017 ) (Attempt 1/2)
+[2025-06-17 15:17:48] Selecting RTO: BASKA - AS28( 13-NOV-2017 )
+[2025-06-17 15:17:48] Clicked RTO dropdown using method 1
+[2025-06-17 15:17:49] Clicked RTO option: BASKA - AS28( 13-NOV-2017 ) using method 1
+[2025-06-17 15:17:50] Successfully selected RTO: BASKA - AS28( 13-NOV-2017 )
+[2025-06-17 15:17:50] Applying left panel filters
+[2025-06-17 15:17:50] Clicked right refresh button using method 1
+[2025-06-17 15:17:54] Opening left panel if needed
+[2025-06-17 15:17:55] Clicked left panel toggler using method 1
+[2025-06-17 15:17:55] Expanded left panel
+[2025-06-17 15:17:56] Selecting vehicle categories and fuel types
+[2025-06-17 15:17:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:17:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:17:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:17:59] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:18:00] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:18:00] Vehicle categories and fuel types selected
+[2025-06-17 15:18:01] Clicking left refresh button
+[2025-06-17 15:18:01] Clicked left refresh button using method 1
+[2025-06-17 15:18:01] Left refresh button clicked
+[2025-06-17 15:18:06] Left panel collapsed successfully.
+[2025-06-17 15:18:06] Downloading Excel file for Assam(33), BASKA - AS28( 13-NOV-2017 ), 2023
+[2025-06-17 15:18:06] Clicked Excel download button using method 1
+[2025-06-17 15:18:06] Clicked Excel download button
+[2025-06-17 15:18:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:18:10] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:19:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\BASKA - AS28( 13-NOV-2017 ).xlsx
+[2025-06-17 15:19:10] Successfully processed RTO: BASKA - AS28( 13-NOV-2017 )
+[2025-06-17 15:19:10] 
+Processing RTO 3/36: BISWANATH CHARIALI - AS32( 08-AUG-2019 ) (Attempt 1/2)
+[2025-06-17 15:19:10] Selecting RTO: BISWANATH CHARIALI - AS32( 08-AUG-2019 )
+[2025-06-17 15:19:10] Clicked RTO dropdown using method 1
+[2025-06-17 15:19:11] Clicked RTO option: BISWANATH CHARIALI - AS32( 08-AUG-2019 ) using method 1
+[2025-06-17 15:19:12] Successfully selected RTO: BISWANATH CHARIALI - AS32( 08-AUG-2019 )
+[2025-06-17 15:19:12] Applying left panel filters
+[2025-06-17 15:19:12] Clicked right refresh button using method 1
+[2025-06-17 15:19:17] Opening left panel if needed
+[2025-06-17 15:19:17] Clicked left panel toggler using method 1
+[2025-06-17 15:19:17] Expanded left panel
+[2025-06-17 15:19:19] Selecting vehicle categories and fuel types
+[2025-06-17 15:19:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:19:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:19:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:19:22] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:19:22] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:19:23] Vehicle categories and fuel types selected
+[2025-06-17 15:19:23] Clicking left refresh button
+[2025-06-17 15:19:24] Clicked left refresh button using method 1
+[2025-06-17 15:19:24] Left refresh button clicked
+[2025-06-17 15:19:28] Left panel collapsed successfully.
+[2025-06-17 15:19:28] Downloading Excel file for Assam(33), BISWANATH CHARIALI - AS32( 08-AUG-2019 ), 2023
+[2025-06-17 15:19:29] Clicked Excel download button using method 1
+[2025-06-17 15:19:29] Clicked Excel download button
+[2025-06-17 15:19:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:19:33] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:20:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\BISWANATH CHARIALI - AS32( 08-AUG-2019 ).xlsx
+[2025-06-17 15:20:33] Successfully processed RTO: BISWANATH CHARIALI - AS32( 08-AUG-2019 )
+[2025-06-17 15:20:33] 
+Processing RTO 4/36: BONGAIGAON - AS19( 24-APR-2017 ) (Attempt 1/2)
+[2025-06-17 15:20:33] Selecting RTO: BONGAIGAON - AS19( 24-APR-2017 )
+[2025-06-17 15:20:33] Clicked RTO dropdown using method 1
+[2025-06-17 15:20:34] Clicked RTO option: BONGAIGAON - AS19( 24-APR-2017 ) using method 1
+[2025-06-17 15:20:34] Successfully selected RTO: BONGAIGAON - AS19( 24-APR-2017 )
+[2025-06-17 15:20:34] Applying left panel filters
+[2025-06-17 15:20:35] Clicked right refresh button using method 1
+[2025-06-17 15:20:40] Opening left panel if needed
+[2025-06-17 15:20:40] Clicked left panel toggler using method 1
+[2025-06-17 15:20:40] Expanded left panel
+[2025-06-17 15:20:41] Selecting vehicle categories and fuel types
+[2025-06-17 15:20:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:20:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:20:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:20:44] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:20:45] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:20:45] Vehicle categories and fuel types selected
+[2025-06-17 15:20:46] Clicking left refresh button
+[2025-06-17 15:20:47] Clicked left refresh button using method 1
+[2025-06-17 15:20:47] Left refresh button clicked
+[2025-06-17 15:20:51] Left panel collapsed successfully.
+[2025-06-17 15:20:51] Downloading Excel file for Assam(33), BONGAIGAON - AS19( 24-APR-2017 ), 2023
+[2025-06-17 15:20:52] Clicked Excel download button using method 1
+[2025-06-17 15:20:52] Clicked Excel download button
+[2025-06-17 15:20:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:20:55] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:21:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\BONGAIGAON - AS19( 24-APR-2017 ).xlsx
+[2025-06-17 15:21:55] Successfully processed RTO: BONGAIGAON - AS19( 24-APR-2017 )
+[2025-06-17 15:21:55] 
+Processing RTO 5/36: CACHAR - AS11( 05-MAY-2017 ) (Attempt 1/2)
+[2025-06-17 15:21:55] Selecting RTO: CACHAR - AS11( 05-MAY-2017 )
+[2025-06-17 15:21:56] Clicked RTO dropdown using method 1
+[2025-06-17 15:21:57] Clicked RTO option: CACHAR - AS11( 05-MAY-2017 ) using method 1
+[2025-06-17 15:21:57] Successfully selected RTO: CACHAR - AS11( 05-MAY-2017 )
+[2025-06-17 15:21:57] Applying left panel filters
+[2025-06-17 15:21:58] Clicked right refresh button using method 1
+[2025-06-17 15:22:02] Opening left panel if needed
+[2025-06-17 15:22:02] Clicked left panel toggler using method 1
+[2025-06-17 15:22:02] Expanded left panel
+[2025-06-17 15:22:04] Selecting vehicle categories and fuel types
+[2025-06-17 15:22:04] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:22:05] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:22:06] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:22:07] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:22:07] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:22:08] Vehicle categories and fuel types selected
+[2025-06-17 15:22:08] Clicking left refresh button
+[2025-06-17 15:22:09] Clicked left refresh button using method 1
+[2025-06-17 15:22:09] Left refresh button clicked
+[2025-06-17 15:22:14] Left panel collapsed successfully.
+[2025-06-17 15:22:14] Downloading Excel file for Assam(33), CACHAR - AS11( 05-MAY-2017 ), 2023
+[2025-06-17 15:22:14] Clicked Excel download button using method 1
+[2025-06-17 15:22:14] Clicked Excel download button
+[2025-06-17 15:22:18] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:22:18] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:23:18] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\CACHAR - AS11( 05-MAY-2017 ).xlsx
+[2025-06-17 15:23:18] Successfully processed RTO: CACHAR - AS11( 05-MAY-2017 )
+[2025-06-17 15:23:18] 
+Processing RTO 6/36: CHARAIDEO - AS33( 17-JAN-2020 ) (Attempt 1/2)
+[2025-06-17 15:23:18] Selecting RTO: CHARAIDEO - AS33( 17-JAN-2020 )
+[2025-06-17 15:23:19] Clicked RTO dropdown using method 1
+[2025-06-17 15:23:20] Clicked RTO option: CHARAIDEO - AS33( 17-JAN-2020 ) using method 1
+[2025-06-17 15:23:20] Successfully selected RTO: CHARAIDEO - AS33( 17-JAN-2020 )
+[2025-06-17 15:23:20] Applying left panel filters
+[2025-06-17 15:23:21] Clicked right refresh button using method 1
+[2025-06-17 15:23:25] Opening left panel if needed
+[2025-06-17 15:23:25] Clicked left panel toggler using method 1
+[2025-06-17 15:23:25] Expanded left panel
+[2025-06-17 15:23:27] Selecting vehicle categories and fuel types
+[2025-06-17 15:23:27] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:23:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:23:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:23:29] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:23:30] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:23:30] Vehicle categories and fuel types selected
+[2025-06-17 15:23:31] Clicking left refresh button
+[2025-06-17 15:23:31] Clicked left refresh button using method 1
+[2025-06-17 15:23:31] Left refresh button clicked
+[2025-06-17 15:23:37] Left panel collapsed successfully.
+[2025-06-17 15:23:37] Downloading Excel file for Assam(33), CHARAIDEO - AS33( 17-JAN-2020 ), 2023
+[2025-06-17 15:23:37] Clicked Excel download button using method 1
+[2025-06-17 15:23:37] Clicked Excel download button
+[2025-06-17 15:23:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:23:41] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:24:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\CHARAIDEO - AS33( 17-JAN-2020 ).xlsx
+[2025-06-17 15:24:41] Successfully processed RTO: CHARAIDEO - AS33( 17-JAN-2020 )
+[2025-06-17 15:24:41] 
+Processing RTO 7/36: CHIRANG - AS26( 25-SEP-2017 ) (Attempt 1/2)
+[2025-06-17 15:24:41] Selecting RTO: CHIRANG - AS26( 25-SEP-2017 )
+[2025-06-17 15:24:41] Clicked RTO dropdown using method 1
+[2025-06-17 15:24:42] Clicked RTO option: CHIRANG - AS26( 25-SEP-2017 ) using method 1
+[2025-06-17 15:24:43] Successfully selected RTO: CHIRANG - AS26( 25-SEP-2017 )
+[2025-06-17 15:24:43] Applying left panel filters
+[2025-06-17 15:24:43] Clicked right refresh button using method 1
+[2025-06-17 15:24:48] Opening left panel if needed
+[2025-06-17 15:24:48] Clicked left panel toggler using method 1
+[2025-06-17 15:24:48] Expanded left panel
+[2025-06-17 15:24:50] Selecting vehicle categories and fuel types
+[2025-06-17 15:24:50] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:24:51] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:24:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:24:53] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:24:54] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:24:54] Vehicle categories and fuel types selected
+[2025-06-17 15:24:55] Clicking left refresh button
+[2025-06-17 15:24:55] Clicked left refresh button using method 1
+[2025-06-17 15:24:55] Left refresh button clicked
+[2025-06-17 15:25:00] Left panel collapsed successfully.
+[2025-06-17 15:25:00] Downloading Excel file for Assam(33), CHIRANG - AS26( 25-SEP-2017 ), 2023
+[2025-06-17 15:25:01] Clicked Excel download button using method 1
+[2025-06-17 15:25:01] Clicked Excel download button
+[2025-06-17 15:25:04] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:25:04] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:26:04] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\CHIRANG - AS26( 25-SEP-2017 ).xlsx
+[2025-06-17 15:26:04] Successfully processed RTO: CHIRANG - AS26( 25-SEP-2017 )
+[2025-06-17 15:26:04] 
+Processing RTO 8/36: DARRANG - AS13( 04-MAY-2018 ) (Attempt 1/2)
+[2025-06-17 15:26:04] Selecting RTO: DARRANG - AS13( 04-MAY-2018 )
+[2025-06-17 15:26:05] Clicked RTO dropdown using method 1
+[2025-06-17 15:26:06] Clicked RTO option: DARRANG - AS13( 04-MAY-2018 ) using method 1
+[2025-06-17 15:26:07] Successfully selected RTO: DARRANG - AS13( 04-MAY-2018 )
+[2025-06-17 15:26:07] Applying left panel filters
+[2025-06-17 15:26:07] Clicked right refresh button using method 1
+[2025-06-17 15:26:11] Opening left panel if needed
+[2025-06-17 15:26:11] Clicked left panel toggler using method 1
+[2025-06-17 15:26:11] Expanded left panel
+[2025-06-17 15:26:13] Selecting vehicle categories and fuel types
+[2025-06-17 15:26:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:26:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:26:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:26:15] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:26:16] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:26:16] Vehicle categories and fuel types selected
+[2025-06-17 15:26:17] Clicking left refresh button
+[2025-06-17 15:26:17] Clicked left refresh button using method 1
+[2025-06-17 15:26:18] Left refresh button clicked
+[2025-06-17 15:26:23] Left panel collapsed successfully.
+[2025-06-17 15:26:23] Downloading Excel file for Assam(33), DARRANG - AS13( 04-MAY-2018 ), 2023
+[2025-06-17 15:26:23] Clicked Excel download button using method 1
+[2025-06-17 15:26:23] Clicked Excel download button
+[2025-06-17 15:26:27] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:26:27] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:27:27] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\DARRANG - AS13( 04-MAY-2018 ).xlsx
+[2025-06-17 15:27:27] Successfully processed RTO: DARRANG - AS13( 04-MAY-2018 )
+[2025-06-17 15:27:27] 
+Processing RTO 9/36: DHEMAJI - AS22( 05-OCT-2017 ) (Attempt 1/2)
+[2025-06-17 15:27:27] Selecting RTO: DHEMAJI - AS22( 05-OCT-2017 )
+[2025-06-17 15:27:28] Clicked RTO dropdown using method 1
+[2025-06-17 15:27:29] Clicked RTO option: DHEMAJI - AS22( 05-OCT-2017 ) using method 1
+[2025-06-17 15:27:30] Successfully selected RTO: DHEMAJI - AS22( 05-OCT-2017 )
+[2025-06-17 15:27:30] Applying left panel filters
+[2025-06-17 15:27:30] Clicked right refresh button using method 1
+[2025-06-17 15:27:35] Opening left panel if needed
+[2025-06-17 15:27:35] Clicked left panel toggler using method 1
+[2025-06-17 15:27:35] Expanded left panel
+[2025-06-17 15:27:36] Selecting vehicle categories and fuel types
+[2025-06-17 15:27:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:27:37] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:27:38] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:27:39] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:27:40] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:27:40] Vehicle categories and fuel types selected
+[2025-06-17 15:27:41] Clicking left refresh button
+[2025-06-17 15:27:41] Clicked left refresh button using method 1
+[2025-06-17 15:27:41] Left refresh button clicked
+[2025-06-17 15:27:46] Left panel collapsed successfully.
+[2025-06-17 15:27:46] Downloading Excel file for Assam(33), DHEMAJI - AS22( 05-OCT-2017 ), 2023
+[2025-06-17 15:27:47] Clicked Excel download button using method 1
+[2025-06-17 15:27:47] Clicked Excel download button
+[2025-06-17 15:27:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:27:50] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:28:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\DHEMAJI - AS22( 05-OCT-2017 ).xlsx
+[2025-06-17 15:28:50] Successfully processed RTO: DHEMAJI - AS22( 05-OCT-2017 )
+[2025-06-17 15:28:50] 
+Processing RTO 10/36: DHUBRI - AS17( 05-MAY-2017 ) (Attempt 1/2)
+[2025-06-17 15:28:50] Selecting RTO: DHUBRI - AS17( 05-MAY-2017 )
+[2025-06-17 15:28:51] Clicked RTO dropdown using method 1
+[2025-06-17 15:28:52] Clicked RTO option: DHUBRI - AS17( 05-MAY-2017 ) using method 1
+[2025-06-17 15:28:52] Successfully selected RTO: DHUBRI - AS17( 05-MAY-2017 )
+[2025-06-17 15:28:52] Applying left panel filters
+[2025-06-17 15:28:53] Clicked right refresh button using method 1
+[2025-06-17 15:28:57] Opening left panel if needed
+[2025-06-17 15:28:57] Clicked left panel toggler using method 1
+[2025-06-17 15:28:57] Expanded left panel
+[2025-06-17 15:28:59] Selecting vehicle categories and fuel types
+[2025-06-17 15:29:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:29:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:29:01] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:29:02] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:29:02] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:29:03] Vehicle categories and fuel types selected
+[2025-06-17 15:29:03] Clicking left refresh button
+[2025-06-17 15:29:04] Clicked left refresh button using method 1
+[2025-06-17 15:29:04] Left refresh button clicked
+[2025-06-17 15:29:09] Left panel collapsed successfully.
+[2025-06-17 15:29:09] Downloading Excel file for Assam(33), DHUBRI - AS17( 05-MAY-2017 ), 2023
+[2025-06-17 15:29:09] Clicked Excel download button using method 1
+[2025-06-17 15:29:09] Clicked Excel download button
+[2025-06-17 15:29:13] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:29:13] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:30:13] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\DHUBRI - AS17( 05-MAY-2017 ).xlsx
+[2025-06-17 15:30:13] Successfully processed RTO: DHUBRI - AS17( 05-MAY-2017 )
+[2025-06-17 15:30:13] 
+Processing RTO 11/36: DIBRUGARH - AS6( 16-FEB-2017 ) (Attempt 1/2)
+[2025-06-17 15:30:13] Selecting RTO: DIBRUGARH - AS6( 16-FEB-2017 )
+[2025-06-17 15:30:14] Clicked RTO dropdown using method 1
+[2025-06-17 15:30:15] Clicked RTO option: DIBRUGARH - AS6( 16-FEB-2017 ) using method 1
+[2025-06-17 15:30:15] Successfully selected RTO: DIBRUGARH - AS6( 16-FEB-2017 )
+[2025-06-17 15:30:15] Applying left panel filters
+[2025-06-17 15:30:16] Clicked right refresh button using method 1
+[2025-06-17 15:30:20] Opening left panel if needed
+[2025-06-17 15:30:20] Clicked left panel toggler using method 1
+[2025-06-17 15:30:20] Expanded left panel
+[2025-06-17 15:30:22] Selecting vehicle categories and fuel types
+[2025-06-17 15:30:22] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:30:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:30:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:30:25] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:30:26] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:30:26] Vehicle categories and fuel types selected
+[2025-06-17 15:30:27] Clicking left refresh button
+[2025-06-17 15:30:27] Clicked left refresh button using method 1
+[2025-06-17 15:30:27] Left refresh button clicked
+[2025-06-17 15:30:32] Left panel collapsed successfully.
+[2025-06-17 15:30:32] Downloading Excel file for Assam(33), DIBRUGARH - AS6( 16-FEB-2017 ), 2023
+[2025-06-17 15:30:33] Clicked Excel download button using method 1
+[2025-06-17 15:30:33] Clicked Excel download button
+[2025-06-17 15:30:36] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:30:36] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:31:36] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\DIBRUGARH - AS6( 16-FEB-2017 ).xlsx
+[2025-06-17 15:31:36] Successfully processed RTO: DIBRUGARH - AS6( 16-FEB-2017 )
+[2025-06-17 15:31:36] 
+Processing RTO 12/36: DIMA HASAO - AS8( 18-APR-2017 ) (Attempt 1/2)
+[2025-06-17 15:31:36] Selecting RTO: DIMA HASAO - AS8( 18-APR-2017 )
+[2025-06-17 15:31:37] Clicked RTO dropdown using method 1
+[2025-06-17 15:31:38] Clicked RTO option: DIMA HASAO - AS8( 18-APR-2017 ) using method 1
+[2025-06-17 15:31:38] Successfully selected RTO: DIMA HASAO - AS8( 18-APR-2017 )
+[2025-06-17 15:31:38] Applying left panel filters
+[2025-06-17 15:31:39] Clicked right refresh button using method 1
+[2025-06-17 15:31:43] Opening left panel if needed
+[2025-06-17 15:31:43] Clicked left panel toggler using method 1
+[2025-06-17 15:31:43] Expanded left panel
+[2025-06-17 15:31:45] Selecting vehicle categories and fuel types
+[2025-06-17 15:31:45] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:31:46] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:31:47] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:31:48] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:31:49] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:31:49] Vehicle categories and fuel types selected
+[2025-06-17 15:31:50] Clicking left refresh button
+[2025-06-17 15:31:50] Clicked left refresh button using method 1
+[2025-06-17 15:31:50] Left refresh button clicked
+[2025-06-17 15:31:55] Left panel collapsed successfully.
+[2025-06-17 15:31:55] Downloading Excel file for Assam(33), DIMA HASAO - AS8( 18-APR-2017 ), 2023
+[2025-06-17 15:31:56] Clicked Excel download button using method 1
+[2025-06-17 15:31:56] Clicked Excel download button
+[2025-06-17 15:31:59] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:31:59] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:32:59] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\DIMA HASAO - AS8( 18-APR-2017 ).xlsx
+[2025-06-17 15:32:59] Successfully processed RTO: DIMA HASAO - AS8( 18-APR-2017 )
+[2025-06-17 15:32:59] 
+Processing RTO 13/36: GOALPARA - AS18( 09-NOV-2016 ) (Attempt 1/2)
+[2025-06-17 15:32:59] Selecting RTO: GOALPARA - AS18( 09-NOV-2016 )
+[2025-06-17 15:33:00] Clicked RTO dropdown using method 1
+[2025-06-17 15:33:01] Clicked RTO option: GOALPARA - AS18( 09-NOV-2016 ) using method 1
+[2025-06-17 15:33:01] Successfully selected RTO: GOALPARA - AS18( 09-NOV-2016 )
+[2025-06-17 15:33:01] Applying left panel filters
+[2025-06-17 15:33:02] Clicked right refresh button using method 1
+[2025-06-17 15:33:07] Opening left panel if needed
+[2025-06-17 15:33:07] Clicked left panel toggler using method 1
+[2025-06-17 15:33:07] Expanded left panel
+[2025-06-17 15:33:09] Selecting vehicle categories and fuel types
+[2025-06-17 15:33:09] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:33:10] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:33:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:33:11] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:33:12] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:33:13] Vehicle categories and fuel types selected
+[2025-06-17 15:33:14] Clicking left refresh button
+[2025-06-17 15:33:14] Clicked left refresh button using method 1
+[2025-06-17 15:33:14] Left refresh button clicked
+[2025-06-17 15:33:19] Left panel collapsed successfully.
+[2025-06-17 15:33:19] Downloading Excel file for Assam(33), GOALPARA - AS18( 09-NOV-2016 ), 2023
+[2025-06-17 15:33:19] Clicked Excel download button using method 1
+[2025-06-17 15:33:19] Clicked Excel download button
+[2025-06-17 15:33:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:33:23] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:34:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\GOALPARA - AS18( 09-NOV-2016 ).xlsx
+[2025-06-17 15:34:23] Successfully processed RTO: GOALPARA - AS18( 09-NOV-2016 )
+[2025-06-17 15:34:23] 
+Processing RTO 14/36: GOLAGHAT - AS5( 03-MAY-2017 ) (Attempt 1/2)
+[2025-06-17 15:34:23] Selecting RTO: GOLAGHAT - AS5( 03-MAY-2017 )
+[2025-06-17 15:34:23] Clicked RTO dropdown using method 1
+[2025-06-17 15:34:25] Clicked RTO option: GOLAGHAT - AS5( 03-MAY-2017 ) using method 1
+[2025-06-17 15:34:25] Successfully selected RTO: GOLAGHAT - AS5( 03-MAY-2017 )
+[2025-06-17 15:34:25] Applying left panel filters
+[2025-06-17 15:34:26] Clicked right refresh button using method 1
+[2025-06-17 15:34:30] Opening left panel if needed
+[2025-06-17 15:34:31] Clicked left panel toggler using method 1
+[2025-06-17 15:34:31] Expanded left panel
+[2025-06-17 15:34:32] Selecting vehicle categories and fuel types
+[2025-06-17 15:34:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:34:34] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:34:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:34:35] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:34:36] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:34:37] Vehicle categories and fuel types selected
+[2025-06-17 15:34:37] Clicking left refresh button
+[2025-06-17 15:34:38] Clicked left refresh button using method 1
+[2025-06-17 15:34:38] Left refresh button clicked
+[2025-06-17 15:34:42] Left panel collapsed successfully.
+[2025-06-17 15:34:42] Downloading Excel file for Assam(33), GOLAGHAT - AS5( 03-MAY-2017 ), 2023
+[2025-06-17 15:34:43] Clicked Excel download button using method 1
+[2025-06-17 15:34:43] Clicked Excel download button
+[2025-06-17 15:34:46] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:34:46] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:35:46] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\GOLAGHAT - AS5( 03-MAY-2017 ).xlsx
+[2025-06-17 15:35:46] Successfully processed RTO: GOLAGHAT - AS5( 03-MAY-2017 )
+[2025-06-17 15:35:46] 
+Processing RTO 15/36: HAILAKANDI - AS24( 11-MAR-2019 ) (Attempt 1/2)
+[2025-06-17 15:35:46] Selecting RTO: HAILAKANDI - AS24( 11-MAR-2019 )
+[2025-06-17 15:35:47] Clicked RTO dropdown using method 1
+[2025-06-17 15:35:48] Clicked RTO option: HAILAKANDI - AS24( 11-MAR-2019 ) using method 1
+[2025-06-17 15:35:49] Successfully selected RTO: HAILAKANDI - AS24( 11-MAR-2019 )
+[2025-06-17 15:35:49] Applying left panel filters
+[2025-06-17 15:35:50] Clicked right refresh button using method 1
+[2025-06-17 15:35:54] Opening left panel if needed
+[2025-06-17 15:35:54] Clicked left panel toggler using method 1
+[2025-06-17 15:35:55] Expanded left panel
+[2025-06-17 15:35:56] Selecting vehicle categories and fuel types
+[2025-06-17 15:35:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:35:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:35:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:35:59] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:36:00] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:36:00] Vehicle categories and fuel types selected
+[2025-06-17 15:36:01] Clicking left refresh button
+[2025-06-17 15:36:02] Clicked left refresh button using method 1
+[2025-06-17 15:36:02] Left refresh button clicked
+[2025-06-17 15:36:07] Left panel collapsed successfully.
+[2025-06-17 15:36:07] Downloading Excel file for Assam(33), HAILAKANDI - AS24( 11-MAR-2019 ), 2023
+[2025-06-17 15:36:07] Clicked Excel download button using method 1
+[2025-06-17 15:36:07] Clicked Excel download button
+[2025-06-17 15:36:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:36:11] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:37:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\HAILAKANDI - AS24( 11-MAR-2019 ).xlsx
+[2025-06-17 15:37:11] Successfully processed RTO: HAILAKANDI - AS24( 11-MAR-2019 )
+[2025-06-17 15:37:11] 
+Processing RTO 16/36: HOJAI - AS31( 09-DEC-2019 ) (Attempt 1/2)
+[2025-06-17 15:37:11] Selecting RTO: HOJAI - AS31( 09-DEC-2019 )
+[2025-06-17 15:37:12] Clicked RTO dropdown using method 1
+[2025-06-17 15:37:13] Clicked RTO option: HOJAI - AS31( 09-DEC-2019 ) using method 1
+[2025-06-17 15:37:14] Successfully selected RTO: HOJAI - AS31( 09-DEC-2019 )
+[2025-06-17 15:37:14] Applying left panel filters
+[2025-06-17 15:37:14] Clicked right refresh button using method 1
+[2025-06-17 15:37:19] Opening left panel if needed
+[2025-06-17 15:37:19] Clicked left panel toggler using method 1
+[2025-06-17 15:37:19] Expanded left panel
+[2025-06-17 15:37:20] Selecting vehicle categories and fuel types
+[2025-06-17 15:37:21] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:37:22] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:37:23] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:37:23] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:37:24] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:37:25] Vehicle categories and fuel types selected
+[2025-06-17 15:37:25] Clicking left refresh button
+[2025-06-17 15:37:26] Clicked left refresh button using method 1
+[2025-06-17 15:37:26] Left refresh button clicked
+[2025-06-17 15:37:32] Left panel collapsed successfully.
+[2025-06-17 15:37:32] Downloading Excel file for Assam(33), HOJAI - AS31( 09-DEC-2019 ), 2023
+[2025-06-17 15:37:32] Clicked Excel download button using method 1
+[2025-06-17 15:37:32] Clicked Excel download button
+[2025-06-17 15:37:36] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:37:36] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:38:36] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\HOJAI - AS31( 09-DEC-2019 ).xlsx
+[2025-06-17 15:38:36] Successfully processed RTO: HOJAI - AS31( 09-DEC-2019 )
+[2025-06-17 15:38:36] 
+Processing RTO 17/36: JORHAT - AS3( 25-APR-2017 ) (Attempt 1/2)
+[2025-06-17 15:38:36] Selecting RTO: JORHAT - AS3( 25-APR-2017 )
+[2025-06-17 15:38:36] Clicked RTO dropdown using method 1
+[2025-06-17 15:38:37] Clicked RTO option: JORHAT - AS3( 25-APR-2017 ) using method 1
+[2025-06-17 15:38:37] Successfully selected RTO: JORHAT - AS3( 25-APR-2017 )
+[2025-06-17 15:38:37] Applying left panel filters
+[2025-06-17 15:38:38] Clicked right refresh button using method 1
+[2025-06-17 15:38:42] Opening left panel if needed
+[2025-06-17 15:38:43] Clicked left panel toggler using method 1
+[2025-06-17 15:38:43] Expanded left panel
+[2025-06-17 15:38:44] Selecting vehicle categories and fuel types
+[2025-06-17 15:38:44] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:38:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:38:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:38:47] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:38:47] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:38:48] Vehicle categories and fuel types selected
+[2025-06-17 15:38:48] Clicking left refresh button
+[2025-06-17 15:38:48] Clicked left refresh button using method 1
+[2025-06-17 15:38:48] Left refresh button clicked
+[2025-06-17 15:38:54] Left panel collapsed successfully.
+[2025-06-17 15:38:54] Downloading Excel file for Assam(33), JORHAT - AS3( 25-APR-2017 ), 2023
+[2025-06-17 15:38:54] Clicked Excel download button using method 1
+[2025-06-17 15:38:54] Clicked Excel download button
+[2025-06-17 15:38:57] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:38:57] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:39:57] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\JORHAT - AS3( 25-APR-2017 ).xlsx
+[2025-06-17 15:39:57] Successfully processed RTO: JORHAT - AS3( 25-APR-2017 )
+[2025-06-17 15:39:57] 
+Processing RTO 18/36: KAMRUP - AS1( 17-NOV-2016 ) (Attempt 1/2)
+[2025-06-17 15:39:57] Selecting RTO: KAMRUP - AS1( 17-NOV-2016 )
+[2025-06-17 15:39:58] Clicked RTO dropdown using method 1
+[2025-06-17 15:39:59] Clicked RTO option: KAMRUP - AS1( 17-NOV-2016 ) using method 1
+[2025-06-17 15:40:00] Successfully selected RTO: KAMRUP - AS1( 17-NOV-2016 )
+[2025-06-17 15:40:00] Applying left panel filters
+[2025-06-17 15:40:00] Clicked right refresh button using method 1
+[2025-06-17 15:40:05] Opening left panel if needed
+[2025-06-17 15:40:05] Clicked left panel toggler using method 1
+[2025-06-17 15:40:05] Expanded left panel
+[2025-06-17 15:40:07] Selecting vehicle categories and fuel types
+[2025-06-17 15:40:08] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:40:08] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:40:09] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:40:10] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:40:10] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:40:11] Vehicle categories and fuel types selected
+[2025-06-17 15:40:11] Clicking left refresh button
+[2025-06-17 15:40:12] Clicked left refresh button using method 1
+[2025-06-17 15:40:12] Left refresh button clicked
+[2025-06-17 15:40:17] Left panel collapsed successfully.
+[2025-06-17 15:40:17] Downloading Excel file for Assam(33), KAMRUP - AS1( 17-NOV-2016 ), 2023
+[2025-06-17 15:40:18] Clicked Excel download button using method 1
+[2025-06-17 15:40:18] Clicked Excel download button
+[2025-06-17 15:40:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:40:21] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:41:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\KAMRUP - AS1( 17-NOV-2016 ).xlsx
+[2025-06-17 15:41:21] Successfully processed RTO: KAMRUP - AS1( 17-NOV-2016 )
+[2025-06-17 15:41:21] 
+Processing RTO 19/36: KAMRUP(RURAL) - AS25( 24-NOV-2016 ) (Attempt 1/2)
+[2025-06-17 15:41:21] Selecting RTO: KAMRUP(RURAL) - AS25( 24-NOV-2016 )
+[2025-06-17 15:41:21] Clicked RTO dropdown using method 1
+[2025-06-17 15:41:23] Clicked RTO option: KAMRUP(RURAL) - AS25( 24-NOV-2016 ) using method 1
+[2025-06-17 15:41:23] Successfully selected RTO: KAMRUP(RURAL) - AS25( 24-NOV-2016 )
+[2025-06-17 15:41:23] Applying left panel filters
+[2025-06-17 15:41:23] Clicked right refresh button using method 1
+[2025-06-17 15:41:28] Opening left panel if needed
+[2025-06-17 15:41:28] Clicked left panel toggler using method 1
+[2025-06-17 15:41:28] Expanded left panel
+[2025-06-17 15:41:29] Selecting vehicle categories and fuel types
+[2025-06-17 15:41:30] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:41:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:41:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:41:32] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:41:33] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:41:33] Vehicle categories and fuel types selected
+[2025-06-17 15:41:34] Clicking left refresh button
+[2025-06-17 15:41:34] Clicked left refresh button using method 1
+[2025-06-17 15:41:34] Left refresh button clicked
+[2025-06-17 15:41:39] Left panel collapsed successfully.
+[2025-06-17 15:41:39] Downloading Excel file for Assam(33), KAMRUP(RURAL) - AS25( 24-NOV-2016 ), 2023
+[2025-06-17 15:41:40] Clicked Excel download button using method 1
+[2025-06-17 15:41:40] Clicked Excel download button
+[2025-06-17 15:41:44] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:41:44] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:42:44] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\KAMRUP(RURAL) - AS25( 24-NOV-2016 ).xlsx
+[2025-06-17 15:42:44] Successfully processed RTO: KAMRUP(RURAL) - AS25( 24-NOV-2016 )
+[2025-06-17 15:42:44] 
+Processing RTO 20/36: KARBI ANGLONG - AS9( 09-APR-2019 ) (Attempt 1/2)
+[2025-06-17 15:42:44] Selecting RTO: KARBI ANGLONG - AS9( 09-APR-2019 )
+[2025-06-17 15:42:44] Clicked RTO dropdown using method 1
+[2025-06-17 15:42:45] Clicked RTO option: KARBI ANGLONG - AS9( 09-APR-2019 ) using method 1
+[2025-06-17 15:42:46] Successfully selected RTO: KARBI ANGLONG - AS9( 09-APR-2019 )
+[2025-06-17 15:42:46] Applying left panel filters
+[2025-06-17 15:42:46] Clicked right refresh button using method 1
+[2025-06-17 15:42:51] Opening left panel if needed
+[2025-06-17 15:42:51] Clicked left panel toggler using method 1
+[2025-06-17 15:42:51] Expanded left panel
+[2025-06-17 15:42:53] Selecting vehicle categories and fuel types
+[2025-06-17 15:42:54] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:42:54] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:42:55] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:42:56] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:42:57] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:42:57] Vehicle categories and fuel types selected
+[2025-06-17 15:42:58] Clicking left refresh button
+[2025-06-17 15:42:58] Clicked left refresh button using method 1
+[2025-06-17 15:42:58] Left refresh button clicked
+[2025-06-17 15:43:03] Left panel collapsed successfully.
+[2025-06-17 15:43:03] Downloading Excel file for Assam(33), KARBI ANGLONG - AS9( 09-APR-2019 ), 2023
+[2025-06-17 15:43:04] Clicked Excel download button using method 1
+[2025-06-17 15:43:04] Clicked Excel download button
+[2025-06-17 15:43:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:43:07] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:44:07] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\KARBI ANGLONG - AS9( 09-APR-2019 ).xlsx
+[2025-06-17 15:44:07] Successfully processed RTO: KARBI ANGLONG - AS9( 09-APR-2019 )
+[2025-06-17 15:44:07] 
+Processing RTO 21/36: KARIMGANJ - AS10( 20-JUL-2017 ) (Attempt 1/2)
+[2025-06-17 15:44:07] Selecting RTO: KARIMGANJ - AS10( 20-JUL-2017 )
+[2025-06-17 15:44:07] Clicked RTO dropdown using method 1
+[2025-06-17 15:44:09] Clicked RTO option: KARIMGANJ - AS10( 20-JUL-2017 ) using method 1
+[2025-06-17 15:44:09] Successfully selected RTO: KARIMGANJ - AS10( 20-JUL-2017 )
+[2025-06-17 15:44:09] Applying left panel filters
+[2025-06-17 15:44:09] Clicked right refresh button using method 1
+[2025-06-17 15:44:14] Opening left panel if needed
+[2025-06-17 15:44:14] Clicked left panel toggler using method 1
+[2025-06-17 15:44:14] Expanded left panel
+[2025-06-17 15:44:15] Selecting vehicle categories and fuel types
+[2025-06-17 15:44:16] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:44:17] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:44:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:44:18] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:44:19] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:44:20] Vehicle categories and fuel types selected
+[2025-06-17 15:44:20] Clicking left refresh button
+[2025-06-17 15:44:21] Clicked left refresh button using method 1
+[2025-06-17 15:44:21] Left refresh button clicked
+[2025-06-17 15:44:26] Left panel collapsed successfully.
+[2025-06-17 15:44:26] Downloading Excel file for Assam(33), KARIMGANJ - AS10( 20-JUL-2017 ), 2023
+[2025-06-17 15:44:26] Clicked Excel download button using method 1
+[2025-06-17 15:44:26] Clicked Excel download button
+[2025-06-17 15:44:30] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:44:30] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:45:30] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\KARIMGANJ - AS10( 20-JUL-2017 ).xlsx
+[2025-06-17 15:45:30] Successfully processed RTO: KARIMGANJ - AS10( 20-JUL-2017 )
+[2025-06-17 15:45:30] 
+Processing RTO 22/36: KOKRAJHAR - AS16( 24-APR-2017 ) (Attempt 1/2)
+[2025-06-17 15:45:30] Selecting RTO: KOKRAJHAR - AS16( 24-APR-2017 )
+[2025-06-17 15:45:30] Clicked RTO dropdown using method 1
+[2025-06-17 15:45:31] Clicked RTO option: KOKRAJHAR - AS16( 24-APR-2017 ) using method 1
+[2025-06-17 15:45:32] Successfully selected RTO: KOKRAJHAR - AS16( 24-APR-2017 )
+[2025-06-17 15:45:32] Applying left panel filters
+[2025-06-17 15:45:32] Clicked right refresh button using method 1
+[2025-06-17 15:45:37] Opening left panel if needed
+[2025-06-17 15:45:37] Clicked left panel toggler using method 1
+[2025-06-17 15:45:37] Expanded left panel
+[2025-06-17 15:45:38] Selecting vehicle categories and fuel types
+[2025-06-17 15:45:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:45:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:45:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:45:41] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:45:41] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:45:42] Vehicle categories and fuel types selected
+[2025-06-17 15:45:42] Clicking left refresh button
+[2025-06-17 15:45:43] Clicked left refresh button using method 1
+[2025-06-17 15:45:43] Left refresh button clicked
+[2025-06-17 15:45:48] Left panel collapsed successfully.
+[2025-06-17 15:45:48] Downloading Excel file for Assam(33), KOKRAJHAR - AS16( 24-APR-2017 ), 2023
+[2025-06-17 15:45:48] Clicked Excel download button using method 1
+[2025-06-17 15:45:48] Clicked Excel download button
+[2025-06-17 15:45:52] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:45:52] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:46:52] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\KOKRAJHAR - AS16( 24-APR-2017 ).xlsx
+[2025-06-17 15:46:52] Successfully processed RTO: KOKRAJHAR - AS16( 24-APR-2017 )
+[2025-06-17 15:46:52] 
+Processing RTO 23/36: LAKHIMPUR - AS7( 05-OCT-2017 ) (Attempt 1/2)
+[2025-06-17 15:46:52] Selecting RTO: LAKHIMPUR - AS7( 05-OCT-2017 )
+[2025-06-17 15:46:52] Clicked RTO dropdown using method 1
+[2025-06-17 15:46:53] Clicked RTO option: LAKHIMPUR - AS7( 05-OCT-2017 ) using method 1
+[2025-06-17 15:46:54] Successfully selected RTO: LAKHIMPUR - AS7( 05-OCT-2017 )
+[2025-06-17 15:46:54] Applying left panel filters
+[2025-06-17 15:46:54] Clicked right refresh button using method 1
+[2025-06-17 15:46:59] Opening left panel if needed
+[2025-06-17 15:46:59] Clicked left panel toggler using method 1
+[2025-06-17 15:46:59] Expanded left panel
+[2025-06-17 15:47:00] Selecting vehicle categories and fuel types
+[2025-06-17 15:47:01] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:47:02] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:47:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:47:03] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:47:04] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:47:04] Vehicle categories and fuel types selected
+[2025-06-17 15:47:05] Clicking left refresh button
+[2025-06-17 15:47:05] Clicked left refresh button using method 1
+[2025-06-17 15:47:05] Left refresh button clicked
+[2025-06-17 15:47:10] Left panel collapsed successfully.
+[2025-06-17 15:47:10] Downloading Excel file for Assam(33), LAKHIMPUR - AS7( 05-OCT-2017 ), 2023
+[2025-06-17 15:47:11] Clicked Excel download button using method 1
+[2025-06-17 15:47:11] Clicked Excel download button
+[2025-06-17 15:47:14] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:47:14] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:48:14] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\LAKHIMPUR - AS7( 05-OCT-2017 ).xlsx
+[2025-06-17 15:48:15] Successfully processed RTO: LAKHIMPUR - AS7( 05-OCT-2017 )
+[2025-06-17 15:48:15] 
+Processing RTO 24/36: MAJULI - AS29( 09-JUL-2019 ) (Attempt 1/2)
+[2025-06-17 15:48:15] Selecting RTO: MAJULI - AS29( 09-JUL-2019 )
+[2025-06-17 15:48:15] Clicked RTO dropdown using method 1
+[2025-06-17 15:48:16] Clicked RTO option: MAJULI - AS29( 09-JUL-2019 ) using method 1
+[2025-06-17 15:48:17] Successfully selected RTO: MAJULI - AS29( 09-JUL-2019 )
+[2025-06-17 15:48:17] Applying left panel filters
+[2025-06-17 15:48:17] Clicked right refresh button using method 1
+[2025-06-17 15:48:22] Opening left panel if needed
+[2025-06-17 15:48:22] Clicked left panel toggler using method 1
+[2025-06-17 15:48:22] Expanded left panel
+[2025-06-17 15:48:24] Selecting vehicle categories and fuel types
+[2025-06-17 15:48:24] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:48:25] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:48:26] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:48:27] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:48:27] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:48:28] Vehicle categories and fuel types selected
+[2025-06-17 15:48:29] Clicking left refresh button
+[2025-06-17 15:48:29] Clicked left refresh button using method 1
+[2025-06-17 15:48:29] Left refresh button clicked
+[2025-06-17 15:48:34] Left panel collapsed successfully.
+[2025-06-17 15:48:34] Downloading Excel file for Assam(33), MAJULI - AS29( 09-JUL-2019 ), 2023
+[2025-06-17 15:48:35] Clicked Excel download button using method 1
+[2025-06-17 15:48:35] Clicked Excel download button
+[2025-06-17 15:48:38] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:48:38] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:49:38] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\MAJULI - AS29( 09-JUL-2019 ).xlsx
+[2025-06-17 15:49:38] Successfully processed RTO: MAJULI - AS29( 09-JUL-2019 )
+[2025-06-17 15:49:38] 
+Processing RTO 25/36: MORIGAON - AS21( 07-APR-2018 ) (Attempt 1/2)
+[2025-06-17 15:49:38] Selecting RTO: MORIGAON - AS21( 07-APR-2018 )
+[2025-06-17 15:49:39] Clicked RTO dropdown using method 1
+[2025-06-17 15:49:40] Clicked RTO option: MORIGAON - AS21( 07-APR-2018 ) using method 1
+[2025-06-17 15:49:41] Successfully selected RTO: MORIGAON - AS21( 07-APR-2018 )
+[2025-06-17 15:49:41] Applying left panel filters
+[2025-06-17 15:49:41] Clicked right refresh button using method 1
+[2025-06-17 15:49:45] Opening left panel if needed
+[2025-06-17 15:49:46] Clicked left panel toggler using method 1
+[2025-06-17 15:49:46] Expanded left panel
+[2025-06-17 15:49:47] Selecting vehicle categories and fuel types
+[2025-06-17 15:49:48] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:49:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:49:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:49:50] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:49:51] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:49:52] Vehicle categories and fuel types selected
+[2025-06-17 15:49:53] Clicking left refresh button
+[2025-06-17 15:49:53] Clicked left refresh button using method 1
+[2025-06-17 15:49:53] Left refresh button clicked
+[2025-06-17 15:49:58] Left panel collapsed successfully.
+[2025-06-17 15:49:58] Downloading Excel file for Assam(33), MORIGAON - AS21( 07-APR-2018 ), 2023
+[2025-06-17 15:49:59] Clicked Excel download button using method 1
+[2025-06-17 15:49:59] Clicked Excel download button
+[2025-06-17 15:50:02] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:50:02] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:51:02] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\MORIGAON - AS21( 07-APR-2018 ).xlsx
+[2025-06-17 15:51:02] Successfully processed RTO: MORIGAON - AS21( 07-APR-2018 )
+[2025-06-17 15:51:02] 
+Processing RTO 26/36: NAGAON - AS2( 19-APR-2017 ) (Attempt 1/2)
+[2025-06-17 15:51:02] Selecting RTO: NAGAON - AS2( 19-APR-2017 )
+[2025-06-17 15:51:03] Clicked RTO dropdown using method 1
+[2025-06-17 15:51:04] Clicked RTO option: NAGAON - AS2( 19-APR-2017 ) using method 1
+[2025-06-17 15:51:04] Successfully selected RTO: NAGAON - AS2( 19-APR-2017 )
+[2025-06-17 15:51:04] Applying left panel filters
+[2025-06-17 15:51:04] Clicked right refresh button using method 1
+[2025-06-17 15:51:09] Opening left panel if needed
+[2025-06-17 15:51:09] Clicked left panel toggler using method 1
+[2025-06-17 15:51:09] Expanded left panel
+[2025-06-17 15:51:10] Selecting vehicle categories and fuel types
+[2025-06-17 15:51:11] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:51:12] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:51:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:51:13] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:51:14] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:51:14] Vehicle categories and fuel types selected
+[2025-06-17 15:51:15] Clicking left refresh button
+[2025-06-17 15:51:15] Clicked left refresh button using method 1
+[2025-06-17 15:51:15] Left refresh button clicked
+[2025-06-17 15:51:20] Left panel collapsed successfully.
+[2025-06-17 15:51:20] Downloading Excel file for Assam(33), NAGAON - AS2( 19-APR-2017 ), 2023
+[2025-06-17 15:51:20] Clicked Excel download button using method 1
+[2025-06-17 15:51:20] Clicked Excel download button
+[2025-06-17 15:51:24] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:51:24] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:52:24] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\NAGAON - AS2( 19-APR-2017 ).xlsx
+[2025-06-17 15:52:24] Successfully processed RTO: NAGAON - AS2( 19-APR-2017 )
+[2025-06-17 15:52:24] 
+Processing RTO 27/36: NALBARI - AS14( 15-DEC-2016 ) (Attempt 1/2)
+[2025-06-17 15:52:24] Selecting RTO: NALBARI - AS14( 15-DEC-2016 )
+[2025-06-17 15:52:25] Clicked RTO dropdown using method 1
+[2025-06-17 15:52:26] Clicked RTO option: NALBARI - AS14( 15-DEC-2016 ) using method 1
+[2025-06-17 15:52:26] Successfully selected RTO: NALBARI - AS14( 15-DEC-2016 )
+[2025-06-17 15:52:26] Applying left panel filters
+[2025-06-17 15:52:27] Clicked right refresh button using method 1
+[2025-06-17 15:52:31] Opening left panel if needed
+[2025-06-17 15:52:32] Clicked left panel toggler using method 1
+[2025-06-17 15:52:32] Expanded left panel
+[2025-06-17 15:52:33] Selecting vehicle categories and fuel types
+[2025-06-17 15:52:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:52:34] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:52:35] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:52:35] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:52:36] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:52:37] Vehicle categories and fuel types selected
+[2025-06-17 15:52:37] Clicking left refresh button
+[2025-06-17 15:52:38] Clicked left refresh button using method 1
+[2025-06-17 15:52:38] Left refresh button clicked
+[2025-06-17 15:52:43] Left panel collapsed successfully.
+[2025-06-17 15:52:43] Downloading Excel file for Assam(33), NALBARI - AS14( 15-DEC-2016 ), 2023
+[2025-06-17 15:52:44] Clicked Excel download button using method 1
+[2025-06-17 15:52:44] Clicked Excel download button
+[2025-06-17 15:52:47] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:52:47] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:53:47] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\NALBARI - AS14( 15-DEC-2016 ).xlsx
+[2025-06-17 15:53:47] Successfully processed RTO: NALBARI - AS14( 15-DEC-2016 )
+[2025-06-17 15:53:47] 
+Processing RTO 28/36: NIAIMT,CACHAR - AS200( 21-OCT-2019 ) (Attempt 1/2)
+[2025-06-17 15:53:47] Selecting RTO: NIAIMT,CACHAR - AS200( 21-OCT-2019 )
+[2025-06-17 15:53:48] Clicked RTO dropdown using method 1
+[2025-06-17 15:53:49] Clicked RTO option: NIAIMT,CACHAR - AS200( 21-OCT-2019 ) using method 1
+[2025-06-17 15:53:49] Successfully selected RTO: NIAIMT,CACHAR - AS200( 21-OCT-2019 )
+[2025-06-17 15:53:49] Applying left panel filters
+[2025-06-17 15:53:50] Clicked right refresh button using method 1
+[2025-06-17 15:53:54] Opening left panel if needed
+[2025-06-17 15:53:54] Clicked left panel toggler using method 1
+[2025-06-17 15:53:54] Expanded left panel
+[2025-06-17 15:53:56] Selecting vehicle categories and fuel types
+[2025-06-17 15:53:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:53:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:53:58] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:53:59] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:54:00] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:54:00] Vehicle categories and fuel types selected
+[2025-06-17 15:54:01] Clicking left refresh button
+[2025-06-17 15:54:01] Clicked left refresh button using method 1
+[2025-06-17 15:54:01] Left refresh button clicked
+[2025-06-17 15:54:06] Left panel collapsed successfully.
+[2025-06-17 15:54:06] Downloading Excel file for Assam(33), NIAIMT,CACHAR - AS200( 21-OCT-2019 ), 2023
+[2025-06-17 15:54:07] Clicked Excel download button using method 1
+[2025-06-17 15:54:07] Clicked Excel download button
+[2025-06-17 15:54:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:54:10] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:55:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\NIAIMT,CACHAR - AS200( 21-OCT-2019 ).xlsx
+[2025-06-17 15:55:10] Successfully processed RTO: NIAIMT,CACHAR - AS200( 21-OCT-2019 )
+[2025-06-17 15:55:10] 
+Processing RTO 29/36: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 ) (Attempt 1/2)
+[2025-06-17 15:55:10] Selecting RTO: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 )
+[2025-06-17 15:55:11] Clicked RTO dropdown using method 1
+[2025-06-17 15:55:12] Clicked RTO option: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 ) using method 1
+[2025-06-17 15:55:13] Successfully selected RTO: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 )
+[2025-06-17 15:55:13] Applying left panel filters
+[2025-06-17 15:55:13] Clicked right refresh button using method 1
+[2025-06-17 15:55:18] Opening left panel if needed
+[2025-06-17 15:55:18] Clicked left panel toggler using method 1
+[2025-06-17 15:55:18] Expanded left panel
+[2025-06-17 15:55:20] Selecting vehicle categories and fuel types
+[2025-06-17 15:55:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:55:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:55:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:55:22] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:55:23] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:55:24] Vehicle categories and fuel types selected
+[2025-06-17 15:55:24] Clicking left refresh button
+[2025-06-17 15:55:25] Clicked left refresh button using method 1
+[2025-06-17 15:55:25] Left refresh button clicked
+[2025-06-17 15:55:30] Left panel collapsed successfully.
+[2025-06-17 15:55:30] Downloading Excel file for Assam(33), NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 ), 2023
+[2025-06-17 15:55:30] Clicked Excel download button using method 1
+[2025-06-17 15:55:30] Clicked Excel download button
+[2025-06-17 15:55:34] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:55:34] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:56:34] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 ).xlsx
+[2025-06-17 15:56:34] Successfully processed RTO: NIAIMT,HAILAKANDI - AS202( 21-OCT-2019 )
+[2025-06-17 15:56:34] 
+Processing RTO 30/36: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 ) (Attempt 1/2)
+[2025-06-17 15:56:34] Selecting RTO: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 )
+[2025-06-17 15:56:34] Clicked RTO dropdown using method 1
+[2025-06-17 15:56:36] Clicked RTO option: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 ) using method 1
+[2025-06-17 15:56:36] Successfully selected RTO: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 )
+[2025-06-17 15:56:36] Applying left panel filters
+[2025-06-17 15:56:36] Clicked right refresh button using method 1
+[2025-06-17 15:56:41] Opening left panel if needed
+[2025-06-17 15:56:41] Clicked left panel toggler using method 1
+[2025-06-17 15:56:41] Expanded left panel
+[2025-06-17 15:56:42] Selecting vehicle categories and fuel types
+[2025-06-17 15:56:43] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:56:43] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:56:44] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:56:45] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:56:46] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:56:46] Vehicle categories and fuel types selected
+[2025-06-17 15:56:47] Clicking left refresh button
+[2025-06-17 15:56:47] Clicked left refresh button using method 1
+[2025-06-17 15:56:47] Left refresh button clicked
+[2025-06-17 15:56:53] Left panel collapsed successfully.
+[2025-06-17 15:56:53] Downloading Excel file for Assam(33), NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 ), 2023
+[2025-06-17 15:56:53] Clicked Excel download button using method 1
+[2025-06-17 15:56:53] Clicked Excel download button
+[2025-06-17 15:56:56] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:56:56] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:57:56] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 ).xlsx
+[2025-06-17 15:57:56] Successfully processed RTO: NIAIMT,KARIMGANJ - AS201( 21-OCT-2019 )
+[2025-06-17 15:57:56] 
+Processing RTO 31/36: SIVASAGAR - AS4( 02-MAY-2017 ) (Attempt 1/2)
+[2025-06-17 15:57:56] Selecting RTO: SIVASAGAR - AS4( 02-MAY-2017 )
+[2025-06-17 15:57:57] Clicked RTO dropdown using method 1
+[2025-06-17 15:57:59] Clicked RTO option: SIVASAGAR - AS4( 02-MAY-2017 ) using method 1
+[2025-06-17 15:57:59] Successfully selected RTO: SIVASAGAR - AS4( 02-MAY-2017 )
+[2025-06-17 15:57:59] Applying left panel filters
+[2025-06-17 15:57:59] Clicked right refresh button using method 1
+[2025-06-17 15:58:04] Opening left panel if needed
+[2025-06-17 15:58:04] Clicked left panel toggler using method 1
+[2025-06-17 15:58:04] Expanded left panel
+[2025-06-17 15:58:05] Selecting vehicle categories and fuel types
+[2025-06-17 15:58:06] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:58:07] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:58:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:58:08] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:58:09] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:58:09] Vehicle categories and fuel types selected
+[2025-06-17 15:58:10] Clicking left refresh button
+[2025-06-17 15:58:11] Clicked left refresh button using method 1
+[2025-06-17 15:58:11] Left refresh button clicked
+[2025-06-17 15:58:16] Left panel collapsed successfully.
+[2025-06-17 15:58:16] Downloading Excel file for Assam(33), SIVASAGAR - AS4( 02-MAY-2017 ), 2023
+[2025-06-17 15:58:16] Clicked Excel download button using method 1
+[2025-06-17 15:58:16] Clicked Excel download button
+[2025-06-17 15:58:20] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:58:20] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 15:59:20] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\SIVASAGAR - AS4( 02-MAY-2017 ).xlsx
+[2025-06-17 15:59:20] Successfully processed RTO: SIVASAGAR - AS4( 02-MAY-2017 )
+[2025-06-17 15:59:20] 
+Processing RTO 32/36: SONITPUR - AS12( 05-JAN-2017 ) (Attempt 1/2)
+[2025-06-17 15:59:20] Selecting RTO: SONITPUR - AS12( 05-JAN-2017 )
+[2025-06-17 15:59:20] Clicked RTO dropdown using method 1
+[2025-06-17 15:59:22] Clicked RTO option: SONITPUR - AS12( 05-JAN-2017 ) using method 1
+[2025-06-17 15:59:22] Successfully selected RTO: SONITPUR - AS12( 05-JAN-2017 )
+[2025-06-17 15:59:22] Applying left panel filters
+[2025-06-17 15:59:23] Clicked right refresh button using method 1
+[2025-06-17 15:59:27] Opening left panel if needed
+[2025-06-17 15:59:28] Clicked left panel toggler using method 1
+[2025-06-17 15:59:28] Expanded left panel
+[2025-06-17 15:59:29] Selecting vehicle categories and fuel types
+[2025-06-17 15:59:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:59:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:59:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:59:32] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:59:33] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:59:33] Vehicle categories and fuel types selected
+[2025-06-17 15:59:34] Clicking left refresh button
+[2025-06-17 15:59:34] Clicked left refresh button using method 1
+[2025-06-17 15:59:34] Left refresh button clicked
+[2025-06-17 15:59:39] Left panel collapsed successfully.
+[2025-06-17 15:59:39] Downloading Excel file for Assam(33), SONITPUR - AS12( 05-JAN-2017 ), 2023
+[2025-06-17 15:59:40] Clicked Excel download button using method 1
+[2025-06-17 15:59:40] Clicked Excel download button
+[2025-06-17 15:59:43] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:59:43] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 16:00:43] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\SONITPUR - AS12( 05-JAN-2017 ).xlsx
+[2025-06-17 16:00:43] Successfully processed RTO: SONITPUR - AS12( 05-JAN-2017 )
+[2025-06-17 16:00:43] 
+Processing RTO 33/36: SOUTH SALMARA - AS34( 20-DEC-2019 ) (Attempt 1/2)
+[2025-06-17 16:00:43] Selecting RTO: SOUTH SALMARA - AS34( 20-DEC-2019 )
+[2025-06-17 16:00:44] Clicked RTO dropdown using method 1
+[2025-06-17 16:00:45] Clicked RTO option: SOUTH SALMARA - AS34( 20-DEC-2019 ) using method 1
+[2025-06-17 16:00:46] Successfully selected RTO: SOUTH SALMARA - AS34( 20-DEC-2019 )
+[2025-06-17 16:00:46] Applying left panel filters
+[2025-06-17 16:00:46] Clicked right refresh button using method 1
+[2025-06-17 16:00:51] Opening left panel if needed
+[2025-06-17 16:00:51] Clicked left panel toggler using method 1
+[2025-06-17 16:00:51] Expanded left panel
+[2025-06-17 16:00:52] Selecting vehicle categories and fuel types
+[2025-06-17 16:00:53] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:00:54] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:00:55] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:00:55] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:00:56] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:00:56] Vehicle categories and fuel types selected
+[2025-06-17 16:00:57] Clicking left refresh button
+[2025-06-17 16:00:58] Clicked left refresh button using method 1
+[2025-06-17 16:00:58] Left refresh button clicked
+[2025-06-17 16:01:03] Left panel collapsed successfully.
+[2025-06-17 16:01:03] Downloading Excel file for Assam(33), SOUTH SALMARA - AS34( 20-DEC-2019 ), 2023
+[2025-06-17 16:01:03] Clicked Excel download button using method 1
+[2025-06-17 16:01:03] Clicked Excel download button
+[2025-06-17 16:01:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:01:07] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 16:02:07] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\SOUTH SALMARA - AS34( 20-DEC-2019 ).xlsx
+[2025-06-17 16:02:07] Successfully processed RTO: SOUTH SALMARA - AS34( 20-DEC-2019 )
+[2025-06-17 16:02:07] 
+Processing RTO 34/36: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 ) (Attempt 1/2)
+[2025-06-17 16:02:07] Selecting RTO: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 )
+[2025-06-17 16:02:07] Clicked RTO dropdown using method 1
+[2025-06-17 16:02:08] Clicked RTO option: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 ) using method 1
+[2025-06-17 16:02:09] Successfully selected RTO: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 )
+[2025-06-17 16:02:09] Applying left panel filters
+[2025-06-17 16:02:09] Clicked right refresh button using method 1
+[2025-06-17 16:02:14] Opening left panel if needed
+[2025-06-17 16:02:14] Clicked left panel toggler using method 1
+[2025-06-17 16:02:14] Expanded left panel
+[2025-06-17 16:02:15] Selecting vehicle categories and fuel types
+[2025-06-17 16:02:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:02:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:02:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:02:18] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:02:19] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:02:19] Vehicle categories and fuel types selected
+[2025-06-17 16:02:20] Clicking left refresh button
+[2025-06-17 16:02:21] Clicked left refresh button using method 1
+[2025-06-17 16:02:21] Left refresh button clicked
+[2025-06-17 16:02:25] Left panel collapsed successfully.
+[2025-06-17 16:02:25] Downloading Excel file for Assam(33), STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 ), 2023
+[2025-06-17 16:02:26] Clicked Excel download button using method 1
+[2025-06-17 16:02:26] Clicked Excel download button
+[2025-06-17 16:02:30] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:02:30] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 16:03:30] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 ).xlsx
+[2025-06-17 16:03:30] Successfully processed RTO: STATE TRANSPORT AUTHORITY - AS999( 24-SEP-2018 )
+[2025-06-17 16:03:30] 
+Processing RTO 35/36: TINSUKIA - AS23( 23-FEB-2017 ) (Attempt 1/2)
+[2025-06-17 16:03:30] Selecting RTO: TINSUKIA - AS23( 23-FEB-2017 )
+[2025-06-17 16:03:31] Clicked RTO dropdown using method 1
+[2025-06-17 16:03:32] Clicked RTO option: TINSUKIA - AS23( 23-FEB-2017 ) using method 1
+[2025-06-17 16:03:32] Successfully selected RTO: TINSUKIA - AS23( 23-FEB-2017 )
+[2025-06-17 16:03:32] Applying left panel filters
+[2025-06-17 16:03:33] Clicked right refresh button using method 1
+[2025-06-17 16:03:37] Opening left panel if needed
+[2025-06-17 16:03:37] Clicked left panel toggler using method 1
+[2025-06-17 16:03:37] Expanded left panel
+[2025-06-17 16:03:39] Selecting vehicle categories and fuel types
+[2025-06-17 16:03:39] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:03:40] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:03:41] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:03:41] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:03:42] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:03:42] Vehicle categories and fuel types selected
+[2025-06-17 16:03:43] Clicking left refresh button
+[2025-06-17 16:03:44] Clicked left refresh button using method 1
+[2025-06-17 16:03:44] Left refresh button clicked
+[2025-06-17 16:03:49] Left panel collapsed successfully.
+[2025-06-17 16:03:49] Downloading Excel file for Assam(33), TINSUKIA - AS23( 23-FEB-2017 ), 2023
+[2025-06-17 16:03:49] Clicked Excel download button using method 1
+[2025-06-17 16:03:49] Clicked Excel download button
+[2025-06-17 16:03:53] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:03:53] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 16:04:53] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\TINSUKIA - AS23( 23-FEB-2017 ).xlsx
+[2025-06-17 16:04:53] Successfully processed RTO: TINSUKIA - AS23( 23-FEB-2017 )
+[2025-06-17 16:04:53] 
+Processing RTO 36/36: UDALGURI - AS27( 17-AUG-2017 ) (Attempt 1/2)
+[2025-06-17 16:04:53] Selecting RTO: UDALGURI - AS27( 17-AUG-2017 )
+[2025-06-17 16:04:53] Clicked RTO dropdown using method 1
+[2025-06-17 16:04:54] Clicked RTO option: UDALGURI - AS27( 17-AUG-2017 ) using method 1
+[2025-06-17 16:04:55] Successfully selected RTO: UDALGURI - AS27( 17-AUG-2017 )
+[2025-06-17 16:04:55] Applying left panel filters
+[2025-06-17 16:04:55] Clicked right refresh button using method 1
+[2025-06-17 16:05:00] Opening left panel if needed
+[2025-06-17 16:05:00] Clicked left panel toggler using method 1
+[2025-06-17 16:05:00] Expanded left panel
+[2025-06-17 16:05:01] Selecting vehicle categories and fuel types
+[2025-06-17 16:05:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:05:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:05:03] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:05:04] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:05:05] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:05:05] Vehicle categories and fuel types selected
+[2025-06-17 16:05:06] Clicking left refresh button
+[2025-06-17 16:05:06] Clicked left refresh button using method 1
+[2025-06-17 16:05:06] Left refresh button clicked
+[2025-06-17 16:05:11] Left panel collapsed successfully.
+[2025-06-17 16:05:11] Downloading Excel file for Assam(33), UDALGURI - AS27( 17-AUG-2017 ), 2023
+[2025-06-17 16:05:12] Clicked Excel download button using method 1
+[2025-06-17 16:05:12] Clicked Excel download button
+[2025-06-17 16:05:15] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:05:15] Inside_wait_for_download_and_rename for Assam
+[2025-06-17 16:06:15] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Assam(33)\UDALGURI - AS27( 17-AUG-2017 ).xlsx
+[2025-06-17 16:06:15] Successfully processed RTO: UDALGURI - AS27( 17-AUG-2017 )
+[2025-06-17 16:06:15] 
+=== Processing completed for Assam(33) ===
+
+[2025-06-17 16:06:15] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 16:06:15] 
+Processing state: Bihar(48), Year: 2023
+[2025-06-17 16:06:15] 
+=== Starting RTO-wise processing for Bihar(48), 2023 ===
+
+[2025-06-17 16:06:15] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 16:06:15] Clicked Y-axis dropdown using method 1
+[2025-06-17 16:06:16] Clicked Maker option using method 1
+[2025-06-17 16:06:17] Clicked X-axis dropdown using method 1
+[2025-06-17 16:06:18] Clicked Month Wise option using method 1
+[2025-06-17 16:06:19] Axis setup completed
+[2025-06-17 16:06:19] Selecting State: Bihar(48)
+[2025-06-17 16:06:20] Clicked state dropdown label using method 1
+[2025-06-17 16:06:21] Clicked state option: Bihar(48) using method 1
+[2025-06-17 16:06:22] Successfully selected state: Bihar(48)
+[2025-06-17 16:06:22] Selecting Year: 2023
+[2025-06-17 16:06:22] Clicked year dropdown using method 1
+[2025-06-17 16:06:23] Clicked year option: 2023 using method 1
+[2025-06-17 16:06:23] Successfully selected year: 2023
+[2025-06-17 16:06:23] Getting list of all RTOs for the selected state
+[2025-06-17 16:06:24] Clicked RTO dropdown label using method 1
+[2025-06-17 16:06:25] Found 49 RTOs for the state
+[2025-06-17 16:06:25] 
+Processing RTO 1/49: ARARIA - BR38( 30-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 16:06:25] Selecting RTO: ARARIA - BR38( 30-JAN-2018 )
+[2025-06-17 16:06:26] Clicked RTO dropdown using method 1
+[2025-06-17 16:06:27] Clicked RTO option: ARARIA - BR38( 30-JAN-2018 ) using method 1
+[2025-06-17 16:06:27] Successfully selected RTO: ARARIA - BR38( 30-JAN-2018 )
+[2025-06-17 16:06:27] Applying left panel filters
+[2025-06-17 16:06:28] Clicked right refresh button using method 1
+[2025-06-17 16:06:33] Opening left panel if needed
+[2025-06-17 16:06:33] Clicked left panel toggler using method 1
+[2025-06-17 16:06:33] Expanded left panel
+[2025-06-17 16:06:34] Selecting vehicle categories and fuel types
+[2025-06-17 16:06:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:06:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:06:36] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:06:37] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:06:38] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:06:38] Vehicle categories and fuel types selected
+[2025-06-17 16:06:39] Clicking left refresh button
+[2025-06-17 16:06:40] Clicked left refresh button using method 1
+[2025-06-17 16:06:40] Left refresh button clicked
+[2025-06-17 16:06:45] Left panel collapsed successfully.
+[2025-06-17 16:06:45] Downloading Excel file for Bihar(48), ARARIA - BR38( 30-JAN-2018 ), 2023
+[2025-06-17 16:06:45] Clicked Excel download button using method 1
+[2025-06-17 16:06:45] Clicked Excel download button
+[2025-06-17 16:06:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:06:49] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:07:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\ARARIA - BR38( 30-JAN-2018 ).xlsx
+[2025-06-17 16:07:49] Successfully processed RTO: ARARIA - BR38( 30-JAN-2018 )
+[2025-06-17 16:07:49] 
+Processing RTO 2/49: ARAWAL - BR56( 22-MAY-2017 ) (Attempt 1/2)
+[2025-06-17 16:07:49] Selecting RTO: ARAWAL - BR56( 22-MAY-2017 )
+[2025-06-17 16:07:49] Clicked RTO dropdown using method 1
+[2025-06-17 16:07:50] Clicked RTO option: ARAWAL - BR56( 22-MAY-2017 ) using method 1
+[2025-06-17 16:07:51] Successfully selected RTO: ARAWAL - BR56( 22-MAY-2017 )
+[2025-06-17 16:07:51] Applying left panel filters
+[2025-06-17 16:07:51] Clicked right refresh button using method 1
+[2025-06-17 16:07:55] Opening left panel if needed
+[2025-06-17 16:07:55] Clicked left panel toggler using method 1
+[2025-06-17 16:07:55] Expanded left panel
+[2025-06-17 16:07:57] Selecting vehicle categories and fuel types
+[2025-06-17 16:07:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:07:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:07:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:07:59] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:08:00] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:08:01] Vehicle categories and fuel types selected
+[2025-06-17 16:08:01] Clicking left refresh button
+[2025-06-17 16:08:02] Clicked left refresh button using method 1
+[2025-06-17 16:08:02] Left refresh button clicked
+[2025-06-17 16:08:06] Left panel collapsed successfully.
+[2025-06-17 16:08:06] Downloading Excel file for Bihar(48), ARAWAL - BR56( 22-MAY-2017 ), 2023
+[2025-06-17 16:08:07] Clicked Excel download button using method 1
+[2025-06-17 16:08:07] Clicked Excel download button
+[2025-06-17 16:08:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:08:11] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:09:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\ARAWAL - BR56( 22-MAY-2017 ).xlsx
+[2025-06-17 16:09:11] Successfully processed RTO: ARAWAL - BR56( 22-MAY-2017 )
+[2025-06-17 16:09:11] 
+Processing RTO 3/49: AURANGABAD - BR26( 13-JUN-2017 ) (Attempt 1/2)
+[2025-06-17 16:09:11] Selecting RTO: AURANGABAD - BR26( 13-JUN-2017 )
+[2025-06-17 16:09:11] Clicked RTO dropdown using method 1
+[2025-06-17 16:09:13] Clicked RTO option: AURANGABAD - BR26( 13-JUN-2017 ) using method 1
+[2025-06-17 16:09:13] Successfully selected RTO: AURANGABAD - BR26( 13-JUN-2017 )
+[2025-06-17 16:09:13] Applying left panel filters
+[2025-06-17 16:09:13] Clicked right refresh button using method 1
+[2025-06-17 16:09:18] Opening left panel if needed
+[2025-06-17 16:09:18] Clicked left panel toggler using method 1
+[2025-06-17 16:09:18] Expanded left panel
+[2025-06-17 16:09:19] Selecting vehicle categories and fuel types
+[2025-06-17 16:09:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:09:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:09:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:09:22] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:09:23] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:09:23] Vehicle categories and fuel types selected
+[2025-06-17 16:09:24] Clicking left refresh button
+[2025-06-17 16:09:25] Clicked left refresh button using method 1
+[2025-06-17 16:09:25] Left refresh button clicked
+[2025-06-17 16:09:30] Left panel collapsed successfully.
+[2025-06-17 16:09:30] Downloading Excel file for Bihar(48), AURANGABAD - BR26( 13-JUN-2017 ), 2023
+[2025-06-17 16:09:30] Clicked Excel download button using method 1
+[2025-06-17 16:09:30] Clicked Excel download button
+[2025-06-17 16:09:34] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:09:34] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:10:34] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\AURANGABAD - BR26( 13-JUN-2017 ).xlsx
+[2025-06-17 16:10:34] Successfully processed RTO: AURANGABAD - BR26( 13-JUN-2017 )
+[2025-06-17 16:10:34] 
+Processing RTO 4/49: BANKA - BR51( 06-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:10:34] Selecting RTO: BANKA - BR51( 06-FEB-2018 )
+[2025-06-17 16:10:34] Clicked RTO dropdown using method 1
+[2025-06-17 16:10:35] Clicked RTO option: BANKA - BR51( 06-FEB-2018 ) using method 1
+[2025-06-17 16:10:36] Successfully selected RTO: BANKA - BR51( 06-FEB-2018 )
+[2025-06-17 16:10:36] Applying left panel filters
+[2025-06-17 16:10:36] Clicked right refresh button using method 1
+[2025-06-17 16:10:40] Opening left panel if needed
+[2025-06-17 16:10:41] Clicked left panel toggler using method 1
+[2025-06-17 16:10:41] Expanded left panel
+[2025-06-17 16:10:42] Selecting vehicle categories and fuel types
+[2025-06-17 16:10:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:10:43] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:10:44] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:10:45] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:10:45] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:10:46] Vehicle categories and fuel types selected
+[2025-06-17 16:10:46] Clicking left refresh button
+[2025-06-17 16:10:47] Clicked left refresh button using method 1
+[2025-06-17 16:10:47] Left refresh button clicked
+[2025-06-17 16:10:52] Left panel collapsed successfully.
+[2025-06-17 16:10:52] Downloading Excel file for Bihar(48), BANKA - BR51( 06-FEB-2018 ), 2023
+[2025-06-17 16:10:52] Clicked Excel download button using method 1
+[2025-06-17 16:10:52] Clicked Excel download button
+[2025-06-17 16:10:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:10:55] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:11:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\BANKA - BR51( 06-FEB-2018 ).xlsx
+[2025-06-17 16:11:55] Successfully processed RTO: BANKA - BR51( 06-FEB-2018 )
+[2025-06-17 16:11:55] 
+Processing RTO 5/49: BEGUSARAI - BR9( 23-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 16:11:55] Selecting RTO: BEGUSARAI - BR9( 23-JAN-2018 )
+[2025-06-17 16:11:56] Clicked RTO dropdown using method 1
+[2025-06-17 16:11:57] Clicked RTO option: BEGUSARAI - BR9( 23-JAN-2018 ) using method 1
+[2025-06-17 16:11:58] Successfully selected RTO: BEGUSARAI - BR9( 23-JAN-2018 )
+[2025-06-17 16:11:58] Applying left panel filters
+[2025-06-17 16:11:58] Clicked right refresh button using method 1
+[2025-06-17 16:12:03] Opening left panel if needed
+[2025-06-17 16:12:03] Clicked left panel toggler using method 1
+[2025-06-17 16:12:03] Expanded left panel
+[2025-06-17 16:12:05] Selecting vehicle categories and fuel types
+[2025-06-17 16:12:05] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:12:06] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:12:07] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:12:07] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:12:08] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:12:08] Vehicle categories and fuel types selected
+[2025-06-17 16:12:09] Clicking left refresh button
+[2025-06-17 16:12:10] Clicked left refresh button using method 1
+[2025-06-17 16:12:10] Left refresh button clicked
+[2025-06-17 16:12:15] Left panel collapsed successfully.
+[2025-06-17 16:12:15] Downloading Excel file for Bihar(48), BEGUSARAI - BR9( 23-JAN-2018 ), 2023
+[2025-06-17 16:12:15] Clicked Excel download button using method 1
+[2025-06-17 16:12:15] Clicked Excel download button
+[2025-06-17 16:12:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:12:19] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:13:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\BEGUSARAI - BR9( 23-JAN-2018 ).xlsx
+[2025-06-17 16:13:19] Successfully processed RTO: BEGUSARAI - BR9( 23-JAN-2018 )
+[2025-06-17 16:13:19] 
+Processing RTO 6/49: BETTIAH - BR22( 22-SEP-2017 ) (Attempt 1/2)
+[2025-06-17 16:13:19] Selecting RTO: BETTIAH - BR22( 22-SEP-2017 )
+[2025-06-17 16:13:19] Clicked RTO dropdown using method 1
+[2025-06-17 16:13:21] Clicked RTO option: BETTIAH - BR22( 22-SEP-2017 ) using method 1
+[2025-06-17 16:13:21] Successfully selected RTO: BETTIAH - BR22( 22-SEP-2017 )
+[2025-06-17 16:13:21] Applying left panel filters
+[2025-06-17 16:13:22] Clicked right refresh button using method 1
+[2025-06-17 16:13:27] Opening left panel if needed
+[2025-06-17 16:13:27] Clicked left panel toggler using method 1
+[2025-06-17 16:13:27] Expanded left panel
+[2025-06-17 16:13:28] Selecting vehicle categories and fuel types
+[2025-06-17 16:13:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:13:29] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:13:30] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:13:30] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:13:31] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:13:31] Vehicle categories and fuel types selected
+[2025-06-17 16:13:32] Clicking left refresh button
+[2025-06-17 16:13:32] Clicked left refresh button using method 1
+[2025-06-17 16:13:32] Left refresh button clicked
+[2025-06-17 16:13:37] Left panel collapsed successfully.
+[2025-06-17 16:13:37] Downloading Excel file for Bihar(48), BETTIAH - BR22( 22-SEP-2017 ), 2023
+[2025-06-17 16:13:38] Clicked Excel download button using method 1
+[2025-06-17 16:13:38] Clicked Excel download button
+[2025-06-17 16:13:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:13:41] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:14:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\BETTIAH - BR22( 22-SEP-2017 ).xlsx
+[2025-06-17 16:14:41] Successfully processed RTO: BETTIAH - BR22( 22-SEP-2017 )
+[2025-06-17 16:14:41] 
+Processing RTO 7/49: BHABHUA - BR45( 23-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 16:14:41] Selecting RTO: BHABHUA - BR45( 23-JAN-2018 )
+[2025-06-17 16:14:41] Clicked RTO dropdown using method 1
+[2025-06-17 16:14:43] Clicked RTO option: BHABHUA - BR45( 23-JAN-2018 ) using method 1
+[2025-06-17 16:14:43] Successfully selected RTO: BHABHUA - BR45( 23-JAN-2018 )
+[2025-06-17 16:14:43] Applying left panel filters
+[2025-06-17 16:14:43] Clicked right refresh button using method 1
+[2025-06-17 16:14:48] Opening left panel if needed
+[2025-06-17 16:14:48] Clicked left panel toggler using method 1
+[2025-06-17 16:14:48] Expanded left panel
+[2025-06-17 16:14:50] Selecting vehicle categories and fuel types
+[2025-06-17 16:14:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:14:51] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:14:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:14:53] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:14:53] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:14:54] Vehicle categories and fuel types selected
+[2025-06-17 16:14:55] Clicking left refresh button
+[2025-06-17 16:14:55] Clicked left refresh button using method 1
+[2025-06-17 16:14:55] Left refresh button clicked
+[2025-06-17 16:15:00] Left panel collapsed successfully.
+[2025-06-17 16:15:00] Downloading Excel file for Bihar(48), BHABHUA - BR45( 23-JAN-2018 ), 2023
+[2025-06-17 16:15:01] Clicked Excel download button using method 1
+[2025-06-17 16:15:01] Clicked Excel download button
+[2025-06-17 16:15:04] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:15:04] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:16:04] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\BHABHUA - BR45( 23-JAN-2018 ).xlsx
+[2025-06-17 16:16:04] Successfully processed RTO: BHABHUA - BR45( 23-JAN-2018 )
+[2025-06-17 16:16:04] 
+Processing RTO 8/49: BHAGALPUR - BR10( 07-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:16:04] Selecting RTO: BHAGALPUR - BR10( 07-FEB-2018 )
+[2025-06-17 16:16:05] Clicked RTO dropdown using method 1
+[2025-06-17 16:16:06] Clicked RTO option: BHAGALPUR - BR10( 07-FEB-2018 ) using method 1
+[2025-06-17 16:16:06] Successfully selected RTO: BHAGALPUR - BR10( 07-FEB-2018 )
+[2025-06-17 16:16:06] Applying left panel filters
+[2025-06-17 16:16:07] Clicked right refresh button using method 1
+[2025-06-17 16:16:12] Opening left panel if needed
+[2025-06-17 16:16:12] Clicked left panel toggler using method 1
+[2025-06-17 16:16:12] Expanded left panel
+[2025-06-17 16:16:14] Selecting vehicle categories and fuel types
+[2025-06-17 16:16:14] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:16:15] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:16:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:16:16] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:16:17] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:16:17] Vehicle categories and fuel types selected
+[2025-06-17 16:16:18] Clicking left refresh button
+[2025-06-17 16:16:18] Clicked left refresh button using method 1
+[2025-06-17 16:16:18] Left refresh button clicked
+[2025-06-17 16:16:23] Left panel collapsed successfully.
+[2025-06-17 16:16:23] Downloading Excel file for Bihar(48), BHAGALPUR - BR10( 07-FEB-2018 ), 2023
+[2025-06-17 16:16:24] Clicked Excel download button using method 1
+[2025-06-17 16:16:24] Clicked Excel download button
+[2025-06-17 16:16:28] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:16:28] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:17:28] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\BHAGALPUR - BR10( 07-FEB-2018 ).xlsx
+[2025-06-17 16:17:28] Successfully processed RTO: BHAGALPUR - BR10( 07-FEB-2018 )
+[2025-06-17 16:17:28] 
+Processing RTO 9/49: BHAGALPUR RTA - BR103( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 16:17:28] Selecting RTO: BHAGALPUR RTA - BR103( 13-DEC-2018 )
+[2025-06-17 16:17:28] Clicked RTO dropdown using method 1
+[2025-06-17 16:17:29] Clicked RTO option: BHAGALPUR RTA - BR103( 13-DEC-2018 ) using method 1
+[2025-06-17 16:17:29] Successfully selected RTO: BHAGALPUR RTA - BR103( 13-DEC-2018 )
+[2025-06-17 16:17:29] Applying left panel filters
+[2025-06-17 16:17:30] Clicked right refresh button using method 1
+[2025-06-17 16:17:35] Opening left panel if needed
+[2025-06-17 16:17:35] Clicked left panel toggler using method 1
+[2025-06-17 16:17:35] Expanded left panel
+[2025-06-17 16:17:37] Selecting vehicle categories and fuel types
+[2025-06-17 16:17:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:17:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:17:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:17:40] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:17:41] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:17:41] Vehicle categories and fuel types selected
+[2025-06-17 16:17:42] Clicking left refresh button
+[2025-06-17 16:17:43] Clicked left refresh button using method 1
+[2025-06-17 16:17:43] Left refresh button clicked
+[2025-06-17 16:17:47] Left panel collapsed successfully.
+[2025-06-17 16:17:47] Downloading Excel file for Bihar(48), BHAGALPUR RTA - BR103( 13-DEC-2018 ), 2023
+[2025-06-17 16:17:48] Clicked Excel download button using method 1
+[2025-06-17 16:17:48] Clicked Excel download button
+[2025-06-17 16:17:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:17:51] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:18:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\BHAGALPUR RTA - BR103( 13-DEC-2018 ).xlsx
+[2025-06-17 16:18:51] Successfully processed RTO: BHAGALPUR RTA - BR103( 13-DEC-2018 )
+[2025-06-17 16:18:51] 
+Processing RTO 10/49: BHOJPUR - BR3( 15-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:18:51] Selecting RTO: BHOJPUR - BR3( 15-FEB-2018 )
+[2025-06-17 16:18:51] Clicked RTO dropdown using method 1
+[2025-06-17 16:18:52] Clicked RTO option: BHOJPUR - BR3( 15-FEB-2018 ) using method 1
+[2025-06-17 16:18:53] Successfully selected RTO: BHOJPUR - BR3( 15-FEB-2018 )
+[2025-06-17 16:18:53] Applying left panel filters
+[2025-06-17 16:18:53] Clicked right refresh button using method 1
+[2025-06-17 16:18:58] Opening left panel if needed
+[2025-06-17 16:18:58] Clicked left panel toggler using method 1
+[2025-06-17 16:18:58] Expanded left panel
+[2025-06-17 16:18:59] Selecting vehicle categories and fuel types
+[2025-06-17 16:19:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:19:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:19:01] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:19:02] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:19:03] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:19:03] Vehicle categories and fuel types selected
+[2025-06-17 16:19:04] Clicking left refresh button
+[2025-06-17 16:19:05] Clicked left refresh button using method 1
+[2025-06-17 16:19:05] Left refresh button clicked
+[2025-06-17 16:19:10] Left panel collapsed successfully.
+[2025-06-17 16:19:10] Downloading Excel file for Bihar(48), BHOJPUR - BR3( 15-FEB-2018 ), 2023
+[2025-06-17 16:19:11] Clicked Excel download button using method 1
+[2025-06-17 16:19:11] Clicked Excel download button
+[2025-06-17 16:19:14] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:19:14] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:20:14] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\BHOJPUR - BR3( 15-FEB-2018 ).xlsx
+[2025-06-17 16:20:14] Successfully processed RTO: BHOJPUR - BR3( 15-FEB-2018 )
+[2025-06-17 16:20:14] 
+Processing RTO 11/49: BUXUR - BR44( 01-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:20:14] Selecting RTO: BUXUR - BR44( 01-FEB-2018 )
+[2025-06-17 16:20:15] Clicked RTO dropdown using method 1
+[2025-06-17 16:20:16] Clicked RTO option: BUXUR - BR44( 01-FEB-2018 ) using method 1
+[2025-06-17 16:20:17] Successfully selected RTO: BUXUR - BR44( 01-FEB-2018 )
+[2025-06-17 16:20:17] Applying left panel filters
+[2025-06-17 16:20:17] Clicked right refresh button using method 1
+[2025-06-17 16:20:21] Opening left panel if needed
+[2025-06-17 16:20:22] Clicked left panel toggler using method 1
+[2025-06-17 16:20:22] Expanded left panel
+[2025-06-17 16:20:23] Selecting vehicle categories and fuel types
+[2025-06-17 16:20:23] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:20:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:20:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:20:26] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:20:26] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:20:27] Vehicle categories and fuel types selected
+[2025-06-17 16:20:28] Clicking left refresh button
+[2025-06-17 16:20:28] Clicked left refresh button using method 1
+[2025-06-17 16:20:28] Left refresh button clicked
+[2025-06-17 16:20:32] Left panel collapsed successfully.
+[2025-06-17 16:20:32] Downloading Excel file for Bihar(48), BUXUR - BR44( 01-FEB-2018 ), 2023
+[2025-06-17 16:20:33] Clicked Excel download button using method 1
+[2025-06-17 16:20:33] Clicked Excel download button
+[2025-06-17 16:20:36] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:20:36] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:21:36] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\BUXUR - BR44( 01-FEB-2018 ).xlsx
+[2025-06-17 16:21:36] Successfully processed RTO: BUXUR - BR44( 01-FEB-2018 )
+[2025-06-17 16:21:36] 
+Processing RTO 12/49: CHAPARA - BR4( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 16:21:36] Selecting RTO: CHAPARA - BR4( 29-JAN-2018 )
+[2025-06-17 16:21:36] Clicked RTO dropdown using method 1
+[2025-06-17 16:21:38] Clicked RTO option: CHAPARA - BR4( 29-JAN-2018 ) using method 1
+[2025-06-17 16:21:38] Successfully selected RTO: CHAPARA - BR4( 29-JAN-2018 )
+[2025-06-17 16:21:38] Applying left panel filters
+[2025-06-17 16:21:39] Clicked right refresh button using method 1
+[2025-06-17 16:21:43] Opening left panel if needed
+[2025-06-17 16:21:43] Clicked left panel toggler using method 1
+[2025-06-17 16:21:43] Expanded left panel
+[2025-06-17 16:21:45] Selecting vehicle categories and fuel types
+[2025-06-17 16:21:45] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:21:46] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:21:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:21:47] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:21:48] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:21:48] Vehicle categories and fuel types selected
+[2025-06-17 16:21:49] Clicking left refresh button
+[2025-06-17 16:21:49] Clicked left refresh button using method 1
+[2025-06-17 16:21:49] Left refresh button clicked
+[2025-06-17 16:21:54] Left panel collapsed successfully.
+[2025-06-17 16:21:54] Downloading Excel file for Bihar(48), CHAPARA - BR4( 29-JAN-2018 ), 2023
+[2025-06-17 16:21:55] Clicked Excel download button using method 1
+[2025-06-17 16:21:55] Clicked Excel download button
+[2025-06-17 16:21:59] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:21:59] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:22:59] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\CHAPARA - BR4( 29-JAN-2018 ).xlsx
+[2025-06-17 16:22:59] Successfully processed RTO: CHAPARA - BR4( 29-JAN-2018 )
+[2025-06-17 16:22:59] 
+Processing RTO 13/49: CHAPRA RTA - BR109( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 16:22:59] Selecting RTO: CHAPRA RTA - BR109( 13-DEC-2018 )
+[2025-06-17 16:22:59] Clicked RTO dropdown using method 1
+[2025-06-17 16:23:00] Clicked RTO option: CHAPRA RTA - BR109( 13-DEC-2018 ) using method 1
+[2025-06-17 16:23:00] Successfully selected RTO: CHAPRA RTA - BR109( 13-DEC-2018 )
+[2025-06-17 16:23:00] Applying left panel filters
+[2025-06-17 16:23:01] Clicked right refresh button using method 1
+[2025-06-17 16:23:06] Opening left panel if needed
+[2025-06-17 16:23:06] Clicked left panel toggler using method 1
+[2025-06-17 16:23:06] Expanded left panel
+[2025-06-17 16:23:07] Selecting vehicle categories and fuel types
+[2025-06-17 16:23:08] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:23:08] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:23:09] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:23:10] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:23:11] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:23:11] Vehicle categories and fuel types selected
+[2025-06-17 16:23:12] Clicking left refresh button
+[2025-06-17 16:23:12] Clicked left refresh button using method 1
+[2025-06-17 16:23:12] Left refresh button clicked
+[2025-06-17 16:23:17] Left panel collapsed successfully.
+[2025-06-17 16:23:17] Downloading Excel file for Bihar(48), CHAPRA RTA - BR109( 13-DEC-2018 ), 2023
+[2025-06-17 16:23:18] Clicked Excel download button using method 1
+[2025-06-17 16:23:18] Clicked Excel download button
+[2025-06-17 16:23:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:23:21] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:24:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\CHAPRA RTA - BR109( 13-DEC-2018 ).xlsx
+[2025-06-17 16:24:21] Successfully processed RTO: CHAPRA RTA - BR109( 13-DEC-2018 )
+[2025-06-17 16:24:21] 
+Processing RTO 14/49: DARBHANGA - BR7( 30-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 16:24:21] Selecting RTO: DARBHANGA - BR7( 30-JAN-2018 )
+[2025-06-17 16:24:21] Clicked RTO dropdown using method 1
+[2025-06-17 16:24:22] Clicked RTO option: DARBHANGA - BR7( 30-JAN-2018 ) using method 1
+[2025-06-17 16:24:23] Successfully selected RTO: DARBHANGA - BR7( 30-JAN-2018 )
+[2025-06-17 16:24:23] Applying left panel filters
+[2025-06-17 16:24:23] Clicked right refresh button using method 1
+[2025-06-17 16:24:28] Opening left panel if needed
+[2025-06-17 16:24:28] Clicked left panel toggler using method 1
+[2025-06-17 16:24:28] Expanded left panel
+[2025-06-17 16:24:30] Selecting vehicle categories and fuel types
+[2025-06-17 16:24:30] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:24:31] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:24:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:24:32] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:24:33] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:24:33] Vehicle categories and fuel types selected
+[2025-06-17 16:24:34] Clicking left refresh button
+[2025-06-17 16:24:34] Clicked left refresh button using method 1
+[2025-06-17 16:24:34] Left refresh button clicked
+[2025-06-17 16:24:40] Left panel collapsed successfully.
+[2025-06-17 16:24:40] Downloading Excel file for Bihar(48), DARBHANGA - BR7( 30-JAN-2018 ), 2023
+[2025-06-17 16:24:40] Clicked Excel download button using method 1
+[2025-06-17 16:24:40] Clicked Excel download button
+[2025-06-17 16:24:44] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:24:44] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:25:44] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\DARBHANGA - BR7( 30-JAN-2018 ).xlsx
+[2025-06-17 16:25:44] Successfully processed RTO: DARBHANGA - BR7( 30-JAN-2018 )
+[2025-06-17 16:25:44] 
+Processing RTO 15/49: DARBHANGA RTA - BR102( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 16:25:44] Selecting RTO: DARBHANGA RTA - BR102( 13-DEC-2018 )
+[2025-06-17 16:25:44] Clicked RTO dropdown using method 1
+[2025-06-17 16:25:45] Clicked RTO option: DARBHANGA RTA - BR102( 13-DEC-2018 ) using method 1
+[2025-06-17 16:25:45] Successfully selected RTO: DARBHANGA RTA - BR102( 13-DEC-2018 )
+[2025-06-17 16:25:45] Applying left panel filters
+[2025-06-17 16:25:46] Clicked right refresh button using method 1
+[2025-06-17 16:25:51] Opening left panel if needed
+[2025-06-17 16:25:51] Clicked left panel toggler using method 1
+[2025-06-17 16:25:51] Expanded left panel
+[2025-06-17 16:25:52] Selecting vehicle categories and fuel types
+[2025-06-17 16:25:53] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:25:53] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:25:54] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:25:55] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:25:56] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:25:56] Vehicle categories and fuel types selected
+[2025-06-17 16:25:57] Clicking left refresh button
+[2025-06-17 16:25:57] Clicked left refresh button using method 1
+[2025-06-17 16:25:57] Left refresh button clicked
+[2025-06-17 16:26:03] Left panel collapsed successfully.
+[2025-06-17 16:26:03] Downloading Excel file for Bihar(48), DARBHANGA RTA - BR102( 13-DEC-2018 ), 2023
+[2025-06-17 16:26:03] Clicked Excel download button using method 1
+[2025-06-17 16:26:03] Clicked Excel download button
+[2025-06-17 16:26:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:26:07] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:27:07] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\DARBHANGA RTA - BR102( 13-DEC-2018 ).xlsx
+[2025-06-17 16:27:07] Successfully processed RTO: DARBHANGA RTA - BR102( 13-DEC-2018 )
+[2025-06-17 16:27:07] 
+Processing RTO 16/49: GAYA - BR2( 06-SEP-2017 ) (Attempt 1/2)
+[2025-06-17 16:27:07] Selecting RTO: GAYA - BR2( 06-SEP-2017 )
+[2025-06-17 16:27:07] Clicked RTO dropdown using method 1
+[2025-06-17 16:27:08] Clicked RTO option: GAYA - BR2( 06-SEP-2017 ) using method 1
+[2025-06-17 16:27:09] Successfully selected RTO: GAYA - BR2( 06-SEP-2017 )
+[2025-06-17 16:27:09] Applying left panel filters
+[2025-06-17 16:27:09] Clicked right refresh button using method 1
+[2025-06-17 16:27:14] Opening left panel if needed
+[2025-06-17 16:27:14] Clicked left panel toggler using method 1
+[2025-06-17 16:27:14] Expanded left panel
+[2025-06-17 16:27:15] Selecting vehicle categories and fuel types
+[2025-06-17 16:27:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:27:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:27:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:27:18] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:27:19] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:27:19] Vehicle categories and fuel types selected
+[2025-06-17 16:27:19] Clicking left refresh button
+[2025-06-17 16:27:20] Clicked left refresh button using method 1
+[2025-06-17 16:27:20] Left refresh button clicked
+[2025-06-17 16:27:24] Left panel collapsed successfully.
+[2025-06-17 16:27:24] Downloading Excel file for Bihar(48), GAYA - BR2( 06-SEP-2017 ), 2023
+[2025-06-17 16:27:25] Clicked Excel download button using method 1
+[2025-06-17 16:27:25] Clicked Excel download button
+[2025-06-17 16:27:28] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:27:28] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:28:28] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\GAYA - BR2( 06-SEP-2017 ).xlsx
+[2025-06-17 16:28:28] Successfully processed RTO: GAYA - BR2( 06-SEP-2017 )
+[2025-06-17 16:28:28] 
+Processing RTO 17/49: GAYA RTA - BR107( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 16:28:28] Selecting RTO: GAYA RTA - BR107( 13-DEC-2018 )
+[2025-06-17 16:28:29] Clicked RTO dropdown using method 1
+[2025-06-17 16:28:30] Clicked RTO option: GAYA RTA - BR107( 13-DEC-2018 ) using method 1
+[2025-06-17 16:28:30] Successfully selected RTO: GAYA RTA - BR107( 13-DEC-2018 )
+[2025-06-17 16:28:30] Applying left panel filters
+[2025-06-17 16:28:31] Clicked right refresh button using method 1
+[2025-06-17 16:28:36] Opening left panel if needed
+[2025-06-17 16:28:36] Clicked left panel toggler using method 1
+[2025-06-17 16:28:36] Expanded left panel
+[2025-06-17 16:28:38] Selecting vehicle categories and fuel types
+[2025-06-17 16:28:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:28:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:28:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:28:41] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:28:42] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:28:42] Vehicle categories and fuel types selected
+[2025-06-17 16:28:43] Clicking left refresh button
+[2025-06-17 16:28:43] Clicked left refresh button using method 1
+[2025-06-17 16:28:43] Left refresh button clicked
+[2025-06-17 16:28:47] Left panel collapsed successfully.
+[2025-06-17 16:28:47] Downloading Excel file for Bihar(48), GAYA RTA - BR107( 13-DEC-2018 ), 2023
+[2025-06-17 16:28:48] Clicked Excel download button using method 1
+[2025-06-17 16:28:48] Clicked Excel download button
+[2025-06-17 16:28:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:28:51] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:29:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\GAYA RTA - BR107( 13-DEC-2018 ).xlsx
+[2025-06-17 16:29:51] Successfully processed RTO: GAYA RTA - BR107( 13-DEC-2018 )
+[2025-06-17 16:29:51] 
+Processing RTO 18/49: GOPALGANJ - BR28( 08-JUN-2017 ) (Attempt 1/2)
+[2025-06-17 16:29:51] Selecting RTO: GOPALGANJ - BR28( 08-JUN-2017 )
+[2025-06-17 16:29:52] Clicked RTO dropdown using method 1
+[2025-06-17 16:29:53] Clicked RTO option: GOPALGANJ - BR28( 08-JUN-2017 ) using method 1
+[2025-06-17 16:29:53] Successfully selected RTO: GOPALGANJ - BR28( 08-JUN-2017 )
+[2025-06-17 16:29:53] Applying left panel filters
+[2025-06-17 16:29:53] Clicked right refresh button using method 1
+[2025-06-17 16:29:58] Opening left panel if needed
+[2025-06-17 16:29:58] Clicked left panel toggler using method 1
+[2025-06-17 16:29:58] Expanded left panel
+[2025-06-17 16:30:00] Selecting vehicle categories and fuel types
+[2025-06-17 16:30:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:30:01] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:30:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:30:03] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:30:04] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:30:04] Vehicle categories and fuel types selected
+[2025-06-17 16:30:05] Clicking left refresh button
+[2025-06-17 16:30:06] Clicked left refresh button using method 1
+[2025-06-17 16:30:06] Left refresh button clicked
+[2025-06-17 16:30:11] Left panel collapsed successfully.
+[2025-06-17 16:30:11] Downloading Excel file for Bihar(48), GOPALGANJ - BR28( 08-JUN-2017 ), 2023
+[2025-06-17 16:30:11] Clicked Excel download button using method 1
+[2025-06-17 16:30:11] Clicked Excel download button
+[2025-06-17 16:30:15] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:30:15] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:31:15] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\GOPALGANJ - BR28( 08-JUN-2017 ).xlsx
+[2025-06-17 16:31:15] Successfully processed RTO: GOPALGANJ - BR28( 08-JUN-2017 )
+[2025-06-17 16:31:15] 
+Processing RTO 19/49: JAMUI - BR46( 07-JUN-2017 ) (Attempt 1/2)
+[2025-06-17 16:31:15] Selecting RTO: JAMUI - BR46( 07-JUN-2017 )
+[2025-06-17 16:31:15] Clicked RTO dropdown using method 1
+[2025-06-17 16:31:16] Clicked RTO option: JAMUI - BR46( 07-JUN-2017 ) using method 1
+[2025-06-17 16:31:17] Successfully selected RTO: JAMUI - BR46( 07-JUN-2017 )
+[2025-06-17 16:31:17] Applying left panel filters
+[2025-06-17 16:31:17] Clicked right refresh button using method 1
+[2025-06-17 16:31:22] Opening left panel if needed
+[2025-06-17 16:31:22] Clicked left panel toggler using method 1
+[2025-06-17 16:31:22] Expanded left panel
+[2025-06-17 16:31:23] Selecting vehicle categories and fuel types
+[2025-06-17 16:31:24] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:31:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:31:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:31:26] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:31:27] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:31:27] Vehicle categories and fuel types selected
+[2025-06-17 16:31:28] Clicking left refresh button
+[2025-06-17 16:31:28] Clicked left refresh button using method 1
+[2025-06-17 16:31:28] Left refresh button clicked
+[2025-06-17 16:31:33] Left panel collapsed successfully.
+[2025-06-17 16:31:33] Downloading Excel file for Bihar(48), JAMUI - BR46( 07-JUN-2017 ), 2023
+[2025-06-17 16:31:33] Clicked Excel download button using method 1
+[2025-06-17 16:31:33] Clicked Excel download button
+[2025-06-17 16:31:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:31:37] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:32:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\JAMUI - BR46( 07-JUN-2017 ).xlsx
+[2025-06-17 16:32:37] Successfully processed RTO: JAMUI - BR46( 07-JUN-2017 )
+[2025-06-17 16:32:37] 
+Processing RTO 20/49: JEHANABAD - BR25( 26-MAY-2017 ) (Attempt 1/2)
+[2025-06-17 16:32:37] Selecting RTO: JEHANABAD - BR25( 26-MAY-2017 )
+[2025-06-17 16:32:38] Clicked RTO dropdown using method 1
+[2025-06-17 16:32:39] Clicked RTO option: JEHANABAD - BR25( 26-MAY-2017 ) using method 1
+[2025-06-17 16:32:39] Successfully selected RTO: JEHANABAD - BR25( 26-MAY-2017 )
+[2025-06-17 16:32:39] Applying left panel filters
+[2025-06-17 16:32:39] Clicked right refresh button using method 1
+[2025-06-17 16:32:44] Opening left panel if needed
+[2025-06-17 16:32:44] Clicked left panel toggler using method 1
+[2025-06-17 16:32:44] Expanded left panel
+[2025-06-17 16:32:46] Selecting vehicle categories and fuel types
+[2025-06-17 16:32:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:32:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:32:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:32:48] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:32:49] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:32:49] Vehicle categories and fuel types selected
+[2025-06-17 16:32:50] Clicking left refresh button
+[2025-06-17 16:32:50] Clicked left refresh button using method 1
+[2025-06-17 16:32:50] Left refresh button clicked
+[2025-06-17 16:32:55] Left panel collapsed successfully.
+[2025-06-17 16:32:55] Downloading Excel file for Bihar(48), JEHANABAD - BR25( 26-MAY-2017 ), 2023
+[2025-06-17 16:32:56] Clicked Excel download button using method 1
+[2025-06-17 16:32:56] Clicked Excel download button
+[2025-06-17 16:32:59] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:32:59] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:33:59] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\JEHANABAD - BR25( 26-MAY-2017 ).xlsx
+[2025-06-17 16:33:59] Successfully processed RTO: JEHANABAD - BR25( 26-MAY-2017 )
+[2025-06-17 16:33:59] 
+Processing RTO 21/49: KATIHAR - BR39( 23-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 16:33:59] Selecting RTO: KATIHAR - BR39( 23-JAN-2018 )
+[2025-06-17 16:34:00] Clicked RTO dropdown using method 1
+[2025-06-17 16:34:01] Clicked RTO option: KATIHAR - BR39( 23-JAN-2018 ) using method 1
+[2025-06-17 16:34:01] Successfully selected RTO: KATIHAR - BR39( 23-JAN-2018 )
+[2025-06-17 16:34:01] Applying left panel filters
+[2025-06-17 16:34:02] Clicked right refresh button using method 1
+[2025-06-17 16:34:06] Opening left panel if needed
+[2025-06-17 16:34:06] Clicked left panel toggler using method 1
+[2025-06-17 16:34:06] Expanded left panel
+[2025-06-17 16:34:08] Selecting vehicle categories and fuel types
+[2025-06-17 16:34:08] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:34:09] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:34:10] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:34:10] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:34:11] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:34:12] Vehicle categories and fuel types selected
+[2025-06-17 16:34:12] Clicking left refresh button
+[2025-06-17 16:34:13] Clicked left refresh button using method 1
+[2025-06-17 16:34:13] Left refresh button clicked
+[2025-06-17 16:34:17] Left panel collapsed successfully.
+[2025-06-17 16:34:17] Downloading Excel file for Bihar(48), KATIHAR - BR39( 23-JAN-2018 ), 2023
+[2025-06-17 16:34:18] Clicked Excel download button using method 1
+[2025-06-17 16:34:18] Clicked Excel download button
+[2025-06-17 16:34:22] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:34:22] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:35:22] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\KATIHAR - BR39( 23-JAN-2018 ).xlsx
+[2025-06-17 16:35:22] Successfully processed RTO: KATIHAR - BR39( 23-JAN-2018 )
+[2025-06-17 16:35:22] 
+Processing RTO 22/49: KHAGARIA - BR34( 01-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:35:22] Selecting RTO: KHAGARIA - BR34( 01-FEB-2018 )
+[2025-06-17 16:35:22] Clicked RTO dropdown using method 1
+[2025-06-17 16:35:24] Clicked RTO option: KHAGARIA - BR34( 01-FEB-2018 ) using method 1
+[2025-06-17 16:35:24] Successfully selected RTO: KHAGARIA - BR34( 01-FEB-2018 )
+[2025-06-17 16:35:24] Applying left panel filters
+[2025-06-17 16:35:25] Clicked right refresh button using method 1
+[2025-06-17 16:35:30] Opening left panel if needed
+[2025-06-17 16:35:30] Clicked left panel toggler using method 1
+[2025-06-17 16:35:30] Expanded left panel
+[2025-06-17 16:35:31] Selecting vehicle categories and fuel types
+[2025-06-17 16:35:32] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:35:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:35:33] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:35:34] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:35:35] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:35:35] Vehicle categories and fuel types selected
+[2025-06-17 16:35:36] Clicking left refresh button
+[2025-06-17 16:35:36] Clicked left refresh button using method 1
+[2025-06-17 16:35:36] Left refresh button clicked
+[2025-06-17 16:35:42] Left panel collapsed successfully.
+[2025-06-17 16:35:42] Downloading Excel file for Bihar(48), KHAGARIA - BR34( 01-FEB-2018 ), 2023
+[2025-06-17 16:35:42] Clicked Excel download button using method 1
+[2025-06-17 16:35:42] Clicked Excel download button
+[2025-06-17 16:35:45] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:35:45] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:36:45] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\KHAGARIA - BR34( 01-FEB-2018 ).xlsx
+[2025-06-17 16:36:45] Successfully processed RTO: KHAGARIA - BR34( 01-FEB-2018 )
+[2025-06-17 16:36:45] 
+Processing RTO 23/49: KISHANGANJ - BR37( 07-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:36:45] Selecting RTO: KISHANGANJ - BR37( 07-FEB-2018 )
+[2025-06-17 16:36:46] Clicked RTO dropdown using method 1
+[2025-06-17 16:36:47] Clicked RTO option: KISHANGANJ - BR37( 07-FEB-2018 ) using method 1
+[2025-06-17 16:36:48] Successfully selected RTO: KISHANGANJ - BR37( 07-FEB-2018 )
+[2025-06-17 16:36:48] Applying left panel filters
+[2025-06-17 16:36:48] Clicked right refresh button using method 1
+[2025-06-17 16:36:53] Opening left panel if needed
+[2025-06-17 16:36:53] Clicked left panel toggler using method 1
+[2025-06-17 16:36:53] Expanded left panel
+[2025-06-17 16:36:54] Selecting vehicle categories and fuel types
+[2025-06-17 16:36:55] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:36:56] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:36:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:36:57] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:36:58] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:36:58] Vehicle categories and fuel types selected
+[2025-06-17 16:36:59] Clicking left refresh button
+[2025-06-17 16:37:00] Clicked left refresh button using method 1
+[2025-06-17 16:37:00] Left refresh button clicked
+[2025-06-17 16:37:04] Left panel collapsed successfully.
+[2025-06-17 16:37:04] Downloading Excel file for Bihar(48), KISHANGANJ - BR37( 07-FEB-2018 ), 2023
+[2025-06-17 16:37:05] Clicked Excel download button using method 1
+[2025-06-17 16:37:05] Clicked Excel download button
+[2025-06-17 16:37:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:37:08] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:38:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\KISHANGANJ - BR37( 07-FEB-2018 ).xlsx
+[2025-06-17 16:38:08] Successfully processed RTO: KISHANGANJ - BR37( 07-FEB-2018 )
+[2025-06-17 16:38:08] 
+Processing RTO 24/49: LAKHISARAI - BR53( 27-JAN-2017 ) (Attempt 1/2)
+[2025-06-17 16:38:08] Selecting RTO: LAKHISARAI - BR53( 27-JAN-2017 )
+[2025-06-17 16:38:09] Clicked RTO dropdown using method 1
+[2025-06-17 16:38:10] Clicked RTO option: LAKHISARAI - BR53( 27-JAN-2017 ) using method 1
+[2025-06-17 16:38:10] Successfully selected RTO: LAKHISARAI - BR53( 27-JAN-2017 )
+[2025-06-17 16:38:10] Applying left panel filters
+[2025-06-17 16:38:11] Clicked right refresh button using method 1
+[2025-06-17 16:38:16] Opening left panel if needed
+[2025-06-17 16:38:16] Clicked left panel toggler using method 1
+[2025-06-17 16:38:16] Expanded left panel
+[2025-06-17 16:38:17] Selecting vehicle categories and fuel types
+[2025-06-17 16:38:18] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:38:18] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:38:19] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:38:20] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:38:20] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:38:21] Vehicle categories and fuel types selected
+[2025-06-17 16:38:21] Clicking left refresh button
+[2025-06-17 16:38:22] Clicked left refresh button using method 1
+[2025-06-17 16:38:22] Left refresh button clicked
+[2025-06-17 16:38:26] Left panel collapsed successfully.
+[2025-06-17 16:38:26] Downloading Excel file for Bihar(48), LAKHISARAI - BR53( 27-JAN-2017 ), 2023
+[2025-06-17 16:38:27] Clicked Excel download button using method 1
+[2025-06-17 16:38:27] Clicked Excel download button
+[2025-06-17 16:38:30] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:38:30] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:39:30] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\LAKHISARAI - BR53( 27-JAN-2017 ).xlsx
+[2025-06-17 16:39:30] Successfully processed RTO: LAKHISARAI - BR53( 27-JAN-2017 )
+[2025-06-17 16:39:30] 
+Processing RTO 25/49: MADHEPURA - BR43( 02-JUN-2017 ) (Attempt 1/2)
+[2025-06-17 16:39:30] Selecting RTO: MADHEPURA - BR43( 02-JUN-2017 )
+[2025-06-17 16:39:30] Clicked RTO dropdown using method 1
+[2025-06-17 16:39:32] Clicked RTO option: MADHEPURA - BR43( 02-JUN-2017 ) using method 1
+[2025-06-17 16:39:32] Successfully selected RTO: MADHEPURA - BR43( 02-JUN-2017 )
+[2025-06-17 16:39:32] Applying left panel filters
+[2025-06-17 16:39:32] Clicked right refresh button using method 1
+[2025-06-17 16:39:37] Opening left panel if needed
+[2025-06-17 16:39:37] Clicked left panel toggler using method 1
+[2025-06-17 16:39:37] Expanded left panel
+[2025-06-17 16:39:38] Selecting vehicle categories and fuel types
+[2025-06-17 16:39:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:39:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:39:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:39:41] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:39:41] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:39:42] Vehicle categories and fuel types selected
+[2025-06-17 16:39:42] Clicking left refresh button
+[2025-06-17 16:39:43] Clicked left refresh button using method 1
+[2025-06-17 16:39:43] Left refresh button clicked
+[2025-06-17 16:39:48] Left panel collapsed successfully.
+[2025-06-17 16:39:48] Downloading Excel file for Bihar(48), MADHEPURA - BR43( 02-JUN-2017 ), 2023
+[2025-06-17 16:39:48] Clicked Excel download button using method 1
+[2025-06-17 16:39:48] Clicked Excel download button
+[2025-06-17 16:39:52] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:39:52] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:40:52] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\MADHEPURA - BR43( 02-JUN-2017 ).xlsx
+[2025-06-17 16:40:52] Successfully processed RTO: MADHEPURA - BR43( 02-JUN-2017 )
+[2025-06-17 16:40:52] 
+Processing RTO 26/49: MADHUBANI - BR32( 01-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:40:52] Selecting RTO: MADHUBANI - BR32( 01-FEB-2018 )
+[2025-06-17 16:40:53] Clicked RTO dropdown using method 1
+[2025-06-17 16:40:54] Clicked RTO option: MADHUBANI - BR32( 01-FEB-2018 ) using method 1
+[2025-06-17 16:40:55] Successfully selected RTO: MADHUBANI - BR32( 01-FEB-2018 )
+[2025-06-17 16:40:55] Applying left panel filters
+[2025-06-17 16:40:55] Clicked right refresh button using method 1
+[2025-06-17 16:41:00] Opening left panel if needed
+[2025-06-17 16:41:00] Clicked left panel toggler using method 1
+[2025-06-17 16:41:00] Expanded left panel
+[2025-06-17 16:41:01] Selecting vehicle categories and fuel types
+[2025-06-17 16:41:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:41:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:41:03] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:41:04] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:41:05] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:41:05] Vehicle categories and fuel types selected
+[2025-06-17 16:41:06] Clicking left refresh button
+[2025-06-17 16:41:06] Clicked left refresh button using method 1
+[2025-06-17 16:41:06] Left refresh button clicked
+[2025-06-17 16:41:11] Left panel collapsed successfully.
+[2025-06-17 16:41:11] Downloading Excel file for Bihar(48), MADHUBANI - BR32( 01-FEB-2018 ), 2023
+[2025-06-17 16:41:12] Clicked Excel download button using method 1
+[2025-06-17 16:41:12] Clicked Excel download button
+[2025-06-17 16:41:16] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:41:16] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:42:16] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\MADHUBANI - BR32( 01-FEB-2018 ).xlsx
+[2025-06-17 16:42:16] Successfully processed RTO: MADHUBANI - BR32( 01-FEB-2018 )
+[2025-06-17 16:42:16] 
+Processing RTO 27/49: MOTIHARI - BR5( 05-JUL-2017 ) (Attempt 1/2)
+[2025-06-17 16:42:16] Selecting RTO: MOTIHARI - BR5( 05-JUL-2017 )
+[2025-06-17 16:42:16] Clicked RTO dropdown using method 1
+[2025-06-17 16:42:17] Clicked RTO option: MOTIHARI - BR5( 05-JUL-2017 ) using method 1
+[2025-06-17 16:42:18] Successfully selected RTO: MOTIHARI - BR5( 05-JUL-2017 )
+[2025-06-17 16:42:18] Applying left panel filters
+[2025-06-17 16:42:18] Clicked right refresh button using method 1
+[2025-06-17 16:42:23] Opening left panel if needed
+[2025-06-17 16:42:23] Clicked left panel toggler using method 1
+[2025-06-17 16:42:23] Expanded left panel
+[2025-06-17 16:42:25] Selecting vehicle categories and fuel types
+[2025-06-17 16:42:25] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:42:26] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:42:27] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:42:27] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:42:28] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:42:28] Vehicle categories and fuel types selected
+[2025-06-17 16:42:29] Clicking left refresh button
+[2025-06-17 16:42:29] Clicked left refresh button using method 1
+[2025-06-17 16:42:29] Left refresh button clicked
+[2025-06-17 16:42:34] Left panel collapsed successfully.
+[2025-06-17 16:42:34] Downloading Excel file for Bihar(48), MOTIHARI - BR5( 05-JUL-2017 ), 2023
+[2025-06-17 16:42:35] Clicked Excel download button using method 1
+[2025-06-17 16:42:35] Clicked Excel download button
+[2025-06-17 16:42:39] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:42:39] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:43:39] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\MOTIHARI - BR5( 05-JUL-2017 ).xlsx
+[2025-06-17 16:43:39] Successfully processed RTO: MOTIHARI - BR5( 05-JUL-2017 )
+[2025-06-17 16:43:39] 
+Processing RTO 28/49: M/S MURARI AUTO,Patna - BR201( 19-DEC-2019 ) (Attempt 1/2)
+[2025-06-17 16:43:39] Selecting RTO: M/S MURARI AUTO,Patna - BR201( 19-DEC-2019 )
+[2025-06-17 16:43:39] Clicked RTO dropdown using method 1
+[2025-06-17 16:43:40] Clicked RTO option: M/S MURARI AUTO,Patna - BR201( 19-DEC-2019 ) using method 1
+[2025-06-17 16:43:40] Successfully selected RTO: M/S MURARI AUTO,Patna - BR201( 19-DEC-2019 )
+[2025-06-17 16:43:40] Applying left panel filters
+[2025-06-17 16:43:41] Clicked right refresh button using method 1
+[2025-06-17 16:43:45] Opening left panel if needed
+[2025-06-17 16:43:45] Clicked left panel toggler using method 1
+[2025-06-17 16:43:45] Expanded left panel
+[2025-06-17 16:43:47] Selecting vehicle categories and fuel types
+[2025-06-17 16:43:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:43:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:43:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:43:49] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:43:50] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:43:51] Vehicle categories and fuel types selected
+[2025-06-17 16:43:51] Clicking left refresh button
+[2025-06-17 16:43:52] Clicked left refresh button using method 1
+[2025-06-17 16:43:52] Left refresh button clicked
+[2025-06-17 16:43:57] Left panel collapsed successfully.
+[2025-06-17 16:43:57] Downloading Excel file for Bihar(48), M/S MURARI AUTO,Patna - BR201( 19-DEC-2019 ), 2023
+[2025-06-17 16:43:57] Clicked Excel download button using method 1
+[2025-06-17 16:43:57] Clicked Excel download button
+[2025-06-17 16:44:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:44:00] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:45:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\M_S MURARI AUTO,Patna - BR201( 19-DEC-2019 ).xlsx
+[2025-06-17 16:45:00] Successfully processed RTO: M/S MURARI AUTO,Patna - BR201( 19-DEC-2019 )
+[2025-06-17 16:45:00] 
+Processing RTO 29/49: MUNGER - BR8( 06-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:45:00] Selecting RTO: MUNGER - BR8( 06-FEB-2018 )
+[2025-06-17 16:45:01] Clicked RTO dropdown using method 1
+[2025-06-17 16:45:02] Clicked RTO option: MUNGER - BR8( 06-FEB-2018 ) using method 1
+[2025-06-17 16:45:03] Successfully selected RTO: MUNGER - BR8( 06-FEB-2018 )
+[2025-06-17 16:45:03] Applying left panel filters
+[2025-06-17 16:45:03] Clicked right refresh button using method 1
+[2025-06-17 16:45:07] Opening left panel if needed
+[2025-06-17 16:45:08] Clicked left panel toggler using method 1
+[2025-06-17 16:45:08] Expanded left panel
+[2025-06-17 16:45:09] Selecting vehicle categories and fuel types
+[2025-06-17 16:45:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:45:10] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:45:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:45:12] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:45:12] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:45:13] Vehicle categories and fuel types selected
+[2025-06-17 16:45:13] Clicking left refresh button
+[2025-06-17 16:45:14] Clicked left refresh button using method 1
+[2025-06-17 16:45:14] Left refresh button clicked
+[2025-06-17 16:45:19] Left panel collapsed successfully.
+[2025-06-17 16:45:19] Downloading Excel file for Bihar(48), MUNGER - BR8( 06-FEB-2018 ), 2023
+[2025-06-17 16:45:20] Clicked Excel download button using method 1
+[2025-06-17 16:45:20] Clicked Excel download button
+[2025-06-17 16:45:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:45:23] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:46:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\MUNGER - BR8( 06-FEB-2018 ).xlsx
+[2025-06-17 16:46:23] Successfully processed RTO: MUNGER - BR8( 06-FEB-2018 )
+[2025-06-17 16:46:23] 
+Processing RTO 30/49: MUNGER RTA - BR104( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 16:46:23] Selecting RTO: MUNGER RTA - BR104( 13-DEC-2018 )
+[2025-06-17 16:46:24] Clicked RTO dropdown using method 1
+[2025-06-17 16:46:25] Clicked RTO option: MUNGER RTA - BR104( 13-DEC-2018 ) using method 1
+[2025-06-17 16:46:25] Successfully selected RTO: MUNGER RTA - BR104( 13-DEC-2018 )
+[2025-06-17 16:46:25] Applying left panel filters
+[2025-06-17 16:46:25] Clicked right refresh button using method 1
+[2025-06-17 16:46:29] Opening left panel if needed
+[2025-06-17 16:46:30] Clicked left panel toggler using method 1
+[2025-06-17 16:46:30] Expanded left panel
+[2025-06-17 16:46:31] Selecting vehicle categories and fuel types
+[2025-06-17 16:46:31] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:46:32] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:46:33] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:46:34] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:46:35] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:46:35] Vehicle categories and fuel types selected
+[2025-06-17 16:46:36] Clicking left refresh button
+[2025-06-17 16:46:36] Clicked left refresh button using method 1
+[2025-06-17 16:46:36] Left refresh button clicked
+[2025-06-17 16:46:41] Left panel collapsed successfully.
+[2025-06-17 16:46:41] Downloading Excel file for Bihar(48), MUNGER RTA - BR104( 13-DEC-2018 ), 2023
+[2025-06-17 16:46:41] Clicked Excel download button using method 1
+[2025-06-17 16:46:41] Clicked Excel download button
+[2025-06-17 16:46:45] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:46:45] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:47:45] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\MUNGER RTA - BR104( 13-DEC-2018 ).xlsx
+[2025-06-17 16:47:45] Successfully processed RTO: MUNGER RTA - BR104( 13-DEC-2018 )
+[2025-06-17 16:47:45] 
+Processing RTO 31/49: MUZAFFARPUR - BR6( 01-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:47:45] Selecting RTO: MUZAFFARPUR - BR6( 01-FEB-2018 )
+[2025-06-17 16:47:45] Clicked RTO dropdown using method 1
+[2025-06-17 16:47:46] Clicked RTO option: MUZAFFARPUR - BR6( 01-FEB-2018 ) using method 1
+[2025-06-17 16:47:46] Successfully selected RTO: MUZAFFARPUR - BR6( 01-FEB-2018 )
+[2025-06-17 16:47:46] Applying left panel filters
+[2025-06-17 16:47:47] Clicked right refresh button using method 1
+[2025-06-17 16:47:52] Opening left panel if needed
+[2025-06-17 16:47:52] Clicked left panel toggler using method 1
+[2025-06-17 16:47:52] Expanded left panel
+[2025-06-17 16:47:53] Selecting vehicle categories and fuel types
+[2025-06-17 16:47:54] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:47:54] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:47:55] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:47:56] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:47:57] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:47:58] Vehicle categories and fuel types selected
+[2025-06-17 16:47:58] Clicking left refresh button
+[2025-06-17 16:47:58] Clicked left refresh button using method 1
+[2025-06-17 16:47:58] Left refresh button clicked
+[2025-06-17 16:48:04] Left panel collapsed successfully.
+[2025-06-17 16:48:04] Downloading Excel file for Bihar(48), MUZAFFARPUR - BR6( 01-FEB-2018 ), 2023
+[2025-06-17 16:48:04] Clicked Excel download button using method 1
+[2025-06-17 16:48:04] Clicked Excel download button
+[2025-06-17 16:48:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:48:08] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:49:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\MUZAFFARPUR - BR6( 01-FEB-2018 ).xlsx
+[2025-06-17 16:49:08] Successfully processed RTO: MUZAFFARPUR - BR6( 01-FEB-2018 )
+[2025-06-17 16:49:08] 
+Processing RTO 32/49: MUZAFFARPUR RTA - BR106( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 16:49:08] Selecting RTO: MUZAFFARPUR RTA - BR106( 13-DEC-2018 )
+[2025-06-17 16:49:08] Clicked RTO dropdown using method 1
+[2025-06-17 16:49:10] Clicked RTO option: MUZAFFARPUR RTA - BR106( 13-DEC-2018 ) using method 1
+[2025-06-17 16:49:10] Successfully selected RTO: MUZAFFARPUR RTA - BR106( 13-DEC-2018 )
+[2025-06-17 16:49:10] Applying left panel filters
+[2025-06-17 16:49:11] Clicked right refresh button using method 1
+[2025-06-17 16:49:15] Opening left panel if needed
+[2025-06-17 16:49:15] Clicked left panel toggler using method 1
+[2025-06-17 16:49:15] Expanded left panel
+[2025-06-17 16:49:16] Selecting vehicle categories and fuel types
+[2025-06-17 16:49:17] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:49:18] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:49:18] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:49:19] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:49:20] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:49:20] Vehicle categories and fuel types selected
+[2025-06-17 16:49:21] Clicking left refresh button
+[2025-06-17 16:49:22] Clicked left refresh button using method 1
+[2025-06-17 16:49:22] Left refresh button clicked
+[2025-06-17 16:49:27] Left panel collapsed successfully.
+[2025-06-17 16:49:27] Downloading Excel file for Bihar(48), MUZAFFARPUR RTA - BR106( 13-DEC-2018 ), 2023
+[2025-06-17 16:49:27] Clicked Excel download button using method 1
+[2025-06-17 16:49:27] Clicked Excel download button
+[2025-06-17 16:49:31] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:49:31] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:50:31] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\MUZAFFARPUR RTA - BR106( 13-DEC-2018 ).xlsx
+[2025-06-17 16:50:31] Successfully processed RTO: MUZAFFARPUR RTA - BR106( 13-DEC-2018 )
+[2025-06-17 16:50:31] 
+Processing RTO 33/49: NALANDA - BR21( 01-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:50:31] Selecting RTO: NALANDA - BR21( 01-FEB-2018 )
+[2025-06-17 16:50:32] Clicked RTO dropdown using method 1
+[2025-06-17 16:50:33] Clicked RTO option: NALANDA - BR21( 01-FEB-2018 ) using method 1
+[2025-06-17 16:50:33] Successfully selected RTO: NALANDA - BR21( 01-FEB-2018 )
+[2025-06-17 16:50:33] Applying left panel filters
+[2025-06-17 16:50:34] Clicked right refresh button using method 1
+[2025-06-17 16:50:38] Opening left panel if needed
+[2025-06-17 16:50:38] Clicked left panel toggler using method 1
+[2025-06-17 16:50:38] Expanded left panel
+[2025-06-17 16:50:40] Selecting vehicle categories and fuel types
+[2025-06-17 16:50:40] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:50:41] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:50:41] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:50:42] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:50:43] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:50:43] Vehicle categories and fuel types selected
+[2025-06-17 16:50:44] Clicking left refresh button
+[2025-06-17 16:50:44] Clicked left refresh button using method 1
+[2025-06-17 16:50:44] Left refresh button clicked
+[2025-06-17 16:50:49] Left panel collapsed successfully.
+[2025-06-17 16:50:49] Downloading Excel file for Bihar(48), NALANDA - BR21( 01-FEB-2018 ), 2023
+[2025-06-17 16:50:50] Clicked Excel download button using method 1
+[2025-06-17 16:50:50] Clicked Excel download button
+[2025-06-17 16:50:53] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:50:53] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:51:53] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\NALANDA - BR21( 01-FEB-2018 ).xlsx
+[2025-06-17 16:51:53] Successfully processed RTO: NALANDA - BR21( 01-FEB-2018 )
+[2025-06-17 16:51:53] 
+Processing RTO 34/49: NAWADA - BR27( 30-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 16:51:53] Selecting RTO: NAWADA - BR27( 30-JAN-2018 )
+[2025-06-17 16:51:54] Clicked RTO dropdown using method 1
+[2025-06-17 16:51:55] Clicked RTO option: NAWADA - BR27( 30-JAN-2018 ) using method 1
+[2025-06-17 16:51:55] Successfully selected RTO: NAWADA - BR27( 30-JAN-2018 )
+[2025-06-17 16:51:55] Applying left panel filters
+[2025-06-17 16:51:56] Clicked right refresh button using method 1
+[2025-06-17 16:52:00] Opening left panel if needed
+[2025-06-17 16:52:00] Clicked left panel toggler using method 1
+[2025-06-17 16:52:00] Expanded left panel
+[2025-06-17 16:52:02] Selecting vehicle categories and fuel types
+[2025-06-17 16:52:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:52:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:52:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:52:05] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:52:06] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:52:06] Vehicle categories and fuel types selected
+[2025-06-17 16:52:07] Clicking left refresh button
+[2025-06-17 16:52:08] Clicked left refresh button using method 1
+[2025-06-17 16:52:08] Left refresh button clicked
+[2025-06-17 16:52:12] Left panel collapsed successfully.
+[2025-06-17 16:52:12] Downloading Excel file for Bihar(48), NAWADA - BR27( 30-JAN-2018 ), 2023
+[2025-06-17 16:52:13] Clicked Excel download button using method 1
+[2025-06-17 16:52:13] Clicked Excel download button
+[2025-06-17 16:52:16] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:52:16] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:53:16] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\NAWADA - BR27( 30-JAN-2018 ).xlsx
+[2025-06-17 16:53:16] Successfully processed RTO: NAWADA - BR27( 30-JAN-2018 )
+[2025-06-17 16:53:16] 
+Processing RTO 35/49: PATNA - BR1( 02-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:53:16] Selecting RTO: PATNA - BR1( 02-FEB-2018 )
+[2025-06-17 16:53:17] Clicked RTO dropdown using method 1
+[2025-06-17 16:53:18] Clicked RTO option: PATNA - BR1( 02-FEB-2018 ) using method 1
+[2025-06-17 16:53:19] Successfully selected RTO: PATNA - BR1( 02-FEB-2018 )
+[2025-06-17 16:53:19] Applying left panel filters
+[2025-06-17 16:53:19] Clicked right refresh button using method 1
+[2025-06-17 16:53:24] Opening left panel if needed
+[2025-06-17 16:53:24] Clicked left panel toggler using method 1
+[2025-06-17 16:53:24] Expanded left panel
+[2025-06-17 16:53:26] Selecting vehicle categories and fuel types
+[2025-06-17 16:53:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:53:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:53:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:53:29] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:53:30] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:53:30] Vehicle categories and fuel types selected
+[2025-06-17 16:53:31] Clicking left refresh button
+[2025-06-17 16:53:31] Clicked left refresh button using method 1
+[2025-06-17 16:53:31] Left refresh button clicked
+[2025-06-17 16:53:36] Left panel collapsed successfully.
+[2025-06-17 16:53:36] Downloading Excel file for Bihar(48), PATNA - BR1( 02-FEB-2018 ), 2023
+[2025-06-17 16:53:37] Clicked Excel download button using method 1
+[2025-06-17 16:53:37] Clicked Excel download button
+[2025-06-17 16:53:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:53:40] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:54:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\PATNA - BR1( 02-FEB-2018 ).xlsx
+[2025-06-17 16:54:40] Successfully processed RTO: PATNA - BR1( 02-FEB-2018 )
+[2025-06-17 16:54:40] 
+Processing RTO 36/49: PATNA RTA - BR101( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 16:54:40] Selecting RTO: PATNA RTA - BR101( 13-DEC-2018 )
+[2025-06-17 16:54:40] Clicked RTO dropdown using method 1
+[2025-06-17 16:54:41] Clicked RTO option: PATNA RTA - BR101( 13-DEC-2018 ) using method 1
+[2025-06-17 16:54:42] Successfully selected RTO: PATNA RTA - BR101( 13-DEC-2018 )
+[2025-06-17 16:54:42] Applying left panel filters
+[2025-06-17 16:54:42] Clicked right refresh button using method 1
+[2025-06-17 16:54:46] Opening left panel if needed
+[2025-06-17 16:54:46] Clicked left panel toggler using method 1
+[2025-06-17 16:54:46] Expanded left panel
+[2025-06-17 16:54:48] Selecting vehicle categories and fuel types
+[2025-06-17 16:54:49] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:54:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:54:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:54:51] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:54:52] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:54:52] Vehicle categories and fuel types selected
+[2025-06-17 16:54:53] Clicking left refresh button
+[2025-06-17 16:54:53] Clicked left refresh button using method 1
+[2025-06-17 16:54:53] Left refresh button clicked
+[2025-06-17 16:54:59] Left panel collapsed successfully.
+[2025-06-17 16:54:59] Downloading Excel file for Bihar(48), PATNA RTA - BR101( 13-DEC-2018 ), 2023
+[2025-06-17 16:54:59] Clicked Excel download button using method 1
+[2025-06-17 16:54:59] Clicked Excel download button
+[2025-06-17 16:55:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:55:03] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:56:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\PATNA RTA - BR101( 13-DEC-2018 ).xlsx
+[2025-06-17 16:56:03] Successfully processed RTO: PATNA RTA - BR101( 13-DEC-2018 )
+[2025-06-17 16:56:03] 
+Processing RTO 37/49: PURNEA - BR11( 23-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 16:56:03] Selecting RTO: PURNEA - BR11( 23-JAN-2018 )
+[2025-06-17 16:56:03] Clicked RTO dropdown using method 1
+[2025-06-17 16:56:04] Clicked RTO option: PURNEA - BR11( 23-JAN-2018 ) using method 1
+[2025-06-17 16:56:05] Successfully selected RTO: PURNEA - BR11( 23-JAN-2018 )
+[2025-06-17 16:56:05] Applying left panel filters
+[2025-06-17 16:56:05] Clicked right refresh button using method 1
+[2025-06-17 16:56:09] Opening left panel if needed
+[2025-06-17 16:56:09] Clicked left panel toggler using method 1
+[2025-06-17 16:56:09] Expanded left panel
+[2025-06-17 16:56:11] Selecting vehicle categories and fuel types
+[2025-06-17 16:56:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:56:12] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:56:13] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:56:14] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:56:15] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:56:15] Vehicle categories and fuel types selected
+[2025-06-17 16:56:16] Clicking left refresh button
+[2025-06-17 16:56:16] Clicked left refresh button using method 1
+[2025-06-17 16:56:16] Left refresh button clicked
+[2025-06-17 16:56:21] Left panel collapsed successfully.
+[2025-06-17 16:56:21] Downloading Excel file for Bihar(48), PURNEA - BR11( 23-JAN-2018 ), 2023
+[2025-06-17 16:56:22] Clicked Excel download button using method 1
+[2025-06-17 16:56:22] Clicked Excel download button
+[2025-06-17 16:56:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:56:25] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:57:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\PURNEA - BR11( 23-JAN-2018 ).xlsx
+[2025-06-17 16:57:25] Successfully processed RTO: PURNEA - BR11( 23-JAN-2018 )
+[2025-06-17 16:57:25] 
+Processing RTO 38/49: PURNEA RTA - BR108( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 16:57:25] Selecting RTO: PURNEA RTA - BR108( 13-DEC-2018 )
+[2025-06-17 16:57:26] Clicked RTO dropdown using method 1
+[2025-06-17 16:57:27] Clicked RTO option: PURNEA RTA - BR108( 13-DEC-2018 ) using method 1
+[2025-06-17 16:57:28] Successfully selected RTO: PURNEA RTA - BR108( 13-DEC-2018 )
+[2025-06-17 16:57:28] Applying left panel filters
+[2025-06-17 16:57:28] Clicked right refresh button using method 1
+[2025-06-17 16:57:33] Opening left panel if needed
+[2025-06-17 16:57:33] Clicked left panel toggler using method 1
+[2025-06-17 16:57:33] Expanded left panel
+[2025-06-17 16:57:35] Selecting vehicle categories and fuel types
+[2025-06-17 16:57:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:57:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:57:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:57:37] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:57:38] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:57:38] Vehicle categories and fuel types selected
+[2025-06-17 16:57:39] Clicking left refresh button
+[2025-06-17 16:57:39] Clicked left refresh button using method 1
+[2025-06-17 16:57:39] Left refresh button clicked
+[2025-06-17 16:57:44] Left panel collapsed successfully.
+[2025-06-17 16:57:44] Downloading Excel file for Bihar(48), PURNEA RTA - BR108( 13-DEC-2018 ), 2023
+[2025-06-17 16:57:45] Clicked Excel download button using method 1
+[2025-06-17 16:57:45] Clicked Excel download button
+[2025-06-17 16:57:48] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:57:48] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 16:58:48] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\PURNEA RTA - BR108( 13-DEC-2018 ).xlsx
+[2025-06-17 16:58:49] Successfully processed RTO: PURNEA RTA - BR108( 13-DEC-2018 )
+[2025-06-17 16:58:49] 
+Processing RTO 39/49: ROHTAS - BR24( 09-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 16:58:49] Selecting RTO: ROHTAS - BR24( 09-FEB-2018 )
+[2025-06-17 16:58:49] Clicked RTO dropdown using method 1
+[2025-06-17 16:58:50] Clicked RTO option: ROHTAS - BR24( 09-FEB-2018 ) using method 1
+[2025-06-17 16:58:50] Successfully selected RTO: ROHTAS - BR24( 09-FEB-2018 )
+[2025-06-17 16:58:50] Applying left panel filters
+[2025-06-17 16:58:51] Clicked right refresh button using method 1
+[2025-06-17 16:58:56] Opening left panel if needed
+[2025-06-17 16:58:56] Clicked left panel toggler using method 1
+[2025-06-17 16:58:56] Expanded left panel
+[2025-06-17 16:58:57] Selecting vehicle categories and fuel types
+[2025-06-17 16:58:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 16:58:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 16:58:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 16:58:59] Clicked checkbox fuel:7 using method 2
+[2025-06-17 16:59:00] Clicked checkbox fuel:21 using method 2
+[2025-06-17 16:59:01] Vehicle categories and fuel types selected
+[2025-06-17 16:59:01] Clicking left refresh button
+[2025-06-17 16:59:02] Clicked left refresh button using method 1
+[2025-06-17 16:59:02] Left refresh button clicked
+[2025-06-17 16:59:07] Left panel collapsed successfully.
+[2025-06-17 16:59:07] Downloading Excel file for Bihar(48), ROHTAS - BR24( 09-FEB-2018 ), 2023
+[2025-06-17 16:59:08] Clicked Excel download button using method 1
+[2025-06-17 16:59:08] Clicked Excel download button
+[2025-06-17 16:59:12] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 16:59:12] Inside_wait_for_download_and_rename for Bihar
+[2025-06-17 18:28:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Bihar(48)\ROHTAS - BR24( 09-FEB-2018 ).xlsx
+[2025-06-17 18:28:26] Error processing downloaded file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Siddham Jain\\Downloads\\VahanGemini\\rto_wise_data\\2023\\reportTable.xlsx'
+[2025-06-17 18:28:26] Failed to download Excel
+[2025-06-17 18:28:26] Attempt 1 failed for RTO: ROHTAS - BR24( 09-FEB-2018 )
+[2025-06-17 18:28:26] Attempting to recover...
+[2025-06-17 18:28:26] Attempting to recover state...
+[2025-06-17 18:28:29] Error in recover_state: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea1113]
+	(No symbol) [0x0xe908a0]
+	(No symbol) [0x0xeae8c2]
+	(No symbol) [0x0xf1519c]
+	(No symbol) [0x0xf2f359]
+	(No symbol) [0x0xf0e376]
+	(No symbol) [0x0xedd6e0]
+	(No symbol) [0x0xede544]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	GetHandleVerifier [0x0x107b6e8+95912]
+	GetHandleVerifier [0x0x107b890+96336]
+	GetHandleVerifier [0x0x106666a+9770]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:29] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:29] 
+Processing RTO 40/49: SAHARSA - BR19( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 18:28:29] Selecting RTO: SAHARSA - BR19( 29-JAN-2018 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: SAHARSA - BR19( 29-JAN-2018 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: SAHARSA - BR19( 29-JAN-2018 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 41/49: SAHARSA RTA - BR105( 13-DEC-2018 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: SAHARSA RTA - BR105( 13-DEC-2018 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: SAHARSA RTA - BR105( 13-DEC-2018 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: SAHARSA RTA - BR105( 13-DEC-2018 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 42/49: SAMASTIPUR - BR33( 06-JUL-2017 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: SAMASTIPUR - BR33( 06-JUL-2017 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: SAMASTIPUR - BR33( 06-JUL-2017 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: SAMASTIPUR - BR33( 06-JUL-2017 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 43/49: SHEIKHPURA - BR52( 17-JUL-2017 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: SHEIKHPURA - BR52( 17-JUL-2017 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: SHEIKHPURA - BR52( 17-JUL-2017 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: SHEIKHPURA - BR52( 17-JUL-2017 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 44/49: SHEOHAR - BR55( 07-JUN-2017 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: SHEOHAR - BR55( 07-JUN-2017 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: SHEOHAR - BR55( 07-JUN-2017 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: SHEOHAR - BR55( 07-JUN-2017 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 45/49: SITAMARHI - BR30( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: SITAMARHI - BR30( 29-JAN-2018 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: SITAMARHI - BR30( 29-JAN-2018 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: SITAMARHI - BR30( 29-JAN-2018 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 46/49: SIWAN - BR29( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: SIWAN - BR29( 29-JAN-2018 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: SIWAN - BR29( 29-JAN-2018 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: SIWAN - BR29( 29-JAN-2018 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 47/49: STA BIHAR - BR999( 20-NOV-2019 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: STA BIHAR - BR999( 20-NOV-2019 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: STA BIHAR - BR999( 20-NOV-2019 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: STA BIHAR - BR999( 20-NOV-2019 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 48/49: SUPAUL - BR50( 29-JAN-2018 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: SUPAUL - BR50( 29-JAN-2018 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: SUPAUL - BR50( 29-JAN-2018 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: SUPAUL - BR50( 29-JAN-2018 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+Processing RTO 49/49: VAISHALI - BR31( 13-FEB-2018 ) (Attempt 1/2)
+[2025-06-17 18:28:30] Selecting RTO: VAISHALI - BR31( 13-FEB-2018 )
+[2025-06-17 18:28:30] Failed to find RTO dropdown: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Could not find RTO dropdown
+[2025-06-17 18:28:30] Failed to select RTO: VAISHALI - BR31( 13-FEB-2018 )
+[2025-06-17 18:28:30] Attempt 1 failed for RTO: VAISHALI - BR31( 13-FEB-2018 )
+[2025-06-17 18:28:30] Attempting to recover...
+[2025-06-17 18:28:30] Attempting to recover state...
+[2025-06-17 18:28:30] Error in recover_state: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Recovery failed, marking RTO as failed
+[2025-06-17 18:28:30] 
+=== Processing completed for Bihar(48) ===
+
+[2025-06-17 18:28:30] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 18:28:30] 
+Processing state: Chhattisgarh(31), Year: 2023
+[2025-06-17 18:28:30] 
+=== Starting RTO-wise processing for Chhattisgarh(31), 2023 ===
+
+[2025-06-17 18:28:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 18:28:30] Error in setup_axis: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Failed to setup axis configuration
+[2025-06-17 18:28:30] 
+=== Processing completed for Chhattisgarh(31) ===
+
+[2025-06-17 18:28:30] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 18:28:30] 
+Processing state: Delhi(16), Year: 2023
+[2025-06-17 18:28:30] 
+=== Starting RTO-wise processing for Delhi(16), 2023 ===
+
+[2025-06-17 18:28:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 18:28:30] Error in setup_axis: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Failed to setup axis configuration
+[2025-06-17 18:28:30] 
+=== Processing completed for Delhi(16) ===
+
+[2025-06-17 18:28:30] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 18:28:30] 
+Processing state: Goa(13), Year: 2023
+[2025-06-17 18:28:30] 
+=== Starting RTO-wise processing for Goa(13), 2023 ===
+
+[2025-06-17 18:28:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 18:28:30] Error in setup_axis: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Failed to setup axis configuration
+[2025-06-17 18:28:30] 
+=== Processing completed for Goa(13) ===
+
+[2025-06-17 18:28:30] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 18:28:30] 
+Processing state: Madhya Pradesh(53), Year: 2023
+[2025-06-17 18:28:30] 
+=== Starting RTO-wise processing for Madhya Pradesh(53), 2023 ===
+
+[2025-06-17 18:28:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 18:28:30] Error in setup_axis: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Failed to setup axis configuration
+[2025-06-17 18:28:30] 
+=== Processing completed for Madhya Pradesh(53) ===
+
+[2025-06-17 18:28:30] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 18:28:30] 
+Processing state: Maharashtra(57), Year: 2023
+[2025-06-17 18:28:30] 
+=== Starting RTO-wise processing for Maharashtra(57), 2023 ===
+
+[2025-06-17 18:28:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 18:28:30] Error in setup_axis: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Failed to setup axis configuration
+[2025-06-17 18:28:30] 
+=== Processing completed for Maharashtra(57) ===
+
+[2025-06-17 18:28:30] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 18:28:30] 
+Processing state: Rajasthan(59), Year: 2023
+[2025-06-17 18:28:30] 
+=== Starting RTO-wise processing for Rajasthan(59), 2023 ===
+
+[2025-06-17 18:28:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 18:28:30] Error in setup_axis: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Failed to setup axis configuration
+[2025-06-17 18:28:30] 
+=== Processing completed for Rajasthan(59) ===
+
+[2025-06-17 18:28:30] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 18:28:30] 
+Processing state: Tamil Nadu(148), Year: 2023
+[2025-06-17 18:28:30] 
+=== Starting RTO-wise processing for Tamil Nadu(148), 2023 ===
+
+[2025-06-17 18:28:30] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 18:28:30] Error in setup_axis: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x1073783+63299]
+	GetHandleVerifier [0x0x10737c4+63364]
+	(No symbol) [0x0xea0f70]
+	(No symbol) [0x0xedc9a8]
+	(No symbol) [0x0xf0e436]
+	(No symbol) [0x0xf09f05]
+	(No symbol) [0x0xf09486]
+	(No symbol) [0x0xe73a05]
+	(No symbol) [0x0xe73f5e]
+	(No symbol) [0x0xe743ed]
+	GetHandleVerifier [0x0x12ce073+2531379]
+	GetHandleVerifier [0x0x12c9372+2511666]
+	GetHandleVerifier [0x0x1099efa+220858]
+	GetHandleVerifier [0x0x108a548+156936]
+	GetHandleVerifier [0x0x1090c7d+183357]
+	(No symbol) [0x0xe736d0]
+	(No symbol) [0x0xe72edd]
+	GetHandleVerifier [0x0x1407f1c+3817180]
+	BaseThreadInitThunk [0x0x762c7ba9+25]
+	RtlInitializeExceptionChain [0x0x7784bb3b+107]
+	RtlClearBits [0x0x7784babf+191]
+
+[2025-06-17 18:28:30] Failed to setup axis configuration
+[2025-06-17 18:28:30] 
+=== Processing completed for Tamil Nadu(148) ===
+
+[2025-06-17 18:28:30] Unexpected error in process_rto_wise_data: name 'rto_list' is not defined
+[2025-06-17 18:28:30] 
+=== Processing Summary (Failed) ===
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Assam(33) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Bihar(48) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Chhattisgarh(31) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Delhi(16) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Goa(13) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Madhya Pradesh(53) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Maharashtra(57) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Rajasthan(59) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)
+[2025-06-17 18:28:30] Failed to process 1 RTOs in Tamil Nadu(148) (2023):
+[2025-06-17 18:28:30]   - All RTOs (unexpected error)

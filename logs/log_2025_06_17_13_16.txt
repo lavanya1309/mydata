@@ -1,0 +1,2437 @@
+[2025-06-17 13:16:53] Loading page
+[2025-06-17 13:16:55] Page loaded
+[2025-06-17 13:16:55] 
+=== Starting RTO-wise processing ===
+[2025-06-17 13:16:55] Download directory updated to: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:16:55] 
+Processing state: Andhra Pradesh(83), Year: 2023
+[2025-06-17 13:16:55] 
+=== Starting RTO-wise processing for Andhra Pradesh(83), 2023 ===
+
+[2025-06-17 13:16:55] Setting up X-axis (Month Wise) and Y-axis (Maker)...
+[2025-06-17 13:16:55] Clicked Y-axis dropdown using method 1
+[2025-06-17 13:16:56] Clicked Maker option using method 1
+[2025-06-17 13:16:57] Clicked X-axis dropdown using method 1
+[2025-06-17 13:16:58] Clicked Month Wise option using method 1
+[2025-06-17 13:16:59] Axis setup completed
+[2025-06-17 13:16:59] Selecting State: Andhra Pradesh(83)
+[2025-06-17 13:17:00] Clicked state dropdown label using method 1
+[2025-06-17 13:17:01] Clicked state option: Andhra Pradesh(83) using method 1
+[2025-06-17 13:17:02] Successfully selected state: Andhra Pradesh(83)
+[2025-06-17 13:17:02] Selecting Year: 2023
+[2025-06-17 13:17:02] Clicked year dropdown using method 1
+[2025-06-17 13:17:03] Clicked year option: 2023 using method 1
+[2025-06-17 13:17:03] Successfully selected year: 2023
+[2025-06-17 13:17:03] Getting list of all RTOs for the selected state
+[2025-06-17 13:17:04] Clicked RTO dropdown label using method 1
+[2025-06-17 13:17:05] Found 83 RTOs for the state
+[2025-06-17 13:17:05] 
+Processing RTO 1/83: Adoni RTO - AP221( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:17:05] Selecting RTO: Adoni RTO - AP221( 06-MAY-2022 )
+[2025-06-17 13:17:05] Clicked RTO dropdown using method 1
+[2025-06-17 13:17:07] Clicked RTO option: Adoni RTO - AP221( 06-MAY-2022 ) using method 1
+[2025-06-17 13:17:07] Successfully selected RTO: Adoni RTO - AP221( 06-MAY-2022 )
+[2025-06-17 13:17:07] Applying left panel filters
+[2025-06-17 13:17:08] Clicked right refresh button using method 1
+[2025-06-17 13:17:12] Opening left panel if needed
+[2025-06-17 13:17:12] Clicked left panel toggler using method 1
+[2025-06-17 13:17:12] Expanded left panel
+[2025-06-17 13:17:14] Selecting vehicle categories and fuel types
+[2025-06-17 13:17:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:17:15] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:17:16] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:17:17] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:17:18] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:17:18] Vehicle categories and fuel types selected
+[2025-06-17 13:17:19] Clicking left refresh button
+[2025-06-17 13:17:19] Clicked left refresh button using method 1
+[2025-06-17 13:17:19] Left refresh button clicked
+[2025-06-17 13:17:24] Left panel collapsed successfully.
+[2025-06-17 13:17:24] Downloading Excel file for Andhra Pradesh(83), Adoni RTO - AP221( 06-MAY-2022 ), 2023
+[2025-06-17 13:17:25] Clicked Excel download button using method 1
+[2025-06-17 13:17:25] Clicked Excel download button
+[2025-06-17 13:17:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:17:29] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:18:29] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Adoni RTO - AP221( 06-MAY-2022 ).xlsx
+[2025-06-17 13:18:29] Successfully processed RTO: Adoni RTO - AP221( 06-MAY-2022 )
+[2025-06-17 13:18:29] 
+Processing RTO 2/83: Amalapuram RTA - AP205( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:18:29] Selecting RTO: Amalapuram RTA - AP205( 25-APR-2022 )
+[2025-06-17 13:18:29] Clicked RTO dropdown using method 1
+[2025-06-17 13:18:30] Clicked RTO option: Amalapuram RTA - AP205( 25-APR-2022 ) using method 1
+[2025-06-17 13:18:30] Successfully selected RTO: Amalapuram RTA - AP205( 25-APR-2022 )
+[2025-06-17 13:18:30] Applying left panel filters
+[2025-06-17 13:18:31] Clicked right refresh button using method 1
+[2025-06-17 13:18:35] Opening left panel if needed
+[2025-06-17 13:18:35] Clicked left panel toggler using method 1
+[2025-06-17 13:18:35] Expanded left panel
+[2025-06-17 13:18:37] Selecting vehicle categories and fuel types
+[2025-06-17 13:18:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:18:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:18:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:18:39] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:18:40] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:18:41] Vehicle categories and fuel types selected
+[2025-06-17 13:18:41] Clicking left refresh button
+[2025-06-17 13:18:42] Clicked left refresh button using method 1
+[2025-06-17 13:18:42] Left refresh button clicked
+[2025-06-17 13:18:46] Left panel collapsed successfully.
+[2025-06-17 13:18:46] Downloading Excel file for Andhra Pradesh(83), Amalapuram RTA - AP205( 25-APR-2022 ), 2023
+[2025-06-17 13:18:46] Clicked Excel download button using method 1
+[2025-06-17 13:18:46] Clicked Excel download button
+[2025-06-17 13:18:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:18:50] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:19:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Amalapuram RTA - AP205( 25-APR-2022 ).xlsx
+[2025-06-17 13:19:50] Successfully processed RTO: Amalapuram RTA - AP205( 25-APR-2022 )
+[2025-06-17 13:19:50] 
+Processing RTO 3/83: Anakapalli RTA - AP131( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:19:50] Selecting RTO: Anakapalli RTA - AP131( 25-APR-2022 )
+[2025-06-17 13:19:50] Clicked RTO dropdown using method 1
+[2025-06-17 13:19:51] Clicked RTO option: Anakapalli RTA - AP131( 25-APR-2022 ) using method 1
+[2025-06-17 13:19:51] Successfully selected RTO: Anakapalli RTA - AP131( 25-APR-2022 )
+[2025-06-17 13:19:51] Applying left panel filters
+[2025-06-17 13:19:52] Clicked right refresh button using method 1
+[2025-06-17 13:19:56] Opening left panel if needed
+[2025-06-17 13:19:56] Clicked left panel toggler using method 1
+[2025-06-17 13:19:56] Expanded left panel
+[2025-06-17 13:19:58] Selecting vehicle categories and fuel types
+[2025-06-17 13:19:58] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:19:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:20:00] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:20:01] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:20:01] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:20:02] Vehicle categories and fuel types selected
+[2025-06-17 13:20:02] Clicking left refresh button
+[2025-06-17 13:20:03] Clicked left refresh button using method 1
+[2025-06-17 13:20:03] Left refresh button clicked
+[2025-06-17 13:20:07] Left panel collapsed successfully.
+[2025-06-17 13:20:07] Downloading Excel file for Andhra Pradesh(83), Anakapalli RTA - AP131( 25-APR-2022 ), 2023
+[2025-06-17 13:20:08] Clicked Excel download button using method 1
+[2025-06-17 13:20:08] Clicked Excel download button
+[2025-06-17 13:20:12] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:20:12] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:21:12] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Anakapalli RTA - AP131( 25-APR-2022 ).xlsx
+[2025-06-17 13:21:12] Successfully processed RTO: Anakapalli RTA - AP131( 25-APR-2022 )
+[2025-06-17 13:21:12] 
+Processing RTO 4/83: Anantapur RTA - AP2( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:21:12] Selecting RTO: Anantapur RTA - AP2( 25-APR-2022 )
+[2025-06-17 13:21:12] Clicked RTO dropdown using method 1
+[2025-06-17 13:21:13] Clicked RTO option: Anantapur RTA - AP2( 25-APR-2022 ) using method 1
+[2025-06-17 13:21:13] Successfully selected RTO: Anantapur RTA - AP2( 25-APR-2022 )
+[2025-06-17 13:21:13] Applying left panel filters
+[2025-06-17 13:21:14] Clicked right refresh button using method 1
+[2025-06-17 13:21:18] Opening left panel if needed
+[2025-06-17 13:21:18] Clicked left panel toggler using method 1
+[2025-06-17 13:21:18] Expanded left panel
+[2025-06-17 13:21:19] Selecting vehicle categories and fuel types
+[2025-06-17 13:21:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:21:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:21:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:21:22] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:21:22] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:21:23] Vehicle categories and fuel types selected
+[2025-06-17 13:21:23] Clicking left refresh button
+[2025-06-17 13:21:23] Clicked left refresh button using method 1
+[2025-06-17 13:21:23] Left refresh button clicked
+[2025-06-17 13:21:29] Left panel collapsed successfully.
+[2025-06-17 13:21:29] Downloading Excel file for Andhra Pradesh(83), Anantapur RTA - AP2( 25-APR-2022 ), 2023
+[2025-06-17 13:21:29] Clicked Excel download button using method 1
+[2025-06-17 13:21:29] Clicked Excel download button
+[2025-06-17 13:21:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:21:33] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:22:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Anantapur RTA - AP2( 25-APR-2022 ).xlsx
+[2025-06-17 13:22:33] Successfully processed RTO: Anantapur RTA - AP2( 25-APR-2022 )
+[2025-06-17 13:22:33] 
+Processing RTO 5/83: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:22:33] Selecting RTO: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 )
+[2025-06-17 13:22:33] Clicked RTO dropdown using method 1
+[2025-06-17 13:22:35] Clicked RTO option: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 ) using method 1
+[2025-06-17 13:22:35] Successfully selected RTO: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 )
+[2025-06-17 13:22:35] Applying left panel filters
+[2025-06-17 13:22:35] Clicked right refresh button using method 1
+[2025-06-17 13:22:40] Opening left panel if needed
+[2025-06-17 13:22:41] Clicked left panel toggler using method 1
+[2025-06-17 13:22:41] Expanded left panel
+[2025-06-17 13:22:42] Selecting vehicle categories and fuel types
+[2025-06-17 13:22:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:22:43] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:22:44] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:22:44] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:22:45] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:22:45] Vehicle categories and fuel types selected
+[2025-06-17 13:22:46] Clicking left refresh button
+[2025-06-17 13:22:46] Clicked left refresh button using method 1
+[2025-06-17 13:22:46] Left refresh button clicked
+[2025-06-17 13:22:51] Left panel collapsed successfully.
+[2025-06-17 13:22:51] Downloading Excel file for Andhra Pradesh(83), Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 ), 2023
+[2025-06-17 13:22:52] Clicked Excel download button using method 1
+[2025-06-17 13:22:52] Clicked Excel download button
+[2025-06-17 13:22:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:22:55] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:23:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 ).xlsx
+[2025-06-17 13:23:55] Successfully processed RTO: Atmakur-Kurnool MVI Office - AP321( 06-MAY-2022 )
+[2025-06-17 13:23:55] 
+Processing RTO 6/83: Atmakur MVI Office - AP126( 11-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:23:55] Selecting RTO: Atmakur MVI Office - AP126( 11-MAY-2022 )
+[2025-06-17 13:23:56] Clicked RTO dropdown using method 1
+[2025-06-17 13:23:57] Clicked RTO option: Atmakur MVI Office - AP126( 11-MAY-2022 ) using method 1
+[2025-06-17 13:23:57] Successfully selected RTO: Atmakur MVI Office - AP126( 11-MAY-2022 )
+[2025-06-17 13:23:57] Applying left panel filters
+[2025-06-17 13:23:57] Clicked right refresh button using method 1
+[2025-06-17 13:24:02] Opening left panel if needed
+[2025-06-17 13:24:02] Clicked left panel toggler using method 1
+[2025-06-17 13:24:02] Expanded left panel
+[2025-06-17 13:24:03] Selecting vehicle categories and fuel types
+[2025-06-17 13:24:03] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:24:04] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:24:05] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:24:05] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:24:06] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:24:06] Vehicle categories and fuel types selected
+[2025-06-17 13:24:07] Clicking left refresh button
+[2025-06-17 13:24:07] Clicked left refresh button using method 1
+[2025-06-17 13:24:07] Left refresh button clicked
+[2025-06-17 13:24:13] Left panel collapsed successfully.
+[2025-06-17 13:24:13] Downloading Excel file for Andhra Pradesh(83), Atmakur MVI Office - AP126( 11-MAY-2022 ), 2023
+[2025-06-17 13:24:13] Clicked Excel download button using method 1
+[2025-06-17 13:24:13] Clicked Excel download button
+[2025-06-17 13:24:17] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:24:17] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:25:17] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Atmakur MVI Office - AP126( 11-MAY-2022 ).xlsx
+[2025-06-17 13:25:17] Successfully processed RTO: Atmakur MVI Office - AP126( 11-MAY-2022 )
+[2025-06-17 13:25:17] 
+Processing RTO 7/83: Badvel MVI Office - AP104( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:25:17] Selecting RTO: Badvel MVI Office - AP104( 06-MAY-2022 )
+[2025-06-17 13:25:18] Clicked RTO dropdown using method 1
+[2025-06-17 13:25:19] Clicked RTO option: Badvel MVI Office - AP104( 06-MAY-2022 ) using method 1
+[2025-06-17 13:25:19] Successfully selected RTO: Badvel MVI Office - AP104( 06-MAY-2022 )
+[2025-06-17 13:25:19] Applying left panel filters
+[2025-06-17 13:25:20] Clicked right refresh button using method 1
+[2025-06-17 13:25:24] Opening left panel if needed
+[2025-06-17 13:25:24] Clicked left panel toggler using method 1
+[2025-06-17 13:25:24] Expanded left panel
+[2025-06-17 13:25:26] Selecting vehicle categories and fuel types
+[2025-06-17 13:25:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:25:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:25:28] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:25:29] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:25:30] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:25:30] Vehicle categories and fuel types selected
+[2025-06-17 13:25:31] Clicking left refresh button
+[2025-06-17 13:25:31] Clicked left refresh button using method 1
+[2025-06-17 13:25:31] Left refresh button clicked
+[2025-06-17 13:25:36] Left panel collapsed successfully.
+[2025-06-17 13:25:36] Downloading Excel file for Andhra Pradesh(83), Badvel MVI Office - AP104( 06-MAY-2022 ), 2023
+[2025-06-17 13:25:36] Clicked Excel download button using method 1
+[2025-06-17 13:25:36] Clicked Excel download button
+[2025-06-17 13:25:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:25:40] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:26:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Badvel MVI Office - AP104( 06-MAY-2022 ).xlsx
+[2025-06-17 13:26:40] Successfully processed RTO: Badvel MVI Office - AP104( 06-MAY-2022 )
+[2025-06-17 13:26:40] 
+Processing RTO 8/83: BAPATLA RTO OFFICE - AP207( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:26:40] Selecting RTO: BAPATLA RTO OFFICE - AP207( 25-APR-2022 )
+[2025-06-17 13:26:40] Clicked RTO dropdown using method 1
+[2025-06-17 13:26:41] Clicked RTO option: BAPATLA RTO OFFICE - AP207( 25-APR-2022 ) using method 1
+[2025-06-17 13:26:41] Successfully selected RTO: BAPATLA RTO OFFICE - AP207( 25-APR-2022 )
+[2025-06-17 13:26:41] Applying left panel filters
+[2025-06-17 13:26:42] Clicked right refresh button using method 1
+[2025-06-17 13:26:46] Opening left panel if needed
+[2025-06-17 13:26:46] Clicked left panel toggler using method 1
+[2025-06-17 13:26:46] Expanded left panel
+[2025-06-17 13:26:47] Selecting vehicle categories and fuel types
+[2025-06-17 13:26:48] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:26:49] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:26:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:26:50] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:26:51] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:26:51] Vehicle categories and fuel types selected
+[2025-06-17 13:26:52] Clicking left refresh button
+[2025-06-17 13:26:53] Clicked left refresh button using method 1
+[2025-06-17 13:26:53] Left refresh button clicked
+[2025-06-17 13:26:58] Left panel collapsed successfully.
+[2025-06-17 13:26:58] Downloading Excel file for Andhra Pradesh(83), BAPATLA RTO OFFICE - AP207( 25-APR-2022 ), 2023
+[2025-06-17 13:26:58] Clicked Excel download button using method 1
+[2025-06-17 13:26:58] Clicked Excel download button
+[2025-06-17 13:27:02] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:27:02] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:28:02] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\BAPATLA RTO OFFICE - AP207( 25-APR-2022 ).xlsx
+[2025-06-17 13:28:02] Successfully processed RTO: BAPATLA RTO OFFICE - AP207( 25-APR-2022 )
+[2025-06-17 13:28:02] 
+Processing RTO 9/83: Bhimavaram RTA - AP137( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:28:02] Selecting RTO: Bhimavaram RTA - AP137( 25-APR-2022 )
+[2025-06-17 13:28:02] Clicked RTO dropdown using method 1
+[2025-06-17 13:28:03] Clicked RTO option: Bhimavaram RTA - AP137( 25-APR-2022 ) using method 1
+[2025-06-17 13:28:04] Successfully selected RTO: Bhimavaram RTA - AP137( 25-APR-2022 )
+[2025-06-17 13:28:04] Applying left panel filters
+[2025-06-17 13:28:04] Clicked right refresh button using method 1
+[2025-06-17 13:28:08] Opening left panel if needed
+[2025-06-17 13:28:09] Clicked left panel toggler using method 1
+[2025-06-17 13:28:09] Expanded left panel
+[2025-06-17 13:28:10] Selecting vehicle categories and fuel types
+[2025-06-17 13:28:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:28:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:28:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:28:13] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:28:13] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:28:14] Vehicle categories and fuel types selected
+[2025-06-17 13:28:14] Clicking left refresh button
+[2025-06-17 13:28:15] Clicked left refresh button using method 1
+[2025-06-17 13:28:15] Left refresh button clicked
+[2025-06-17 13:28:19] Left panel collapsed successfully.
+[2025-06-17 13:28:19] Downloading Excel file for Andhra Pradesh(83), Bhimavaram RTA - AP137( 25-APR-2022 ), 2023
+[2025-06-17 13:28:20] Clicked Excel download button using method 1
+[2025-06-17 13:28:20] Clicked Excel download button
+[2025-06-17 13:28:24] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:28:24] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:29:24] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Bhimavaram RTA - AP137( 25-APR-2022 ).xlsx
+[2025-06-17 13:29:24] Successfully processed RTO: Bhimavaram RTA - AP137( 25-APR-2022 )
+[2025-06-17 13:29:24] 
+Processing RTO 10/83: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:29:24] Selecting RTO: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 )
+[2025-06-17 13:29:24] Clicked RTO dropdown using method 1
+[2025-06-17 13:29:25] Clicked RTO option: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 ) using method 1
+[2025-06-17 13:29:26] Successfully selected RTO: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 )
+[2025-06-17 13:29:26] Applying left panel filters
+[2025-06-17 13:29:26] Clicked right refresh button using method 1
+[2025-06-17 13:29:30] Opening left panel if needed
+[2025-06-17 13:29:30] Clicked left panel toggler using method 1
+[2025-06-17 13:29:30] Expanded left panel
+[2025-06-17 13:29:32] Selecting vehicle categories and fuel types
+[2025-06-17 13:29:32] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:29:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:29:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:29:34] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:29:35] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:29:35] Vehicle categories and fuel types selected
+[2025-06-17 13:29:36] Clicking left refresh button
+[2025-06-17 13:29:37] Clicked left refresh button using method 1
+[2025-06-17 13:29:37] Left refresh button clicked
+[2025-06-17 13:29:41] Left panel collapsed successfully.
+[2025-06-17 13:29:41] Downloading Excel file for Andhra Pradesh(83), Chilakaluripeta MVI Office - AP307( 06-MAY-2022 ), 2023
+[2025-06-17 13:29:42] Clicked Excel download button using method 1
+[2025-06-17 13:29:42] Clicked Excel download button
+[2025-06-17 13:29:45] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:29:45] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:30:45] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Chilakaluripeta MVI Office - AP307( 06-MAY-2022 ).xlsx
+[2025-06-17 13:30:45] Successfully processed RTO: Chilakaluripeta MVI Office - AP307( 06-MAY-2022 )
+[2025-06-17 13:30:45] 
+Processing RTO 11/83: Chintoor - AP905( 09-JUN-2022 ) (Attempt 1/2)
+[2025-06-17 13:30:45] Selecting RTO: Chintoor - AP905( 09-JUN-2022 )
+[2025-06-17 13:30:46] Clicked RTO dropdown using method 1
+[2025-06-17 13:30:47] Clicked RTO option: Chintoor - AP905( 09-JUN-2022 ) using method 1
+[2025-06-17 13:30:47] Successfully selected RTO: Chintoor - AP905( 09-JUN-2022 )
+[2025-06-17 13:30:47] Applying left panel filters
+[2025-06-17 13:30:48] Clicked right refresh button using method 1
+[2025-06-17 13:30:52] Opening left panel if needed
+[2025-06-17 13:30:52] Clicked left panel toggler using method 1
+[2025-06-17 13:30:52] Expanded left panel
+[2025-06-17 13:30:54] Selecting vehicle categories and fuel types
+[2025-06-17 13:30:54] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:30:55] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:30:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:30:57] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:30:57] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:30:58] Vehicle categories and fuel types selected
+[2025-06-17 13:30:58] Clicking left refresh button
+[2025-06-17 13:30:59] Clicked left refresh button using method 1
+[2025-06-17 13:30:59] Left refresh button clicked
+[2025-06-17 13:31:04] Left panel collapsed successfully.
+[2025-06-17 13:31:04] Downloading Excel file for Andhra Pradesh(83), Chintoor - AP905( 09-JUN-2022 ), 2023
+[2025-06-17 13:31:04] Clicked Excel download button using method 1
+[2025-06-17 13:31:04] Clicked Excel download button
+[2025-06-17 13:31:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:31:08] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:32:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Chintoor - AP905( 09-JUN-2022 ).xlsx
+[2025-06-17 13:32:08] Successfully processed RTO: Chintoor - AP905( 09-JUN-2022 )
+[2025-06-17 13:32:08] 
+Processing RTO 12/83: Chirala UO - AP127( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:32:08] Selecting RTO: Chirala UO - AP127( 06-MAY-2022 )
+[2025-06-17 13:32:08] Clicked RTO dropdown using method 1
+[2025-06-17 13:32:09] Clicked RTO option: Chirala UO - AP127( 06-MAY-2022 ) using method 1
+[2025-06-17 13:32:10] Successfully selected RTO: Chirala UO - AP127( 06-MAY-2022 )
+[2025-06-17 13:32:10] Applying left panel filters
+[2025-06-17 13:32:10] Clicked right refresh button using method 1
+[2025-06-17 13:32:14] Opening left panel if needed
+[2025-06-17 13:32:14] Clicked left panel toggler using method 1
+[2025-06-17 13:32:14] Expanded left panel
+[2025-06-17 13:32:16] Selecting vehicle categories and fuel types
+[2025-06-17 13:32:16] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:32:17] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:32:18] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:32:18] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:32:19] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:32:19] Vehicle categories and fuel types selected
+[2025-06-17 13:32:20] Clicking left refresh button
+[2025-06-17 13:32:21] Clicked left refresh button using method 1
+[2025-06-17 13:32:21] Left refresh button clicked
+[2025-06-17 13:32:25] Left panel collapsed successfully.
+[2025-06-17 13:32:25] Downloading Excel file for Andhra Pradesh(83), Chirala UO - AP127( 06-MAY-2022 ), 2023
+[2025-06-17 13:32:26] Clicked Excel download button using method 1
+[2025-06-17 13:32:26] Clicked Excel download button
+[2025-06-17 13:32:30] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:32:30] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:33:30] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Chirala UO - AP127( 06-MAY-2022 ).xlsx
+[2025-06-17 13:33:30] Successfully processed RTO: Chirala UO - AP127( 06-MAY-2022 )
+[2025-06-17 13:33:30] 
+Processing RTO 13/83: Chittoor RTA - AP3( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:33:30] Selecting RTO: Chittoor RTA - AP3( 25-APR-2022 )
+[2025-06-17 13:33:30] Clicked RTO dropdown using method 1
+[2025-06-17 13:33:31] Clicked RTO option: Chittoor RTA - AP3( 25-APR-2022 ) using method 1
+[2025-06-17 13:33:32] Successfully selected RTO: Chittoor RTA - AP3( 25-APR-2022 )
+[2025-06-17 13:33:32] Applying left panel filters
+[2025-06-17 13:33:32] Clicked right refresh button using method 1
+[2025-06-17 13:33:37] Opening left panel if needed
+[2025-06-17 13:33:37] Clicked left panel toggler using method 1
+[2025-06-17 13:33:37] Expanded left panel
+[2025-06-17 13:33:39] Selecting vehicle categories and fuel types
+[2025-06-17 13:33:39] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:33:40] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:33:41] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:33:42] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:33:42] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:33:43] Vehicle categories and fuel types selected
+[2025-06-17 13:33:43] Clicking left refresh button
+[2025-06-17 13:33:43] Clicked left refresh button using method 1
+[2025-06-17 13:33:43] Left refresh button clicked
+[2025-06-17 13:33:48] Left panel collapsed successfully.
+[2025-06-17 13:33:48] Downloading Excel file for Andhra Pradesh(83), Chittoor RTA - AP3( 25-APR-2022 ), 2023
+[2025-06-17 13:33:49] Clicked Excel download button using method 1
+[2025-06-17 13:33:49] Clicked Excel download button
+[2025-06-17 13:33:53] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:33:53] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:34:53] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Chittoor RTA - AP3( 25-APR-2022 ).xlsx
+[2025-06-17 13:34:53] Successfully processed RTO: Chittoor RTA - AP3( 25-APR-2022 )
+[2025-06-17 13:34:53] 
+Processing RTO 14/83: Cuddapah RTA - AP4( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:34:53] Selecting RTO: Cuddapah RTA - AP4( 25-APR-2022 )
+[2025-06-17 13:34:53] Clicked RTO dropdown using method 1
+[2025-06-17 13:34:54] Clicked RTO option: Cuddapah RTA - AP4( 25-APR-2022 ) using method 1
+[2025-06-17 13:34:55] Successfully selected RTO: Cuddapah RTA - AP4( 25-APR-2022 )
+[2025-06-17 13:34:55] Applying left panel filters
+[2025-06-17 13:34:55] Clicked right refresh button using method 1
+[2025-06-17 13:34:59] Opening left panel if needed
+[2025-06-17 13:34:59] Clicked left panel toggler using method 1
+[2025-06-17 13:34:59] Expanded left panel
+[2025-06-17 13:35:01] Selecting vehicle categories and fuel types
+[2025-06-17 13:35:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:35:02] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:35:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:35:04] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:35:05] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:35:06] Vehicle categories and fuel types selected
+[2025-06-17 13:35:06] Clicking left refresh button
+[2025-06-17 13:35:07] Clicked left refresh button using method 1
+[2025-06-17 13:35:07] Left refresh button clicked
+[2025-06-17 13:35:12] Left panel collapsed successfully.
+[2025-06-17 13:35:12] Downloading Excel file for Andhra Pradesh(83), Cuddapah RTA - AP4( 25-APR-2022 ), 2023
+[2025-06-17 13:35:13] Clicked Excel download button using method 1
+[2025-06-17 13:35:13] Clicked Excel download button
+[2025-06-17 13:35:16] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:35:16] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:36:16] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Cuddapah RTA - AP4( 25-APR-2022 ).xlsx
+[2025-06-17 13:36:16] Successfully processed RTO: Cuddapah RTA - AP4( 25-APR-2022 )
+[2025-06-17 13:36:16] 
+Processing RTO 15/83: Darsi UO - AP427( 11-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:36:16] Selecting RTO: Darsi UO - AP427( 11-MAY-2022 )
+[2025-06-17 13:36:17] Clicked RTO dropdown using method 1
+[2025-06-17 13:36:18] Clicked RTO option: Darsi UO - AP427( 11-MAY-2022 ) using method 1
+[2025-06-17 13:36:18] Successfully selected RTO: Darsi UO - AP427( 11-MAY-2022 )
+[2025-06-17 13:36:18] Applying left panel filters
+[2025-06-17 13:36:19] Clicked right refresh button using method 1
+[2025-06-17 13:36:23] Opening left panel if needed
+[2025-06-17 13:36:23] Clicked left panel toggler using method 1
+[2025-06-17 13:36:23] Expanded left panel
+[2025-06-17 13:36:25] Selecting vehicle categories and fuel types
+[2025-06-17 13:36:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:36:26] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:36:27] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:36:28] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:36:28] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:36:29] Vehicle categories and fuel types selected
+[2025-06-17 13:36:29] Clicking left refresh button
+[2025-06-17 13:36:30] Clicked left refresh button using method 1
+[2025-06-17 13:36:30] Left refresh button clicked
+[2025-06-17 13:36:35] Left panel collapsed successfully.
+[2025-06-17 13:36:35] Downloading Excel file for Andhra Pradesh(83), Darsi UO - AP427( 11-MAY-2022 ), 2023
+[2025-06-17 13:36:35] Clicked Excel download button using method 1
+[2025-06-17 13:36:35] Clicked Excel download button
+[2025-06-17 13:36:38] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:36:38] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:37:38] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Darsi UO - AP427( 11-MAY-2022 ).xlsx
+[2025-06-17 13:37:38] Successfully processed RTO: Darsi UO - AP427( 11-MAY-2022 )
+[2025-06-17 13:37:38] 
+Processing RTO 16/83: Dharamavaram unit office - AP602( 04-DEC-2024 ) (Attempt 1/2)
+[2025-06-17 13:37:38] Selecting RTO: Dharamavaram unit office - AP602( 04-DEC-2024 )
+[2025-06-17 13:37:38] Clicked RTO dropdown using method 1
+[2025-06-17 13:37:40] Clicked RTO option: Dharamavaram unit office - AP602( 04-DEC-2024 ) using method 1
+[2025-06-17 13:37:40] Successfully selected RTO: Dharamavaram unit office - AP602( 04-DEC-2024 )
+[2025-06-17 13:37:40] Applying left panel filters
+[2025-06-17 13:37:40] Clicked right refresh button using method 1
+[2025-06-17 13:37:44] Opening left panel if needed
+[2025-06-17 13:37:44] Clicked left panel toggler using method 1
+[2025-06-17 13:37:44] Expanded left panel
+[2025-06-17 13:37:46] Selecting vehicle categories and fuel types
+[2025-06-17 13:37:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:37:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:37:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:37:49] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:37:49] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:37:50] Vehicle categories and fuel types selected
+[2025-06-17 13:37:51] Clicking left refresh button
+[2025-06-17 13:37:51] Clicked left refresh button using method 1
+[2025-06-17 13:37:51] Left refresh button clicked
+[2025-06-17 13:37:56] Left panel collapsed successfully.
+[2025-06-17 13:37:56] Downloading Excel file for Andhra Pradesh(83), Dharamavaram unit office - AP602( 04-DEC-2024 ), 2023
+[2025-06-17 13:37:57] Clicked Excel download button using method 1
+[2025-06-17 13:37:57] Clicked Excel download button
+[2025-06-17 13:38:01] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:38:01] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:39:01] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Dharamavaram unit office - AP602( 04-DEC-2024 ).xlsx
+[2025-06-17 13:39:01] Successfully processed RTO: Dharamavaram unit office - AP602( 04-DEC-2024 )
+[2025-06-17 13:39:01] 
+Processing RTO 17/83: Dhone MVI Office - AP421( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:39:01] Selecting RTO: Dhone MVI Office - AP421( 06-MAY-2022 )
+[2025-06-17 13:39:01] Clicked RTO dropdown using method 1
+[2025-06-17 13:39:02] Clicked RTO option: Dhone MVI Office - AP421( 06-MAY-2022 ) using method 1
+[2025-06-17 13:39:02] Successfully selected RTO: Dhone MVI Office - AP421( 06-MAY-2022 )
+[2025-06-17 13:39:02] Applying left panel filters
+[2025-06-17 13:39:03] Clicked right refresh button using method 1
+[2025-06-17 13:39:08] Opening left panel if needed
+[2025-06-17 13:39:08] Clicked left panel toggler using method 1
+[2025-06-17 13:39:08] Expanded left panel
+[2025-06-17 13:39:09] Selecting vehicle categories and fuel types
+[2025-06-17 13:39:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:39:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:39:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:39:12] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:39:13] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:39:13] Vehicle categories and fuel types selected
+[2025-06-17 13:39:14] Clicking left refresh button
+[2025-06-17 13:39:14] Clicked left refresh button using method 1
+[2025-06-17 13:39:14] Left refresh button clicked
+[2025-06-17 13:39:19] Left panel collapsed successfully.
+[2025-06-17 13:39:19] Downloading Excel file for Andhra Pradesh(83), Dhone MVI Office - AP421( 06-MAY-2022 ), 2023
+[2025-06-17 13:39:20] Clicked Excel download button using method 1
+[2025-06-17 13:39:20] Clicked Excel download button
+[2025-06-17 13:39:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:39:23] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:40:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Dhone MVI Office - AP421( 06-MAY-2022 ).xlsx
+[2025-06-17 13:40:23] Successfully processed RTO: Dhone MVI Office - AP421( 06-MAY-2022 )
+[2025-06-17 13:40:23] 
+Processing RTO 18/83: Gajuwaka RTA - AP231( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:40:23] Selecting RTO: Gajuwaka RTA - AP231( 06-MAY-2022 )
+[2025-06-17 13:40:24] Clicked RTO dropdown using method 1
+[2025-06-17 13:40:25] Clicked RTO option: Gajuwaka RTA - AP231( 06-MAY-2022 ) using method 1
+[2025-06-17 13:40:26] Successfully selected RTO: Gajuwaka RTA - AP231( 06-MAY-2022 )
+[2025-06-17 13:40:26] Applying left panel filters
+[2025-06-17 13:40:26] Clicked right refresh button using method 1
+[2025-06-17 13:40:30] Opening left panel if needed
+[2025-06-17 13:40:30] Clicked left panel toggler using method 1
+[2025-06-17 13:40:30] Expanded left panel
+[2025-06-17 13:40:32] Selecting vehicle categories and fuel types
+[2025-06-17 13:40:32] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:40:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:40:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:40:35] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:40:36] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:40:36] Vehicle categories and fuel types selected
+[2025-06-17 13:40:37] Clicking left refresh button
+[2025-06-17 13:40:37] Clicked left refresh button using method 1
+[2025-06-17 13:40:37] Left refresh button clicked
+[2025-06-17 13:40:41] Left panel collapsed successfully.
+[2025-06-17 13:40:41] Downloading Excel file for Andhra Pradesh(83), Gajuwaka RTA - AP231( 06-MAY-2022 ), 2023
+[2025-06-17 13:40:42] Clicked Excel download button using method 1
+[2025-06-17 13:40:42] Clicked Excel download button
+[2025-06-17 13:40:45] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:40:45] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:41:45] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Gajuwaka RTA - AP231( 06-MAY-2022 ).xlsx
+[2025-06-17 13:41:45] Successfully processed RTO: Gajuwaka RTA - AP231( 06-MAY-2022 )
+[2025-06-17 13:41:45] 
+Processing RTO 19/83: Gudiwada RTA - AP116( 05-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:41:45] Selecting RTO: Gudiwada RTA - AP116( 05-MAY-2022 )
+[2025-06-17 13:41:45] Clicked RTO dropdown using method 1
+[2025-06-17 13:41:47] Clicked RTO option: Gudiwada RTA - AP116( 05-MAY-2022 ) using method 1
+[2025-06-17 13:41:47] Successfully selected RTO: Gudiwada RTA - AP116( 05-MAY-2022 )
+[2025-06-17 13:41:47] Applying left panel filters
+[2025-06-17 13:41:47] Clicked right refresh button using method 1
+[2025-06-17 13:41:52] Opening left panel if needed
+[2025-06-17 13:41:52] Clicked left panel toggler using method 1
+[2025-06-17 13:41:52] Expanded left panel
+[2025-06-17 13:41:53] Selecting vehicle categories and fuel types
+[2025-06-17 13:41:53] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:41:54] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:41:55] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:41:56] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:41:57] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:41:57] Vehicle categories and fuel types selected
+[2025-06-17 13:41:58] Clicking left refresh button
+[2025-06-17 13:41:58] Clicked left refresh button using method 1
+[2025-06-17 13:41:58] Left refresh button clicked
+[2025-06-17 13:42:03] Left panel collapsed successfully.
+[2025-06-17 13:42:03] Downloading Excel file for Andhra Pradesh(83), Gudiwada RTA - AP116( 05-MAY-2022 ), 2023
+[2025-06-17 13:42:03] Clicked Excel download button using method 1
+[2025-06-17 13:42:03] Clicked Excel download button
+[2025-06-17 13:42:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:42:07] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:43:07] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Gudiwada RTA - AP116( 05-MAY-2022 ).xlsx
+[2025-06-17 13:43:07] Successfully processed RTO: Gudiwada RTA - AP116( 05-MAY-2022 )
+[2025-06-17 13:43:07] 
+Processing RTO 20/83: Gudur RTA - AP226( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:43:07] Selecting RTO: Gudur RTA - AP226( 06-MAY-2022 )
+[2025-06-17 13:43:07] Clicked RTO dropdown using method 1
+[2025-06-17 13:43:08] Clicked RTO option: Gudur RTA - AP226( 06-MAY-2022 ) using method 1
+[2025-06-17 13:43:08] Successfully selected RTO: Gudur RTA - AP226( 06-MAY-2022 )
+[2025-06-17 13:43:08] Applying left panel filters
+[2025-06-17 13:43:09] Clicked right refresh button using method 1
+[2025-06-17 13:43:13] Opening left panel if needed
+[2025-06-17 13:43:14] Clicked left panel toggler using method 1
+[2025-06-17 13:43:14] Expanded left panel
+[2025-06-17 13:43:15] Selecting vehicle categories and fuel types
+[2025-06-17 13:43:15] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:43:16] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:43:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:43:18] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:43:19] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:43:19] Vehicle categories and fuel types selected
+[2025-06-17 13:43:20] Clicking left refresh button
+[2025-06-17 13:43:20] Clicked left refresh button using method 1
+[2025-06-17 13:43:20] Left refresh button clicked
+[2025-06-17 13:43:25] Left panel collapsed successfully.
+[2025-06-17 13:43:25] Downloading Excel file for Andhra Pradesh(83), Gudur RTA - AP226( 06-MAY-2022 ), 2023
+[2025-06-17 13:43:26] Clicked Excel download button using method 1
+[2025-06-17 13:43:26] Clicked Excel download button
+[2025-06-17 13:43:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:43:29] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:44:29] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Gudur RTA - AP226( 06-MAY-2022 ).xlsx
+[2025-06-17 13:44:29] Successfully processed RTO: Gudur RTA - AP226( 06-MAY-2022 )
+[2025-06-17 13:44:29] 
+Processing RTO 21/83: Guntakal UO - AP202( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:44:29] Selecting RTO: Guntakal UO - AP202( 06-MAY-2022 )
+[2025-06-17 13:44:30] Clicked RTO dropdown using method 1
+[2025-06-17 13:44:31] Clicked RTO option: Guntakal UO - AP202( 06-MAY-2022 ) using method 1
+[2025-06-17 13:44:31] Successfully selected RTO: Guntakal UO - AP202( 06-MAY-2022 )
+[2025-06-17 13:44:31] Applying left panel filters
+[2025-06-17 13:44:32] Clicked right refresh button using method 1
+[2025-06-17 13:44:36] Opening left panel if needed
+[2025-06-17 13:44:36] Clicked left panel toggler using method 1
+[2025-06-17 13:44:36] Expanded left panel
+[2025-06-17 13:44:38] Selecting vehicle categories and fuel types
+[2025-06-17 13:44:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:44:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:44:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:44:40] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:44:41] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:44:41] Vehicle categories and fuel types selected
+[2025-06-17 13:44:42] Clicking left refresh button
+[2025-06-17 13:44:42] Clicked left refresh button using method 1
+[2025-06-17 13:44:42] Left refresh button clicked
+[2025-06-17 13:44:47] Left panel collapsed successfully.
+[2025-06-17 13:44:47] Downloading Excel file for Andhra Pradesh(83), Guntakal UO - AP202( 06-MAY-2022 ), 2023
+[2025-06-17 13:44:48] Clicked Excel download button using method 1
+[2025-06-17 13:44:48] Clicked Excel download button
+[2025-06-17 13:44:52] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:44:52] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:45:52] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Guntakal UO - AP202( 06-MAY-2022 ).xlsx
+[2025-06-17 13:45:52] Successfully processed RTO: Guntakal UO - AP202( 06-MAY-2022 )
+[2025-06-17 13:45:52] 
+Processing RTO 22/83: Guntur RTA - AP7( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:45:52] Selecting RTO: Guntur RTA - AP7( 25-APR-2022 )
+[2025-06-17 13:45:52] Clicked RTO dropdown using method 1
+[2025-06-17 13:45:53] Clicked RTO option: Guntur RTA - AP7( 25-APR-2022 ) using method 1
+[2025-06-17 13:45:54] Successfully selected RTO: Guntur RTA - AP7( 25-APR-2022 )
+[2025-06-17 13:45:54] Applying left panel filters
+[2025-06-17 13:45:54] Clicked right refresh button using method 1
+[2025-06-17 13:45:59] Opening left panel if needed
+[2025-06-17 13:45:59] Clicked left panel toggler using method 1
+[2025-06-17 13:45:59] Expanded left panel
+[2025-06-17 13:46:01] Selecting vehicle categories and fuel types
+[2025-06-17 13:46:01] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:46:02] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:46:03] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:46:04] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:46:05] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:46:05] Vehicle categories and fuel types selected
+[2025-06-17 13:46:05] Clicking left refresh button
+[2025-06-17 13:46:06] Clicked left refresh button using method 1
+[2025-06-17 13:46:06] Left refresh button clicked
+[2025-06-17 13:46:11] Left panel collapsed successfully.
+[2025-06-17 13:46:11] Downloading Excel file for Andhra Pradesh(83), Guntur RTA - AP7( 25-APR-2022 ), 2023
+[2025-06-17 13:46:12] Clicked Excel download button using method 1
+[2025-06-17 13:46:12] Clicked Excel download button
+[2025-06-17 13:46:15] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:46:15] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:47:15] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Guntur RTA - AP7( 25-APR-2022 ).xlsx
+[2025-06-17 13:47:15] Successfully processed RTO: Guntur RTA - AP7( 25-APR-2022 )
+[2025-06-17 13:47:15] 
+Processing RTO 23/83: Hindupur RTA - AP102( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:47:15] Selecting RTO: Hindupur RTA - AP102( 25-APR-2022 )
+[2025-06-17 13:47:16] Clicked RTO dropdown using method 1
+[2025-06-17 13:47:17] Clicked RTO option: Hindupur RTA - AP102( 25-APR-2022 ) using method 1
+[2025-06-17 13:47:17] Successfully selected RTO: Hindupur RTA - AP102( 25-APR-2022 )
+[2025-06-17 13:47:17] Applying left panel filters
+[2025-06-17 13:47:17] Clicked right refresh button using method 1
+[2025-06-17 13:47:21] Opening left panel if needed
+[2025-06-17 13:47:22] Clicked left panel toggler using method 1
+[2025-06-17 13:47:22] Expanded left panel
+[2025-06-17 13:47:23] Selecting vehicle categories and fuel types
+[2025-06-17 13:47:24] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:47:24] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:47:25] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:47:26] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:47:27] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:47:27] Vehicle categories and fuel types selected
+[2025-06-17 13:47:27] Clicking left refresh button
+[2025-06-17 13:47:28] Clicked left refresh button using method 1
+[2025-06-17 13:47:28] Left refresh button clicked
+[2025-06-17 13:47:32] Left panel collapsed successfully.
+[2025-06-17 13:47:32] Downloading Excel file for Andhra Pradesh(83), Hindupur RTA - AP102( 25-APR-2022 ), 2023
+[2025-06-17 13:47:33] Clicked Excel download button using method 1
+[2025-06-17 13:47:33] Clicked Excel download button
+[2025-06-17 13:47:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:47:37] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:48:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Hindupur RTA - AP102( 25-APR-2022 ).xlsx
+[2025-06-17 13:48:37] Successfully processed RTO: Hindupur RTA - AP102( 25-APR-2022 )
+[2025-06-17 13:48:37] 
+Processing RTO 24/83: Itchapuram MVI Office - AP130( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:48:37] Selecting RTO: Itchapuram MVI Office - AP130( 12-MAY-2022 )
+[2025-06-17 13:48:37] Clicked RTO dropdown using method 1
+[2025-06-17 13:48:38] Clicked RTO option: Itchapuram MVI Office - AP130( 12-MAY-2022 ) using method 1
+[2025-06-17 13:48:38] Successfully selected RTO: Itchapuram MVI Office - AP130( 12-MAY-2022 )
+[2025-06-17 13:48:38] Applying left panel filters
+[2025-06-17 13:48:39] Clicked right refresh button using method 1
+[2025-06-17 13:48:44] Opening left panel if needed
+[2025-06-17 13:48:44] Clicked left panel toggler using method 1
+[2025-06-17 13:48:44] Expanded left panel
+[2025-06-17 13:48:46] Selecting vehicle categories and fuel types
+[2025-06-17 13:48:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:48:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:48:47] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:48:48] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:48:49] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:48:49] Vehicle categories and fuel types selected
+[2025-06-17 13:48:50] Clicking left refresh button
+[2025-06-17 13:48:50] Clicked left refresh button using method 1
+[2025-06-17 13:48:50] Left refresh button clicked
+[2025-06-17 13:48:54] Left panel collapsed successfully.
+[2025-06-17 13:48:55] Downloading Excel file for Andhra Pradesh(83), Itchapuram MVI Office - AP130( 12-MAY-2022 ), 2023
+[2025-06-17 13:48:55] Clicked Excel download button using method 1
+[2025-06-17 13:48:55] Clicked Excel download button
+[2025-06-17 13:48:58] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:48:58] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:49:58] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Itchapuram MVI Office - AP130( 12-MAY-2022 ).xlsx
+[2025-06-17 13:49:58] Successfully processed RTO: Itchapuram MVI Office - AP130( 12-MAY-2022 )
+[2025-06-17 13:49:58] 
+Processing RTO 25/83: Jaggayyapet UO - AP616( 05-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:49:58] Selecting RTO: Jaggayyapet UO - AP616( 05-MAY-2022 )
+[2025-06-17 13:49:58] Clicked RTO dropdown using method 1
+[2025-06-17 13:49:59] Clicked RTO option: Jaggayyapet UO - AP616( 05-MAY-2022 ) using method 1
+[2025-06-17 13:50:00] Successfully selected RTO: Jaggayyapet UO - AP616( 05-MAY-2022 )
+[2025-06-17 13:50:00] Applying left panel filters
+[2025-06-17 13:50:00] Clicked right refresh button using method 1
+[2025-06-17 13:50:05] Opening left panel if needed
+[2025-06-17 13:50:05] Clicked left panel toggler using method 1
+[2025-06-17 13:50:05] Expanded left panel
+[2025-06-17 13:50:06] Selecting vehicle categories and fuel types
+[2025-06-17 13:50:07] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:50:08] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:50:08] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:50:09] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:50:09] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:50:10] Vehicle categories and fuel types selected
+[2025-06-17 13:50:10] Clicking left refresh button
+[2025-06-17 13:50:11] Clicked left refresh button using method 1
+[2025-06-17 13:50:11] Left refresh button clicked
+[2025-06-17 13:50:15] Left panel collapsed successfully.
+[2025-06-17 13:50:15] Downloading Excel file for Andhra Pradesh(83), Jaggayyapet UO - AP616( 05-MAY-2022 ), 2023
+[2025-06-17 13:50:16] Clicked Excel download button using method 1
+[2025-06-17 13:50:16] Clicked Excel download button
+[2025-06-17 13:50:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:50:19] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:51:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Jaggayyapet UO - AP616( 05-MAY-2022 ).xlsx
+[2025-06-17 13:51:19] Successfully processed RTO: Jaggayyapet UO - AP616( 05-MAY-2022 )
+[2025-06-17 13:51:19] 
+Processing RTO 26/83: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:51:19] Selecting RTO: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 )
+[2025-06-17 13:51:19] Clicked RTO dropdown using method 1
+[2025-06-17 13:51:20] Clicked RTO option: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 ) using method 1
+[2025-06-17 13:51:21] Successfully selected RTO: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 )
+[2025-06-17 13:51:21] Applying left panel filters
+[2025-06-17 13:51:21] Clicked right refresh button using method 1
+[2025-06-17 13:51:26] Opening left panel if needed
+[2025-06-17 13:51:26] Clicked left panel toggler using method 1
+[2025-06-17 13:51:26] Expanded left panel
+[2025-06-17 13:51:27] Selecting vehicle categories and fuel types
+[2025-06-17 13:51:28] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:51:29] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:51:29] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:51:30] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:51:31] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:51:31] Vehicle categories and fuel types selected
+[2025-06-17 13:51:32] Clicking left refresh button
+[2025-06-17 13:51:32] Clicked left refresh button using method 1
+[2025-06-17 13:51:32] Left refresh button clicked
+[2025-06-17 13:51:37] Left panel collapsed successfully.
+[2025-06-17 13:51:37] Downloading Excel file for Andhra Pradesh(83), JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 ), 2023
+[2025-06-17 13:51:38] Clicked Excel download button using method 1
+[2025-06-17 13:51:38] Clicked Excel download button
+[2025-06-17 13:51:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:51:41] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:52:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 ).xlsx
+[2025-06-17 13:52:41] Successfully processed RTO: JANGAREDDYGUDEM RTA - AP237( 06-MAY-2022 )
+[2025-06-17 13:52:41] 
+Processing RTO 27/83: Kalyandurg RTO office - AP702( 04-DEC-2024 ) (Attempt 1/2)
+[2025-06-17 13:52:41] Selecting RTO: Kalyandurg RTO office - AP702( 04-DEC-2024 )
+[2025-06-17 13:52:42] Clicked RTO dropdown using method 1
+[2025-06-17 13:52:43] Clicked RTO option: Kalyandurg RTO office - AP702( 04-DEC-2024 ) using method 1
+[2025-06-17 13:52:43] Successfully selected RTO: Kalyandurg RTO office - AP702( 04-DEC-2024 )
+[2025-06-17 13:52:43] Applying left panel filters
+[2025-06-17 13:52:44] Clicked right refresh button using method 1
+[2025-06-17 13:52:48] Opening left panel if needed
+[2025-06-17 13:52:48] Clicked left panel toggler using method 1
+[2025-06-17 13:52:48] Expanded left panel
+[2025-06-17 13:52:50] Selecting vehicle categories and fuel types
+[2025-06-17 13:52:50] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:52:51] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:52:52] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:52:53] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:52:54] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:52:54] Vehicle categories and fuel types selected
+[2025-06-17 13:52:55] Clicking left refresh button
+[2025-06-17 13:52:55] Clicked left refresh button using method 1
+[2025-06-17 13:52:55] Left refresh button clicked
+[2025-06-17 13:53:00] Left panel collapsed successfully.
+[2025-06-17 13:53:00] Downloading Excel file for Andhra Pradesh(83), Kalyandurg RTO office - AP702( 04-DEC-2024 ), 2023
+[2025-06-17 13:53:00] Clicked Excel download button using method 1
+[2025-06-17 13:53:00] Clicked Excel download button
+[2025-06-17 13:53:04] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:53:04] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:54:04] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Kalyandurg RTO office - AP702( 04-DEC-2024 ).xlsx
+[2025-06-17 13:54:04] Successfully processed RTO: Kalyandurg RTO office - AP702( 04-DEC-2024 )
+[2025-06-17 13:54:04] 
+Processing RTO 28/83: Kandukur MVI Office - AP227( 11-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:54:04] Selecting RTO: Kandukur MVI Office - AP227( 11-MAY-2022 )
+[2025-06-17 13:54:04] Clicked RTO dropdown using method 1
+[2025-06-17 13:54:05] Clicked RTO option: Kandukur MVI Office - AP227( 11-MAY-2022 ) using method 1
+[2025-06-17 13:54:06] Successfully selected RTO: Kandukur MVI Office - AP227( 11-MAY-2022 )
+[2025-06-17 13:54:06] Applying left panel filters
+[2025-06-17 13:54:06] Clicked right refresh button using method 1
+[2025-06-17 13:54:11] Opening left panel if needed
+[2025-06-17 13:54:11] Clicked left panel toggler using method 1
+[2025-06-17 13:54:11] Expanded left panel
+[2025-06-17 13:54:13] Selecting vehicle categories and fuel types
+[2025-06-17 13:54:13] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:54:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:54:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:54:15] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:54:16] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:54:17] Vehicle categories and fuel types selected
+[2025-06-17 13:54:18] Clicking left refresh button
+[2025-06-17 13:54:18] Clicked left refresh button using method 1
+[2025-06-17 13:54:18] Left refresh button clicked
+[2025-06-17 13:54:23] Left panel collapsed successfully.
+[2025-06-17 13:54:23] Downloading Excel file for Andhra Pradesh(83), Kandukur MVI Office - AP227( 11-MAY-2022 ), 2023
+[2025-06-17 13:54:24] Clicked Excel download button using method 1
+[2025-06-17 13:54:24] Clicked Excel download button
+[2025-06-17 13:54:27] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:54:27] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:55:27] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Kandukur MVI Office - AP227( 11-MAY-2022 ).xlsx
+[2025-06-17 13:55:27] Successfully processed RTO: Kandukur MVI Office - AP227( 11-MAY-2022 )
+[2025-06-17 13:55:27] 
+Processing RTO 29/83: Kavali UO - AP326( 11-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:55:27] Selecting RTO: Kavali UO - AP326( 11-MAY-2022 )
+[2025-06-17 13:55:28] Clicked RTO dropdown using method 1
+[2025-06-17 13:55:29] Clicked RTO option: Kavali UO - AP326( 11-MAY-2022 ) using method 1
+[2025-06-17 13:55:29] Successfully selected RTO: Kavali UO - AP326( 11-MAY-2022 )
+[2025-06-17 13:55:29] Applying left panel filters
+[2025-06-17 13:55:30] Clicked right refresh button using method 1
+[2025-06-17 13:55:34] Opening left panel if needed
+[2025-06-17 13:55:34] Clicked left panel toggler using method 1
+[2025-06-17 13:55:34] Expanded left panel
+[2025-06-17 13:55:36] Selecting vehicle categories and fuel types
+[2025-06-17 13:55:36] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:55:37] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:55:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:55:38] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:55:39] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:55:39] Vehicle categories and fuel types selected
+[2025-06-17 13:55:40] Clicking left refresh button
+[2025-06-17 13:55:40] Clicked left refresh button using method 1
+[2025-06-17 13:55:40] Left refresh button clicked
+[2025-06-17 13:55:45] Left panel collapsed successfully.
+[2025-06-17 13:55:45] Downloading Excel file for Andhra Pradesh(83), Kavali UO - AP326( 11-MAY-2022 ), 2023
+[2025-06-17 13:55:45] Clicked Excel download button using method 1
+[2025-06-17 13:55:45] Clicked Excel download button
+[2025-06-17 13:55:48] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:55:48] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:56:48] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Kavali UO - AP326( 11-MAY-2022 ).xlsx
+[2025-06-17 13:56:48] Successfully processed RTO: Kavali UO - AP326( 11-MAY-2022 )
+[2025-06-17 13:56:48] 
+Processing RTO 30/83: Kovvuru UO - AP337( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:56:48] Selecting RTO: Kovvuru UO - AP337( 12-MAY-2022 )
+[2025-06-17 13:56:49] Clicked RTO dropdown using method 1
+[2025-06-17 13:56:50] Clicked RTO option: Kovvuru UO - AP337( 12-MAY-2022 ) using method 1
+[2025-06-17 13:56:50] Successfully selected RTO: Kovvuru UO - AP337( 12-MAY-2022 )
+[2025-06-17 13:56:50] Applying left panel filters
+[2025-06-17 13:56:51] Clicked right refresh button using method 1
+[2025-06-17 13:56:56] Opening left panel if needed
+[2025-06-17 13:56:56] Clicked left panel toggler using method 1
+[2025-06-17 13:56:56] Expanded left panel
+[2025-06-17 13:56:57] Selecting vehicle categories and fuel types
+[2025-06-17 13:56:58] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:56:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:56:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:57:00] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:57:01] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:57:01] Vehicle categories and fuel types selected
+[2025-06-17 13:57:02] Clicking left refresh button
+[2025-06-17 13:57:03] Clicked left refresh button using method 1
+[2025-06-17 13:57:03] Left refresh button clicked
+[2025-06-17 13:57:07] Left panel collapsed successfully.
+[2025-06-17 13:57:07] Downloading Excel file for Andhra Pradesh(83), Kovvuru UO - AP337( 12-MAY-2022 ), 2023
+[2025-06-17 13:57:07] Clicked Excel download button using method 1
+[2025-06-17 13:57:07] Clicked Excel download button
+[2025-06-17 13:57:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:57:10] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:58:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Kovvuru UO - AP337( 12-MAY-2022 ).xlsx
+[2025-06-17 13:58:10] Successfully processed RTO: Kovvuru UO - AP337( 12-MAY-2022 )
+[2025-06-17 13:58:10] 
+Processing RTO 31/83: Kurnool RTA - AP21( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 13:58:10] Selecting RTO: Kurnool RTA - AP21( 25-APR-2022 )
+[2025-06-17 13:58:11] Clicked RTO dropdown using method 1
+[2025-06-17 13:58:12] Clicked RTO option: Kurnool RTA - AP21( 25-APR-2022 ) using method 1
+[2025-06-17 13:58:12] Successfully selected RTO: Kurnool RTA - AP21( 25-APR-2022 )
+[2025-06-17 13:58:12] Applying left panel filters
+[2025-06-17 13:58:13] Clicked right refresh button using method 1
+[2025-06-17 13:58:17] Opening left panel if needed
+[2025-06-17 13:58:17] Clicked left panel toggler using method 1
+[2025-06-17 13:58:17] Expanded left panel
+[2025-06-17 13:58:19] Selecting vehicle categories and fuel types
+[2025-06-17 13:58:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:58:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:58:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:58:21] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:58:22] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:58:22] Vehicle categories and fuel types selected
+[2025-06-17 13:58:23] Clicking left refresh button
+[2025-06-17 13:58:23] Clicked left refresh button using method 1
+[2025-06-17 13:58:23] Left refresh button clicked
+[2025-06-17 13:58:28] Left panel collapsed successfully.
+[2025-06-17 13:58:28] Downloading Excel file for Andhra Pradesh(83), Kurnool RTA - AP21( 25-APR-2022 ), 2023
+[2025-06-17 13:58:29] Clicked Excel download button using method 1
+[2025-06-17 13:58:29] Clicked Excel download button
+[2025-06-17 13:58:32] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:58:32] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 13:59:32] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Kurnool RTA - AP21( 25-APR-2022 ).xlsx
+[2025-06-17 13:59:32] Successfully processed RTO: Kurnool RTA - AP21( 25-APR-2022 )
+[2025-06-17 13:59:32] 
+Processing RTO 32/83: Macherla MVI Office - AP407( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 13:59:32] Selecting RTO: Macherla MVI Office - AP407( 06-MAY-2022 )
+[2025-06-17 13:59:32] Clicked RTO dropdown using method 1
+[2025-06-17 13:59:34] Clicked RTO option: Macherla MVI Office - AP407( 06-MAY-2022 ) using method 1
+[2025-06-17 13:59:34] Successfully selected RTO: Macherla MVI Office - AP407( 06-MAY-2022 )
+[2025-06-17 13:59:34] Applying left panel filters
+[2025-06-17 13:59:34] Clicked right refresh button using method 1
+[2025-06-17 13:59:39] Opening left panel if needed
+[2025-06-17 13:59:39] Clicked left panel toggler using method 1
+[2025-06-17 13:59:39] Expanded left panel
+[2025-06-17 13:59:40] Selecting vehicle categories and fuel types
+[2025-06-17 13:59:41] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 13:59:42] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 13:59:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 13:59:43] Clicked checkbox fuel:7 using method 2
+[2025-06-17 13:59:44] Clicked checkbox fuel:21 using method 2
+[2025-06-17 13:59:44] Vehicle categories and fuel types selected
+[2025-06-17 13:59:45] Clicking left refresh button
+[2025-06-17 13:59:46] Clicked left refresh button using method 1
+[2025-06-17 13:59:46] Left refresh button clicked
+[2025-06-17 13:59:51] Left panel collapsed successfully.
+[2025-06-17 13:59:51] Downloading Excel file for Andhra Pradesh(83), Macherla MVI Office - AP407( 06-MAY-2022 ), 2023
+[2025-06-17 13:59:51] Clicked Excel download button using method 1
+[2025-06-17 13:59:51] Clicked Excel download button
+[2025-06-17 13:59:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 13:59:55] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:00:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Macherla MVI Office - AP407( 06-MAY-2022 ).xlsx
+[2025-06-17 14:00:55] Successfully processed RTO: Macherla MVI Office - AP407( 06-MAY-2022 )
+[2025-06-17 14:00:55] 
+Processing RTO 33/83: Mandapeta UO - AP405( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:00:55] Selecting RTO: Mandapeta UO - AP405( 06-MAY-2022 )
+[2025-06-17 14:00:56] Clicked RTO dropdown using method 1
+[2025-06-17 14:00:57] Clicked RTO option: Mandapeta UO - AP405( 06-MAY-2022 ) using method 1
+[2025-06-17 14:00:57] Successfully selected RTO: Mandapeta UO - AP405( 06-MAY-2022 )
+[2025-06-17 14:00:57] Applying left panel filters
+[2025-06-17 14:00:58] Clicked right refresh button using method 1
+[2025-06-17 14:01:02] Opening left panel if needed
+[2025-06-17 14:01:02] Clicked left panel toggler using method 1
+[2025-06-17 14:01:02] Expanded left panel
+[2025-06-17 14:01:03] Selecting vehicle categories and fuel types
+[2025-06-17 14:01:04] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:01:04] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:01:05] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:01:06] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:01:07] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:01:07] Vehicle categories and fuel types selected
+[2025-06-17 14:01:08] Clicking left refresh button
+[2025-06-17 14:01:08] Clicked left refresh button using method 1
+[2025-06-17 14:01:08] Left refresh button clicked
+[2025-06-17 14:01:13] Left panel collapsed successfully.
+[2025-06-17 14:01:13] Downloading Excel file for Andhra Pradesh(83), Mandapeta UO - AP405( 06-MAY-2022 ), 2023
+[2025-06-17 14:01:14] Clicked Excel download button using method 1
+[2025-06-17 14:01:14] Clicked Excel download button
+[2025-06-17 14:01:18] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:01:18] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:02:18] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Mandapeta UO - AP405( 06-MAY-2022 ).xlsx
+[2025-06-17 14:02:18] Successfully processed RTO: Mandapeta UO - AP405( 06-MAY-2022 )
+[2025-06-17 14:02:18] 
+Processing RTO 34/83: Mangalagiri MVI Office - AP507( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:02:18] Selecting RTO: Mangalagiri MVI Office - AP507( 06-MAY-2022 )
+[2025-06-17 14:02:18] Clicked RTO dropdown using method 1
+[2025-06-17 14:02:19] Clicked RTO option: Mangalagiri MVI Office - AP507( 06-MAY-2022 ) using method 1
+[2025-06-17 14:02:20] Successfully selected RTO: Mangalagiri MVI Office - AP507( 06-MAY-2022 )
+[2025-06-17 14:02:20] Applying left panel filters
+[2025-06-17 14:02:20] Clicked right refresh button using method 1
+[2025-06-17 14:02:24] Opening left panel if needed
+[2025-06-17 14:02:25] Clicked left panel toggler using method 1
+[2025-06-17 14:02:25] Expanded left panel
+[2025-06-17 14:02:26] Selecting vehicle categories and fuel types
+[2025-06-17 14:02:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:02:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:02:27] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:02:28] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:02:29] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:02:29] Vehicle categories and fuel types selected
+[2025-06-17 14:02:30] Clicking left refresh button
+[2025-06-17 14:02:31] Clicked left refresh button using method 1
+[2025-06-17 14:02:31] Left refresh button clicked
+[2025-06-17 14:02:35] Left panel collapsed successfully.
+[2025-06-17 14:02:35] Downloading Excel file for Andhra Pradesh(83), Mangalagiri MVI Office - AP507( 06-MAY-2022 ), 2023
+[2025-06-17 14:02:36] Clicked Excel download button using method 1
+[2025-06-17 14:02:36] Clicked Excel download button
+[2025-06-17 14:02:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:02:40] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:03:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Mangalagiri MVI Office - AP507( 06-MAY-2022 ).xlsx
+[2025-06-17 14:03:40] Successfully processed RTO: Mangalagiri MVI Office - AP507( 06-MAY-2022 )
+[2025-06-17 14:03:40] 
+Processing RTO 35/83: Markapur UO - AP327( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:03:40] Selecting RTO: Markapur UO - AP327( 12-MAY-2022 )
+[2025-06-17 14:03:40] Clicked RTO dropdown using method 1
+[2025-06-17 14:03:41] Clicked RTO option: Markapur UO - AP327( 12-MAY-2022 ) using method 1
+[2025-06-17 14:03:41] Successfully selected RTO: Markapur UO - AP327( 12-MAY-2022 )
+[2025-06-17 14:03:41] Applying left panel filters
+[2025-06-17 14:03:42] Clicked right refresh button using method 1
+[2025-06-17 14:03:46] Opening left panel if needed
+[2025-06-17 14:03:46] Clicked left panel toggler using method 1
+[2025-06-17 14:03:46] Expanded left panel
+[2025-06-17 14:03:48] Selecting vehicle categories and fuel types
+[2025-06-17 14:03:48] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:03:49] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:03:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:03:51] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:03:52] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:03:52] Vehicle categories and fuel types selected
+[2025-06-17 14:03:52] Clicking left refresh button
+[2025-06-17 14:03:53] Clicked left refresh button using method 1
+[2025-06-17 14:03:53] Left refresh button clicked
+[2025-06-17 14:03:57] Left panel collapsed successfully.
+[2025-06-17 14:03:57] Downloading Excel file for Andhra Pradesh(83), Markapur UO - AP327( 12-MAY-2022 ), 2023
+[2025-06-17 14:03:58] Clicked Excel download button using method 1
+[2025-06-17 14:03:58] Clicked Excel download button
+[2025-06-17 14:04:01] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:04:01] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:05:01] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Markapur UO - AP327( 12-MAY-2022 ).xlsx
+[2025-06-17 14:05:01] Successfully processed RTO: Markapur UO - AP327( 12-MAY-2022 )
+[2025-06-17 14:05:01] 
+Processing RTO 36/83: Nagari MVI office - AP114( 30-NOV-2024 ) (Attempt 1/2)
+[2025-06-17 14:05:01] Selecting RTO: Nagari MVI office - AP114( 30-NOV-2024 )
+[2025-06-17 14:05:01] Clicked RTO dropdown using method 1
+[2025-06-17 14:05:03] Clicked RTO option: Nagari MVI office - AP114( 30-NOV-2024 ) using method 1
+[2025-06-17 14:05:03] Successfully selected RTO: Nagari MVI office - AP114( 30-NOV-2024 )
+[2025-06-17 14:05:03] Applying left panel filters
+[2025-06-17 14:05:03] Clicked right refresh button using method 1
+[2025-06-17 14:05:08] Opening left panel if needed
+[2025-06-17 14:05:08] Clicked left panel toggler using method 1
+[2025-06-17 14:05:08] Expanded left panel
+[2025-06-17 14:05:10] Selecting vehicle categories and fuel types
+[2025-06-17 14:05:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:05:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:05:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:05:12] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:05:13] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:05:14] Vehicle categories and fuel types selected
+[2025-06-17 14:05:14] Clicking left refresh button
+[2025-06-17 14:05:15] Clicked left refresh button using method 1
+[2025-06-17 14:05:15] Left refresh button clicked
+[2025-06-17 14:05:19] Left panel collapsed successfully.
+[2025-06-17 14:05:19] Downloading Excel file for Andhra Pradesh(83), Nagari MVI office - AP114( 30-NOV-2024 ), 2023
+[2025-06-17 14:05:20] Clicked Excel download button using method 1
+[2025-06-17 14:05:20] Clicked Excel download button
+[2025-06-17 14:05:24] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:05:24] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:06:24] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Nagari MVI office - AP114( 30-NOV-2024 ).xlsx
+[2025-06-17 14:06:24] Successfully processed RTO: Nagari MVI office - AP114( 30-NOV-2024 )
+[2025-06-17 14:06:24] 
+Processing RTO 37/83: Nandigama RTA - AP316( 05-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:06:24] Selecting RTO: Nandigama RTA - AP316( 05-MAY-2022 )
+[2025-06-17 14:06:24] Clicked RTO dropdown using method 1
+[2025-06-17 14:06:25] Clicked RTO option: Nandigama RTA - AP316( 05-MAY-2022 ) using method 1
+[2025-06-17 14:06:25] Successfully selected RTO: Nandigama RTA - AP316( 05-MAY-2022 )
+[2025-06-17 14:06:25] Applying left panel filters
+[2025-06-17 14:06:25] Clicked right refresh button using method 1
+[2025-06-17 14:06:30] Opening left panel if needed
+[2025-06-17 14:06:30] Clicked left panel toggler using method 1
+[2025-06-17 14:06:30] Expanded left panel
+[2025-06-17 14:06:31] Selecting vehicle categories and fuel types
+[2025-06-17 14:06:31] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:06:32] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:06:33] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:06:34] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:06:35] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:06:35] Vehicle categories and fuel types selected
+[2025-06-17 14:06:36] Clicking left refresh button
+[2025-06-17 14:06:36] Clicked left refresh button using method 1
+[2025-06-17 14:06:36] Left refresh button clicked
+[2025-06-17 14:06:41] Left panel collapsed successfully.
+[2025-06-17 14:06:41] Downloading Excel file for Andhra Pradesh(83), Nandigama RTA - AP316( 05-MAY-2022 ), 2023
+[2025-06-17 14:06:41] Clicked Excel download button using method 1
+[2025-06-17 14:06:41] Clicked Excel download button
+[2025-06-17 14:06:44] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:06:44] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:07:44] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Nandigama RTA - AP316( 05-MAY-2022 ).xlsx
+[2025-06-17 14:07:44] Successfully processed RTO: Nandigama RTA - AP316( 05-MAY-2022 )
+[2025-06-17 14:07:44] 
+Processing RTO 38/83: Nandyal RTA - AP121( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:07:44] Selecting RTO: Nandyal RTA - AP121( 25-APR-2022 )
+[2025-06-17 14:07:45] Clicked RTO dropdown using method 1
+[2025-06-17 14:07:46] Clicked RTO option: Nandyal RTA - AP121( 25-APR-2022 ) using method 1
+[2025-06-17 14:07:46] Successfully selected RTO: Nandyal RTA - AP121( 25-APR-2022 )
+[2025-06-17 14:07:46] Applying left panel filters
+[2025-06-17 14:07:46] Clicked right refresh button using method 1
+[2025-06-17 14:07:51] Opening left panel if needed
+[2025-06-17 14:07:51] Clicked left panel toggler using method 1
+[2025-06-17 14:07:51] Expanded left panel
+[2025-06-17 14:07:53] Selecting vehicle categories and fuel types
+[2025-06-17 14:07:53] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:07:54] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:07:55] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:07:55] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:07:56] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:07:57] Vehicle categories and fuel types selected
+[2025-06-17 14:07:57] Clicking left refresh button
+[2025-06-17 14:07:58] Clicked left refresh button using method 1
+[2025-06-17 14:07:58] Left refresh button clicked
+[2025-06-17 14:08:02] Left panel collapsed successfully.
+[2025-06-17 14:08:02] Downloading Excel file for Andhra Pradesh(83), Nandyal RTA - AP121( 25-APR-2022 ), 2023
+[2025-06-17 14:08:03] Clicked Excel download button using method 1
+[2025-06-17 14:08:03] Clicked Excel download button
+[2025-06-17 14:08:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:08:07] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:09:07] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Nandyal RTA - AP121( 25-APR-2022 ).xlsx
+[2025-06-17 14:09:07] Successfully processed RTO: Nandyal RTA - AP121( 25-APR-2022 )
+[2025-06-17 14:09:07] 
+Processing RTO 39/83: Narasaraopet RTA - AP107( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:09:07] Selecting RTO: Narasaraopet RTA - AP107( 25-APR-2022 )
+[2025-06-17 14:09:07] Clicked RTO dropdown using method 1
+[2025-06-17 14:09:08] Clicked RTO option: Narasaraopet RTA - AP107( 25-APR-2022 ) using method 1
+[2025-06-17 14:09:09] Successfully selected RTO: Narasaraopet RTA - AP107( 25-APR-2022 )
+[2025-06-17 14:09:09] Applying left panel filters
+[2025-06-17 14:09:09] Clicked right refresh button using method 1
+[2025-06-17 14:09:14] Opening left panel if needed
+[2025-06-17 14:09:14] Clicked left panel toggler using method 1
+[2025-06-17 14:09:14] Expanded left panel
+[2025-06-17 14:09:16] Selecting vehicle categories and fuel types
+[2025-06-17 14:09:16] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:09:17] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:09:17] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:09:18] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:09:19] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:09:19] Vehicle categories and fuel types selected
+[2025-06-17 14:09:20] Clicking left refresh button
+[2025-06-17 14:09:21] Clicked left refresh button using method 1
+[2025-06-17 14:09:21] Left refresh button clicked
+[2025-06-17 14:09:26] Left panel collapsed successfully.
+[2025-06-17 14:09:26] Downloading Excel file for Andhra Pradesh(83), Narasaraopet RTA - AP107( 25-APR-2022 ), 2023
+[2025-06-17 14:09:26] Clicked Excel download button using method 1
+[2025-06-17 14:09:26] Clicked Excel download button
+[2025-06-17 14:09:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:09:29] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:10:29] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Narasaraopet RTA - AP107( 25-APR-2022 ).xlsx
+[2025-06-17 14:10:29] Successfully processed RTO: Narasaraopet RTA - AP107( 25-APR-2022 )
+[2025-06-17 14:10:29] 
+Processing RTO 40/83: Narsipatnam MVI Office - AP331( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:10:29] Selecting RTO: Narsipatnam MVI Office - AP331( 06-MAY-2022 )
+[2025-06-17 14:10:29] Clicked RTO dropdown using method 1
+[2025-06-17 14:10:31] Clicked RTO option: Narsipatnam MVI Office - AP331( 06-MAY-2022 ) using method 1
+[2025-06-17 14:10:31] Successfully selected RTO: Narsipatnam MVI Office - AP331( 06-MAY-2022 )
+[2025-06-17 14:10:31] Applying left panel filters
+[2025-06-17 14:10:32] Clicked right refresh button using method 1
+[2025-06-17 14:10:36] Opening left panel if needed
+[2025-06-17 14:10:36] Clicked left panel toggler using method 1
+[2025-06-17 14:10:36] Expanded left panel
+[2025-06-17 14:10:38] Selecting vehicle categories and fuel types
+[2025-06-17 14:10:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:10:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:10:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:10:41] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:10:41] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:10:42] Vehicle categories and fuel types selected
+[2025-06-17 14:10:42] Clicking left refresh button
+[2025-06-17 14:10:43] Clicked left refresh button using method 1
+[2025-06-17 14:10:43] Left refresh button clicked
+[2025-06-17 14:10:48] Left panel collapsed successfully.
+[2025-06-17 14:10:48] Downloading Excel file for Andhra Pradesh(83), Narsipatnam MVI Office - AP331( 06-MAY-2022 ), 2023
+[2025-06-17 14:10:48] Clicked Excel download button using method 1
+[2025-06-17 14:10:48] Clicked Excel download button
+[2025-06-17 14:10:52] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:10:52] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:11:52] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Narsipatnam MVI Office - AP331( 06-MAY-2022 ).xlsx
+[2025-06-17 14:11:52] Successfully processed RTO: Narsipatnam MVI Office - AP331( 06-MAY-2022 )
+[2025-06-17 14:11:52] 
+Processing RTO 41/83: Nellore RTA - AP26( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:11:52] Selecting RTO: Nellore RTA - AP26( 25-APR-2022 )
+[2025-06-17 14:11:52] Clicked RTO dropdown using method 1
+[2025-06-17 14:11:53] Clicked RTO option: Nellore RTA - AP26( 25-APR-2022 ) using method 1
+[2025-06-17 14:11:53] Successfully selected RTO: Nellore RTA - AP26( 25-APR-2022 )
+[2025-06-17 14:11:53] Applying left panel filters
+[2025-06-17 14:11:54] Clicked right refresh button using method 1
+[2025-06-17 14:11:58] Opening left panel if needed
+[2025-06-17 14:11:58] Clicked left panel toggler using method 1
+[2025-06-17 14:11:58] Expanded left panel
+[2025-06-17 14:11:59] Selecting vehicle categories and fuel types
+[2025-06-17 14:12:00] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:12:00] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:12:01] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:12:02] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:12:02] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:12:03] Vehicle categories and fuel types selected
+[2025-06-17 14:12:04] Clicking left refresh button
+[2025-06-17 14:12:04] Clicked left refresh button using method 1
+[2025-06-17 14:12:04] Left refresh button clicked
+[2025-06-17 14:12:09] Left panel collapsed successfully.
+[2025-06-17 14:12:09] Downloading Excel file for Andhra Pradesh(83), Nellore RTA - AP26( 25-APR-2022 ), 2023
+[2025-06-17 14:12:10] Clicked Excel download button using method 1
+[2025-06-17 14:12:10] Clicked Excel download button
+[2025-06-17 14:12:14] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:12:14] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:13:14] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Nellore RTA - AP26( 25-APR-2022 ).xlsx
+[2025-06-17 14:13:14] Successfully processed RTO: Nellore RTA - AP26( 25-APR-2022 )
+[2025-06-17 14:13:14] 
+Processing RTO 42/83: Nuzvid UO - AP416( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:13:14] Selecting RTO: Nuzvid UO - AP416( 06-MAY-2022 )
+[2025-06-17 14:13:14] Clicked RTO dropdown using method 1
+[2025-06-17 14:13:15] Clicked RTO option: Nuzvid UO - AP416( 06-MAY-2022 ) using method 1
+[2025-06-17 14:13:15] Successfully selected RTO: Nuzvid UO - AP416( 06-MAY-2022 )
+[2025-06-17 14:13:15] Applying left panel filters
+[2025-06-17 14:13:16] Clicked right refresh button using method 1
+[2025-06-17 14:13:20] Opening left panel if needed
+[2025-06-17 14:13:20] Clicked left panel toggler using method 1
+[2025-06-17 14:13:20] Expanded left panel
+[2025-06-17 14:13:22] Selecting vehicle categories and fuel types
+[2025-06-17 14:13:22] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:13:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:13:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:13:24] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:13:25] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:13:25] Vehicle categories and fuel types selected
+[2025-06-17 14:13:26] Clicking left refresh button
+[2025-06-17 14:13:26] Clicked left refresh button using method 1
+[2025-06-17 14:13:26] Left refresh button clicked
+[2025-06-17 14:13:31] Left panel collapsed successfully.
+[2025-06-17 14:13:31] Downloading Excel file for Andhra Pradesh(83), Nuzvid UO - AP416( 06-MAY-2022 ), 2023
+[2025-06-17 14:13:31] Clicked Excel download button using method 1
+[2025-06-17 14:13:31] Clicked Excel download button
+[2025-06-17 14:13:35] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:13:35] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:14:35] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Nuzvid UO - AP416( 06-MAY-2022 ).xlsx
+[2025-06-17 14:14:35] Successfully processed RTO: Nuzvid UO - AP416( 06-MAY-2022 )
+[2025-06-17 14:14:35] 
+Processing RTO 43/83: Paderu RTA - AP41( 09-JUN-2022 ) (Attempt 1/2)
+[2025-06-17 14:14:35] Selecting RTO: Paderu RTA - AP41( 09-JUN-2022 )
+[2025-06-17 14:14:36] Clicked RTO dropdown using method 1
+[2025-06-17 14:14:37] Clicked RTO option: Paderu RTA - AP41( 09-JUN-2022 ) using method 1
+[2025-06-17 14:14:37] Successfully selected RTO: Paderu RTA - AP41( 09-JUN-2022 )
+[2025-06-17 14:14:37] Applying left panel filters
+[2025-06-17 14:14:38] Clicked right refresh button using method 1
+[2025-06-17 14:14:42] Opening left panel if needed
+[2025-06-17 14:14:43] Clicked left panel toggler using method 1
+[2025-06-17 14:14:43] Expanded left panel
+[2025-06-17 14:14:44] Selecting vehicle categories and fuel types
+[2025-06-17 14:14:45] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:14:45] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:14:46] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:14:47] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:14:48] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:14:48] Vehicle categories and fuel types selected
+[2025-06-17 14:14:49] Clicking left refresh button
+[2025-06-17 14:14:49] Clicked left refresh button using method 1
+[2025-06-17 14:14:49] Left refresh button clicked
+[2025-06-17 14:14:54] Left panel collapsed successfully.
+[2025-06-17 14:14:54] Downloading Excel file for Andhra Pradesh(83), Paderu RTA - AP41( 09-JUN-2022 ), 2023
+[2025-06-17 14:14:55] Clicked Excel download button using method 1
+[2025-06-17 14:14:55] Clicked Excel download button
+[2025-06-17 14:14:58] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:14:58] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:15:58] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Paderu RTA - AP41( 09-JUN-2022 ).xlsx
+[2025-06-17 14:15:58] Successfully processed RTO: Paderu RTA - AP41( 09-JUN-2022 )
+[2025-06-17 14:15:58] 
+Processing RTO 44/83: Palakole UO - AP637( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:15:58] Selecting RTO: Palakole UO - AP637( 06-MAY-2022 )
+[2025-06-17 14:15:58] Clicked RTO dropdown using method 1
+[2025-06-17 14:16:00] Clicked RTO option: Palakole UO - AP637( 06-MAY-2022 ) using method 1
+[2025-06-17 14:16:00] Successfully selected RTO: Palakole UO - AP637( 06-MAY-2022 )
+[2025-06-17 14:16:00] Applying left panel filters
+[2025-06-17 14:16:00] Clicked right refresh button using method 1
+[2025-06-17 14:16:05] Opening left panel if needed
+[2025-06-17 14:16:05] Clicked left panel toggler using method 1
+[2025-06-17 14:16:05] Expanded left panel
+[2025-06-17 14:16:07] Selecting vehicle categories and fuel types
+[2025-06-17 14:16:07] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:16:07] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:16:08] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:16:09] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:16:09] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:16:10] Vehicle categories and fuel types selected
+[2025-06-17 14:16:10] Clicking left refresh button
+[2025-06-17 14:16:11] Clicked left refresh button using method 1
+[2025-06-17 14:16:11] Left refresh button clicked
+[2025-06-17 14:16:16] Left panel collapsed successfully.
+[2025-06-17 14:16:16] Downloading Excel file for Andhra Pradesh(83), Palakole UO - AP637( 06-MAY-2022 ), 2023
+[2025-06-17 14:16:16] Clicked Excel download button using method 1
+[2025-06-17 14:16:16] Clicked Excel download button
+[2025-06-17 14:16:20] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:16:20] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:17:20] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Palakole UO - AP637( 06-MAY-2022 ).xlsx
+[2025-06-17 14:17:20] Successfully processed RTO: Palakole UO - AP637( 06-MAY-2022 )
+[2025-06-17 14:17:20] 
+Processing RTO 45/83: PALAKONDA RTA - AP230( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:17:20] Selecting RTO: PALAKONDA RTA - AP230( 12-MAY-2022 )
+[2025-06-17 14:17:21] Clicked RTO dropdown using method 1
+[2025-06-17 14:17:22] Clicked RTO option: PALAKONDA RTA - AP230( 12-MAY-2022 ) using method 1
+[2025-06-17 14:17:22] Successfully selected RTO: PALAKONDA RTA - AP230( 12-MAY-2022 )
+[2025-06-17 14:17:22] Applying left panel filters
+[2025-06-17 14:17:23] Clicked right refresh button using method 1
+[2025-06-17 14:17:27] Opening left panel if needed
+[2025-06-17 14:17:27] Clicked left panel toggler using method 1
+[2025-06-17 14:17:27] Expanded left panel
+[2025-06-17 14:17:29] Selecting vehicle categories and fuel types
+[2025-06-17 14:17:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:17:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:17:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:17:31] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:17:32] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:17:32] Vehicle categories and fuel types selected
+[2025-06-17 14:17:33] Clicking left refresh button
+[2025-06-17 14:17:33] Clicked left refresh button using method 1
+[2025-06-17 14:17:33] Left refresh button clicked
+[2025-06-17 14:17:38] Left panel collapsed successfully.
+[2025-06-17 14:17:38] Downloading Excel file for Andhra Pradesh(83), PALAKONDA RTA - AP230( 12-MAY-2022 ), 2023
+[2025-06-17 14:17:39] Clicked Excel download button using method 1
+[2025-06-17 14:17:39] Clicked Excel download button
+[2025-06-17 14:17:43] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:17:43] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:18:43] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\PALAKONDA RTA - AP230( 12-MAY-2022 ).xlsx
+[2025-06-17 14:18:43] Successfully processed RTO: PALAKONDA RTA - AP230( 12-MAY-2022 )
+[2025-06-17 14:18:43] 
+Processing RTO 46/83: Palamaner MVI Office - AP303( 10-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:18:43] Selecting RTO: Palamaner MVI Office - AP303( 10-MAY-2022 )
+[2025-06-17 14:18:43] Clicked RTO dropdown using method 1
+[2025-06-17 14:18:44] Clicked RTO option: Palamaner MVI Office - AP303( 10-MAY-2022 ) using method 1
+[2025-06-17 14:18:45] Successfully selected RTO: Palamaner MVI Office - AP303( 10-MAY-2022 )
+[2025-06-17 14:18:45] Applying left panel filters
+[2025-06-17 14:18:45] Clicked right refresh button using method 1
+[2025-06-17 14:18:50] Opening left panel if needed
+[2025-06-17 14:18:50] Clicked left panel toggler using method 1
+[2025-06-17 14:18:50] Expanded left panel
+[2025-06-17 14:18:51] Selecting vehicle categories and fuel types
+[2025-06-17 14:18:52] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:18:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:18:53] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:18:54] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:18:55] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:18:55] Vehicle categories and fuel types selected
+[2025-06-17 14:18:56] Clicking left refresh button
+[2025-06-17 14:18:56] Clicked left refresh button using method 1
+[2025-06-17 14:18:56] Left refresh button clicked
+[2025-06-17 14:19:01] Left panel collapsed successfully.
+[2025-06-17 14:19:01] Downloading Excel file for Andhra Pradesh(83), Palamaner MVI Office - AP303( 10-MAY-2022 ), 2023
+[2025-06-17 14:19:02] Clicked Excel download button using method 1
+[2025-06-17 14:19:02] Clicked Excel download button
+[2025-06-17 14:19:05] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:19:05] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:20:05] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Palamaner MVI Office - AP303( 10-MAY-2022 ).xlsx
+[2025-06-17 14:20:05] Successfully processed RTO: Palamaner MVI Office - AP303( 10-MAY-2022 )
+[2025-06-17 14:20:05] 
+Processing RTO 47/83: Palasa MVI Office - AP330( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:20:05] Selecting RTO: Palasa MVI Office - AP330( 12-MAY-2022 )
+[2025-06-17 14:20:05] Clicked RTO dropdown using method 1
+[2025-06-17 14:20:07] Clicked RTO option: Palasa MVI Office - AP330( 12-MAY-2022 ) using method 1
+[2025-06-17 14:20:07] Successfully selected RTO: Palasa MVI Office - AP330( 12-MAY-2022 )
+[2025-06-17 14:20:07] Applying left panel filters
+[2025-06-17 14:20:07] Clicked right refresh button using method 1
+[2025-06-17 14:20:12] Opening left panel if needed
+[2025-06-17 14:20:12] Clicked left panel toggler using method 1
+[2025-06-17 14:20:12] Expanded left panel
+[2025-06-17 14:20:13] Selecting vehicle categories and fuel types
+[2025-06-17 14:20:14] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:20:15] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:20:16] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:20:16] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:20:17] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:20:17] Vehicle categories and fuel types selected
+[2025-06-17 14:20:18] Clicking left refresh button
+[2025-06-17 14:20:19] Clicked left refresh button using method 1
+[2025-06-17 14:20:19] Left refresh button clicked
+[2025-06-17 14:20:24] Left panel collapsed successfully.
+[2025-06-17 14:20:24] Downloading Excel file for Andhra Pradesh(83), Palasa MVI Office - AP330( 12-MAY-2022 ), 2023
+[2025-06-17 14:20:24] Clicked Excel download button using method 1
+[2025-06-17 14:20:24] Clicked Excel download button
+[2025-06-17 14:20:28] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:20:28] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:21:28] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Palasa MVI Office - AP330( 12-MAY-2022 ).xlsx
+[2025-06-17 14:21:28] Successfully processed RTO: Palasa MVI Office - AP330( 12-MAY-2022 )
+[2025-06-17 14:21:28] 
+Processing RTO 48/83: PARVATHIPURAM RTO OFFICE - AP135( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:21:28] Selecting RTO: PARVATHIPURAM RTO OFFICE - AP135( 25-APR-2022 )
+[2025-06-17 14:21:28] Clicked RTO dropdown using method 1
+[2025-06-17 14:21:29] Clicked RTO option: PARVATHIPURAM RTO OFFICE - AP135( 25-APR-2022 ) using method 1
+[2025-06-17 14:21:29] Successfully selected RTO: PARVATHIPURAM RTO OFFICE - AP135( 25-APR-2022 )
+[2025-06-17 14:21:29] Applying left panel filters
+[2025-06-17 14:21:30] Clicked right refresh button using method 1
+[2025-06-17 14:21:34] Opening left panel if needed
+[2025-06-17 14:21:34] Clicked left panel toggler using method 1
+[2025-06-17 14:21:34] Expanded left panel
+[2025-06-17 14:21:36] Selecting vehicle categories and fuel types
+[2025-06-17 14:21:36] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:21:37] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:21:38] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:21:39] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:21:39] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:21:40] Vehicle categories and fuel types selected
+[2025-06-17 14:21:40] Clicking left refresh button
+[2025-06-17 14:21:41] Clicked left refresh button using method 1
+[2025-06-17 14:21:41] Left refresh button clicked
+[2025-06-17 14:21:45] Left panel collapsed successfully.
+[2025-06-17 14:21:45] Downloading Excel file for Andhra Pradesh(83), PARVATHIPURAM RTO OFFICE - AP135( 25-APR-2022 ), 2023
+[2025-06-17 14:21:46] Clicked Excel download button using method 1
+[2025-06-17 14:21:46] Clicked Excel download button
+[2025-06-17 14:21:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:21:49] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:22:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\PARVATHIPURAM RTO OFFICE - AP135( 25-APR-2022 ).xlsx
+[2025-06-17 14:22:49] Successfully processed RTO: PARVATHIPURAM RTO OFFICE - AP135( 25-APR-2022 )
+[2025-06-17 14:22:49] 
+Processing RTO 49/83: Peddapuram MVI Office - AP505( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:22:49] Selecting RTO: Peddapuram MVI Office - AP505( 06-MAY-2022 )
+[2025-06-17 14:22:49] Clicked RTO dropdown using method 1
+[2025-06-17 14:22:50] Clicked RTO option: Peddapuram MVI Office - AP505( 06-MAY-2022 ) using method 1
+[2025-06-17 14:22:51] Successfully selected RTO: Peddapuram MVI Office - AP505( 06-MAY-2022 )
+[2025-06-17 14:22:51] Applying left panel filters
+[2025-06-17 14:22:51] Clicked right refresh button using method 1
+[2025-06-17 14:22:56] Opening left panel if needed
+[2025-06-17 14:22:56] Clicked left panel toggler using method 1
+[2025-06-17 14:22:56] Expanded left panel
+[2025-06-17 14:22:57] Selecting vehicle categories and fuel types
+[2025-06-17 14:22:58] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:22:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:22:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:23:00] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:23:01] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:23:01] Vehicle categories and fuel types selected
+[2025-06-17 14:23:02] Clicking left refresh button
+[2025-06-17 14:23:02] Clicked left refresh button using method 1
+[2025-06-17 14:23:02] Left refresh button clicked
+[2025-06-17 14:23:08] Left panel collapsed successfully.
+[2025-06-17 14:23:08] Downloading Excel file for Andhra Pradesh(83), Peddapuram MVI Office - AP505( 06-MAY-2022 ), 2023
+[2025-06-17 14:23:09] Clicked Excel download button using method 1
+[2025-06-17 14:23:09] Clicked Excel download button
+[2025-06-17 14:23:12] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:23:12] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:24:12] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Peddapuram MVI Office - AP505( 06-MAY-2022 ).xlsx
+[2025-06-17 14:24:12] Successfully processed RTO: Peddapuram MVI Office - AP505( 06-MAY-2022 )
+[2025-06-17 14:24:12] 
+Processing RTO 50/83: Piduguralla UO - AP607( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:24:12] Selecting RTO: Piduguralla UO - AP607( 06-MAY-2022 )
+[2025-06-17 14:24:12] Clicked RTO dropdown using method 1
+[2025-06-17 14:24:14] Clicked RTO option: Piduguralla UO - AP607( 06-MAY-2022 ) using method 1
+[2025-06-17 14:24:14] Successfully selected RTO: Piduguralla UO - AP607( 06-MAY-2022 )
+[2025-06-17 14:24:14] Applying left panel filters
+[2025-06-17 14:24:14] Clicked right refresh button using method 1
+[2025-06-17 14:24:19] Opening left panel if needed
+[2025-06-17 14:24:19] Clicked left panel toggler using method 1
+[2025-06-17 14:24:19] Expanded left panel
+[2025-06-17 14:24:21] Selecting vehicle categories and fuel types
+[2025-06-17 14:24:21] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:24:22] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:24:23] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:24:23] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:24:24] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:24:24] Vehicle categories and fuel types selected
+[2025-06-17 14:24:25] Clicking left refresh button
+[2025-06-17 14:24:26] Clicked left refresh button using method 1
+[2025-06-17 14:24:26] Left refresh button clicked
+[2025-06-17 14:24:30] Left panel collapsed successfully.
+[2025-06-17 14:24:30] Downloading Excel file for Andhra Pradesh(83), Piduguralla UO - AP607( 06-MAY-2022 ), 2023
+[2025-06-17 14:24:31] Clicked Excel download button using method 1
+[2025-06-17 14:24:31] Clicked Excel download button
+[2025-06-17 14:24:35] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:24:35] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:25:35] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Piduguralla UO - AP607( 06-MAY-2022 ).xlsx
+[2025-06-17 14:25:35] Successfully processed RTO: Piduguralla UO - AP607( 06-MAY-2022 )
+[2025-06-17 14:25:35] 
+Processing RTO 51/83: Piler MVI Office - AP403( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:25:35] Selecting RTO: Piler MVI Office - AP403( 12-MAY-2022 )
+[2025-06-17 14:25:35] Clicked RTO dropdown using method 1
+[2025-06-17 14:25:36] Clicked RTO option: Piler MVI Office - AP403( 12-MAY-2022 ) using method 1
+[2025-06-17 14:25:36] Successfully selected RTO: Piler MVI Office - AP403( 12-MAY-2022 )
+[2025-06-17 14:25:36] Applying left panel filters
+[2025-06-17 14:25:37] Clicked right refresh button using method 1
+[2025-06-17 14:25:41] Opening left panel if needed
+[2025-06-17 14:25:41] Clicked left panel toggler using method 1
+[2025-06-17 14:25:41] Expanded left panel
+[2025-06-17 14:25:43] Selecting vehicle categories and fuel types
+[2025-06-17 14:25:43] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:25:44] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:25:45] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:25:46] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:25:47] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:25:47] Vehicle categories and fuel types selected
+[2025-06-17 14:25:48] Clicking left refresh button
+[2025-06-17 14:25:48] Clicked left refresh button using method 1
+[2025-06-17 14:25:48] Left refresh button clicked
+[2025-06-17 14:25:53] Left panel collapsed successfully.
+[2025-06-17 14:25:53] Downloading Excel file for Andhra Pradesh(83), Piler MVI Office - AP403( 12-MAY-2022 ), 2023
+[2025-06-17 14:25:54] Clicked Excel download button using method 1
+[2025-06-17 14:25:54] Clicked Excel download button
+[2025-06-17 14:25:57] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:25:57] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:26:57] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Piler MVI Office - AP403( 12-MAY-2022 ).xlsx
+[2025-06-17 14:26:57] Successfully processed RTO: Piler MVI Office - AP403( 12-MAY-2022 )
+[2025-06-17 14:26:57] 
+Processing RTO 52/83: Prakasam RTA - AP27( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:26:57] Selecting RTO: Prakasam RTA - AP27( 25-APR-2022 )
+[2025-06-17 14:26:58] Clicked RTO dropdown using method 1
+[2025-06-17 14:26:59] Clicked RTO option: Prakasam RTA - AP27( 25-APR-2022 ) using method 1
+[2025-06-17 14:26:59] Successfully selected RTO: Prakasam RTA - AP27( 25-APR-2022 )
+[2025-06-17 14:26:59] Applying left panel filters
+[2025-06-17 14:27:00] Clicked right refresh button using method 1
+[2025-06-17 14:27:04] Opening left panel if needed
+[2025-06-17 14:27:04] Clicked left panel toggler using method 1
+[2025-06-17 14:27:04] Expanded left panel
+[2025-06-17 14:27:06] Selecting vehicle categories and fuel types
+[2025-06-17 14:27:06] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:27:07] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:27:08] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:27:08] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:27:09] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:27:09] Vehicle categories and fuel types selected
+[2025-06-17 14:27:10] Clicking left refresh button
+[2025-06-17 14:27:10] Clicked left refresh button using method 1
+[2025-06-17 14:27:10] Left refresh button clicked
+[2025-06-17 14:27:15] Left panel collapsed successfully.
+[2025-06-17 14:27:15] Downloading Excel file for Andhra Pradesh(83), Prakasam RTA - AP27( 25-APR-2022 ), 2023
+[2025-06-17 14:27:16] Clicked Excel download button using method 1
+[2025-06-17 14:27:16] Clicked Excel download button
+[2025-06-17 14:27:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:27:19] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:28:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Prakasam RTA - AP27( 25-APR-2022 ).xlsx
+[2025-06-17 14:28:19] Successfully processed RTO: Prakasam RTA - AP27( 25-APR-2022 )
+[2025-06-17 14:28:19] 
+Processing RTO 53/83: Proddutur RTA - AP204( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:28:19] Selecting RTO: Proddutur RTA - AP204( 06-MAY-2022 )
+[2025-06-17 14:28:19] Clicked RTO dropdown using method 1
+[2025-06-17 14:28:20] Clicked RTO option: Proddutur RTA - AP204( 06-MAY-2022 ) using method 1
+[2025-06-17 14:28:21] Successfully selected RTO: Proddutur RTA - AP204( 06-MAY-2022 )
+[2025-06-17 14:28:21] Applying left panel filters
+[2025-06-17 14:28:21] Clicked right refresh button using method 1
+[2025-06-17 14:28:26] Opening left panel if needed
+[2025-06-17 14:28:26] Clicked left panel toggler using method 1
+[2025-06-17 14:28:26] Expanded left panel
+[2025-06-17 14:28:27] Selecting vehicle categories and fuel types
+[2025-06-17 14:28:27] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:28:28] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:28:29] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:28:29] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:28:30] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:28:31] Vehicle categories and fuel types selected
+[2025-06-17 14:28:32] Clicking left refresh button
+[2025-06-17 14:28:32] Clicked left refresh button using method 1
+[2025-06-17 14:28:32] Left refresh button clicked
+[2025-06-17 14:28:36] Left panel collapsed successfully.
+[2025-06-17 14:28:36] Downloading Excel file for Andhra Pradesh(83), Proddutur RTA - AP204( 06-MAY-2022 ), 2023
+[2025-06-17 14:28:37] Clicked Excel download button using method 1
+[2025-06-17 14:28:37] Clicked Excel download button
+[2025-06-17 14:28:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:28:40] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:29:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Proddutur RTA - AP204( 06-MAY-2022 ).xlsx
+[2025-06-17 14:29:40] Successfully processed RTO: Proddutur RTA - AP204( 06-MAY-2022 )
+[2025-06-17 14:29:40] 
+Processing RTO 54/83: Pulivendula MVI Office - AP304( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:29:40] Selecting RTO: Pulivendula MVI Office - AP304( 06-MAY-2022 )
+[2025-06-17 14:29:41] Clicked RTO dropdown using method 1
+[2025-06-17 14:29:42] Clicked RTO option: Pulivendula MVI Office - AP304( 06-MAY-2022 ) using method 1
+[2025-06-17 14:29:42] Successfully selected RTO: Pulivendula MVI Office - AP304( 06-MAY-2022 )
+[2025-06-17 14:29:42] Applying left panel filters
+[2025-06-17 14:29:42] Clicked right refresh button using method 1
+[2025-06-17 14:29:46] Opening left panel if needed
+[2025-06-17 14:29:47] Clicked left panel toggler using method 1
+[2025-06-17 14:29:47] Expanded left panel
+[2025-06-17 14:29:48] Selecting vehicle categories and fuel types
+[2025-06-17 14:29:48] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:29:49] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:29:50] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:29:51] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:29:52] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:29:52] Vehicle categories and fuel types selected
+[2025-06-17 14:29:52] Clicking left refresh button
+[2025-06-17 14:29:53] Clicked left refresh button using method 1
+[2025-06-17 14:29:53] Left refresh button clicked
+[2025-06-17 14:29:58] Left panel collapsed successfully.
+[2025-06-17 14:29:58] Downloading Excel file for Andhra Pradesh(83), Pulivendula MVI Office - AP304( 06-MAY-2022 ), 2023
+[2025-06-17 14:29:58] Clicked Excel download button using method 1
+[2025-06-17 14:29:58] Clicked Excel download button
+[2025-06-17 14:30:02] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:30:02] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:31:02] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Pulivendula MVI Office - AP304( 06-MAY-2022 ).xlsx
+[2025-06-17 14:31:02] Successfully processed RTO: Pulivendula MVI Office - AP304( 06-MAY-2022 )
+[2025-06-17 14:31:02] 
+Processing RTO 55/83: Punganur UO - AP113( 09-JUN-2022 ) (Attempt 1/2)
+[2025-06-17 14:31:02] Selecting RTO: Punganur UO - AP113( 09-JUN-2022 )
+[2025-06-17 14:31:03] Clicked RTO dropdown using method 1
+[2025-06-17 14:31:03] Clicked RTO option: Punganur UO - AP113( 09-JUN-2022 ) using method 1
+[2025-06-17 14:31:04] Successfully selected RTO: Punganur UO - AP113( 09-JUN-2022 )
+[2025-06-17 14:31:04] Applying left panel filters
+[2025-06-17 14:31:04] Clicked right refresh button using method 1
+[2025-06-17 14:31:09] Opening left panel if needed
+[2025-06-17 14:31:09] Clicked left panel toggler using method 1
+[2025-06-17 14:31:09] Expanded left panel
+[2025-06-17 14:31:10] Selecting vehicle categories and fuel types
+[2025-06-17 14:31:11] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:31:12] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:31:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:31:13] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:31:14] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:31:14] Vehicle categories and fuel types selected
+[2025-06-17 14:31:15] Clicking left refresh button
+[2025-06-17 14:31:16] Clicked left refresh button using method 1
+[2025-06-17 14:31:16] Left refresh button clicked
+[2025-06-17 14:31:21] Left panel collapsed successfully.
+[2025-06-17 14:31:21] Downloading Excel file for Andhra Pradesh(83), Punganur UO - AP113( 09-JUN-2022 ), 2023
+[2025-06-17 14:31:21] Clicked Excel download button using method 1
+[2025-06-17 14:31:21] Clicked Excel download button
+[2025-06-17 14:31:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:31:25] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:32:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Punganur UO - AP113( 09-JUN-2022 ).xlsx
+[2025-06-17 14:32:25] Successfully processed RTO: Punganur UO - AP113( 09-JUN-2022 )
+[2025-06-17 14:32:25] 
+Processing RTO 56/83: Puttur MVI Office - AP503( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:32:25] Selecting RTO: Puttur MVI Office - AP503( 12-MAY-2022 )
+[2025-06-17 14:32:25] Clicked RTO dropdown using method 1
+[2025-06-17 14:32:26] Clicked RTO option: Puttur MVI Office - AP503( 12-MAY-2022 ) using method 1
+[2025-06-17 14:32:26] Successfully selected RTO: Puttur MVI Office - AP503( 12-MAY-2022 )
+[2025-06-17 14:32:26] Applying left panel filters
+[2025-06-17 14:32:27] Clicked right refresh button using method 1
+[2025-06-17 14:32:31] Opening left panel if needed
+[2025-06-17 14:32:31] Clicked left panel toggler using method 1
+[2025-06-17 14:32:31] Expanded left panel
+[2025-06-17 14:32:33] Selecting vehicle categories and fuel types
+[2025-06-17 14:32:34] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:32:34] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:32:35] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:32:36] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:32:36] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:32:37] Vehicle categories and fuel types selected
+[2025-06-17 14:32:38] Clicking left refresh button
+[2025-06-17 14:32:38] Clicked left refresh button using method 1
+[2025-06-17 14:32:38] Left refresh button clicked
+[2025-06-17 14:32:43] Left panel collapsed successfully.
+[2025-06-17 14:32:43] Downloading Excel file for Andhra Pradesh(83), Puttur MVI Office - AP503( 12-MAY-2022 ), 2023
+[2025-06-17 14:32:43] Clicked Excel download button using method 1
+[2025-06-17 14:32:43] Clicked Excel download button
+[2025-06-17 14:32:46] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:32:46] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:33:46] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Puttur MVI Office - AP503( 12-MAY-2022 ).xlsx
+[2025-06-17 14:33:46] Successfully processed RTO: Puttur MVI Office - AP503( 12-MAY-2022 )
+[2025-06-17 14:33:46] 
+Processing RTO 57/83: Rajahmundry RTA - AP105( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:33:46] Selecting RTO: Rajahmundry RTA - AP105( 25-APR-2022 )
+[2025-06-17 14:33:47] Clicked RTO dropdown using method 1
+[2025-06-17 14:33:48] Clicked RTO option: Rajahmundry RTA - AP105( 25-APR-2022 ) using method 1
+[2025-06-17 14:33:48] Successfully selected RTO: Rajahmundry RTA - AP105( 25-APR-2022 )
+[2025-06-17 14:33:48] Applying left panel filters
+[2025-06-17 14:33:49] Clicked right refresh button using method 1
+[2025-06-17 14:33:53] Opening left panel if needed
+[2025-06-17 14:33:53] Clicked left panel toggler using method 1
+[2025-06-17 14:33:53] Expanded left panel
+[2025-06-17 14:33:55] Selecting vehicle categories and fuel types
+[2025-06-17 14:33:55] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:33:56] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:33:57] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:33:57] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:33:58] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:33:59] Vehicle categories and fuel types selected
+[2025-06-17 14:33:59] Clicking left refresh button
+[2025-06-17 14:34:00] Clicked left refresh button using method 1
+[2025-06-17 14:34:00] Left refresh button clicked
+[2025-06-17 14:34:05] Left panel collapsed successfully.
+[2025-06-17 14:34:05] Downloading Excel file for Andhra Pradesh(83), Rajahmundry RTA - AP105( 25-APR-2022 ), 2023
+[2025-06-17 14:34:05] Clicked Excel download button using method 1
+[2025-06-17 14:34:05] Clicked Excel download button
+[2025-06-17 14:34:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:34:08] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:35:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Rajahmundry RTA - AP105( 25-APR-2022 ).xlsx
+[2025-06-17 14:35:08] Successfully processed RTO: Rajahmundry RTA - AP105( 25-APR-2022 )
+[2025-06-17 14:35:08] 
+Processing RTO 58/83: Rajampet MVI Office - AP404( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:35:08] Selecting RTO: Rajampet MVI Office - AP404( 12-MAY-2022 )
+[2025-06-17 14:35:09] Clicked RTO dropdown using method 1
+[2025-06-17 14:35:10] Clicked RTO option: Rajampet MVI Office - AP404( 12-MAY-2022 ) using method 1
+[2025-06-17 14:35:10] Successfully selected RTO: Rajampet MVI Office - AP404( 12-MAY-2022 )
+[2025-06-17 14:35:10] Applying left panel filters
+[2025-06-17 14:35:11] Clicked right refresh button using method 1
+[2025-06-17 14:35:15] Opening left panel if needed
+[2025-06-17 14:35:15] Clicked left panel toggler using method 1
+[2025-06-17 14:35:15] Expanded left panel
+[2025-06-17 14:35:17] Selecting vehicle categories and fuel types
+[2025-06-17 14:35:17] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:35:17] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:35:18] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:35:19] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:35:19] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:35:20] Vehicle categories and fuel types selected
+[2025-06-17 14:35:20] Clicking left refresh button
+[2025-06-17 14:35:21] Clicked left refresh button using method 1
+[2025-06-17 14:35:21] Left refresh button clicked
+[2025-06-17 14:35:25] Left panel collapsed successfully.
+[2025-06-17 14:35:25] Downloading Excel file for Andhra Pradesh(83), Rajampet MVI Office - AP404( 12-MAY-2022 ), 2023
+[2025-06-17 14:35:26] Clicked Excel download button using method 1
+[2025-06-17 14:35:26] Clicked Excel download button
+[2025-06-17 14:35:29] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:35:29] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:36:29] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Rajampet MVI Office - AP404( 12-MAY-2022 ).xlsx
+[2025-06-17 14:36:29] Successfully processed RTO: Rajampet MVI Office - AP404( 12-MAY-2022 )
+[2025-06-17 14:36:29] 
+Processing RTO 59/83: Ramachandrapuram UO - AP605( 09-JUN-2022 ) (Attempt 1/2)
+[2025-06-17 14:36:29] Selecting RTO: Ramachandrapuram UO - AP605( 09-JUN-2022 )
+[2025-06-17 14:36:30] Clicked RTO dropdown using method 1
+[2025-06-17 14:36:31] Clicked RTO option: Ramachandrapuram UO - AP605( 09-JUN-2022 ) using method 1
+[2025-06-17 14:36:32] Successfully selected RTO: Ramachandrapuram UO - AP605( 09-JUN-2022 )
+[2025-06-17 14:36:32] Applying left panel filters
+[2025-06-17 14:36:32] Clicked right refresh button using method 1
+[2025-06-17 14:36:37] Opening left panel if needed
+[2025-06-17 14:36:37] Clicked left panel toggler using method 1
+[2025-06-17 14:36:37] Expanded left panel
+[2025-06-17 14:36:38] Selecting vehicle categories and fuel types
+[2025-06-17 14:36:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:36:39] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:36:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:36:41] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:36:42] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:36:42] Vehicle categories and fuel types selected
+[2025-06-17 14:36:43] Clicking left refresh button
+[2025-06-17 14:36:44] Clicked left refresh button using method 1
+[2025-06-17 14:36:44] Left refresh button clicked
+[2025-06-17 14:36:49] Left panel collapsed successfully.
+[2025-06-17 14:36:49] Downloading Excel file for Andhra Pradesh(83), Ramachandrapuram UO - AP605( 09-JUN-2022 ), 2023
+[2025-06-17 14:36:49] Clicked Excel download button using method 1
+[2025-06-17 14:36:49] Clicked Excel download button
+[2025-06-17 14:36:53] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:36:53] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:37:53] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Ramachandrapuram UO - AP605( 09-JUN-2022 ).xlsx
+[2025-06-17 14:37:53] Successfully processed RTO: Ramachandrapuram UO - AP605( 09-JUN-2022 )
+[2025-06-17 14:37:53] 
+Processing RTO 60/83: Ravulapalem UO - AP705( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:37:53] Selecting RTO: Ravulapalem UO - AP705( 06-MAY-2022 )
+[2025-06-17 14:37:54] Clicked RTO dropdown using method 1
+[2025-06-17 14:37:55] Clicked RTO option: Ravulapalem UO - AP705( 06-MAY-2022 ) using method 1
+[2025-06-17 14:37:55] Successfully selected RTO: Ravulapalem UO - AP705( 06-MAY-2022 )
+[2025-06-17 14:37:55] Applying left panel filters
+[2025-06-17 14:37:56] Clicked right refresh button using method 1
+[2025-06-17 14:38:01] Opening left panel if needed
+[2025-06-17 14:38:01] Clicked left panel toggler using method 1
+[2025-06-17 14:38:01] Expanded left panel
+[2025-06-17 14:38:03] Selecting vehicle categories and fuel types
+[2025-06-17 14:38:03] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:38:04] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:38:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:38:05] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:38:06] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:38:06] Vehicle categories and fuel types selected
+[2025-06-17 14:38:07] Clicking left refresh button
+[2025-06-17 14:38:07] Clicked left refresh button using method 1
+[2025-06-17 14:38:07] Left refresh button clicked
+[2025-06-17 14:38:12] Left panel collapsed successfully.
+[2025-06-17 14:38:12] Downloading Excel file for Andhra Pradesh(83), Ravulapalem UO - AP705( 06-MAY-2022 ), 2023
+[2025-06-17 14:38:13] Clicked Excel download button using method 1
+[2025-06-17 14:38:13] Clicked Excel download button
+[2025-06-17 14:38:16] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:38:16] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:39:16] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Ravulapalem UO - AP705( 06-MAY-2022 ).xlsx
+[2025-06-17 14:39:16] Successfully processed RTO: Ravulapalem UO - AP705( 06-MAY-2022 )
+[2025-06-17 14:39:16] 
+Processing RTO 61/83: Rayachoti MVI Office - AP504( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:39:16] Selecting RTO: Rayachoti MVI Office - AP504( 25-APR-2022 )
+[2025-06-17 14:39:17] Clicked RTO dropdown using method 1
+[2025-06-17 14:39:18] Clicked RTO option: Rayachoti MVI Office - AP504( 25-APR-2022 ) using method 1
+[2025-06-17 14:39:18] Successfully selected RTO: Rayachoti MVI Office - AP504( 25-APR-2022 )
+[2025-06-17 14:39:18] Applying left panel filters
+[2025-06-17 14:39:18] Clicked right refresh button using method 1
+[2025-06-17 14:39:23] Opening left panel if needed
+[2025-06-17 14:39:23] Clicked left panel toggler using method 1
+[2025-06-17 14:39:23] Expanded left panel
+[2025-06-17 14:39:25] Selecting vehicle categories and fuel types
+[2025-06-17 14:39:25] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:39:26] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:39:27] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:39:27] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:39:28] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:39:29] Vehicle categories and fuel types selected
+[2025-06-17 14:39:29] Clicking left refresh button
+[2025-06-17 14:39:30] Clicked left refresh button using method 1
+[2025-06-17 14:39:30] Left refresh button clicked
+[2025-06-17 14:39:34] Left panel collapsed successfully.
+[2025-06-17 14:39:34] Downloading Excel file for Andhra Pradesh(83), Rayachoti MVI Office - AP504( 25-APR-2022 ), 2023
+[2025-06-17 14:39:35] Clicked Excel download button using method 1
+[2025-06-17 14:39:35] Clicked Excel download button
+[2025-06-17 14:39:38] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:39:38] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:40:38] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Rayachoti MVI Office - AP504( 25-APR-2022 ).xlsx
+[2025-06-17 14:40:38] Successfully processed RTO: Rayachoti MVI Office - AP504( 25-APR-2022 )
+[2025-06-17 14:40:38] 
+Processing RTO 62/83: REGIONAL TRANSPORT OFFICE RAMPACHODAVARAM - AP141( 04-APR-2023 ) (Attempt 1/2)
+[2025-06-17 14:40:38] Selecting RTO: REGIONAL TRANSPORT OFFICE RAMPACHODAVARAM - AP141( 04-APR-2023 )
+[2025-06-17 14:40:39] Clicked RTO dropdown using method 1
+[2025-06-17 14:40:40] Clicked RTO option: REGIONAL TRANSPORT OFFICE RAMPACHODAVARAM - AP141( 04-APR-2023 ) using method 1
+[2025-06-17 14:40:40] Successfully selected RTO: REGIONAL TRANSPORT OFFICE RAMPACHODAVARAM - AP141( 04-APR-2023 )
+[2025-06-17 14:40:40] Applying left panel filters
+[2025-06-17 14:40:40] Clicked right refresh button using method 1
+[2025-06-17 14:40:45] Opening left panel if needed
+[2025-06-17 14:40:45] Clicked left panel toggler using method 1
+[2025-06-17 14:40:45] Expanded left panel
+[2025-06-17 14:40:47] Selecting vehicle categories and fuel types
+[2025-06-17 14:40:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:40:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:40:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:40:49] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:40:50] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:40:50] Vehicle categories and fuel types selected
+[2025-06-17 14:40:51] Clicking left refresh button
+[2025-06-17 14:40:51] Clicked left refresh button using method 1
+[2025-06-17 14:40:51] Left refresh button clicked
+[2025-06-17 14:40:56] Left panel collapsed successfully.
+[2025-06-17 14:40:56] Downloading Excel file for Andhra Pradesh(83), REGIONAL TRANSPORT OFFICE RAMPACHODAVARAM - AP141( 04-APR-2023 ), 2023
+[2025-06-17 14:40:57] Clicked Excel download button using method 1
+[2025-06-17 14:40:57] Clicked Excel download button
+[2025-06-17 14:41:01] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:41:01] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:42:01] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\REGIONAL TRANSPORT OFFICE RAMPACHODAVARAM - AP141( 04-APR-2023 ).xlsx
+[2025-06-17 14:42:01] Successfully processed RTO: REGIONAL TRANSPORT OFFICE RAMPACHODAVARAM - AP141( 04-APR-2023 )
+[2025-06-17 14:42:01] 
+Processing RTO 63/83: RTA Eluru - AP37( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:42:01] Selecting RTO: RTA Eluru - AP37( 25-APR-2022 )
+[2025-06-17 14:42:01] Clicked RTO dropdown using method 1
+[2025-06-17 14:42:03] Clicked RTO option: RTA Eluru - AP37( 25-APR-2022 ) using method 1
+[2025-06-17 14:42:03] Successfully selected RTO: RTA Eluru - AP37( 25-APR-2022 )
+[2025-06-17 14:42:03] Applying left panel filters
+[2025-06-17 14:42:03] Clicked right refresh button using method 1
+[2025-06-17 14:42:08] Opening left panel if needed
+[2025-06-17 14:42:08] Clicked left panel toggler using method 1
+[2025-06-17 14:42:08] Expanded left panel
+[2025-06-17 14:42:10] Selecting vehicle categories and fuel types
+[2025-06-17 14:42:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:42:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:42:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:42:12] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:42:13] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:42:13] Vehicle categories and fuel types selected
+[2025-06-17 14:42:14] Clicking left refresh button
+[2025-06-17 14:42:14] Clicked left refresh button using method 1
+[2025-06-17 14:42:14] Left refresh button clicked
+[2025-06-17 14:42:19] Left panel collapsed successfully.
+[2025-06-17 14:42:19] Downloading Excel file for Andhra Pradesh(83), RTA Eluru - AP37( 25-APR-2022 ), 2023
+[2025-06-17 14:42:20] Clicked Excel download button using method 1
+[2025-06-17 14:42:20] Clicked Excel download button
+[2025-06-17 14:42:23] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:42:23] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:43:23] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\RTA Eluru - AP37( 25-APR-2022 ).xlsx
+[2025-06-17 14:43:23] Successfully processed RTO: RTA Eluru - AP37( 25-APR-2022 )
+[2025-06-17 14:43:23] 
+Processing RTO 64/83: RTA Kakinada - AP5( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:43:23] Selecting RTO: RTA Kakinada - AP5( 25-APR-2022 )
+[2025-06-17 14:43:23] Clicked RTO dropdown using method 1
+[2025-06-17 14:43:25] Clicked RTO option: RTA Kakinada - AP5( 25-APR-2022 ) using method 1
+[2025-06-17 14:43:25] Successfully selected RTO: RTA Kakinada - AP5( 25-APR-2022 )
+[2025-06-17 14:43:25] Applying left panel filters
+[2025-06-17 14:43:25] Clicked right refresh button using method 1
+[2025-06-17 14:43:29] Opening left panel if needed
+[2025-06-17 14:43:30] Clicked left panel toggler using method 1
+[2025-06-17 14:43:30] Expanded left panel
+[2025-06-17 14:43:31] Selecting vehicle categories and fuel types
+[2025-06-17 14:43:32] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:43:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:43:33] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:43:34] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:43:35] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:43:35] Vehicle categories and fuel types selected
+[2025-06-17 14:43:36] Clicking left refresh button
+[2025-06-17 14:43:36] Clicked left refresh button using method 1
+[2025-06-17 14:43:36] Left refresh button clicked
+[2025-06-17 14:43:41] Left panel collapsed successfully.
+[2025-06-17 14:43:41] Downloading Excel file for Andhra Pradesh(83), RTA Kakinada - AP5( 25-APR-2022 ), 2023
+[2025-06-17 14:43:42] Clicked Excel download button using method 1
+[2025-06-17 14:43:42] Clicked Excel download button
+[2025-06-17 14:43:45] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:43:45] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:44:45] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\RTA Kakinada - AP5( 25-APR-2022 ).xlsx
+[2025-06-17 14:44:45] Successfully processed RTO: RTA Kakinada - AP5( 25-APR-2022 )
+[2025-06-17 14:44:45] 
+Processing RTO 65/83: RTA MACHILIPATNAM - AP216( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:44:45] Selecting RTO: RTA MACHILIPATNAM - AP216( 25-APR-2022 )
+[2025-06-17 14:44:46] Clicked RTO dropdown using method 1
+[2025-06-17 14:44:47] Clicked RTO option: RTA MACHILIPATNAM - AP216( 25-APR-2022 ) using method 1
+[2025-06-17 14:44:47] Successfully selected RTO: RTA MACHILIPATNAM - AP216( 25-APR-2022 )
+[2025-06-17 14:44:47] Applying left panel filters
+[2025-06-17 14:44:48] Clicked right refresh button using method 1
+[2025-06-17 14:44:53] Opening left panel if needed
+[2025-06-17 14:44:53] Clicked left panel toggler using method 1
+[2025-06-17 14:44:53] Expanded left panel
+[2025-06-17 14:44:54] Selecting vehicle categories and fuel types
+[2025-06-17 14:44:54] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:44:55] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:44:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:44:56] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:44:57] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:44:57] Vehicle categories and fuel types selected
+[2025-06-17 14:44:58] Clicking left refresh button
+[2025-06-17 14:44:59] Clicked left refresh button using method 1
+[2025-06-17 14:44:59] Left refresh button clicked
+[2025-06-17 14:45:04] Left panel collapsed successfully.
+[2025-06-17 14:45:04] Downloading Excel file for Andhra Pradesh(83), RTA MACHILIPATNAM - AP216( 25-APR-2022 ), 2023
+[2025-06-17 14:45:04] Clicked Excel download button using method 1
+[2025-06-17 14:45:04] Clicked Excel download button
+[2025-06-17 14:45:07] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:45:07] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:46:07] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\RTA MACHILIPATNAM - AP216( 25-APR-2022 ).xlsx
+[2025-06-17 14:46:07] Successfully processed RTO: RTA MACHILIPATNAM - AP216( 25-APR-2022 )
+[2025-06-17 14:46:07] 
+Processing RTO 66/83: RTO KADIRI - AP302( 11-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:46:07] Selecting RTO: RTO KADIRI - AP302( 11-MAY-2022 )
+[2025-06-17 14:46:08] Clicked RTO dropdown using method 1
+[2025-06-17 14:46:09] Clicked RTO option: RTO KADIRI - AP302( 11-MAY-2022 ) using method 1
+[2025-06-17 14:46:10] Successfully selected RTO: RTO KADIRI - AP302( 11-MAY-2022 )
+[2025-06-17 14:46:10] Applying left panel filters
+[2025-06-17 14:46:10] Clicked right refresh button using method 1
+[2025-06-17 14:46:15] Opening left panel if needed
+[2025-06-17 14:46:15] Clicked left panel toggler using method 1
+[2025-06-17 14:46:15] Expanded left panel
+[2025-06-17 14:46:16] Selecting vehicle categories and fuel types
+[2025-06-17 14:46:17] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:46:17] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:46:18] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:46:19] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:46:20] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:46:20] Vehicle categories and fuel types selected
+[2025-06-17 14:46:21] Clicking left refresh button
+[2025-06-17 14:46:21] Clicked left refresh button using method 1
+[2025-06-17 14:46:21] Left refresh button clicked
+[2025-06-17 14:46:26] Left panel collapsed successfully.
+[2025-06-17 14:46:26] Downloading Excel file for Andhra Pradesh(83), RTO KADIRI - AP302( 11-MAY-2022 ), 2023
+[2025-06-17 14:46:26] Clicked Excel download button using method 1
+[2025-06-17 14:46:26] Clicked Excel download button
+[2025-06-17 14:46:30] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:46:30] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:47:30] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\RTO KADIRI - AP302( 11-MAY-2022 ).xlsx
+[2025-06-17 14:47:30] Successfully processed RTO: RTO KADIRI - AP302( 11-MAY-2022 )
+[2025-06-17 14:47:30] 
+Processing RTO 67/83: RTO MADANAPALLE - AP203( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:47:30] Selecting RTO: RTO MADANAPALLE - AP203( 12-MAY-2022 )
+[2025-06-17 14:47:31] Clicked RTO dropdown using method 1
+[2025-06-17 14:47:32] Clicked RTO option: RTO MADANAPALLE - AP203( 12-MAY-2022 ) using method 1
+[2025-06-17 14:47:32] Successfully selected RTO: RTO MADANAPALLE - AP203( 12-MAY-2022 )
+[2025-06-17 14:47:32] Applying left panel filters
+[2025-06-17 14:47:33] Clicked right refresh button using method 1
+[2025-06-17 14:47:37] Opening left panel if needed
+[2025-06-17 14:47:37] Clicked left panel toggler using method 1
+[2025-06-17 14:47:37] Expanded left panel
+[2025-06-17 14:47:39] Selecting vehicle categories and fuel types
+[2025-06-17 14:47:39] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:47:40] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:47:40] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:47:41] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:47:42] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:47:42] Vehicle categories and fuel types selected
+[2025-06-17 14:47:43] Clicking left refresh button
+[2025-06-17 14:47:44] Clicked left refresh button using method 1
+[2025-06-17 14:47:44] Left refresh button clicked
+[2025-06-17 14:47:48] Left panel collapsed successfully.
+[2025-06-17 14:47:48] Downloading Excel file for Andhra Pradesh(83), RTO MADANAPALLE - AP203( 12-MAY-2022 ), 2023
+[2025-06-17 14:47:48] Clicked Excel download button using method 1
+[2025-06-17 14:47:48] Clicked Excel download button
+[2025-06-17 14:47:52] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:47:52] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:48:52] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\RTO MADANAPALLE - AP203( 12-MAY-2022 ).xlsx
+[2025-06-17 14:48:52] Successfully processed RTO: RTO MADANAPALLE - AP203( 12-MAY-2022 )
+[2025-06-17 14:48:52] 
+Processing RTO 68/83: Salur MVI Office - AP235( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:48:52] Selecting RTO: Salur MVI Office - AP235( 12-MAY-2022 )
+[2025-06-17 14:48:52] Clicked RTO dropdown using method 1
+[2025-06-17 14:48:53] Clicked RTO option: Salur MVI Office - AP235( 12-MAY-2022 ) using method 1
+[2025-06-17 14:48:54] Successfully selected RTO: Salur MVI Office - AP235( 12-MAY-2022 )
+[2025-06-17 14:48:54] Applying left panel filters
+[2025-06-17 14:48:54] Clicked right refresh button using method 1
+[2025-06-17 14:48:59] Opening left panel if needed
+[2025-06-17 14:48:59] Clicked left panel toggler using method 1
+[2025-06-17 14:48:59] Expanded left panel
+[2025-06-17 14:49:00] Selecting vehicle categories and fuel types
+[2025-06-17 14:49:01] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:49:01] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:49:02] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:49:03] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:49:03] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:49:04] Vehicle categories and fuel types selected
+[2025-06-17 14:49:04] Clicking left refresh button
+[2025-06-17 14:49:05] Clicked left refresh button using method 1
+[2025-06-17 14:49:05] Left refresh button clicked
+[2025-06-17 14:49:10] Left panel collapsed successfully.
+[2025-06-17 14:49:10] Downloading Excel file for Andhra Pradesh(83), Salur MVI Office - AP235( 12-MAY-2022 ), 2023
+[2025-06-17 14:49:11] Clicked Excel download button using method 1
+[2025-06-17 14:49:11] Clicked Excel download button
+[2025-06-17 14:49:15] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:49:15] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:50:15] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Salur MVI Office - AP235( 12-MAY-2022 ).xlsx
+[2025-06-17 14:50:15] Successfully processed RTO: Salur MVI Office - AP235( 12-MAY-2022 )
+[2025-06-17 14:50:15] 
+Processing RTO 69/83: Srikakulam RTA - AP30( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 14:50:15] Selecting RTO: Srikakulam RTA - AP30( 25-APR-2022 )
+[2025-06-17 14:50:15] Clicked RTO dropdown using method 1
+[2025-06-17 14:50:16] Clicked RTO option: Srikakulam RTA - AP30( 25-APR-2022 ) using method 1
+[2025-06-17 14:50:16] Successfully selected RTO: Srikakulam RTA - AP30( 25-APR-2022 )
+[2025-06-17 14:50:16] Applying left panel filters
+[2025-06-17 14:50:17] Clicked right refresh button using method 1
+[2025-06-17 14:50:22] Opening left panel if needed
+[2025-06-17 14:50:22] Clicked left panel toggler using method 1
+[2025-06-17 14:50:22] Expanded left panel
+[2025-06-17 14:50:24] Selecting vehicle categories and fuel types
+[2025-06-17 14:50:24] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:50:25] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:50:26] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:50:26] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:50:27] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:50:27] Vehicle categories and fuel types selected
+[2025-06-17 14:50:28] Clicking left refresh button
+[2025-06-17 14:50:28] Clicked left refresh button using method 1
+[2025-06-17 14:50:28] Left refresh button clicked
+[2025-06-17 14:50:33] Left panel collapsed successfully.
+[2025-06-17 14:50:33] Downloading Excel file for Andhra Pradesh(83), Srikakulam RTA - AP30( 25-APR-2022 ), 2023
+[2025-06-17 14:50:34] Clicked Excel download button using method 1
+[2025-06-17 14:50:34] Clicked Excel download button
+[2025-06-17 14:50:37] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:50:37] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:51:37] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Srikakulam RTA - AP30( 25-APR-2022 ).xlsx
+[2025-06-17 14:51:37] Successfully processed RTO: Srikakulam RTA - AP30( 25-APR-2022 )
+[2025-06-17 14:51:37] 
+Processing RTO 70/83: Srikalahasthi MVI Office - AP603( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:51:37] Selecting RTO: Srikalahasthi MVI Office - AP603( 12-MAY-2022 )
+[2025-06-17 14:51:38] Clicked RTO dropdown using method 1
+[2025-06-17 14:51:38] Clicked RTO option: Srikalahasthi MVI Office - AP603( 12-MAY-2022 ) using method 1
+[2025-06-17 14:51:39] Successfully selected RTO: Srikalahasthi MVI Office - AP603( 12-MAY-2022 )
+[2025-06-17 14:51:39] Applying left panel filters
+[2025-06-17 14:51:39] Clicked right refresh button using method 1
+[2025-06-17 14:51:44] Opening left panel if needed
+[2025-06-17 14:51:44] Clicked left panel toggler using method 1
+[2025-06-17 14:51:44] Expanded left panel
+[2025-06-17 14:51:46] Selecting vehicle categories and fuel types
+[2025-06-17 14:51:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:51:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:51:47] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:51:48] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:51:49] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:51:49] Vehicle categories and fuel types selected
+[2025-06-17 14:51:50] Clicking left refresh button
+[2025-06-17 14:51:50] Clicked left refresh button using method 1
+[2025-06-17 14:51:50] Left refresh button clicked
+[2025-06-17 14:51:55] Left panel collapsed successfully.
+[2025-06-17 14:51:55] Downloading Excel file for Andhra Pradesh(83), Srikalahasthi MVI Office - AP603( 12-MAY-2022 ), 2023
+[2025-06-17 14:51:56] Clicked Excel download button using method 1
+[2025-06-17 14:51:56] Clicked Excel download button
+[2025-06-17 14:51:59] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:51:59] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:52:59] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Srikalahasthi MVI Office - AP603( 12-MAY-2022 ).xlsx
+[2025-06-17 14:52:59] Successfully processed RTO: Srikalahasthi MVI Office - AP603( 12-MAY-2022 )
+[2025-06-17 14:52:59] 
+Processing RTO 71/83: Sullurpet UO - AP426( 11-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:52:59] Selecting RTO: Sullurpet UO - AP426( 11-MAY-2022 )
+[2025-06-17 14:53:00] Clicked RTO dropdown using method 1
+[2025-06-17 14:53:01] Clicked RTO option: Sullurpet UO - AP426( 11-MAY-2022 ) using method 1
+[2025-06-17 14:53:02] Successfully selected RTO: Sullurpet UO - AP426( 11-MAY-2022 )
+[2025-06-17 14:53:02] Applying left panel filters
+[2025-06-17 14:53:02] Clicked right refresh button using method 1
+[2025-06-17 14:53:07] Opening left panel if needed
+[2025-06-17 14:53:07] Clicked left panel toggler using method 1
+[2025-06-17 14:53:07] Expanded left panel
+[2025-06-17 14:53:09] Selecting vehicle categories and fuel types
+[2025-06-17 14:53:09] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:53:10] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:53:10] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:53:11] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:53:11] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:53:12] Vehicle categories and fuel types selected
+[2025-06-17 14:53:13] Clicking left refresh button
+[2025-06-17 14:53:13] Clicked left refresh button using method 1
+[2025-06-17 14:53:13] Left refresh button clicked
+[2025-06-17 14:53:17] Left panel collapsed successfully.
+[2025-06-17 14:53:17] Downloading Excel file for Andhra Pradesh(83), Sullurpet UO - AP426( 11-MAY-2022 ), 2023
+[2025-06-17 14:53:18] Clicked Excel download button using method 1
+[2025-06-17 14:53:18] Clicked Excel download button
+[2025-06-17 14:53:21] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:53:21] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:54:21] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Sullurpet UO - AP426( 11-MAY-2022 ).xlsx
+[2025-06-17 14:54:21] Successfully processed RTO: Sullurpet UO - AP426( 11-MAY-2022 )
+[2025-06-17 14:54:21] 
+Processing RTO 72/83: Tadepalli Gudem UO - AP437( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:54:21] Selecting RTO: Tadepalli Gudem UO - AP437( 06-MAY-2022 )
+[2025-06-17 14:54:21] Clicked RTO dropdown using method 1
+[2025-06-17 14:54:22] Clicked RTO option: Tadepalli Gudem UO - AP437( 06-MAY-2022 ) using method 1
+[2025-06-17 14:54:23] Successfully selected RTO: Tadepalli Gudem UO - AP437( 06-MAY-2022 )
+[2025-06-17 14:54:23] Applying left panel filters
+[2025-06-17 14:54:23] Clicked right refresh button using method 1
+[2025-06-17 14:54:28] Opening left panel if needed
+[2025-06-17 14:54:28] Clicked left panel toggler using method 1
+[2025-06-17 14:54:28] Expanded left panel
+[2025-06-17 14:54:29] Selecting vehicle categories and fuel types
+[2025-06-17 14:54:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:54:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:54:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:54:32] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:54:32] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:54:32] Vehicle categories and fuel types selected
+[2025-06-17 14:54:33] Clicking left refresh button
+[2025-06-17 14:54:34] Clicked left refresh button using method 1
+[2025-06-17 14:54:34] Left refresh button clicked
+[2025-06-17 14:54:39] Left panel collapsed successfully.
+[2025-06-17 14:54:39] Downloading Excel file for Andhra Pradesh(83), Tadepalli Gudem UO - AP437( 06-MAY-2022 ), 2023
+[2025-06-17 14:54:39] Clicked Excel download button using method 1
+[2025-06-17 14:54:39] Clicked Excel download button
+[2025-06-17 14:54:42] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:54:42] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:55:42] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Tadepalli Gudem UO - AP437( 06-MAY-2022 ).xlsx
+[2025-06-17 14:55:42] Successfully processed RTO: Tadepalli Gudem UO - AP437( 06-MAY-2022 )
+[2025-06-17 14:55:42] 
+Processing RTO 73/83: Tadipatri UO - AP402( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:55:42] Selecting RTO: Tadipatri UO - AP402( 06-MAY-2022 )
+[2025-06-17 14:55:43] Clicked RTO dropdown using method 1
+[2025-06-17 14:55:44] Clicked RTO option: Tadipatri UO - AP402( 06-MAY-2022 ) using method 1
+[2025-06-17 14:55:44] Successfully selected RTO: Tadipatri UO - AP402( 06-MAY-2022 )
+[2025-06-17 14:55:44] Applying left panel filters
+[2025-06-17 14:55:45] Clicked right refresh button using method 1
+[2025-06-17 14:55:49] Opening left panel if needed
+[2025-06-17 14:55:50] Clicked left panel toggler using method 1
+[2025-06-17 14:55:50] Expanded left panel
+[2025-06-17 14:55:51] Selecting vehicle categories and fuel types
+[2025-06-17 14:55:51] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:55:52] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:55:53] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:55:54] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:55:54] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:55:55] Vehicle categories and fuel types selected
+[2025-06-17 14:55:55] Clicking left refresh button
+[2025-06-17 14:55:56] Clicked left refresh button using method 1
+[2025-06-17 14:55:56] Left refresh button clicked
+[2025-06-17 14:56:01] Left panel collapsed successfully.
+[2025-06-17 14:56:01] Downloading Excel file for Andhra Pradesh(83), Tadipatri UO - AP402( 06-MAY-2022 ), 2023
+[2025-06-17 14:56:02] Clicked Excel download button using method 1
+[2025-06-17 14:56:02] Clicked Excel download button
+[2025-06-17 14:56:05] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:56:05] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:57:05] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Tadipatri UO - AP402( 06-MAY-2022 ).xlsx
+[2025-06-17 14:57:05] Successfully processed RTO: Tadipatri UO - AP402( 06-MAY-2022 )
+[2025-06-17 14:57:05] 
+Processing RTO 74/83: Tanuku UO - AP537( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:57:05] Selecting RTO: Tanuku UO - AP537( 06-MAY-2022 )
+[2025-06-17 14:57:06] Clicked RTO dropdown using method 1
+[2025-06-17 14:57:07] Clicked RTO option: Tanuku UO - AP537( 06-MAY-2022 ) using method 1
+[2025-06-17 14:57:07] Successfully selected RTO: Tanuku UO - AP537( 06-MAY-2022 )
+[2025-06-17 14:57:07] Applying left panel filters
+[2025-06-17 14:57:07] Clicked right refresh button using method 1
+[2025-06-17 14:57:12] Opening left panel if needed
+[2025-06-17 14:57:12] Clicked left panel toggler using method 1
+[2025-06-17 14:57:12] Expanded left panel
+[2025-06-17 14:57:13] Selecting vehicle categories and fuel types
+[2025-06-17 14:57:14] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:57:14] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:57:15] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:57:15] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:57:16] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:57:17] Vehicle categories and fuel types selected
+[2025-06-17 14:57:17] Clicking left refresh button
+[2025-06-17 14:57:18] Clicked left refresh button using method 1
+[2025-06-17 14:57:18] Left refresh button clicked
+[2025-06-17 14:57:22] Left panel collapsed successfully.
+[2025-06-17 14:57:22] Downloading Excel file for Andhra Pradesh(83), Tanuku UO - AP537( 06-MAY-2022 ), 2023
+[2025-06-17 14:57:23] Clicked Excel download button using method 1
+[2025-06-17 14:57:23] Clicked Excel download button
+[2025-06-17 14:57:26] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:57:26] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:58:26] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Tanuku UO - AP537( 06-MAY-2022 ).xlsx
+[2025-06-17 14:58:26] Successfully processed RTO: Tanuku UO - AP537( 06-MAY-2022 )
+[2025-06-17 14:58:26] 
+Processing RTO 75/83: Tekkali MVI Office - AP430( 12-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:58:26] Selecting RTO: Tekkali MVI Office - AP430( 12-MAY-2022 )
+[2025-06-17 14:58:27] Clicked RTO dropdown using method 1
+[2025-06-17 14:58:28] Clicked RTO option: Tekkali MVI Office - AP430( 12-MAY-2022 ) using method 1
+[2025-06-17 14:58:28] Successfully selected RTO: Tekkali MVI Office - AP430( 12-MAY-2022 )
+[2025-06-17 14:58:28] Applying left panel filters
+[2025-06-17 14:58:29] Clicked right refresh button using method 1
+[2025-06-17 14:58:34] Opening left panel if needed
+[2025-06-17 14:58:34] Clicked left panel toggler using method 1
+[2025-06-17 14:58:34] Expanded left panel
+[2025-06-17 14:58:35] Selecting vehicle categories and fuel types
+[2025-06-17 14:58:35] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:58:36] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 14:58:37] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 14:58:37] Clicked checkbox fuel:7 using method 2
+[2025-06-17 14:58:38] Clicked checkbox fuel:21 using method 2
+[2025-06-17 14:58:39] Vehicle categories and fuel types selected
+[2025-06-17 14:58:40] Clicking left refresh button
+[2025-06-17 14:58:40] Clicked left refresh button using method 1
+[2025-06-17 14:58:40] Left refresh button clicked
+[2025-06-17 14:58:45] Left panel collapsed successfully.
+[2025-06-17 14:58:45] Downloading Excel file for Andhra Pradesh(83), Tekkali MVI Office - AP430( 12-MAY-2022 ), 2023
+[2025-06-17 14:58:45] Clicked Excel download button using method 1
+[2025-06-17 14:58:45] Clicked Excel download button
+[2025-06-17 14:58:49] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 14:58:49] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 14:59:49] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Tekkali MVI Office - AP430( 12-MAY-2022 ).xlsx
+[2025-06-17 14:59:49] Successfully processed RTO: Tekkali MVI Office - AP430( 12-MAY-2022 )
+[2025-06-17 14:59:49] 
+Processing RTO 76/83: TENALI RTA - AP707( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 14:59:49] Selecting RTO: TENALI RTA - AP707( 06-MAY-2022 )
+[2025-06-17 14:59:49] Clicked RTO dropdown using method 1
+[2025-06-17 14:59:50] Clicked RTO option: TENALI RTA - AP707( 06-MAY-2022 ) using method 1
+[2025-06-17 14:59:51] Successfully selected RTO: TENALI RTA - AP707( 06-MAY-2022 )
+[2025-06-17 14:59:51] Applying left panel filters
+[2025-06-17 14:59:51] Clicked right refresh button using method 1
+[2025-06-17 14:59:56] Opening left panel if needed
+[2025-06-17 14:59:56] Clicked left panel toggler using method 1
+[2025-06-17 14:59:56] Expanded left panel
+[2025-06-17 14:59:58] Selecting vehicle categories and fuel types
+[2025-06-17 14:59:58] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 14:59:59] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:00:00] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:00:00] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:00:01] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:00:02] Vehicle categories and fuel types selected
+[2025-06-17 15:00:02] Clicking left refresh button
+[2025-06-17 15:00:03] Clicked left refresh button using method 1
+[2025-06-17 15:00:03] Left refresh button clicked
+[2025-06-17 15:00:07] Left panel collapsed successfully.
+[2025-06-17 15:00:07] Downloading Excel file for Andhra Pradesh(83), TENALI RTA - AP707( 06-MAY-2022 ), 2023
+[2025-06-17 15:00:08] Clicked Excel download button using method 1
+[2025-06-17 15:00:08] Clicked Excel download button
+[2025-06-17 15:00:11] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:00:11] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 15:01:11] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\TENALI RTA - AP707( 06-MAY-2022 ).xlsx
+[2025-06-17 15:01:11] Successfully processed RTO: TENALI RTA - AP707( 06-MAY-2022 )
+[2025-06-17 15:01:11] 
+Processing RTO 77/83: Tirupati RTA - AP103( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 15:01:11] Selecting RTO: Tirupati RTA - AP103( 25-APR-2022 )
+[2025-06-17 15:01:12] Clicked RTO dropdown using method 1
+[2025-06-17 15:01:13] Clicked RTO option: Tirupati RTA - AP103( 25-APR-2022 ) using method 1
+[2025-06-17 15:01:13] Successfully selected RTO: Tirupati RTA - AP103( 25-APR-2022 )
+[2025-06-17 15:01:13] Applying left panel filters
+[2025-06-17 15:01:13] Clicked right refresh button using method 1
+[2025-06-17 15:01:18] Opening left panel if needed
+[2025-06-17 15:01:18] Clicked left panel toggler using method 1
+[2025-06-17 15:01:18] Expanded left panel
+[2025-06-17 15:01:19] Selecting vehicle categories and fuel types
+[2025-06-17 15:01:20] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:01:20] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:01:21] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:01:22] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:01:23] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:01:23] Vehicle categories and fuel types selected
+[2025-06-17 15:01:24] Clicking left refresh button
+[2025-06-17 15:01:24] Clicked left refresh button using method 1
+[2025-06-17 15:01:24] Left refresh button clicked
+[2025-06-17 15:01:29] Left panel collapsed successfully.
+[2025-06-17 15:01:29] Downloading Excel file for Andhra Pradesh(83), Tirupati RTA - AP103( 25-APR-2022 ), 2023
+[2025-06-17 15:01:30] Clicked Excel download button using method 1
+[2025-06-17 15:01:30] Clicked Excel download button
+[2025-06-17 15:01:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:01:33] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 15:02:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Tirupati RTA - AP103( 25-APR-2022 ).xlsx
+[2025-06-17 15:02:33] Successfully processed RTO: Tirupati RTA - AP103( 25-APR-2022 )
+[2025-06-17 15:02:34] 
+Processing RTO 78/83: UNIT OFFICE KATHIPUDI - AP305( 06-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 15:02:34] Selecting RTO: UNIT OFFICE KATHIPUDI - AP305( 06-MAY-2022 )
+[2025-06-17 15:02:34] Clicked RTO dropdown using method 1
+[2025-06-17 15:02:35] Clicked RTO option: UNIT OFFICE KATHIPUDI - AP305( 06-MAY-2022 ) using method 1
+[2025-06-17 15:02:35] Successfully selected RTO: UNIT OFFICE KATHIPUDI - AP305( 06-MAY-2022 )
+[2025-06-17 15:02:35] Applying left panel filters
+[2025-06-17 15:02:36] Clicked right refresh button using method 1
+[2025-06-17 15:02:40] Opening left panel if needed
+[2025-06-17 15:02:40] Clicked left panel toggler using method 1
+[2025-06-17 15:02:40] Expanded left panel
+[2025-06-17 15:02:42] Selecting vehicle categories and fuel types
+[2025-06-17 15:02:42] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:02:43] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:02:43] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:02:44] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:02:45] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:02:45] Vehicle categories and fuel types selected
+[2025-06-17 15:02:46] Clicking left refresh button
+[2025-06-17 15:02:47] Clicked left refresh button using method 1
+[2025-06-17 15:02:47] Left refresh button clicked
+[2025-06-17 15:02:51] Left panel collapsed successfully.
+[2025-06-17 15:02:51] Downloading Excel file for Andhra Pradesh(83), UNIT OFFICE KATHIPUDI - AP305( 06-MAY-2022 ), 2023
+[2025-06-17 15:02:52] Clicked Excel download button using method 1
+[2025-06-17 15:02:52] Clicked Excel download button
+[2025-06-17 15:02:55] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:02:55] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 15:03:55] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\UNIT OFFICE KATHIPUDI - AP305( 06-MAY-2022 ).xlsx
+[2025-06-17 15:03:55] Successfully processed RTO: UNIT OFFICE KATHIPUDI - AP305( 06-MAY-2022 )
+[2025-06-17 15:03:55] 
+Processing RTO 79/83: UNIT OFFICE RAYADURG - AP502( 23-JUN-2022 ) (Attempt 1/2)
+[2025-06-17 15:03:55] Selecting RTO: UNIT OFFICE RAYADURG - AP502( 23-JUN-2022 )
+[2025-06-17 15:03:55] Clicked RTO dropdown using method 1
+[2025-06-17 15:03:57] Clicked RTO option: UNIT OFFICE RAYADURG - AP502( 23-JUN-2022 ) using method 1
+[2025-06-17 15:03:57] Successfully selected RTO: UNIT OFFICE RAYADURG - AP502( 23-JUN-2022 )
+[2025-06-17 15:03:57] Applying left panel filters
+[2025-06-17 15:03:57] Clicked right refresh button using method 1
+[2025-06-17 15:04:02] Opening left panel if needed
+[2025-06-17 15:04:02] Clicked left panel toggler using method 1
+[2025-06-17 15:04:02] Expanded left panel
+[2025-06-17 15:04:04] Selecting vehicle categories and fuel types
+[2025-06-17 15:04:04] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:04:05] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:04:06] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:04:06] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:04:07] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:04:07] Vehicle categories and fuel types selected
+[2025-06-17 15:04:08] Clicking left refresh button
+[2025-06-17 15:04:08] Clicked left refresh button using method 1
+[2025-06-17 15:04:08] Left refresh button clicked
+[2025-06-17 15:04:13] Left panel collapsed successfully.
+[2025-06-17 15:04:13] Downloading Excel file for Andhra Pradesh(83), UNIT OFFICE RAYADURG - AP502( 23-JUN-2022 ), 2023
+[2025-06-17 15:04:13] Clicked Excel download button using method 1
+[2025-06-17 15:04:13] Clicked Excel download button
+[2025-06-17 15:04:17] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:04:17] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 15:05:17] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\UNIT OFFICE RAYADURG - AP502( 23-JUN-2022 ).xlsx
+[2025-06-17 15:05:17] Successfully processed RTO: UNIT OFFICE RAYADURG - AP502( 23-JUN-2022 )
+[2025-06-17 15:05:17] 
+Processing RTO 80/83: Vijayawada RTA - AP16( 17-FEB-2022 ) (Attempt 1/2)
+[2025-06-17 15:05:17] Selecting RTO: Vijayawada RTA - AP16( 17-FEB-2022 )
+[2025-06-17 15:05:18] Clicked RTO dropdown using method 1
+[2025-06-17 15:05:19] Clicked RTO option: Vijayawada RTA - AP16( 17-FEB-2022 ) using method 1
+[2025-06-17 15:05:19] Successfully selected RTO: Vijayawada RTA - AP16( 17-FEB-2022 )
+[2025-06-17 15:05:19] Applying left panel filters
+[2025-06-17 15:05:20] Clicked right refresh button using method 1
+[2025-06-17 15:05:24] Opening left panel if needed
+[2025-06-17 15:05:24] Clicked left panel toggler using method 1
+[2025-06-17 15:05:24] Expanded left panel
+[2025-06-17 15:05:26] Selecting vehicle categories and fuel types
+[2025-06-17 15:05:26] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:05:27] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:05:27] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:05:28] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:05:29] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:05:29] Vehicle categories and fuel types selected
+[2025-06-17 15:05:30] Clicking left refresh button
+[2025-06-17 15:05:31] Clicked left refresh button using method 1
+[2025-06-17 15:05:31] Left refresh button clicked
+[2025-06-17 15:05:36] Left panel collapsed successfully.
+[2025-06-17 15:05:36] Downloading Excel file for Andhra Pradesh(83), Vijayawada RTA - AP16( 17-FEB-2022 ), 2023
+[2025-06-17 15:05:37] Clicked Excel download button using method 1
+[2025-06-17 15:05:37] Clicked Excel download button
+[2025-06-17 15:05:40] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:05:40] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 15:06:40] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Vijayawada RTA - AP16( 17-FEB-2022 ).xlsx
+[2025-06-17 15:06:40] Successfully processed RTO: Vijayawada RTA - AP16( 17-FEB-2022 )
+[2025-06-17 15:06:40] 
+Processing RTO 81/83: Vishakapatnam RTA - AP31( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 15:06:40] Selecting RTO: Vishakapatnam RTA - AP31( 25-APR-2022 )
+[2025-06-17 15:06:41] Clicked RTO dropdown using method 1
+[2025-06-17 15:06:42] Clicked RTO option: Vishakapatnam RTA - AP31( 25-APR-2022 ) using method 1
+[2025-06-17 15:06:42] Successfully selected RTO: Vishakapatnam RTA - AP31( 25-APR-2022 )
+[2025-06-17 15:06:42] Applying left panel filters
+[2025-06-17 15:06:43] Clicked right refresh button using method 1
+[2025-06-17 15:06:48] Opening left panel if needed
+[2025-06-17 15:06:48] Clicked left panel toggler using method 1
+[2025-06-17 15:06:48] Expanded left panel
+[2025-06-17 15:06:49] Selecting vehicle categories and fuel types
+[2025-06-17 15:06:50] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:06:50] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:06:51] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:06:52] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:06:53] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:06:53] Vehicle categories and fuel types selected
+[2025-06-17 15:06:54] Clicking left refresh button
+[2025-06-17 15:06:55] Clicked left refresh button using method 1
+[2025-06-17 15:06:55] Left refresh button clicked
+[2025-06-17 15:06:59] Left panel collapsed successfully.
+[2025-06-17 15:06:59] Downloading Excel file for Andhra Pradesh(83), Vishakapatnam RTA - AP31( 25-APR-2022 ), 2023
+[2025-06-17 15:07:00] Clicked Excel download button using method 1
+[2025-06-17 15:07:00] Clicked Excel download button
+[2025-06-17 15:07:03] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:07:03] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 15:08:03] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Vishakapatnam RTA - AP31( 25-APR-2022 ).xlsx
+[2025-06-17 15:08:03] Successfully processed RTO: Vishakapatnam RTA - AP31( 25-APR-2022 )
+[2025-06-17 15:08:03] 
+Processing RTO 82/83: Vizianagaram RTA - AP35( 25-APR-2022 ) (Attempt 1/2)
+[2025-06-17 15:08:03] Selecting RTO: Vizianagaram RTA - AP35( 25-APR-2022 )
+[2025-06-17 15:08:03] Clicked RTO dropdown using method 1
+[2025-06-17 15:08:04] Clicked RTO option: Vizianagaram RTA - AP35( 25-APR-2022 ) using method 1
+[2025-06-17 15:08:05] Successfully selected RTO: Vizianagaram RTA - AP35( 25-APR-2022 )
+[2025-06-17 15:08:05] Applying left panel filters
+[2025-06-17 15:08:05] Clicked right refresh button using method 1
+[2025-06-17 15:08:10] Opening left panel if needed
+[2025-06-17 15:08:10] Clicked left panel toggler using method 1
+[2025-06-17 15:08:10] Expanded left panel
+[2025-06-17 15:08:11] Selecting vehicle categories and fuel types
+[2025-06-17 15:08:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:08:12] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:08:13] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:08:14] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:08:15] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:08:15] Vehicle categories and fuel types selected
+[2025-06-17 15:08:16] Clicking left refresh button
+[2025-06-17 15:08:16] Clicked left refresh button using method 1
+[2025-06-17 15:08:16] Left refresh button clicked
+[2025-06-17 15:08:20] Left panel collapsed successfully.
+[2025-06-17 15:08:20] Downloading Excel file for Andhra Pradesh(83), Vizianagaram RTA - AP35( 25-APR-2022 ), 2023
+[2025-06-17 15:08:21] Clicked Excel download button using method 1
+[2025-06-17 15:08:21] Clicked Excel download button
+[2025-06-17 15:08:24] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:08:24] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 15:09:24] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Vizianagaram RTA - AP35( 25-APR-2022 ).xlsx
+[2025-06-17 15:09:24] Successfully processed RTO: Vizianagaram RTA - AP35( 25-APR-2022 )
+[2025-06-17 15:09:24] 
+Processing RTO 83/83: Vuyyuru UO - AP516( 05-MAY-2022 ) (Attempt 1/2)
+[2025-06-17 15:09:24] Selecting RTO: Vuyyuru UO - AP516( 05-MAY-2022 )
+[2025-06-17 15:09:25] Clicked RTO dropdown using method 1
+[2025-06-17 15:09:26] Clicked RTO option: Vuyyuru UO - AP516( 05-MAY-2022 ) using method 1
+[2025-06-17 15:09:26] Successfully selected RTO: Vuyyuru UO - AP516( 05-MAY-2022 )
+[2025-06-17 15:09:26] Applying left panel filters
+[2025-06-17 15:09:27] Clicked right refresh button using method 1
+[2025-06-17 15:09:31] Opening left panel if needed
+[2025-06-17 15:09:31] Clicked left panel toggler using method 1
+[2025-06-17 15:09:31] Expanded left panel
+[2025-06-17 15:09:32] Selecting vehicle categories and fuel types
+[2025-06-17 15:09:33] Clicked checkbox VhCatg:0 using method 2
+[2025-06-17 15:09:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-17 15:09:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-17 15:09:35] Clicked checkbox fuel:7 using method 2
+[2025-06-17 15:09:36] Clicked checkbox fuel:21 using method 2
+[2025-06-17 15:09:36] Vehicle categories and fuel types selected
+[2025-06-17 15:09:36] Clicking left refresh button
+[2025-06-17 15:09:37] Clicked left refresh button using method 1
+[2025-06-17 15:09:37] Left refresh button clicked
+[2025-06-17 15:09:42] Left panel collapsed successfully.
+[2025-06-17 15:09:42] Downloading Excel file for Andhra Pradesh(83), Vuyyuru UO - AP516( 05-MAY-2022 ), 2023
+[2025-06-17 15:09:42] Clicked Excel download button using method 1
+[2025-06-17 15:09:42] Clicked Excel download button
+[2025-06-17 15:09:46] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023
+[2025-06-17 15:09:46] Inside_wait_for_download_and_rename for Andhra_Pradesh
+[2025-06-17 15:10:46] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2023\Andhra Pradesh(83)\Vuyyuru UO - AP516( 05-MAY-2022 ).xlsx
+[2025-06-17 15:10:46] Successfully processed RTO: Vuyyuru UO - AP516( 05-MAY-2022 )
+[2025-06-17 15:10:46] 
+=== Processing completed for Andhra Pradesh(83) ===
+

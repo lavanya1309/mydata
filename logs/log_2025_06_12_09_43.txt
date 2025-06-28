@@ -1,0 +1,1217 @@
+[2025-06-12 09:49:11] Clicking left refresh button
+[2025-06-12 09:49:11] Clicked left refresh button using method 1
+[2025-06-12 09:49:11] Left refresh button clicked
+[2025-06-12 09:49:16] Left panel collapsed successfully.
+[2025-06-12 09:49:16] Checking for Badgateway (503) error
+[2025-06-12 09:49:16] Downloading Excel file for Tamil Nadu(148), AMBUR UO - TN628( 11-JUL-2018 ), 2024
+[2025-06-12 09:49:16] Clicked Excel download button using method 1
+[2025-06-12 09:49:16] Clicked Excel download button
+[2025-06-12 09:49:19] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 09:49:19] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:50:19] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\AMBUR UO - TN628( 11-JUL-2018 ).xlsx
+[2025-06-12 09:50:19] Successfully processed RTO: AMBUR UO - TN628( 11-JUL-2018 )
+[2025-06-12 09:50:21] 
+Processing RTO: ARAKKONAM UO - TN609( 06-JUL-2018 ) (Attempt 1)
+[2025-06-12 09:50:21] Checking for Badgateway (503) error
+[2025-06-12 09:50:21] Selecting RTO: ARAKKONAM UO - TN609( 06-JUL-2018 )
+[2025-06-12 09:50:22] Clicked RTO dropdown using method 1
+[2025-06-12 09:50:23] Clicked RTO option: ARAKKONAM UO - TN609( 06-JUL-2018 ) using method 1
+[2025-06-12 09:50:23] Successfully selected RTO: ARAKKONAM UO - TN609( 06-JUL-2018 )
+[2025-06-12 09:50:23] Checking for Badgateway (503) error
+[2025-06-12 09:50:23] Applying left panel filters
+[2025-06-12 09:50:24] Clicked right refresh button using method 1
+[2025-06-12 09:50:29] Opening left panel if needed
+[2025-06-12 09:50:29] Clicked left panel toggler using method 1
+[2025-06-12 09:50:29] Expanded left panel
+[2025-06-12 09:50:30] Selecting vehicle categories and fuel types
+[2025-06-12 09:50:30] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:50:31] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:50:32] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:50:33] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:50:34] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:50:34] Vehicle categories and fuel types selected
+[2025-06-12 09:50:35] Clicking left refresh button
+[2025-06-12 09:50:35] Clicked left refresh button using method 1
+[2025-06-12 09:50:35] Left refresh button clicked
+[2025-06-12 09:50:41] Left panel collapsed successfully.
+[2025-06-12 09:50:41] Checking for Badgateway (503) error
+[2025-06-12 09:50:41] Downloading Excel file for Tamil Nadu(148), ARAKKONAM UO - TN609( 06-JUL-2018 ), 2024
+[2025-06-12 09:50:41] Clicked Excel download button using method 1
+[2025-06-12 09:50:41] Clicked Excel download button
+[2025-06-12 09:50:43] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 09:50:43] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:51:43] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ARAKKONAM UO - TN609( 06-JUL-2018 ).xlsx
+[2025-06-12 09:51:43] Successfully processed RTO: ARAKKONAM UO - TN609( 06-JUL-2018 )
+[2025-06-12 09:51:48] 
+Processing RTO: ARANI RTO - TN516( 21-MAY-2018 ) (Attempt 1)
+[2025-06-12 09:51:48] Checking for Badgateway (503) error
+[2025-06-12 09:51:48] Selecting RTO: ARANI RTO - TN516( 21-MAY-2018 )
+[2025-06-12 09:51:48] Clicked RTO dropdown using method 1
+[2025-06-12 09:51:50] Clicked RTO option: ARANI RTO - TN516( 21-MAY-2018 ) using method 1
+[2025-06-12 09:51:50] Successfully selected RTO: ARANI RTO - TN516( 21-MAY-2018 )
+[2025-06-12 09:51:50] Checking for Badgateway (503) error
+[2025-06-12 09:51:50] Applying left panel filters
+[2025-06-12 09:51:50] Clicked right refresh button using method 1
+[2025-06-12 09:51:55] Opening left panel if needed
+[2025-06-12 09:51:55] Clicked left panel toggler using method 1
+[2025-06-12 09:51:55] Expanded left panel
+[2025-06-12 09:51:57] Selecting vehicle categories and fuel types
+[2025-06-12 09:51:57] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:51:58] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:51:59] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:52:00] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:52:00] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:52:01] Vehicle categories and fuel types selected
+[2025-06-12 09:52:02] Clicking left refresh button
+[2025-06-12 09:52:02] Clicked left refresh button using method 1
+[2025-06-12 09:52:02] Left refresh button clicked
+[2025-06-12 09:52:07] Left panel collapsed successfully.
+[2025-06-12 09:52:07] Checking for Badgateway (503) error
+[2025-06-12 09:52:07] Downloading Excel file for Tamil Nadu(148), ARANI RTO - TN516( 21-MAY-2018 ), 2024
+[2025-06-12 09:52:07] Clicked Excel download button using method 1
+[2025-06-12 09:52:07] Clicked Excel download button
+[2025-06-12 09:52:10] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 09:52:10] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:53:10] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ARANI RTO - TN516( 21-MAY-2018 ).xlsx
+[2025-06-12 09:53:10] Successfully processed RTO: ARANI RTO - TN516( 21-MAY-2018 )
+[2025-06-12 09:53:13] 
+Processing RTO: ARANTHANGI UO - TN592( 19-DEC-2017 ) (Attempt 1)
+[2025-06-12 09:53:13] Checking for Badgateway (503) error
+[2025-06-12 09:53:13] Selecting RTO: ARANTHANGI UO - TN592( 19-DEC-2017 )
+[2025-06-12 09:53:14] Clicked RTO dropdown using method 1
+[2025-06-12 09:53:15] Clicked RTO option: ARANTHANGI UO - TN592( 19-DEC-2017 ) using method 1
+[2025-06-12 09:53:15] Successfully selected RTO: ARANTHANGI UO - TN592( 19-DEC-2017 )
+[2025-06-12 09:53:15] Checking for Badgateway (503) error
+[2025-06-12 09:53:15] Applying left panel filters
+[2025-06-12 09:53:15] Clicked right refresh button using method 1
+[2025-06-12 09:53:20] Opening left panel if needed
+[2025-06-12 09:53:20] Clicked left panel toggler using method 1
+[2025-06-12 09:53:20] Expanded left panel
+[2025-06-12 09:53:22] Selecting vehicle categories and fuel types
+[2025-06-12 09:53:22] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:53:23] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:53:24] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:53:25] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:53:26] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:53:26] Vehicle categories and fuel types selected
+[2025-06-12 09:53:27] Clicking left refresh button
+[2025-06-12 09:53:27] Clicked left refresh button using method 1
+[2025-06-12 09:53:27] Left refresh button clicked
+[2025-06-12 09:53:32] Left panel collapsed successfully.
+[2025-06-12 09:53:32] Checking for Badgateway (503) error
+[2025-06-12 09:53:33] Downloading Excel file for Tamil Nadu(148), ARANTHANGI UO - TN592( 19-DEC-2017 ), 2024
+[2025-06-12 09:53:33] Clicked Excel download button using method 1
+[2025-06-12 09:53:33] Clicked Excel download button
+[2025-06-12 09:53:36] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 09:53:36] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:54:36] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ARANTHANGI UO - TN592( 19-DEC-2017 ).xlsx
+[2025-06-12 09:54:36] Successfully processed RTO: ARANTHANGI UO - TN592( 19-DEC-2017 )
+[2025-06-12 09:54:38] 
+Processing RTO: ARAVAKURICHI UO - TN632( 27-JUN-2018 ) (Attempt 1)
+[2025-06-12 09:54:38] Checking for Badgateway (503) error
+[2025-06-12 09:54:38] Selecting RTO: ARAVAKURICHI UO - TN632( 27-JUN-2018 )
+[2025-06-12 09:54:39] Clicked RTO dropdown using method 1
+[2025-06-12 09:54:40] Clicked RTO option: ARAVAKURICHI UO - TN632( 27-JUN-2018 ) using method 1
+[2025-06-12 09:54:40] Successfully selected RTO: ARAVAKURICHI UO - TN632( 27-JUN-2018 )
+[2025-06-12 09:54:40] Checking for Badgateway (503) error
+[2025-06-12 09:54:40] Applying left panel filters
+[2025-06-12 09:54:41] Clicked right refresh button using method 1
+[2025-06-12 09:54:45] Opening left panel if needed
+[2025-06-12 09:54:45] Clicked left panel toggler using method 1
+[2025-06-12 09:54:45] Expanded left panel
+[2025-06-12 09:54:47] Selecting vehicle categories and fuel types
+[2025-06-12 09:54:47] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:54:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:54:48] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:54:49] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:54:50] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:54:50] Vehicle categories and fuel types selected
+[2025-06-12 09:54:51] Clicking left refresh button
+[2025-06-12 09:54:52] Clicked left refresh button using method 1
+[2025-06-12 09:54:52] Left refresh button clicked
+[2025-06-12 09:54:56] Left panel collapsed successfully.
+[2025-06-12 09:54:56] Checking for Badgateway (503) error
+[2025-06-12 09:54:56] Downloading Excel file for Tamil Nadu(148), ARAVAKURICHI UO - TN632( 27-JUN-2018 ), 2024
+[2025-06-12 09:54:57] Clicked Excel download button using method 1
+[2025-06-12 09:54:57] Clicked Excel download button
+[2025-06-12 09:55:00] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 09:55:00] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:56:00] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ARAVAKURICHI UO - TN632( 27-JUN-2018 ).xlsx
+[2025-06-12 09:56:00] Successfully processed RTO: ARAVAKURICHI UO - TN632( 27-JUN-2018 )
+[2025-06-12 09:56:03] 
+Processing RTO: ARIYALUR RTO - TN61( 14-AUG-2018 ) (Attempt 1)
+[2025-06-12 09:56:03] Checking for Badgateway (503) error
+[2025-06-12 09:56:03] Selecting RTO: ARIYALUR RTO - TN61( 14-AUG-2018 )
+[2025-06-12 09:56:03] Clicked RTO dropdown using method 1
+[2025-06-12 09:56:05] Clicked RTO option: ARIYALUR RTO - TN61( 14-AUG-2018 ) using method 1
+[2025-06-12 09:56:05] Successfully selected RTO: ARIYALUR RTO - TN61( 14-AUG-2018 )
+[2025-06-12 09:56:05] Checking for Badgateway (503) error
+[2025-06-12 09:56:05] Applying left panel filters
+[2025-06-12 09:56:05] Clicked right refresh button using method 1
+[2025-06-12 09:56:10] Opening left panel if needed
+[2025-06-12 09:56:10] Clicked left panel toggler using method 1
+[2025-06-12 09:56:10] Expanded left panel
+[2025-06-12 09:56:11] Selecting vehicle categories and fuel types
+[2025-06-12 09:56:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:56:13] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:56:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:56:14] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:56:15] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:56:16] Vehicle categories and fuel types selected
+[2025-06-12 09:56:17] Clicking left refresh button
+[2025-06-12 09:56:17] Clicked left refresh button using method 1
+[2025-06-12 09:56:17] Left refresh button clicked
+[2025-06-12 09:56:22] Left panel collapsed successfully.
+[2025-06-12 09:56:22] Checking for Badgateway (503) error
+[2025-06-12 09:56:22] Downloading Excel file for Tamil Nadu(148), ARIYALUR RTO - TN61( 14-AUG-2018 ), 2024
+[2025-06-12 09:56:22] Clicked Excel download button using method 1
+[2025-06-12 09:56:22] Clicked Excel download button
+[2025-06-12 09:56:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 09:56:25] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:57:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ARIYALUR RTO - TN61( 14-AUG-2018 ).xlsx
+[2025-06-12 09:57:25] Successfully processed RTO: ARIYALUR RTO - TN61( 14-AUG-2018 )
+[2025-06-12 09:57:29] 
+Processing RTO: ARUPPUKOTTAI UO - TN622( 25-JUL-2018 ) (Attempt 1)
+[2025-06-12 09:57:29] Checking for Badgateway (503) error
+[2025-06-12 09:57:29] Selecting RTO: ARUPPUKOTTAI UO - TN622( 25-JUL-2018 )
+[2025-06-12 09:57:29] Clicked RTO dropdown using method 1
+[2025-06-12 09:57:30] Clicked RTO option: ARUPPUKOTTAI UO - TN622( 25-JUL-2018 ) using method 1
+[2025-06-12 09:57:30] Successfully selected RTO: ARUPPUKOTTAI UO - TN622( 25-JUL-2018 )
+[2025-06-12 09:57:30] Checking for Badgateway (503) error
+[2025-06-12 09:57:30] Applying left panel filters
+[2025-06-12 09:57:31] Clicked right refresh button using method 1
+[2025-06-12 09:57:36] Opening left panel if needed
+[2025-06-12 09:57:36] Clicked left panel toggler using method 1
+[2025-06-12 09:57:36] Expanded left panel
+[2025-06-12 09:57:37] Selecting vehicle categories and fuel types
+[2025-06-12 09:57:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:57:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:57:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:57:40] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:57:41] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:57:41] Vehicle categories and fuel types selected
+[2025-06-12 09:57:42] Clicking left refresh button
+[2025-06-12 09:57:42] Clicked left refresh button using method 1
+[2025-06-12 09:57:42] Left refresh button clicked
+[2025-06-12 09:57:47] Left panel collapsed successfully.
+[2025-06-12 09:57:47] Checking for Badgateway (503) error
+[2025-06-12 09:57:47] Downloading Excel file for Tamil Nadu(148), ARUPPUKOTTAI UO - TN622( 25-JUL-2018 ), 2024
+[2025-06-12 09:57:48] Clicked Excel download button using method 1
+[2025-06-12 09:57:48] Clicked Excel download button
+[2025-06-12 09:57:51] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 09:57:51] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 09:58:51] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ARUPPUKOTTAI UO - TN622( 25-JUL-2018 ).xlsx
+[2025-06-12 09:58:51] Successfully processed RTO: ARUPPUKOTTAI UO - TN622( 25-JUL-2018 )
+[2025-06-12 09:58:53] 
+Processing RTO: ATTUR RTO - TN591( 08-JAN-2018 ) (Attempt 1)
+[2025-06-12 09:58:53] Checking for Badgateway (503) error
+[2025-06-12 09:58:53] Selecting RTO: ATTUR RTO - TN591( 08-JAN-2018 )
+[2025-06-12 09:58:54] Clicked RTO dropdown using method 1
+[2025-06-12 09:58:55] Clicked RTO option: ATTUR RTO - TN591( 08-JAN-2018 ) using method 1
+[2025-06-12 09:58:55] Successfully selected RTO: ATTUR RTO - TN591( 08-JAN-2018 )
+[2025-06-12 09:58:55] Checking for Badgateway (503) error
+[2025-06-12 09:58:55] Applying left panel filters
+[2025-06-12 09:58:56] Clicked right refresh button using method 1
+[2025-06-12 09:59:00] Opening left panel if needed
+[2025-06-12 09:59:00] Clicked left panel toggler using method 1
+[2025-06-12 09:59:00] Expanded left panel
+[2025-06-12 09:59:02] Selecting vehicle categories and fuel types
+[2025-06-12 09:59:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 09:59:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 09:59:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 09:59:05] Clicked checkbox fuel:7 using method 2
+[2025-06-12 09:59:05] Clicked checkbox fuel:21 using method 2
+[2025-06-12 09:59:06] Vehicle categories and fuel types selected
+[2025-06-12 09:59:07] Clicking left refresh button
+[2025-06-12 09:59:07] Clicked left refresh button using method 1
+[2025-06-12 09:59:07] Left refresh button clicked
+[2025-06-12 09:59:12] Left panel collapsed successfully.
+[2025-06-12 09:59:12] Checking for Badgateway (503) error
+[2025-06-12 09:59:12] Downloading Excel file for Tamil Nadu(148), ATTUR RTO - TN591( 08-JAN-2018 ), 2024
+[2025-06-12 09:59:13] Clicked Excel download button using method 1
+[2025-06-12 09:59:13] Clicked Excel download button
+[2025-06-12 09:59:15] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 09:59:15] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:00:15] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\ATTUR RTO - TN591( 08-JAN-2018 ).xlsx
+[2025-06-12 10:00:15] Successfully processed RTO: ATTUR RTO - TN591( 08-JAN-2018 )
+[2025-06-12 10:00:19] 
+Processing RTO: AVINASHI UO - TN580( 14-AUG-2018 ) (Attempt 1)
+[2025-06-12 10:00:19] Checking for Badgateway (503) error
+[2025-06-12 10:00:20] Selecting RTO: AVINASHI UO - TN580( 14-AUG-2018 )
+[2025-06-12 10:00:20] Clicked RTO dropdown using method 1
+[2025-06-12 10:00:21] Clicked RTO option: AVINASHI UO - TN580( 14-AUG-2018 ) using method 1
+[2025-06-12 10:00:21] Successfully selected RTO: AVINASHI UO - TN580( 14-AUG-2018 )
+[2025-06-12 10:00:21] Checking for Badgateway (503) error
+[2025-06-12 10:00:21] Applying left panel filters
+[2025-06-12 10:00:22] Clicked right refresh button using method 1
+[2025-06-12 10:00:27] Opening left panel if needed
+[2025-06-12 10:00:27] Clicked left panel toggler using method 1
+[2025-06-12 10:00:27] Expanded left panel
+[2025-06-12 10:00:28] Selecting vehicle categories and fuel types
+[2025-06-12 10:00:29] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:00:30] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:00:31] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:00:31] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:00:32] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:00:32] Vehicle categories and fuel types selected
+[2025-06-12 10:00:33] Clicking left refresh button
+[2025-06-12 10:00:33] Clicked left refresh button using method 1
+[2025-06-12 10:00:33] Left refresh button clicked
+[2025-06-12 10:00:38] Left panel collapsed successfully.
+[2025-06-12 10:00:38] Checking for Badgateway (503) error
+[2025-06-12 10:00:38] Downloading Excel file for Tamil Nadu(148), AVINASHI UO - TN580( 14-AUG-2018 ), 2024
+[2025-06-12 10:00:39] Clicked Excel download button using method 1
+[2025-06-12 10:00:39] Clicked Excel download button
+[2025-06-12 10:00:42] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:00:42] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:01:42] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\AVINASHI UO - TN580( 14-AUG-2018 ).xlsx
+[2025-06-12 10:01:42] Successfully processed RTO: AVINASHI UO - TN580( 14-AUG-2018 )
+[2025-06-12 10:01:46] 
+Processing RTO: BATLAGUNDU UO - TN596( 20-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:01:46] Checking for Badgateway (503) error
+[2025-06-12 10:01:46] Selecting RTO: BATLAGUNDU UO - TN596( 20-JUL-2018 )
+[2025-06-12 10:01:46] Clicked RTO dropdown using method 1
+[2025-06-12 10:01:48] Clicked RTO option: BATLAGUNDU UO - TN596( 20-JUL-2018 ) using method 1
+[2025-06-12 10:01:48] Successfully selected RTO: BATLAGUNDU UO - TN596( 20-JUL-2018 )
+[2025-06-12 10:01:48] Checking for Badgateway (503) error
+[2025-06-12 10:01:48] Applying left panel filters
+[2025-06-12 10:01:48] Clicked right refresh button using method 1
+[2025-06-12 10:01:53] Opening left panel if needed
+[2025-06-12 10:01:53] Clicked left panel toggler using method 1
+[2025-06-12 10:01:53] Expanded left panel
+[2025-06-12 10:01:54] Selecting vehicle categories and fuel types
+[2025-06-12 10:01:55] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:01:56] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:01:56] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:01:57] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:01:58] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:01:59] Vehicle categories and fuel types selected
+[2025-06-12 10:01:59] Clicking left refresh button
+[2025-06-12 10:02:00] Clicked left refresh button using method 1
+[2025-06-12 10:02:00] Left refresh button clicked
+[2025-06-12 10:02:05] Left panel collapsed successfully.
+[2025-06-12 10:02:05] Checking for Badgateway (503) error
+[2025-06-12 10:02:05] Downloading Excel file for Tamil Nadu(148), BATLAGUNDU UO - TN596( 20-JUL-2018 ), 2024
+[2025-06-12 10:02:06] Clicked Excel download button using method 1
+[2025-06-12 10:02:06] Clicked Excel download button
+[2025-06-12 10:02:08] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:02:08] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:03:08] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\BATLAGUNDU UO - TN596( 20-JUL-2018 ).xlsx
+[2025-06-12 10:03:08] Successfully processed RTO: BATLAGUNDU UO - TN596( 20-JUL-2018 )
+[2025-06-12 10:03:11] 
+Processing RTO: BHAVANI UO - TN578( 30-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:03:11] Checking for Badgateway (503) error
+[2025-06-12 10:03:11] Selecting RTO: BHAVANI UO - TN578( 30-JUL-2018 )
+[2025-06-12 10:03:12] Clicked RTO dropdown using method 1
+[2025-06-12 10:03:13] Clicked RTO option: BHAVANI UO - TN578( 30-JUL-2018 ) using method 1
+[2025-06-12 10:03:13] Successfully selected RTO: BHAVANI UO - TN578( 30-JUL-2018 )
+[2025-06-12 10:03:13] Checking for Badgateway (503) error
+[2025-06-12 10:03:13] Applying left panel filters
+[2025-06-12 10:03:14] Clicked right refresh button using method 1
+[2025-06-12 10:03:19] Opening left panel if needed
+[2025-06-12 10:03:19] Clicked left panel toggler using method 1
+[2025-06-12 10:03:19] Expanded left panel
+[2025-06-12 10:03:21] Selecting vehicle categories and fuel types
+[2025-06-12 10:03:21] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:03:22] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:03:23] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:03:23] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:03:24] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:03:24] Vehicle categories and fuel types selected
+[2025-06-12 10:03:25] Clicking left refresh button
+[2025-06-12 10:03:25] Clicked left refresh button using method 1
+[2025-06-12 10:03:25] Left refresh button clicked
+[2025-06-12 10:03:30] Left panel collapsed successfully.
+[2025-06-12 10:03:30] Checking for Badgateway (503) error
+[2025-06-12 10:03:31] Downloading Excel file for Tamil Nadu(148), BHAVANI UO - TN578( 30-JUL-2018 ), 2024
+[2025-06-12 10:03:31] Clicked Excel download button using method 1
+[2025-06-12 10:03:31] Clicked Excel download button
+[2025-06-12 10:03:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:03:33] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:04:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\BHAVANI UO - TN578( 30-JUL-2018 ).xlsx
+[2025-06-12 10:04:33] Successfully processed RTO: BHAVANI UO - TN578( 30-JUL-2018 )
+[2025-06-12 10:04:38] 
+Processing RTO: CHENGALPATTU RTO - TN19( 07-JUN-2018 ) (Attempt 1)
+[2025-06-12 10:04:38] Checking for Badgateway (503) error
+[2025-06-12 10:04:38] Selecting RTO: CHENGALPATTU RTO - TN19( 07-JUN-2018 )
+[2025-06-12 10:04:39] Clicked RTO dropdown using method 1
+[2025-06-12 10:04:40] Clicked RTO option: CHENGALPATTU RTO - TN19( 07-JUN-2018 ) using method 1
+[2025-06-12 10:04:40] Successfully selected RTO: CHENGALPATTU RTO - TN19( 07-JUN-2018 )
+[2025-06-12 10:04:40] Checking for Badgateway (503) error
+[2025-06-12 10:04:40] Applying left panel filters
+[2025-06-12 10:04:41] Clicked right refresh button using method 1
+[2025-06-12 10:04:46] Opening left panel if needed
+[2025-06-12 10:04:46] Clicked left panel toggler using method 1
+[2025-06-12 10:04:46] Expanded left panel
+[2025-06-12 10:04:47] Selecting vehicle categories and fuel types
+[2025-06-12 10:04:48] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:04:48] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:04:49] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:04:50] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:04:51] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:04:51] Vehicle categories and fuel types selected
+[2025-06-12 10:04:52] Clicking left refresh button
+[2025-06-12 10:04:53] Clicked left refresh button using method 1
+[2025-06-12 10:04:53] Left refresh button clicked
+[2025-06-12 10:04:57] Left panel collapsed successfully.
+[2025-06-12 10:04:57] Checking for Badgateway (503) error
+[2025-06-12 10:04:57] Downloading Excel file for Tamil Nadu(148), CHENGALPATTU RTO - TN19( 07-JUN-2018 ), 2024
+[2025-06-12 10:04:58] Clicked Excel download button using method 1
+[2025-06-12 10:04:58] Clicked Excel download button
+[2025-06-12 10:05:01] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:05:01] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:06:01] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENGALPATTU RTO - TN19( 07-JUN-2018 ).xlsx
+[2025-06-12 10:06:01] Successfully processed RTO: CHENGALPATTU RTO - TN19( 07-JUN-2018 )
+[2025-06-12 10:06:03] 
+Processing RTO: CHENNAI (CENTRAL) RTO - TN1( 12-JUN-2018 ) (Attempt 1)
+[2025-06-12 10:06:03] Checking for Badgateway (503) error
+[2025-06-12 10:06:03] Selecting RTO: CHENNAI (CENTRAL) RTO - TN1( 12-JUN-2018 )
+[2025-06-12 10:06:04] Clicked RTO dropdown using method 1
+[2025-06-12 10:06:05] Clicked RTO option: CHENNAI (CENTRAL) RTO - TN1( 12-JUN-2018 ) using method 1
+[2025-06-12 10:06:05] Successfully selected RTO: CHENNAI (CENTRAL) RTO - TN1( 12-JUN-2018 )
+[2025-06-12 10:06:05] Checking for Badgateway (503) error
+[2025-06-12 10:06:05] Applying left panel filters
+[2025-06-12 10:06:06] Clicked right refresh button using method 1
+[2025-06-12 10:06:10] Opening left panel if needed
+[2025-06-12 10:06:10] Clicked left panel toggler using method 1
+[2025-06-12 10:06:10] Expanded left panel
+[2025-06-12 10:06:11] Selecting vehicle categories and fuel types
+[2025-06-12 10:06:12] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:06:13] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:06:14] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:06:15] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:06:15] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:06:16] Vehicle categories and fuel types selected
+[2025-06-12 10:06:16] Clicking left refresh button
+[2025-06-12 10:06:16] Clicked left refresh button using method 1
+[2025-06-12 10:06:16] Left refresh button clicked
+[2025-06-12 10:06:21] Left panel collapsed successfully.
+[2025-06-12 10:06:21] Checking for Badgateway (503) error
+[2025-06-12 10:06:21] Downloading Excel file for Tamil Nadu(148), CHENNAI (CENTRAL) RTO - TN1( 12-JUN-2018 ), 2024
+[2025-06-12 10:06:22] Clicked Excel download button using method 1
+[2025-06-12 10:06:22] Clicked Excel download button
+[2025-06-12 10:06:25] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:06:25] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:07:25] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENNAI (CENTRAL) RTO - TN1( 12-JUN-2018 ).xlsx
+[2025-06-12 10:07:25] Successfully processed RTO: CHENNAI (CENTRAL) RTO - TN1( 12-JUN-2018 )
+[2025-06-12 10:07:27] 
+Processing RTO: CHENNAI (EAST) RTO - TN4( 03-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:07:27] Checking for Badgateway (503) error
+[2025-06-12 10:07:27] Selecting RTO: CHENNAI (EAST) RTO - TN4( 03-JUL-2018 )
+[2025-06-12 10:07:27] Clicked RTO dropdown using method 1
+[2025-06-12 10:07:29] Clicked RTO option: CHENNAI (EAST) RTO - TN4( 03-JUL-2018 ) using method 1
+[2025-06-12 10:07:29] Successfully selected RTO: CHENNAI (EAST) RTO - TN4( 03-JUL-2018 )
+[2025-06-12 10:07:29] Checking for Badgateway (503) error
+[2025-06-12 10:07:29] Applying left panel filters
+[2025-06-12 10:07:29] Clicked right refresh button using method 1
+[2025-06-12 10:07:34] Opening left panel if needed
+[2025-06-12 10:07:34] Clicked left panel toggler using method 1
+[2025-06-12 10:07:34] Expanded left panel
+[2025-06-12 10:07:36] Selecting vehicle categories and fuel types
+[2025-06-12 10:07:37] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:07:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:07:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:07:40] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:07:40] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:07:41] Vehicle categories and fuel types selected
+[2025-06-12 10:07:41] Clicking left refresh button
+[2025-06-12 10:07:42] Clicked left refresh button using method 1
+[2025-06-12 10:07:42] Left refresh button clicked
+[2025-06-12 10:07:47] Left panel collapsed successfully.
+[2025-06-12 10:07:47] Checking for Badgateway (503) error
+[2025-06-12 10:07:47] Downloading Excel file for Tamil Nadu(148), CHENNAI (EAST) RTO - TN4( 03-JUL-2018 ), 2024
+[2025-06-12 10:07:48] Clicked Excel download button using method 1
+[2025-06-12 10:07:48] Clicked Excel download button
+[2025-06-12 10:07:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:07:50] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:08:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENNAI (EAST) RTO - TN4( 03-JUL-2018 ).xlsx
+[2025-06-12 10:08:50] Successfully processed RTO: CHENNAI (EAST) RTO - TN4( 03-JUL-2018 )
+[2025-06-12 10:08:54] 
+Processing RTO: CHENNAI (NORTH-EAST) RTO - TN3( 03-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:08:54] Checking for Badgateway (503) error
+[2025-06-12 10:08:54] Selecting RTO: CHENNAI (NORTH-EAST) RTO - TN3( 03-JUL-2018 )
+[2025-06-12 10:08:54] Clicked RTO dropdown using method 1
+[2025-06-12 10:08:55] Clicked RTO option: CHENNAI (NORTH-EAST) RTO - TN3( 03-JUL-2018 ) using method 1
+[2025-06-12 10:08:55] Successfully selected RTO: CHENNAI (NORTH-EAST) RTO - TN3( 03-JUL-2018 )
+[2025-06-12 10:08:55] Checking for Badgateway (503) error
+[2025-06-12 10:08:55] Applying left panel filters
+[2025-06-12 10:08:56] Clicked right refresh button using method 1
+[2025-06-12 10:09:00] Opening left panel if needed
+[2025-06-12 10:09:00] Clicked left panel toggler using method 1
+[2025-06-12 10:09:00] Expanded left panel
+[2025-06-12 10:09:02] Selecting vehicle categories and fuel types
+[2025-06-12 10:09:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:09:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:09:04] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:09:05] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:09:05] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:09:06] Vehicle categories and fuel types selected
+[2025-06-12 10:09:06] Clicking left refresh button
+[2025-06-12 10:09:07] Clicked left refresh button using method 1
+[2025-06-12 10:09:07] Left refresh button clicked
+[2025-06-12 10:09:12] Left panel collapsed successfully.
+[2025-06-12 10:09:12] Checking for Badgateway (503) error
+[2025-06-12 10:09:12] Downloading Excel file for Tamil Nadu(148), CHENNAI (NORTH-EAST) RTO - TN3( 03-JUL-2018 ), 2024
+[2025-06-12 10:09:12] Clicked Excel download button using method 1
+[2025-06-12 10:09:12] Clicked Excel download button
+[2025-06-12 10:09:15] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:09:15] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:10:15] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENNAI (NORTH-EAST) RTO - TN3( 03-JUL-2018 ).xlsx
+[2025-06-12 10:10:15] Successfully processed RTO: CHENNAI (NORTH-EAST) RTO - TN3( 03-JUL-2018 )
+[2025-06-12 10:10:19] 
+Processing RTO: CHENNAI (NORTH) RTO - TN5( 01-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:10:19] Checking for Badgateway (503) error
+[2025-06-12 10:10:19] Selecting RTO: CHENNAI (NORTH) RTO - TN5( 01-JUL-2018 )
+[2025-06-12 10:10:19] Clicked RTO dropdown using method 1
+[2025-06-12 10:10:21] Clicked RTO option: CHENNAI (NORTH) RTO - TN5( 01-JUL-2018 ) using method 1
+[2025-06-12 10:10:21] Successfully selected RTO: CHENNAI (NORTH) RTO - TN5( 01-JUL-2018 )
+[2025-06-12 10:10:21] Checking for Badgateway (503) error
+[2025-06-12 10:10:21] Applying left panel filters
+[2025-06-12 10:10:21] Clicked right refresh button using method 1
+[2025-06-12 10:10:26] Opening left panel if needed
+[2025-06-12 10:10:26] Clicked left panel toggler using method 1
+[2025-06-12 10:10:26] Expanded left panel
+[2025-06-12 10:10:27] Selecting vehicle categories and fuel types
+[2025-06-12 10:10:28] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:10:29] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:10:30] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:10:30] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:10:31] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:10:32] Vehicle categories and fuel types selected
+[2025-06-12 10:10:33] Clicking left refresh button
+[2025-06-12 10:10:33] Clicked left refresh button using method 1
+[2025-06-12 10:10:33] Left refresh button clicked
+[2025-06-12 10:10:38] Left panel collapsed successfully.
+[2025-06-12 10:10:38] Checking for Badgateway (503) error
+[2025-06-12 10:10:38] Downloading Excel file for Tamil Nadu(148), CHENNAI (NORTH) RTO - TN5( 01-JUL-2018 ), 2024
+[2025-06-12 10:10:39] Clicked Excel download button using method 1
+[2025-06-12 10:10:39] Clicked Excel download button
+[2025-06-12 10:10:41] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:10:41] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:11:41] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENNAI (NORTH) RTO - TN5( 01-JUL-2018 ).xlsx
+[2025-06-12 10:11:41] Successfully processed RTO: CHENNAI (NORTH) RTO - TN5( 01-JUL-2018 )
+[2025-06-12 10:11:44] 
+Processing RTO: CHENNAI (SOUTH-EAST) RTO - TN6( 11-JUN-2018 ) (Attempt 1)
+[2025-06-12 10:11:44] Checking for Badgateway (503) error
+[2025-06-12 10:11:45] Selecting RTO: CHENNAI (SOUTH-EAST) RTO - TN6( 11-JUN-2018 )
+[2025-06-12 10:11:45] Clicked RTO dropdown using method 1
+[2025-06-12 10:11:46] Clicked RTO option: CHENNAI (SOUTH-EAST) RTO - TN6( 11-JUN-2018 ) using method 1
+[2025-06-12 10:11:46] Successfully selected RTO: CHENNAI (SOUTH-EAST) RTO - TN6( 11-JUN-2018 )
+[2025-06-12 10:11:46] Checking for Badgateway (503) error
+[2025-06-12 10:11:46] Applying left panel filters
+[2025-06-12 10:11:47] Clicked right refresh button using method 1
+[2025-06-12 10:11:51] Opening left panel if needed
+[2025-06-12 10:11:51] Clicked left panel toggler using method 1
+[2025-06-12 10:11:51] Expanded left panel
+[2025-06-12 10:11:53] Selecting vehicle categories and fuel types
+[2025-06-12 10:11:53] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:11:54] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:11:55] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:11:56] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:11:56] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:11:57] Vehicle categories and fuel types selected
+[2025-06-12 10:11:58] Clicking left refresh button
+[2025-06-12 10:11:58] Clicked left refresh button using method 1
+[2025-06-12 10:11:58] Left refresh button clicked
+[2025-06-12 10:12:03] Left panel collapsed successfully.
+[2025-06-12 10:12:03] Checking for Badgateway (503) error
+[2025-06-12 10:12:03] Downloading Excel file for Tamil Nadu(148), CHENNAI (SOUTH-EAST) RTO - TN6( 11-JUN-2018 ), 2024
+[2025-06-12 10:12:04] Clicked Excel download button using method 1
+[2025-06-12 10:12:04] Clicked Excel download button
+[2025-06-12 10:12:06] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:12:06] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:13:06] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENNAI (SOUTH-EAST) RTO - TN6( 11-JUN-2018 ).xlsx
+[2025-06-12 10:13:06] Successfully processed RTO: CHENNAI (SOUTH-EAST) RTO - TN6( 11-JUN-2018 )
+[2025-06-12 10:13:10] 
+Processing RTO: CHENNAI (SOUTH) RTO - TN7( 01-JUN-2018 ) (Attempt 1)
+[2025-06-12 10:13:10] Checking for Badgateway (503) error
+[2025-06-12 10:13:10] Selecting RTO: CHENNAI (SOUTH) RTO - TN7( 01-JUN-2018 )
+[2025-06-12 10:13:11] Clicked RTO dropdown using method 1
+[2025-06-12 10:13:12] Clicked RTO option: CHENNAI (SOUTH) RTO - TN7( 01-JUN-2018 ) using method 1
+[2025-06-12 10:13:12] Successfully selected RTO: CHENNAI (SOUTH) RTO - TN7( 01-JUN-2018 )
+[2025-06-12 10:13:12] Checking for Badgateway (503) error
+[2025-06-12 10:13:12] Applying left panel filters
+[2025-06-12 10:13:12] Clicked right refresh button using method 1
+[2025-06-12 10:13:17] Opening left panel if needed
+[2025-06-12 10:13:17] Clicked left panel toggler using method 1
+[2025-06-12 10:13:17] Expanded left panel
+[2025-06-12 10:13:18] Selecting vehicle categories and fuel types
+[2025-06-12 10:13:19] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:13:19] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:13:20] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:13:21] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:13:22] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:13:22] Vehicle categories and fuel types selected
+[2025-06-12 10:13:23] Clicking left refresh button
+[2025-06-12 10:13:24] Clicked left refresh button using method 1
+[2025-06-12 10:13:24] Left refresh button clicked
+[2025-06-12 10:13:28] Left panel collapsed successfully.
+[2025-06-12 10:13:28] Checking for Badgateway (503) error
+[2025-06-12 10:13:29] Downloading Excel file for Tamil Nadu(148), CHENNAI (SOUTH) RTO - TN7( 01-JUN-2018 ), 2024
+[2025-06-12 10:13:29] Clicked Excel download button using method 1
+[2025-06-12 10:13:29] Clicked Excel download button
+[2025-06-12 10:13:32] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:13:32] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:14:32] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENNAI (SOUTH) RTO - TN7( 01-JUN-2018 ).xlsx
+[2025-06-12 10:14:32] Successfully processed RTO: CHENNAI (SOUTH) RTO - TN7( 01-JUN-2018 )
+[2025-06-12 10:14:35] 
+Processing RTO: CHENNAI (SOUTH-WEST) RTO - TN10( 03-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:14:35] Checking for Badgateway (503) error
+[2025-06-12 10:14:35] Selecting RTO: CHENNAI (SOUTH-WEST) RTO - TN10( 03-JUL-2018 )
+[2025-06-12 10:14:35] Clicked RTO dropdown using method 1
+[2025-06-12 10:14:36] Clicked RTO option: CHENNAI (SOUTH-WEST) RTO - TN10( 03-JUL-2018 ) using method 1
+[2025-06-12 10:14:36] Successfully selected RTO: CHENNAI (SOUTH-WEST) RTO - TN10( 03-JUL-2018 )
+[2025-06-12 10:14:36] Checking for Badgateway (503) error
+[2025-06-12 10:14:36] Applying left panel filters
+[2025-06-12 10:14:37] Clicked right refresh button using method 1
+[2025-06-12 10:14:41] Opening left panel if needed
+[2025-06-12 10:14:41] Clicked left panel toggler using method 1
+[2025-06-12 10:14:41] Expanded left panel
+[2025-06-12 10:14:43] Selecting vehicle categories and fuel types
+[2025-06-12 10:14:43] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:14:44] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:14:44] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:14:45] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:14:46] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:14:46] Vehicle categories and fuel types selected
+[2025-06-12 10:14:47] Clicking left refresh button
+[2025-06-12 10:14:48] Clicked left refresh button using method 1
+[2025-06-12 10:14:48] Left refresh button clicked
+[2025-06-12 10:14:53] Left panel collapsed successfully.
+[2025-06-12 10:14:53] Checking for Badgateway (503) error
+[2025-06-12 10:14:53] Downloading Excel file for Tamil Nadu(148), CHENNAI (SOUTH-WEST) RTO - TN10( 03-JUL-2018 ), 2024
+[2025-06-12 10:14:54] Clicked Excel download button using method 1
+[2025-06-12 10:14:54] Clicked Excel download button
+[2025-06-12 10:14:56] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:14:56] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:15:56] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENNAI (SOUTH-WEST) RTO - TN10( 03-JUL-2018 ).xlsx
+[2025-06-12 10:15:56] Successfully processed RTO: CHENNAI (SOUTH-WEST) RTO - TN10( 03-JUL-2018 )
+[2025-06-12 10:16:01] 
+Processing RTO: CHENNAI (WEST) RTO - TN9( 28-MAY-2018 ) (Attempt 1)
+[2025-06-12 10:16:01] Checking for Badgateway (503) error
+[2025-06-12 10:16:01] Selecting RTO: CHENNAI (WEST) RTO - TN9( 28-MAY-2018 )
+[2025-06-12 10:16:02] Clicked RTO dropdown using method 1
+[2025-06-12 10:16:03] Clicked RTO option: CHENNAI (WEST) RTO - TN9( 28-MAY-2018 ) using method 1
+[2025-06-12 10:16:03] Successfully selected RTO: CHENNAI (WEST) RTO - TN9( 28-MAY-2018 )
+[2025-06-12 10:16:03] Checking for Badgateway (503) error
+[2025-06-12 10:16:03] Applying left panel filters
+[2025-06-12 10:16:03] Clicked right refresh button using method 1
+[2025-06-12 10:16:08] Opening left panel if needed
+[2025-06-12 10:16:08] Clicked left panel toggler using method 1
+[2025-06-12 10:16:08] Expanded left panel
+[2025-06-12 10:16:09] Selecting vehicle categories and fuel types
+[2025-06-12 10:16:10] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:16:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:16:11] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:16:12] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:16:13] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:16:14] Vehicle categories and fuel types selected
+[2025-06-12 10:16:14] Clicking left refresh button
+[2025-06-12 10:16:15] Clicked left refresh button using method 1
+[2025-06-12 10:16:15] Left refresh button clicked
+[2025-06-12 10:16:19] Left panel collapsed successfully.
+[2025-06-12 10:16:19] Checking for Badgateway (503) error
+[2025-06-12 10:16:19] Downloading Excel file for Tamil Nadu(148), CHENNAI (WEST) RTO - TN9( 28-MAY-2018 ), 2024
+[2025-06-12 10:16:19] Clicked Excel download button using method 1
+[2025-06-12 10:16:19] Clicked Excel download button
+[2025-06-12 10:16:22] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:16:22] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:17:22] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHENNAI (WEST) RTO - TN9( 28-MAY-2018 ).xlsx
+[2025-06-12 10:17:22] Successfully processed RTO: CHENNAI (WEST) RTO - TN9( 28-MAY-2018 )
+[2025-06-12 10:17:24] 
+Processing RTO: CHEYYAR UO - TN635( 07-APR-2017 ) (Attempt 1)
+[2025-06-12 10:17:24] Checking for Badgateway (503) error
+[2025-06-12 10:17:24] Selecting RTO: CHEYYAR UO - TN635( 07-APR-2017 )
+[2025-06-12 10:17:24] Clicked RTO dropdown using method 1
+[2025-06-12 10:17:25] Clicked RTO option: CHEYYAR UO - TN635( 07-APR-2017 ) using method 1
+[2025-06-12 10:17:25] Successfully selected RTO: CHEYYAR UO - TN635( 07-APR-2017 )
+[2025-06-12 10:17:25] Checking for Badgateway (503) error
+[2025-06-12 10:17:25] Applying left panel filters
+[2025-06-12 10:17:26] Clicked right refresh button using method 1
+[2025-06-12 10:17:30] Opening left panel if needed
+[2025-06-12 10:17:30] Clicked left panel toggler using method 1
+[2025-06-12 10:17:30] Expanded left panel
+[2025-06-12 10:17:32] Selecting vehicle categories and fuel types
+[2025-06-12 10:17:32] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:17:33] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:17:34] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:17:34] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:17:35] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:17:35] Vehicle categories and fuel types selected
+[2025-06-12 10:17:36] Clicking left refresh button
+[2025-06-12 10:17:37] Clicked left refresh button using method 1
+[2025-06-12 10:17:37] Left refresh button clicked
+[2025-06-12 10:17:42] Left panel collapsed successfully.
+[2025-06-12 10:17:42] Checking for Badgateway (503) error
+[2025-06-12 10:17:42] Downloading Excel file for Tamil Nadu(148), CHEYYAR UO - TN635( 07-APR-2017 ), 2024
+[2025-06-12 10:17:42] Clicked Excel download button using method 1
+[2025-06-12 10:17:42] Clicked Excel download button
+[2025-06-12 10:17:45] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:17:45] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:18:45] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHEYYAR UO - TN635( 07-APR-2017 ).xlsx
+[2025-06-12 10:18:45] Successfully processed RTO: CHEYYAR UO - TN635( 07-APR-2017 )
+[2025-06-12 10:18:47] 
+Processing RTO: CHIDAMBARAM RTO - TN544( 19-JUN-2018 ) (Attempt 1)
+[2025-06-12 10:18:47] Checking for Badgateway (503) error
+[2025-06-12 10:18:47] Selecting RTO: CHIDAMBARAM RTO - TN544( 19-JUN-2018 )
+[2025-06-12 10:18:47] Clicked RTO dropdown using method 1
+[2025-06-12 10:18:49] Clicked RTO option: CHIDAMBARAM RTO - TN544( 19-JUN-2018 ) using method 1
+[2025-06-12 10:18:49] Successfully selected RTO: CHIDAMBARAM RTO - TN544( 19-JUN-2018 )
+[2025-06-12 10:18:49] Checking for Badgateway (503) error
+[2025-06-12 10:18:49] Applying left panel filters
+[2025-06-12 10:18:49] Clicked right refresh button using method 1
+[2025-06-12 10:18:54] Opening left panel if needed
+[2025-06-12 10:18:54] Clicked left panel toggler using method 1
+[2025-06-12 10:18:54] Expanded left panel
+[2025-06-12 10:18:55] Selecting vehicle categories and fuel types
+[2025-06-12 10:18:56] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:18:57] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:18:57] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:18:58] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:18:59] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:19:00] Vehicle categories and fuel types selected
+[2025-06-12 10:19:01] Clicking left refresh button
+[2025-06-12 10:19:01] Clicked left refresh button using method 1
+[2025-06-12 10:19:01] Left refresh button clicked
+[2025-06-12 10:19:06] Left panel collapsed successfully.
+[2025-06-12 10:19:06] Checking for Badgateway (503) error
+[2025-06-12 10:19:06] Downloading Excel file for Tamil Nadu(148), CHIDAMBARAM RTO - TN544( 19-JUN-2018 ), 2024
+[2025-06-12 10:19:06] Clicked Excel download button using method 1
+[2025-06-12 10:19:06] Clicked Excel download button
+[2025-06-12 10:19:09] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:19:09] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:20:09] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CHIDAMBARAM RTO - TN544( 19-JUN-2018 ).xlsx
+[2025-06-12 10:20:09] Successfully processed RTO: CHIDAMBARAM RTO - TN544( 19-JUN-2018 )
+[2025-06-12 10:20:12] 
+Processing RTO: COIMBATORE (CENTRAL) RTO - TN66( 17-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:20:12] Checking for Badgateway (503) error
+[2025-06-12 10:20:12] Selecting RTO: COIMBATORE (CENTRAL) RTO - TN66( 17-JUL-2018 )
+[2025-06-12 10:20:13] Clicked RTO dropdown using method 1
+[2025-06-12 10:20:14] Clicked RTO option: COIMBATORE (CENTRAL) RTO - TN66( 17-JUL-2018 ) using method 1
+[2025-06-12 10:20:14] Successfully selected RTO: COIMBATORE (CENTRAL) RTO - TN66( 17-JUL-2018 )
+[2025-06-12 10:20:14] Checking for Badgateway (503) error
+[2025-06-12 10:20:14] Applying left panel filters
+[2025-06-12 10:20:14] Clicked right refresh button using method 1
+[2025-06-12 10:20:18] Opening left panel if needed
+[2025-06-12 10:20:18] Clicked left panel toggler using method 1
+[2025-06-12 10:20:18] Expanded left panel
+[2025-06-12 10:20:20] Selecting vehicle categories and fuel types
+[2025-06-12 10:20:21] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:20:21] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:20:22] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:20:23] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:20:24] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:20:24] Vehicle categories and fuel types selected
+[2025-06-12 10:20:25] Clicking left refresh button
+[2025-06-12 10:20:25] Clicked left refresh button using method 1
+[2025-06-12 10:20:25] Left refresh button clicked
+[2025-06-12 10:20:30] Left panel collapsed successfully.
+[2025-06-12 10:20:30] Checking for Badgateway (503) error
+[2025-06-12 10:20:30] Downloading Excel file for Tamil Nadu(148), COIMBATORE (CENTRAL) RTO - TN66( 17-JUL-2018 ), 2024
+[2025-06-12 10:20:30] Clicked Excel download button using method 1
+[2025-06-12 10:20:30] Clicked Excel download button
+[2025-06-12 10:20:33] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:20:33] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:21:33] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\COIMBATORE (CENTRAL) RTO - TN66( 17-JUL-2018 ).xlsx
+[2025-06-12 10:21:33] Successfully processed RTO: COIMBATORE (CENTRAL) RTO - TN66( 17-JUL-2018 )
+[2025-06-12 10:21:37] 
+Processing RTO: COIMBATORE (NORTH) RTO - TN38( 17-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:21:37] Checking for Badgateway (503) error
+[2025-06-12 10:21:37] Selecting RTO: COIMBATORE (NORTH) RTO - TN38( 17-JUL-2018 )
+[2025-06-12 10:21:38] Clicked RTO dropdown using method 1
+[2025-06-12 10:21:39] Clicked RTO option: COIMBATORE (NORTH) RTO - TN38( 17-JUL-2018 ) using method 1
+[2025-06-12 10:21:39] Successfully selected RTO: COIMBATORE (NORTH) RTO - TN38( 17-JUL-2018 )
+[2025-06-12 10:21:39] Checking for Badgateway (503) error
+[2025-06-12 10:21:39] Applying left panel filters
+[2025-06-12 10:21:39] Clicked right refresh button using method 1
+[2025-06-12 10:21:43] Opening left panel if needed
+[2025-06-12 10:21:43] Clicked left panel toggler using method 1
+[2025-06-12 10:21:43] Expanded left panel
+[2025-06-12 10:21:45] Selecting vehicle categories and fuel types
+[2025-06-12 10:21:46] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:21:47] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:21:47] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:21:48] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:21:49] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:21:50] Vehicle categories and fuel types selected
+[2025-06-12 10:21:50] Clicking left refresh button
+[2025-06-12 10:21:51] Clicked left refresh button using method 1
+[2025-06-12 10:21:51] Left refresh button clicked
+[2025-06-12 10:21:56] Left panel collapsed successfully.
+[2025-06-12 10:21:56] Checking for Badgateway (503) error
+[2025-06-12 10:21:56] Downloading Excel file for Tamil Nadu(148), COIMBATORE (NORTH) RTO - TN38( 17-JUL-2018 ), 2024
+[2025-06-12 10:21:57] Clicked Excel download button using method 1
+[2025-06-12 10:21:57] Clicked Excel download button
+[2025-06-12 10:21:59] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:21:59] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:22:59] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\COIMBATORE (NORTH) RTO - TN38( 17-JUL-2018 ).xlsx
+[2025-06-12 10:22:59] Successfully processed RTO: COIMBATORE (NORTH) RTO - TN38( 17-JUL-2018 )
+[2025-06-12 10:23:02] 
+Processing RTO: COIMBATORE (SOUTH) RTO - TN37( 28-MAY-2018 ) (Attempt 1)
+[2025-06-12 10:23:02] Checking for Badgateway (503) error
+[2025-06-12 10:23:02] Selecting RTO: COIMBATORE (SOUTH) RTO - TN37( 28-MAY-2018 )
+[2025-06-12 10:23:03] Clicked RTO dropdown using method 1
+[2025-06-12 10:23:04] Clicked RTO option: COIMBATORE (SOUTH) RTO - TN37( 28-MAY-2018 ) using method 1
+[2025-06-12 10:23:04] Successfully selected RTO: COIMBATORE (SOUTH) RTO - TN37( 28-MAY-2018 )
+[2025-06-12 10:23:04] Checking for Badgateway (503) error
+[2025-06-12 10:23:04] Applying left panel filters
+[2025-06-12 10:23:04] Clicked right refresh button using method 1
+[2025-06-12 10:23:09] Opening left panel if needed
+[2025-06-12 10:23:09] Clicked left panel toggler using method 1
+[2025-06-12 10:23:09] Expanded left panel
+[2025-06-12 10:23:10] Selecting vehicle categories and fuel types
+[2025-06-12 10:23:11] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:23:11] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:23:12] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:23:13] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:23:14] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:23:14] Vehicle categories and fuel types selected
+[2025-06-12 10:23:15] Clicking left refresh button
+[2025-06-12 10:23:15] Clicked left refresh button using method 1
+[2025-06-12 10:23:15] Left refresh button clicked
+[2025-06-12 10:23:20] Left panel collapsed successfully.
+[2025-06-12 10:23:20] Checking for Badgateway (503) error
+[2025-06-12 10:23:20] Downloading Excel file for Tamil Nadu(148), COIMBATORE (SOUTH) RTO - TN37( 28-MAY-2018 ), 2024
+[2025-06-12 10:23:21] Clicked Excel download button using method 1
+[2025-06-12 10:23:21] Clicked Excel download button
+[2025-06-12 10:23:24] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:23:24] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:24:24] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\COIMBATORE (SOUTH) RTO - TN37( 28-MAY-2018 ).xlsx
+[2025-06-12 10:24:24] Successfully processed RTO: COIMBATORE (SOUTH) RTO - TN37( 28-MAY-2018 )
+[2025-06-12 10:24:28] 
+Processing RTO: COIMBATORE (WEST) RTO - TN99( 17-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:24:28] Checking for Badgateway (503) error
+[2025-06-12 10:24:29] Selecting RTO: COIMBATORE (WEST) RTO - TN99( 17-JUL-2018 )
+[2025-06-12 10:24:29] Clicked RTO dropdown using method 1
+[2025-06-12 10:24:30] Clicked RTO option: COIMBATORE (WEST) RTO - TN99( 17-JUL-2018 ) using method 1
+[2025-06-12 10:24:30] Successfully selected RTO: COIMBATORE (WEST) RTO - TN99( 17-JUL-2018 )
+[2025-06-12 10:24:30] Checking for Badgateway (503) error
+[2025-06-12 10:24:31] Applying left panel filters
+[2025-06-12 10:24:31] Clicked right refresh button using method 1
+[2025-06-12 10:24:36] Opening left panel if needed
+[2025-06-12 10:24:36] Clicked left panel toggler using method 1
+[2025-06-12 10:24:36] Expanded left panel
+[2025-06-12 10:24:37] Selecting vehicle categories and fuel types
+[2025-06-12 10:24:38] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:24:38] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:24:39] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:24:40] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:24:41] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:24:41] Vehicle categories and fuel types selected
+[2025-06-12 10:24:42] Clicking left refresh button
+[2025-06-12 10:24:42] Clicked left refresh button using method 1
+[2025-06-12 10:24:42] Left refresh button clicked
+[2025-06-12 10:24:47] Left panel collapsed successfully.
+[2025-06-12 10:24:47] Checking for Badgateway (503) error
+[2025-06-12 10:24:47] Downloading Excel file for Tamil Nadu(148), COIMBATORE (WEST) RTO - TN99( 17-JUL-2018 ), 2024
+[2025-06-12 10:24:47] Clicked Excel download button using method 1
+[2025-06-12 10:24:47] Clicked Excel download button
+[2025-06-12 10:24:50] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:24:50] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:25:50] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\COIMBATORE (WEST) RTO - TN99( 17-JUL-2018 ).xlsx
+[2025-06-12 10:25:50] Successfully processed RTO: COIMBATORE (WEST) RTO - TN99( 17-JUL-2018 )
+[2025-06-12 10:25:54] 
+Processing RTO: CUDDALORE RTO - TN31( 15-JUN-2018 ) (Attempt 1)
+[2025-06-12 10:25:54] Checking for Badgateway (503) error
+[2025-06-12 10:25:54] Selecting RTO: CUDDALORE RTO - TN31( 15-JUN-2018 )
+[2025-06-12 10:25:54] Clicked RTO dropdown using method 1
+[2025-06-12 10:25:56] Clicked RTO option: CUDDALORE RTO - TN31( 15-JUN-2018 ) using method 1
+[2025-06-12 10:25:56] Successfully selected RTO: CUDDALORE RTO - TN31( 15-JUN-2018 )
+[2025-06-12 10:25:56] Checking for Badgateway (503) error
+[2025-06-12 10:25:56] Applying left panel filters
+[2025-06-12 10:25:56] Clicked right refresh button using method 1
+[2025-06-12 10:26:00] Opening left panel if needed
+[2025-06-12 10:26:00] Clicked left panel toggler using method 1
+[2025-06-12 10:26:00] Expanded left panel
+[2025-06-12 10:26:02] Selecting vehicle categories and fuel types
+[2025-06-12 10:26:02] Clicked checkbox VhCatg:0 using method 2
+[2025-06-12 10:26:03] Clicked checkbox VhCatg:1 using method 2
+[2025-06-12 10:26:03] Clicked checkbox VhCatg:2 using method 2
+[2025-06-12 10:26:04] Clicked checkbox fuel:7 using method 2
+[2025-06-12 10:26:05] Clicked checkbox fuel:21 using method 2
+[2025-06-12 10:26:05] Vehicle categories and fuel types selected
+[2025-06-12 10:26:06] Clicking left refresh button
+[2025-06-12 10:26:06] Clicked left refresh button using method 1
+[2025-06-12 10:26:06] Left refresh button clicked
+[2025-06-12 10:26:12] Left panel collapsed successfully.
+[2025-06-12 10:26:12] Checking for Badgateway (503) error
+[2025-06-12 10:26:12] Downloading Excel file for Tamil Nadu(148), CUDDALORE RTO - TN31( 15-JUN-2018 ), 2024
+[2025-06-12 10:26:12] Clicked Excel download button using method 1
+[2025-06-12 10:26:12] Clicked Excel download button
+[2025-06-12 10:26:15] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:26:15] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:27:15] Moving file from C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\reportTable.xlsx to C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024\Tamil Nadu(148)\CUDDALORE RTO - TN31( 15-JUN-2018 ).xlsx
+[2025-06-12 10:27:15] Successfully processed RTO: CUDDALORE RTO - TN31( 15-JUN-2018 )
+[2025-06-12 10:27:17] 
+Processing RTO: DHARAPURAM RTO - TN594( 18-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:27:17] Checking for Badgateway (503) error
+[2025-06-12 10:27:17] Selecting RTO: DHARAPURAM RTO - TN594( 18-JUL-2018 )
+[2025-06-12 10:27:18] Clicked RTO dropdown using method 1
+[2025-06-12 10:27:19] Clicked RTO option: DHARAPURAM RTO - TN594( 18-JUL-2018 ) using method 1
+[2025-06-12 10:27:19] Successfully selected RTO: DHARAPURAM RTO - TN594( 18-JUL-2018 )
+[2025-06-12 10:27:19] Checking for Badgateway (503) error
+[2025-06-12 10:27:19] Applying left panel filters
+[2025-06-12 10:27:19] Clicked right refresh button using method 1
+[2025-06-12 10:27:24] Opening left panel if needed
+[2025-06-12 10:27:24] Clicked left panel toggler using method 1
+[2025-06-12 10:27:24] Expanded left panel
+[2025-06-12 10:27:25] Selecting vehicle categories and fuel types
+[2025-06-12 10:27:28] Vehicle categories and fuel types selected
+[2025-06-12 10:27:29] Clicking left refresh button
+[2025-06-12 10:27:29] Clicked left refresh button using method 1
+[2025-06-12 10:27:29] Left refresh button clicked
+[2025-06-12 10:27:34] Left panel collapsed successfully.
+[2025-06-12 10:27:34] Checking for Badgateway (503) error
+[2025-06-12 10:27:34] Downloading Excel file for Tamil Nadu(148), DHARAPURAM RTO - TN594( 18-JUL-2018 ), 2024
+[2025-06-12 10:27:41] Clicked Excel download button using method 1
+[2025-06-12 10:27:41] Clicked Excel download button
+[2025-06-12 10:27:44] BASE_DOWNLOAD_DIR being checked: C:\Users\Siddham Jain\Downloads\VahanGemini\rto_wise_data\2024
+[2025-06-12 10:27:44] Inside_wait_for_download_and_rename for Tamil_Nadu
+[2025-06-12 10:28:44] Download timeout - file not found
+[2025-06-12 10:28:44] Error processing RTO DHARAPURAM RTO - TN594( 18-JUL-2018 ): Download failed
+[2025-06-12 10:28:44] Checking for Badgateway (503) error
+[2025-06-12 10:28:44] 
+Processing RTO: DHARAPURAM RTO - TN594( 18-JUL-2018 ) (Attempt 2)
+[2025-06-12 10:28:44] Checking for Badgateway (503) error
+[2025-06-12 10:28:44] Selecting RTO: DHARAPURAM RTO - TN594( 18-JUL-2018 )
+[2025-06-12 10:28:54] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:28:54] Error processing RTO DHARAPURAM RTO - TN594( 18-JUL-2018 ): RTO selection failed
+[2025-06-12 10:28:54] Checking for Badgateway (503) error
+[2025-06-12 10:28:56] 
+Processing RTO: DHARMAPURI RTO - TN29( 03-AUG-2018 ) (Attempt 1)
+[2025-06-12 10:28:56] Checking for Badgateway (503) error
+[2025-06-12 10:28:56] Selecting RTO: DHARMAPURI RTO - TN29( 03-AUG-2018 )
+[2025-06-12 10:29:07] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:29:07] Error processing RTO DHARMAPURI RTO - TN29( 03-AUG-2018 ): RTO selection failed
+[2025-06-12 10:29:07] Checking for Badgateway (503) error
+[2025-06-12 10:29:07] 
+Processing RTO: DHARMAPURI RTO - TN29( 03-AUG-2018 ) (Attempt 2)
+[2025-06-12 10:29:07] Checking for Badgateway (503) error
+[2025-06-12 10:29:07] Selecting RTO: DHARMAPURI RTO - TN29( 03-AUG-2018 )
+[2025-06-12 10:29:17] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:29:17] Error processing RTO DHARMAPURI RTO - TN29( 03-AUG-2018 ): RTO selection failed
+[2025-06-12 10:29:17] Checking for Badgateway (503) error
+[2025-06-12 10:29:20] 
+Processing RTO: DINDIGUL RTO - TN57( 19-JUN-2018 ) (Attempt 1)
+[2025-06-12 10:29:20] Checking for Badgateway (503) error
+[2025-06-12 10:29:20] Selecting RTO: DINDIGUL RTO - TN57( 19-JUN-2018 )
+[2025-06-12 10:29:31] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:29:31] Error processing RTO DINDIGUL RTO - TN57( 19-JUN-2018 ): RTO selection failed
+[2025-06-12 10:29:31] Checking for Badgateway (503) error
+[2025-06-12 10:29:31] 
+Processing RTO: DINDIGUL RTO - TN57( 19-JUN-2018 ) (Attempt 2)
+[2025-06-12 10:29:31] Checking for Badgateway (503) error
+[2025-06-12 10:29:31] Selecting RTO: DINDIGUL RTO - TN57( 19-JUN-2018 )
+[2025-06-12 10:29:41] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:29:41] Error processing RTO DINDIGUL RTO - TN57( 19-JUN-2018 ): RTO selection failed
+[2025-06-12 10:29:41] Checking for Badgateway (503) error
+[2025-06-12 10:29:45] 
+Processing RTO: ERODE RTO - TN33( 14-AUG-2018 ) (Attempt 1)
+[2025-06-12 10:29:45] Checking for Badgateway (503) error
+[2025-06-12 10:29:45] Selecting RTO: ERODE RTO - TN33( 14-AUG-2018 )
+[2025-06-12 10:29:55] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:29:55] Error processing RTO ERODE RTO - TN33( 14-AUG-2018 ): RTO selection failed
+[2025-06-12 10:29:55] Checking for Badgateway (503) error
+[2025-06-12 10:29:55] 
+Processing RTO: ERODE RTO - TN33( 14-AUG-2018 ) (Attempt 2)
+[2025-06-12 10:29:55] Checking for Badgateway (503) error
+[2025-06-12 10:29:55] Selecting RTO: ERODE RTO - TN33( 14-AUG-2018 )
+[2025-06-12 10:30:06] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:30:06] Error processing RTO ERODE RTO - TN33( 14-AUG-2018 ): RTO selection failed
+[2025-06-12 10:30:06] Checking for Badgateway (503) error
+[2025-06-12 10:30:09] 
+Processing RTO: ERODE (WEST) RTO - TN86( 10-AUG-2018 ) (Attempt 1)
+[2025-06-12 10:30:09] Checking for Badgateway (503) error
+[2025-06-12 10:30:09] Selecting RTO: ERODE (WEST) RTO - TN86( 10-AUG-2018 )
+[2025-06-12 10:30:19] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:30:19] Error processing RTO ERODE (WEST) RTO - TN86( 10-AUG-2018 ): RTO selection failed
+[2025-06-12 10:30:19] Checking for Badgateway (503) error
+[2025-06-12 10:30:19] 
+Processing RTO: ERODE (WEST) RTO - TN86( 10-AUG-2018 ) (Attempt 2)
+[2025-06-12 10:30:19] Checking for Badgateway (503) error
+[2025-06-12 10:30:19] Selecting RTO: ERODE (WEST) RTO - TN86( 10-AUG-2018 )
+[2025-06-12 10:30:29] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:30:29] Error processing RTO ERODE (WEST) RTO - TN86( 10-AUG-2018 ): RTO selection failed
+[2025-06-12 10:30:29] Checking for Badgateway (503) error
+[2025-06-12 10:30:33] 
+Processing RTO: GINGEE UO - TN627( 14-JUN-2018 ) (Attempt 1)
+[2025-06-12 10:30:33] Checking for Badgateway (503) error
+[2025-06-12 10:30:33] Selecting RTO: GINGEE UO - TN627( 14-JUN-2018 )
+[2025-06-12 10:30:43] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:30:43] Error processing RTO GINGEE UO - TN627( 14-JUN-2018 ): RTO selection failed
+[2025-06-12 10:30:43] Checking for Badgateway (503) error
+[2025-06-12 10:30:43] 
+Processing RTO: GINGEE UO - TN627( 14-JUN-2018 ) (Attempt 2)
+[2025-06-12 10:30:43] Checking for Badgateway (503) error
+[2025-06-12 10:30:43] Selecting RTO: GINGEE UO - TN627( 14-JUN-2018 )
+[2025-06-12 10:30:54] Failed to find RTO dropdown: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x573783+63299]
+	GetHandleVerifier [0x0x5737c4+63364]
+	(No symbol) [0x0x3a1113]
+	(No symbol) [0x0x3e987e]
+	(No symbol) [0x0x3e9c1b]
+	(No symbol) [0x0x432212]
+	(No symbol) [0x0x40e5c4]
+	(No symbol) [0x0x42fa4a]
+	(No symbol) [0x0x40e376]
+	(No symbol) [0x0x3dd6e0]
+	(No symbol) [0x0x3de544]
+	GetHandleVerifier [0x0x7ce073+2531379]
+	GetHandleVerifier [0x0x7c9372+2511666]
+	GetHandleVerifier [0x0x599efa+220858]
+	GetHandleVerifier [0x0x58a548+156936]
+	GetHandleVerifier [0x0x590c7d+183357]
+	GetHandleVerifier [0x0x57b6e8+95912]
+	GetHandleVerifier [0x0x57b890+96336]
+	GetHandleVerifier [0x0x56666a+9770]
+	BaseThreadInitThunk [0x0x75ae7ba9+25]
+	RtlInitializeExceptionChain [0x0x7739bb3b+107]
+	RtlClearBits [0x0x7739babf+191]
+
+[2025-06-12 10:30:54] Error processing RTO GINGEE UO - TN627( 14-JUN-2018 ): RTO selection failed
+[2025-06-12 10:30:54] Checking for Badgateway (503) error
+[2025-06-12 10:30:58] 
+Processing RTO: GOPICHETTIPALAYAM RTO - TN36( 30-JUL-2018 ) (Attempt 1)
+[2025-06-12 10:30:58] Checking for Badgateway (503) error
+[2025-06-12 10:30:58] Selecting RTO: GOPICHETTIPALAYAM RTO - TN36( 30-JUL-2018 )
