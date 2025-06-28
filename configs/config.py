@@ -60,10 +60,10 @@ X_AXIS_LABEL = "xaxisVar_label"
 Y_AXIS_LABEL = "yaxisVar_label"
 
 # S3 CREDENTIALS
-S3_BUCKET_NAME = ""
-S3_ACCESS_KEY = ""
-S3_SECRET_KEY = ""
-S3_REGION = ""
+S3_BUCKET_NAME = "vahan-data-collection"
+S3_ACCESS_KEY = "AKIA6GBMBLYR4BNBY67I"
+S3_SECRET_KEY = "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"
+S3_REGION = "us-east-1"
 
 # EV and ICE
 FUEL_TYPES_EV = [7, 21]
