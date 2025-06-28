@@ -39,9 +39,6 @@ def start_scrapper():
         # Track failed processes
         failed_processes = []
         
-        # Save the original download directory
-        # original_download_dir = config.BASE_DOWNLOAD_DIR
-        
         for year, states in year_state_mapping.items():
             # Create year-specific download directory
             year_download_dir = os.path.join(config.BASE_DOWNLOAD_DIR, str(year))
@@ -70,6 +67,11 @@ def start_scrapper():
                     log_message(f"  - {rto}")
             with open("failed_processes.json", "w") as f:
                 json.dump(failed_processes, f, indent=4)
+            # Upload failed_processes.json to S3
+            upload_to_s3("failed_processes.json", f"logs/failed_processes_{year}.json")
+            if os.path.exists("failed_processes.json"):
+                os.remove("failed_processes.json")
+                log_message("Deleted local failed_processes.json")
         else:
             log_message("\n=== All RTOs processed successfully ===")
             
@@ -251,7 +253,8 @@ def process_single_rto(processor, state_name, year, rto):
                 return False
 
         # Download Excel
-        if not processor.download_excel_rto(state_name, year, rto):
+        excel_file_path = processor.download_excel_rto(state_name, year, rto)
+        if not excel_file_path:
             log_message("Failed to download Excel")
             return False
         # 503 check after download attempt
@@ -259,14 +262,25 @@ def process_single_rto(processor, state_name, year, rto):
             log_message("503 error detected after download attempt. Attempting recovery...")
             if handle_503_and_recover(processor):
                 # Retry download after recovery
-                if not processor.download_excel_rto(state_name, year, rto):
+                excel_file_path = processor.download_excel_rto(state_name, year, rto)
+                if not excel_file_path:
                     log_message("Failed to download Excel after 503 recovery")
                     return False
             else:
                 log_message("503 recovery failed after download attempt.")
                 return False
 
-        log_message(f"Successfully processed RTO: {rto}")
+        # Upload to S3
+        s3_key = f"rto_data/{year}/{state_name}/{rto}.xlsx"
+        if not upload_to_s3(excel_file_path, s3_key):
+            log_message(f"Failed to upload {excel_file_path} to S3")
+            return False
+        # Clean up local file
+        if os.path.exists(excel_file_path):
+            os.remove(excel_file_path)
+            log_message(f"Deleted local file: {excel_file_path}")
+
+        log_message(f"Successfully processed and uploaded RTO: {rto}")
         return True
 
     except Exception as e:
