@@ -11,23 +11,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Set up Python (for local CI if needed)
       - name: Set Up Python 3.x
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # Step 3: Install local dependencies (optional, for testing/linting)
       - name: Install Dependencies (Locally)
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Step 4: Deploy code to EC2 and execute script
       - name: Deploy and Run on EC2
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -43,10 +39,14 @@ jobs:
 
           echo "🚀 Running scraper on EC2..."
           ssh -i private_key.pem -o StrictHostKeyChecking=no $EC2_USER@$EC2_HOST << EOF
-            set -e  # Exit immediately if any command fails
+            set -e
 
             echo "📁 Navigating to project directory..."
             cd /home/$EC2_USER/rto-scraper
+
+            echo "🛠 Installing python3-venv package..."
+            sudo apt-get update
+            sudo apt-get install -y python3-venv
 
             echo "🐍 Creating virtual environment..."
             python3 -m venv venv
@@ -57,7 +57,6 @@ jobs:
             pip install -r requirements.txt
 
             echo "🌐 Installing Chrome and ChromeDriver..."
-            sudo apt-get update
             sudo apt-get install -y chromium-browser chromedriver
 
             echo "📄 Running scraper script..."
